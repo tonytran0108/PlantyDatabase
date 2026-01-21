@@ -1,0 +1,579 @@
+{
+    "title": "Curly dock (Rumex crispus) - PictureThis",
+    "displayName": "Curly dock",
+    "otherCommonName": "Yellow dock",
+    "mainImage": {
+        "copyright": {
+            "width": 3456,
+            "height": 3456,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "alsages",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202697219145728000.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/43022423",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152517247955369988.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/3423431",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661521732304907.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1018,
+                "height": 679,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/44227055",
+                "authorLink": "https://www.inaturalist.org/people/finatic",
+                "author": "BJ Stacey",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154197645319995402.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/44292356",
+                "authorLink": "https://www.inaturalist.org/people/finatic",
+                "author": "BJ Stacey",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154186237886857223.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Rumex crispus, commonly known as curly dock, is a perennial plant that grows in temperate regions of the Northern Hemisphere. It is a very adaptable plant, flourishing in a variety of different habitats including roadsides, the edges of woodlands, meadows, and shorelines. Some moth species like to lay their eggs on curly dock leaves.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Rumex crispus, commonly known as curly dock, is a perennial plant that grows in temperate regions of the Northern Hemisphere. It is a very adaptable plant, flourishing in a variety of different habitats including roadsides, the edges of woodlands, meadows, and shorelines. Some moth species like to lay their eggs on curly dock leaves.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Curly dock (<i>Rumex crispus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Docks",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rumex.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckwheat",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Polygonaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736408413503491.png",
+        "habitat": "Grassy places, waste ground, roadsides, sand dunes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Curly dock is native to North Africa, Europe, and many parts of Asia. It has been naturalized in most other areas of the world It grows vigorously in a range of habitats, particularly forest edges, grasslands, and beaches. It is very invasive and aggressive and is considered a weed almost everywhere.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "412",
+                "460",
+                "497",
+                "468",
+                "475",
+                "418",
+                "762",
+                "1189",
+                "1448",
+                "1077",
+                "608",
+                "546"
+            ],
+            "north": [
+                "5829",
+                "15282",
+                "39728",
+                "73988",
+                "73853",
+                "41636",
+                "23908",
+                "16448",
+                "11665",
+                "6002",
+                "3483",
+                "3450"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Healing, Fertility, Money, virility",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Rumex crispus is an edible plant with a long history of use in traditional medicine. This leaf vegetable contains oxalic acid, so its leaves should be cooked in order to reduce oxalic acid content. Only young leaves should be harvested because older leaves have a bitter taste.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Curly dock",
+                "values": [
+                    "Curly is used to describe the curly and wavy edges of the leaves. Its specific epithet, crispus refers to the meaning of curly. Whereas dock is commonly used to describe the hard part of the animal's tail. Also, the unwelcomed grass weed is also known as dock. As this plant is also a type of grass weed, it is called curly dock."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Consumption of <strong>curly dock</strong> can cause mild to moderate toxicity in humans, <strong>cats</strong>, and dogs. In humans, it may result in kidney stones and a laxative effect in infants. Cats and dogs exhibit physical distress, gastrointestinal upset, vomiting, and diarrhea. All parts are toxic. Immediate veterinary care is necessary if ingested.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Rumex_crispus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Curly dock is native to mainland Europe and western Asia, but it has been widely naturalized in many temperate regions of the world. Its non-native range includes the British Isles, North America, temperate South America, New Zealand, and temperate Australia. Curly dock can grow in a wide variety of habitats and is commonly found in roadsides, car parks, railway beds, forest edges, shorelines, fields, and wastelands. It's easily spread, which is why it causes concern. Its main way of spreading is through its lightweight seeds which can float on water, get stuck in fur and clothing, and by contaminating crop seeds. In many places, including the UK and the states of Arkansas and Iowa in the US, it is officially classified as a noxious or 'injurious' weed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove curly dock is early spring or autumn, when the plant is actively growing but has not yet gone to seed. Here are some methods of controlling this weed:\n  </div> \n  <ol> \n   <li>Hand pulling: This is a physical method of removing the weed. You need to grasp the weed at its base, close to the ground, and then pull it out, taking care to remove the entire root system.</li> \n   <li>Solarization: This is an effective means of controlling the weed. It involves covering the area with a clear plastic sheet during the hot summer months. This will trap the sun's heat, killing the weed as well as the seeds in the soil.</li> \n   <li>Mulching: This method involves covering the soil with a thick layer of organic matter. This will help prevent the weed seeds from germinating. You need to apply the mulch in a thick layer, at least 2 inches deep, to block sunlight and suppress weed growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Distinct wavy leaf margins aid in identification, characteristic of basal and stem leaves.",
+            "Tiny wind-pollinated flowers lack petals, with yellowish-green sepals forming a three-winged structure.",
+            "Dry capsules contain dark brown, 3-angled seeds measuring under 1/8 inch in length.",
+            "Hairless, ribbed stems are light to medium green, standing upright and reaching 1 to 3 feet in height.",
+            "Adaptable plant with deep taproot, growing to 2-4 feet height, green to reddish stems bearing small flowers."
+        ],
+        "title": "Quickly Identify Curly dock",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Rumex-crispus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Curly dock thrives in variable moisture conditions, preferring well-drained soil with moderate hydration. It is resilient, tolerating short dry spells. Water consistently, ideally weekly, and favor outdoor placement to benefit from natural rainfall during the active growing season for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Curly dock propagates best by sowing in spring with moderate difficulty. Successful signs include early germination and healthy seedlings. For optimal results, provide adequate moisture and well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rumex_crispus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is curly dock poisonous?",
+            "link": "/ask/Rumex_crispus-0.html"
+        },
+        {
+            "q": "Is curly dock a weed?",
+            "link": "/ask/Rumex_crispus-1.html"
+        },
+        {
+            "q": "How do I get rid of curly dock?",
+            "link": "/ask/Rumex_crispus-2.html"
+        },
+        {
+            "q": "Where is curly dock found?",
+            "link": "/ask/Rumex_crispus-3.html"
+        },
+        {
+            "q": "Is curly dock a perennial?",
+            "link": "/ask/Rumex_crispus-4.html"
+        },
+        {
+            "q": "How do I know which curly dock I have?",
+            "link": "/ask/Rumex_crispus-5.html"
+        },
+        {
+            "q": "How do you control curly dock?",
+            "link": "/ask/Rumex_crispus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Aucuba japonica",
+                "link": "/wiki/Aucuba_japonica.html",
+                "imageUrl": "/wiki-image/1080/154212432892395523.jpeg",
+                "displayName": "Japanese laurel"
+            },
+            {
+                "scientificName": "Melia azedarach",
+                "link": "/wiki/Melia_azedarach.html",
+                "imageUrl": "/wiki-image/1080/201218917172117504.jpeg",
+                "displayName": "Chinaberry tree"
+            },
+            {
+                "scientificName": "Opuntia monacantha",
+                "link": "/wiki/Opuntia_monacantha.html",
+                "imageUrl": "/wiki-image/1080/201219883539759104.jpeg",
+                "displayName": "Drooping prickly pear"
+            },
+            {
+                "scientificName": "Solanum nigrum",
+                "link": "/wiki/Solanum_nigrum.html",
+                "imageUrl": "/wiki-image/1080/154044001454915617.jpeg",
+                "displayName": "Black nightshade"
+            },
+            {
+                "scientificName": "Pilea cadierei",
+                "link": "/wiki/Pilea_cadierei.html",
+                "imageUrl": "/wiki-image/1080/153438149073174549.jpeg",
+                "displayName": "Aluminum plant"
+            },
+            {
+                "scientificName": "Bambusa vulgaris",
+                "link": "/wiki/Bambusa_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/154246732501221418.png",
+                "displayName": "Common bamboo"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rumex_crispus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Rumex_crispus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rumex_crispus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rumex_crispus.html",
+            "values": [
+                "Care Curly dock",
+                "Care Curly dock",
+                "Grow Curly dock",
+                "Maintain Curly dock",
+                "Curly dock Care",
+                "Curly dock Grow",
+                "Curly dock Maintain",
+                "Curly dock Cares",
+                "Growth Curly dock",
+                "Maintains Curly dock",
+                "Curly dock Growth",
+                "Curly dock Maintains",
+                "Curly dock Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rumex_crispus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rumex_crispus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Rumex_crispus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rumex_crispus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rumex_crispus.html"
+        }
+    ]
+}

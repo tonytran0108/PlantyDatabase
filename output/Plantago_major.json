@@ -1,0 +1,937 @@
+{
+    "title": "Common plantain (Plantago major) - PictureThis",
+    "displayName": "Common plantain",
+    "otherCommonName": "Broadleaf plantain, Snakeroot",
+    "mainImage": {
+        "copyright": {
+            "width": 1000,
+            "height": 1000,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154155228222980096.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/15457721",
+                "authorLink": "https://www.inaturalist.org/people/nicky",
+                "author": "nicky",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152509912151228418.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11193472",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152494102376611840.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17020153",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153658287621931023.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 453,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11758097",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153670021472583710.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While native to Europe, the common plantain was one of the first plants to reach North America through early European explorers. Native Americans have referred to Plantago major as 'white man's footprint', as it disrupted many local ecosystems by its introduction.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While native to Europe, the common plantain was one of the first plants to reach North America through early European explorers. Native Americans have referred to Plantago major as 'white man's footprint', as it disrupted many local ecosystems by its introduction.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common plantain (<i>Plantago major</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Plantains",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Plantago.html"
+            },
+            {
+                "type": "Family",
+                "name": "Plantain",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Plantaginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736532967555072.png",
+        "habitat": "Lawns",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common plantain is hugely widespread, native across Eurasia, North Africa, and southern Africa and introduced almost everywhere else except Australia and the polar regions. It grows in disturbed and compacted soils along roadsides and in fields and lawns. It is listed as a troublesome weed in some eastern US states.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "846",
+                "822",
+                "886",
+                "938",
+                "1031",
+                "929",
+                "1213",
+                "1978",
+                "2255",
+                "2181",
+                "1125",
+                "1139"
+            ],
+            "north": [
+                "3360",
+                "5533",
+                "17369",
+                "47780",
+                "65528",
+                "50028",
+                "33395",
+                "21123",
+                "11659",
+                "4997",
+                "2825",
+                "3077"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common plantain is viewed as a common yard weed, but is still cultivated as a garden ornamental in prairie gardens and wildlife gardens. This plant also thrives in grasslands and butterfly gardens, where they serve as food plants for larvae of moths and butterflies.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength, healing, protection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The Brahman Yogis called the common plantain the Apple of Paradise and wrap all their food in common plantain leaves. The leaves are used for wrap when they're dry, but never when they're fresh and green. This group of people believe the green leaves have souls in them, and using them for this purpose would be a sin.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common plantain||Broadleaf plantain",
+                "values": [
+                    "Plantain comes from the Old French plantain, and it is derived from latin word, plantÃÂginem. The root of the word plantÃÂginem is actually \"planta\" meaning \"dark sole and feet\", and it is referring to the flat leaves. Also, it is the most common plant in its genus, it is called common plantain. Sometimes when the leaves appear to be broadly looking, it is then literally called broadleaf plantain."
+                ]
+            },
+            {
+                "key": "White man's foot",
+                "values": [
+                    "White Man's Foot is an amazing medicinal plant that is native to Asia and Europe. It received its nickname White Man's Foot because it was brought to North America by European Settlers. This could be found along the trails of these new settlers."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common plantain ingestion</strong> can cause diarrhea, low blood pressure, vomiting, bloating, hyper-sensitivity, anorexia, and in extreme cases, fatal anaphylaxis. Direct contact with common plantain may result in <strong>dermatitis</strong>. Avoid this plant if you have abdominal discomfort or intestinal obstruction.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Plantago_major.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Unrelated to the plantain-type banana, common plantain is a flowering plant that has been naturalized in most parts of the world and is invasive in Cuba. A single plant can produce up to 14,000 seeds a year and can easily self-pollinate. It typically grows in grasslands and pastures and is highly resistant to trampling and cutting, making it a threat to nearby croplands. Being a dense turfgrass, the common plantain can quickly crowd out other plants and disrupt landscaping. It is notably difficult to remove and colonizes any compact space it can find. Some have also reported skin inflammation from contact with this plant.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to manage common plantain is during the spring, before it flowers and sets seeds. Controlling it at this stage prevents the spread of the plant.\n  </div> \n  <ol> \n   <li>Hand-pulling: Grasp common plantain at the base and pull gently to remove the roots from the soil. Wet the soil first to make pulling easier.</li> \n   <li>Mulching: Cover the ground around desired plants with a layer of organic material to suppress common plantain growth.</li> \n   <li>Mowing: Regularly cut the area with a lawnmower to prevent common plantain from flowering and seeding.</li> \n   <li>Boiling water: Pour directly over common plantain to kill it without harming the soil.</li> \n   <li>Plant competition: Grow competitive plants that will overshadow common plantain and inhibit its growth through natural competition for resources.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Rosette of broad, ovate leaves close to the ground.",
+            "Small, greenish flowers on a tall spike.",
+            "Dry egg-shaped capsule splitting to reveal glossy seeds.",
+            "Leaves with parallel stringy veins and ribbed texture.",
+            "Under 12-inch erect unbranched stem with cluster of flowers."
+        ],
+        "title": "Quickly Identify Common plantain",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Plantago-major.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate climates, common plantain thrives in moderately moist, well-drained soil. It prefers consistent moisture, tolerating moderate drought. Weekly watering maintains hydration. As an herbaceous perennial, it adapts well to varying moisture levels, making it suitable for diverse garden climates.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, common plantain needs balanced fertilizers bi-monthly during the growing season. Seasonal adjustments should reduce applications in winter. Monitor soil moisture for nutrient uptake. Use gloves when handling to avoid skin irritation. Proper care promotes robust development and pest resistance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune common plantain in early spring to enhance growth and appearance. Remove spent flowers and damaged leaves while thinning overcrowded areas for better air circulation. This seasonal maintenance rejuvenates common plantain, ensuring a healthy, lush plant and improving garden aesthetics throughout the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common plantain is ideally propagated through division in Spring or Autumn. This straightforward method yields success when new growth appears, and proper root separation is essential for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Plantago_major.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does common plantain grow?",
+            "link": "/ask/Plantago_major-0.html"
+        },
+        {
+            "q": "How do I get rid of common plantain?",
+            "link": "/ask/Plantago_major-1.html"
+        },
+        {
+            "q": "Is common plantain invasive?",
+            "link": "/ask/Plantago_major-2.html"
+        },
+        {
+            "q": "Does common plantain attract pollinators?",
+            "link": "/ask/Plantago_major-3.html"
+        },
+        {
+            "q": "How does common plantain spread?",
+            "link": "/ask/Plantago_major-4.html"
+        },
+        {
+            "q": "How much sunlight does common plantain need?",
+            "link": "/ask/Plantago_major-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Plantago-major-Scars.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Plantago-major-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Plantago-major-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Plantago-major-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Plantago-major-Notch.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Plantago-major-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Plantago-major-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Plantago-major-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Plantago-major-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Plantago-major-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Plantago-major-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Plantago-major-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Plantago-major-Black-mold.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Plantago-major-Wilting.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Plantago-major-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Plantago-major-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Plantago-major-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Plantago-major-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Plantago-major-Brown-spot.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Plantago-major-White-blotch.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Plantago-major-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Plantago-major-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Plantago-major-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Plantago-major-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Plantago-major-Whole-leaf-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Galinsoga quadriradiata",
+                "link": "/wiki/Galinsoga_quadriradiata.html",
+                "imageUrl": "/wiki-image/1080/153874423261167640.jpeg",
+                "displayName": "Shaggy soldier"
+            },
+            {
+                "scientificName": "Tagetes minuta",
+                "link": "/wiki/Tagetes_minuta.html",
+                "imageUrl": "/wiki-image/1080/153849731494182942.jpeg",
+                "displayName": "Mexican marigold"
+            },
+            {
+                "scientificName": "Myosotis latifolia",
+                "link": "/wiki/Myosotis_latifolia.html",
+                "imageUrl": "/wiki-image/1080/153682180524998681.jpeg",
+                "displayName": "Broadleaf Forget-Me-Not"
+            },
+            {
+                "scientificName": "Phlebodium aureum",
+                "link": "/wiki/Phlebodium_aureum.html",
+                "imageUrl": "/wiki-image/1080/347112234602102784.jpeg",
+                "displayName": "Golden polypody"
+            },
+            {
+                "scientificName": "Catapodium rigidum",
+                "link": "/wiki/Catapodium_rigidum.html",
+                "imageUrl": "/wiki-image/1080/153799759549693986.jpeg",
+                "displayName": "Fern-grass"
+            },
+            {
+                "scientificName": "Silene coronaria",
+                "link": "/wiki/Silene_coronaria.html",
+                "imageUrl": "/wiki-image/1080/202657129920987136.jpeg",
+                "displayName": "Rose campion"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Plantago_major.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Plantago_major.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Plantago_major.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Plantago_major.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Plantago_major.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Plantago_major.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Plantago_major.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Plantago_major.html",
+            "values": [
+                "Care Common plantain",
+                "Care Common plantain",
+                "Grow Common plantain",
+                "Maintain Common plantain",
+                "Common plantain Care",
+                "Common plantain Grow",
+                "Common plantain Maintain",
+                "Common plantain Cares",
+                "Growth Common plantain",
+                "Maintains Common plantain",
+                "Common plantain Growth",
+                "Common plantain Maintains",
+                "Common plantain Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Plantago-major-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Plantago_major.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Plantago_major.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Plantago_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Plantago_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Plantago_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Plantago_major.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Plantago_major.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Plantago_major.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Plantago_major.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Plantago_major.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Plantago_major.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Plantago_major.html"
+        }
+    ]
+}

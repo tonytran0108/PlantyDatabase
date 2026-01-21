@@ -1,0 +1,929 @@
+{
+    "title": "Common tansy (Tanacetum vulgare) - PictureThis",
+    "displayName": "Common tansy",
+    "otherCommonName": "Golden buttons, Cow bitter",
+    "mainImage": {
+        "copyright": {
+            "width": 781,
+            "height": 781,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154187663815999517.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16681752",
+                "authorLink": "https://www.inaturalist.org/people/marie",
+                "author": "marie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153667822449328155.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24022592",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153951582348640267.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24105634",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153853506770436104.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29555584",
+                "authorLink": "https://www.inaturalist.org/people/emilychebul",
+                "author": "emilychebul",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153987290706739244.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy (Tanacetum vulgare) is a plant native to Europe and Asia. The common tansy has been introduced in other global regions and is sometimes considered to be an invasive species. The common tansy can be used as a substitute for sage.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common tansy (Tanacetum vulgare) is a plant native to Europe and Asia. The common tansy has been introduced in other global regions and is sometimes considered to be an invasive species. The common tansy can be used as a substitute for sage.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common tansy (<i>Tanacetum vulgare</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Tansies",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Tanacetum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1.3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804301631389700.jpeg",
+        "habitat": "Waste ground, hedgerows",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy is native across temperate Eurasia and has been widely introduced in North and South America and Australia. It grows in subalpine river valleys. It is listed as an invasive and noxious weed in several US states, overtaking ditches and disturbed areas.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "325",
+                "223",
+                "222",
+                "200",
+                "177",
+                "158",
+                "239",
+                "280",
+                "496",
+                "550",
+                "311",
+                "392"
+            ],
+            "north": [
+                "1246",
+                "2263",
+                "7372",
+                "17889",
+                "21306",
+                "34779",
+                "41751",
+                "17772",
+                "8438",
+                "3159",
+                "1075",
+                "1003"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Stems and inflorescences of the tansy can be used as insecticides.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The common tansy is a common choice for cottage gardens but is also prized in containers and pots where it can deter mosquitoes and flies. It is also favored because it is drought tolerant and has no significant pest, disease, or animal concerns. Recommended companion plants of the common tansy include Moerheim Beauty sneezeweed, tall verbena, and viper's bugloss.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Gentle and amiable",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "One common tansy plant can grow more than a dozen of flowers, and each flower is like a golden sun, round and lovely. Do not touch it arbitrarily, as the common tansy has been listed as one of the most poisonous plants in China.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common tansy",
+                "values": [
+                    "The plant has been introduced to other parts of the world including North America and has become invasive in some areas. Tansy is derived from the latin word tanacetum while the specific epithet means \"common\". Therefore, it is called common tansy."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The leaves of common tansy are highly toxic because they contain <strong>thujone</strong>. <strong>Common tansy is toxic to cats and dogs</strong>, causing symptoms like vomiting, diarrhea, and convulsions upon ingestion. The toxin can also be absorbed through the skin. Immediate veterinary care is crucial if a pet is suspected to have ingested common tansy.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Tanacetum_vulgare.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy originates from temperate regions of Europe and Asia. This plant is considered a weed due to its extremely aggressive growth pattern and capability to take over large areas. Its ability to multiply rapidly stems from its prolific seed production and underground rhizomes, which enable it to spread swiftly. Common tansy is harmful because it contains substances that deter beneficial insects, disrupt the balance of soil nutrients, and can even pose health risks to humans and animals if consumed in large amounts. If you grow common tansy in your garden, you should look out for its dense, button-like, yellow flowers and finely-divided, fern-like leaves. The primary means of its dispersion is seed wind dispersion, but it also spreads through the creeping of its rhizomes.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   To manage common tansy, it is pivotal to take action before it sets seed, meaning late spring to early summer is often the ideal season for intervention.\n  </div> \n  <ol> \n   <li>Manual removal: To avoid the spread of common tansy, pull up the plants by hand, making sure to wear gloves and get as much of the root system as possible. This should be done before the flowers develop.</li> \n   <li>Mowing: Repeatedly cut down common tansy close to the ground. This will weaken the plants and may prevent them from flowering and seeding, reducing their spread.</li> \n   <li>Mulching: Cover the ground with a thick layer of organic mulch to suppress the growth of common tansy. Ensure the mulch is several inches deep to effectively block sunlight and prevent the plants from emerging.</li> \n   <li>Cultivation control: If cultivating common tansy, encircle the bed with a physical barrier, such as buried garden edging, to restrict its horizontal root movement and contain its growth within a designated area.</li> \n   <li>Companion planting: Plant competitive species that can outgrow common tansy and reduce its spread, such as tall perennials that can overshadow and thereby inhibit its growth by limiting available sunlight.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Golden yellow button-like flowers in clusters of 20-200, 1/4 to 1/2 inch wide (0.6 to 1.3 cm).",
+            "Feathery, deeply divided green leaves emit pungent scent when crushed, measuring 2-12 inches long (5-30 cm).",
+            "Angular brownish achenes with five distinct sides, small and inconspicuous, aiding in seed dispersal.",
+            "Erect, robust stem with reddish-brown color, reaching up to 3 feet in height (91 cm).",
+            "Distinctive branching pattern and rigidity of stems, providing sturdy support for plant's height."
+        ],
+        "title": "Quickly Identify Common tansy",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Tanacetum-vulgare.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy thrives in temperate climates and exhibits moderate drought tolerance. It typically requires weekly watering to simulate natural rainfall. Watering is especially important during the growing season to promote its vibrant growth and aromatic foliage, making it a resilient herbaceous perennial.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For common tansy, use a balanced fertilizer biannually in spring and fall, applying a handful per square meter. Focus on nitrogen during vegetative stages and switch to phosphorus and potassium before flowering. Water after feeding to enhance absorption and reduce root burn risks. Use protective equipment when handling.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy is a hardy perennial featuring feathery foliage and small yellow flowers. Prune in early to late spring to promote fullness, remove dead stems, and encourage blooms. Regular trimming manages invasiveness and stimulates healthy regrowth, ensuring common tansy thrives in the garden.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The optimal propagation season for common tansy is Spring, ideally through sowing, with an easy-to-moderate difficulty level. Successful propagation can be observed from new growth or leaf sprouts. Providing moisture and warmth enhances germination rates.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common tansy thrives with a bushy growth habit, requiring repotting every 2-3 years, ideally in early spring. Use a slightly larger container and ensure it receives ample light and water after repotting. Handle with care to maintain consistency for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Tanacetum_vulgare.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What does common tansy symbolize?",
+            "link": "/ask/Tanacetum_vulgare-0.html"
+        },
+        {
+            "q": "When does common tansy bloom?",
+            "link": "/ask/Tanacetum_vulgare-1.html"
+        },
+        {
+            "q": "What is the common tansy good for?",
+            "link": "/ask/Tanacetum_vulgare-2.html"
+        },
+        {
+            "q": "How tall is common tansy?",
+            "link": "/ask/Tanacetum_vulgare-3.html"
+        },
+        {
+            "q": "Can you eat common tansy?",
+            "link": "/ask/Tanacetum_vulgare-4.html"
+        },
+        {
+            "q": "How do you use common tansy as an insect repellent?",
+            "link": "/ask/Tanacetum_vulgare-5.html"
+        },
+        {
+            "q": "Is common tansy toxic to horses?",
+            "link": "/ask/Tanacetum_vulgare-6.html"
+        },
+        {
+            "q": "Is common tansy annual or perennial?",
+            "link": "/ask/Tanacetum_vulgare-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Tanacetum-vulgare-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Tanacetum-vulgare-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Tanacetum-vulgare-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Tanacetum-vulgare-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Tanacetum-vulgare-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Tanacetum-vulgare-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Tanacetum-vulgare-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Tanacetum-vulgare-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Tanacetum-vulgare-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Tanacetum-vulgare-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Tanacetum-vulgare-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Tanacetum-vulgare-Gall.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Tanacetum-vulgare-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Tanacetum-vulgare-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Tanacetum-vulgare-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Tanacetum-vulgare-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Tanacetum-vulgare-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Tanacetum-vulgare-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Tanacetum-vulgare-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Tanacetum-vulgare-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Laburnum anagyroides",
+                "link": "/wiki/Laburnum_anagyroides.html",
+                "imageUrl": "/wiki-image/1080/153466079245500429.jpeg",
+                "displayName": "Golden chain tree"
+            },
+            {
+                "scientificName": "Allium ampeloprasum",
+                "link": "/wiki/Allium_ampeloprasum.html",
+                "imageUrl": "/wiki-image/1080/154176698764492803.jpeg",
+                "displayName": "Broadleaf wild leek"
+            },
+            {
+                "scientificName": "Nicotiana glauca",
+                "link": "/wiki/Nicotiana_glauca.html",
+                "imageUrl": "/wiki-image/1080/153841485156974623.jpeg",
+                "displayName": "Tree tobacco"
+            },
+            {
+                "scientificName": "Kalanchoe marmorata",
+                "link": "/wiki/Kalanchoe_marmorata.html",
+                "imageUrl": "/wiki-image/1080/153757376812417039.jpeg",
+                "displayName": "Penwiper plant"
+            },
+            {
+                "scientificName": "Croton capitatus",
+                "link": "/wiki/Croton_capitatus.html",
+                "imageUrl": "/wiki-image/1080/154171660767854601.jpeg",
+                "displayName": "Hogwort"
+            },
+            {
+                "scientificName": "Kalmia latifolia",
+                "link": "/wiki/Kalmia_latifolia.html",
+                "imageUrl": "/wiki-image/1080/201214175528222720.jpeg",
+                "displayName": "Mountain laurel"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Tanacetum_vulgare.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Tanacetum_vulgare.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Tanacetum_vulgare.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Tanacetum_vulgare.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Tanacetum_vulgare.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Tanacetum_vulgare.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Tanacetum_vulgare.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Tanacetum_vulgare.html",
+            "values": [
+                "Care Common tansy",
+                "Care Common tansy",
+                "Grow Common tansy",
+                "Maintain Common tansy",
+                "Common tansy Care",
+                "Common tansy Grow",
+                "Common tansy Maintain",
+                "Common tansy Cares",
+                "Growth Common tansy",
+                "Maintains Common tansy",
+                "Common tansy Growth",
+                "Common tansy Maintains",
+                "Common tansy Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tanacetum-vulgare-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Tanacetum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Tanacetum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Tanacetum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Tanacetum_vulgare.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Tanacetum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Tanacetum_vulgare.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Tanacetum_vulgare.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Tanacetum_vulgare.html"
+        }
+    ]
+}

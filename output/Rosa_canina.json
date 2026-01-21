@@ -1,0 +1,1031 @@
+{
+    "title": "Dog rose (Rosa canina) - PictureThis",
+    "displayName": "Dog rose",
+    "otherCommonName": "Dog Briar, Common briar, Rose hip",
+    "mainImage": {
+        "copyright": {
+            "width": 1704,
+            "height": 1704,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+            "license": "CC-BY-SA-2.5"
+        },
+        "imageUrl": "/wiki-image/1080/202648157734305792.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24637210",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153930283605819436.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 396,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5899774",
+                "authorLink": "https://www.inaturalist.org/people/gianluigi1951",
+                "author": "gianluigi1951",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153942532852547627.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25531183",
+                "authorLink": "https://www.inaturalist.org/people/dnoesgaard",
+                "author": "dnoesgaard",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153889099164418060.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4975002",
+                "authorLink": "https://www.inaturalist.org/people/jordi_m_r",
+                "author": "jordi_m_r",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153988695161045008.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The dog rose is a pale pink type of rose. The plant is known for \"climbing\" as it grows and can even be found climbing up different trees. References to dog rose date back at least to ancient Rome, and it is featured in many European riddles and even Shakespearian quotes as well.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The dog rose is a pale pink type of rose. The plant is known for \"climbing\" as it grows and can even be found climbing up different trees. References to dog rose date back at least to ancient Rome, and it is featured in many European riddles and even Shakespearian quotes as well.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Dog rose (<i>Rosa canina</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Roses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rosa.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub, Vine",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 4.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 6 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805139150012418.jpeg",
+        "habitat": "Hedges, scrub, woods, roadsides, banks",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   With a wide native range that stretches across Europe, northwest Africa, and western Asia, dog rose is commonly seen along roadsides and the coast. It is a weed in Australia and considered invasive in New Zealand.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 32.06397361, \"2\": 24.63528663, \"3\": 29.94948215, \"4\": 31.11901392, \"5\": 28.37007846, \"6\": 33.0, \"7\": 35.45127412, \"8\": 29.02599653, \"9\": 19.95919871, \"10\": 33.86950538, \"11\": 48.54062845, \"12\": 24.2651685}, \"flower_month\": 11, \"fruit_month\": 1}, \"Csb\": {\"trends\": {\"1\": 17.33924071, \"2\": 30.91831558, \"3\": 23.79387996, \"4\": 27.27366008, \"5\": 12.84214686, \"6\": 15.0, \"7\": 16.74175824, \"8\": 20.93225622, \"9\": 20.56395655, \"10\": 18.47097225, \"11\": 38.35633683, \"12\": 41.71472576}, \"flower_month\": 12, \"fruit_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 142.0, \"2\": 78.0, \"3\": 62.0, \"4\": 83.0, \"5\": 65.0, \"6\": 41.0, \"7\": 56.0, \"8\": 61.0, \"9\": 64.0, \"10\": 79.0, \"11\": 154.0, \"12\": 129.0}, \"flower_month\": 11, \"fruit_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 112.77653, \"2\": 120.8414656, \"3\": 108.527906, \"4\": 173.4456737, \"5\": 192.1654574, \"6\": 146.3542615, \"7\": 166.7388323, \"8\": 171.8342575, \"9\": 151.5391981, \"10\": 110.2823199, \"11\": 135.9972084, \"12\": 134.0}, \"flower_month\": 5, \"fruit_month\": 8}, \"Csa\": {\"trends\": {\"1\": 92.44489778, \"2\": 126.6657251, \"3\": 105.3299035, \"4\": 151.0875317, \"5\": 204.6108075, \"6\": 165.0208355, \"7\": 145.7561676, \"8\": 156.0852247, \"9\": 155.4286859, \"10\": 146.0132855, \"11\": 130.1080239, \"12\": 172.0}, \"flower_month\": 5, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 60.62569987, \"2\": 60.30393689, \"3\": 47.07429796, \"4\": 67.21395106, \"5\": 116.1307079, \"6\": 113.3427501, \"7\": 128.9888671, \"8\": 112.2453842, \"9\": 114.6854627, \"10\": 88.72971176, \"11\": 56.87547456, \"12\": 65.0}, \"flower_month\": 5, \"fruit_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 122.2549113, \"2\": 145.3001211, \"3\": 111.8974166, \"4\": 193.8346584, \"5\": 282.7799006, \"6\": 281.7941569, \"7\": 288.8616972, \"8\": 277.7663944, \"9\": 255.6697188, \"10\": 224.3782946, \"11\": 157.267941, \"12\": 143.0}, \"flower_month\": 5, \"fruit_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 202.9916926, \"2\": 310.8025392, \"3\": 318.6896073, \"4\": 406.2633454, \"5\": 806.8718264, \"6\": 748.3388958, \"7\": 563.9227613, \"8\": 833.4554565, \"9\": 883.0602685, \"10\": 658.5952789, \"11\": 421.8207637, \"12\": 256.0}, \"flower_month\": 5, \"fruit_month\": 9}, \"Dfa\": {\"trends\": {\"1\": 74.51710826, \"2\": 109.3167748, \"3\": 93.35932114, \"4\": 113.8692932, \"5\": 205.3269857, \"6\": 271.4751485, \"7\": 257.0971522, \"8\": 246.9304983, \"9\": 268.0339916, \"10\": 222.0401224, \"11\": 148.4793409, \"12\": 89.0}, \"flower_month\": 6, \"fruit_month\": 9}, \"Dfb\": {\"trends\": {\"1\": 106.4405575, \"2\": 144.1075034, \"3\": 175.5144546, \"4\": 264.296166, \"5\": 413.8024023, \"6\": 395.299845, \"7\": 325.253823, \"8\": 427.2674793, \"9\": 502.3555517, \"10\": 469.6353351, \"11\": 289.0953323, \"12\": 161.0}, \"flower_month\": 5, \"fruit_month\": 9}, \"Dfc\": {\"trends\": {\"1\": 0.77110734, \"2\": 2.089480743, \"3\": 5.527370749, \"4\": 3.94523927, \"5\": 4.766507339, \"6\": 9.670639566, \"7\": 8.302533223, \"8\": 10.30490379, \"9\": 9.607664987, \"10\": 9.436111912, \"11\": 2.678703021, \"12\": 1.0}, \"flower_month\": 6, \"fruit_month\": 8}, \"Default\": {\"trends\": {\"1\": 1040.886853, \"2\": 1212.698659, \"3\": 1156.206069, \"4\": 1601.42199, \"5\": 2680.953543, \"6\": 2696.549704, \"7\": 2348.671806, \"8\": 2808.823827, \"9\": 2852.583901, \"10\": 2308.598315, \"11\": 1620.255331, \"12\": 1275.0}, \"flower_month\": 6, \"fruit_month\": 9}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Dog rose is a climbing plant, ideal for plant screens and ornamental garden use. The thorns on some varieties are beneficial when used as a hedge to keep unwanted visitors at bay. Landscape areas such as a wildlife gardens, cottage gardens, or meadows are ideal settings for the dog rose.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, purity, marriage",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Dog rose",
+                "values": [
+                    "Many people believe that the word, dog in this naming sense is a derogatory term. It is actually the literal translation of the botanical name, Rosa canina. In latin, the name is originated from its utility in which people believed that the plant can cure dog bites. Hence, it is called the dog rose."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Europe and western Asia, dog rose prefers moderate watering, thriving with irrigation every 1-2 weeks. It tolerates short dry periods but requires consistent moisture, especially during the growing season, to support healthy flowering and growth as a deciduous shrub ideally grown outdoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For dog rose, use balanced fertilizers in spring, switching to high nitrogen pre-bloom for better flowering. Fertilize biannually, avoiding overfeeding. Adjust fertilizers seasonally and apply as directed. Sprinkle at the base and water thoroughly to maximize nutrient uptake and support dog rose's health and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Dog rose is a hardy, deciduous shrub with fragrant flowers. Prune in early spring to remove dead wood, trim old canes, and thin crowded areas. This encourages vigorous growth, robust flowering, and improves air circulation, leading to healthier, resilient plants and abundant blooms.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of dog rose via cuttings is simple and effective. Cut a healthy stem at a 45-degree angle, apply rooting hormone, and plant in well-draining soil. Maintain moisture without overwatering; sound care leads to strong new shrubs, preserving the lineage of dog rose.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot dog rose every 2-3 years in early spring, using a spacious, deep pot to support its climbing habit. Use well-draining soil and ensure it receives ample sunlight. Water moderately to aid recovery and promote vigorous growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rosa_canina.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is dog rose used for?",
+            "link": "/ask/Rosa_canina-0.html"
+        },
+        {
+            "q": "When should I cut my dog rose?",
+            "link": "/ask/Rosa_canina-1.html"
+        },
+        {
+            "q": "How often should dog rose be watered?",
+            "link": "/ask/Rosa_canina-2.html"
+        },
+        {
+            "q": "Why is it called dog rose?",
+            "link": "/ask/Rosa_canina-3.html"
+        },
+        {
+            "q": "Where do dog rose grow?",
+            "link": "/ask/Rosa_canina-4.html"
+        },
+        {
+            "q": "When should you plant a dog rose?",
+            "link": "/ask/Rosa_canina-5.html"
+        },
+        {
+            "q": "How quickly does dog rose grow?",
+            "link": "/ask/Rosa_canina-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Rosa-canina-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf mites",
+                "link": "/disease/Rosa-canina-Leaf-mites.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Rosa-canina-Black-spot.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Rosa-canina-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Rosa-canina-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Rosa-canina-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Flower rot",
+                "link": "/disease/Rosa-canina-Flower-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Rosa-canina-Black-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Rosa-canina-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Rosa-canina-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Rosa-canina-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Rosa-canina-Mealybug.html"
+            },
+            {
+                "diseaseName": "Stem blackening",
+                "link": "/disease/Rosa-canina-Stem-blackening.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Rosa-canina-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Rosa-canina-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Rosa-canina-Whitefly.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Rosa-canina-Dodder.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Rosa-canina-Scars.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Rosa-canina-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Rosa-canina-Notch.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Rosa-canina-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Rosa-canina-Moss.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Rosa-canina-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Rosa-canina-Thrips.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Rosa-canina-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Rosa-canina-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Rosa-canina-Lichen.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Rosa-canina-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Rosa-canina-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Rosa-canina-Weevil.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Rosa-canina-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Rosa-canina-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Rosa-canina-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Rosa-canina-Aphid.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Rosa-canina-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Rosa-canina-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Rosa-canina-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Rosa-canina-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Rosa-canina-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Rosa-canina-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Rosa-canina-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Crocosmia crocosmiiflora",
+                "link": "/wiki/Crocosmia_crocosmiiflora.html",
+                "imageUrl": "/wiki-image/1080/348127925648130048.jpeg",
+                "displayName": "Montbretia"
+            },
+            {
+                "scientificName": "Ipomoea cordatotriloba",
+                "link": "/wiki/Ipomoea_cordatotriloba.html",
+                "imageUrl": "/wiki-image/1080/154200037616779295.jpeg",
+                "displayName": "Tievine"
+            },
+            {
+                "scientificName": "Callisia fragrans",
+                "link": "/wiki/Callisia_fragrans.html",
+                "imageUrl": "/wiki-image/1080/153873169130717209.jpeg",
+                "displayName": "Basket plant"
+            },
+            {
+                "scientificName": "Canna indica",
+                "link": "/wiki/Canna_indica.html",
+                "imageUrl": "/wiki-image/1080/154076621731528708.jpeg",
+                "displayName": "Indian shot"
+            },
+            {
+                "scientificName": "Peperomia pellucida",
+                "link": "/wiki/Peperomia_pellucida.html",
+                "imageUrl": "/wiki-image/1080/154041145301663773.jpeg",
+                "displayName": "Pepper elder"
+            },
+            {
+                "scientificName": "Albizia julibrissin",
+                "link": "/wiki/Albizia_julibrissin.html",
+                "imageUrl": "/wiki-image/1080/153431685147394061.jpeg",
+                "displayName": "Persian silk tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Rosa_canina.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rosa_canina.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rosa_canina.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Rosa_canina.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Rosa_canina.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Rosa_canina.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Rosa_canina.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rosa_canina.html",
+            "values": [
+                "Care Dog rose",
+                "Care Dog rose",
+                "Grow Dog rose",
+                "Maintain Dog rose",
+                "Dog rose Care",
+                "Dog rose Grow",
+                "Dog rose Maintain",
+                "Dog rose Cares",
+                "Growth Dog rose",
+                "Maintains Dog rose",
+                "Dog rose Growth",
+                "Dog rose Maintains",
+                "Dog rose Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Flower-rot.html",
+            "values": [
+                "Flower rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Stem-blackening.html",
+            "values": [
+                "Stem blackening"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rosa-canina-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Rosa_canina.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Rosa_canina.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rosa_canina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Rosa_canina.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Rosa_canina.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Rosa_canina.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Rosa_canina.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Rosa_canina.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Rosa_canina.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Rosa_canina.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rosa_canina.html"
+        }
+    ]
+}

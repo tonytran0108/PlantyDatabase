@@ -1,0 +1,720 @@
+{
+    "title": "Boston fern (Nephrolepis exaltata) - PictureThis",
+    "displayName": "Boston fern",
+    "otherCommonName": "Fishbone fern",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153807877037883398.jpeg"
+    },
+    "images": [],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Boston fern",
+            "link": "/wiki/Nephrolepis_exaltata__Bostoniensis_.html"
+        },
+        {
+            "displayName": "Boston fern 'Green Lady'",
+            "link": "/wiki/Nephrolepis_exaltata__Green_Lady_.html"
+        },
+        {
+            "displayName": "Boston fern 'Tiger'",
+            "link": "/wiki/Nephrolepis_exaltata__Tiger_.html"
+        },
+        {
+            "displayName": "Sword fern 'Fluffy Ruffles Upright'",
+            "link": "/wiki/Nephrolepis_exaltata__Fluffy_Ruffles_.html"
+        },
+        {
+            "displayName": "Petticoat fern",
+            "link": "/wiki/Nephrolepis_exaltata__Petticoat_.html"
+        },
+        {
+            "displayName": "Boston fern 'Verona'",
+            "link": "/wiki/Nephrolepis_exaltata__Verona_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The Nephrolepis exaltata is commonly known as the boston fern or sword fern. It is a common and popular houseplant that is native to tropical environments. While the boston fern can survive droughts, it prefers humid environments and should be misted regularly. It is generally considered non-toxic and is pet friendly.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The Nephrolepis exaltata is commonly known as the boston fern or sword fern. It is a common and popular houseplant that is native to tropical environments. While the boston fern can survive droughts, it prefers humid environments and should be misted regularly. It is generally considered non-toxic and is pet friendly.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Boston fern (<i>Nephrolepis exaltata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Boston Ferns",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Nephrolepis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Swordfern",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Nephrolepidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Polypodiales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Polypodiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Ferns",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Polypodiopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Fern",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm to 250 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800685268926467.jpeg",
+        "habitat": "Forests, Swamps",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Boston fern is native to the tropical and subtropical Americas. Its native habitat includes swamps, humid forests, and floodplains. It has been introduced in northern Africa, Tanzania, Australia, and Bangladesh. Boston fern is commonly cultivated for use as a houseplant.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "5773",
+                "6173",
+                "5921",
+                "5656",
+                "5095",
+                "4679",
+                "5690",
+                "6739",
+                "6401",
+                "5575",
+                "4379",
+                "6021"
+            ],
+            "north": [
+                "15830",
+                "19168",
+                "27109",
+                "34365",
+                "30497",
+                "22995",
+                "22374",
+                "19870",
+                "18297",
+                "13918",
+                "10761",
+                "14950"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Boston fern is a common houseplant with indoor use year-round and outdoor use during summer. It is prized for its large size and beautiful foliage, making it a perfect accent plant for shaded porches or hanging baskets. Ensure your plant is given sufficient moisture and humidity for the healthiest look. Protect from frost and move indoors when there is a chance of cold temperatures.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Sincerity, there are fairies living nearby",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The boston fern is a popular houseplant reputed to purify indoor air. The well-known NASA Clean Air Study from 1989 concluded that the plant can rid air of formaldehyde, xylene, and toluene. However, there's a caveat: A single plant or just a few plants can remove only small amounts of these gasses, so many plants would be needed for a significant effect.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Boston swordfern",
+                "values": [
+                    "When you observed the leaves carefully, you will notice that the leaves are gradually getting narrow from the aerial root to the top, like a sword. So, it is called swordfern. As for Boston, it was shipped from Philadelphia in 1984 to Boston and that was when the plant started to transform. The straightened leaves become elegant, and because of the transportation, it is called Boston swordfern."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Pinnately compound fronds up to 3 feet (90 cm) long with asymmetrical pinnae and basal auricle.",
+            "Distinct sori present as round dots neatly arranged underneath the pinnae, aiding fern identification.",
+            "Erect to arching or pendent fronds with linear-oblong pinnules, finely serrate margins, and crowded growth along stolons.",
+            "Short, suberect rhizomes and slender stolons, with fibrous texture and crucial for plant propagation.",
+            "Smooth stems with light brown to greenish hue, slightly raised rhizomes, and horizontally extending stolons."
+        ],
+        "title": "Quickly Identify Boston fern",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Nephrolepis-exaltata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from humid environments, boston fern thrives in consistently moist, well-drained soil without waterlogging. Regular watering twice a week is essential. Misting helps recreate its tropical conditions, ensuring vibrant and healthy fronds, making it a popular choice for indoor plant enthusiasts.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize boston fern biweekly with diluted high nitrogen fertilizer during the growing season (spring to early autumn). In winter, reduce to monthly applications, avoiding over-fertilization to prevent root burn. Use liquid or granular types, ensuring even distribution. Monitor boston fern's growth to adjust feeding accordingly.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Boston fern features lush, arching fronds. Prune in early spring to remove dead or damaged fronds and manage shape. Use sterilized tools for clean cuts. Proper pruning enhances airflow, reduces pests, and promotes the plant's health while maintaining a balanced appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Boston fern features lush, arching fronds and thrives indoors with minimal care. Propagation is done via division using sterilized tools. Ensure each division has multiple fronds and a robust root system, planting them in well-draining soil while maintaining consistent moisture without waterlogging.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot boston fern every 2-3 years, ideally in spring, using a slightly larger pot. Utilize well-draining soil, ensure consistent moisture without waterlogging, and provide indirect light with high humidity for optimal recovery and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Nephrolepis_exaltata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a boston fern?",
+            "link": "/ask/Nephrolepis_exaltata-0.html"
+        },
+        {
+            "q": "How much sun does a boston fern need?",
+            "link": "/ask/Nephrolepis_exaltata-1.html"
+        },
+        {
+            "q": "How often do you water a boston fern?",
+            "link": "/ask/Nephrolepis_exaltata-2.html"
+        },
+        {
+            "q": "Where is boston fern from?",
+            "link": "/ask/Nephrolepis_exaltata-3.html"
+        },
+        {
+            "q": "Can boston fern live indoors?",
+            "link": "/ask/Nephrolepis_exaltata-4.html"
+        },
+        {
+            "q": "Should you mist boston fern?",
+            "link": "/ask/Nephrolepis_exaltata-5.html"
+        },
+        {
+            "q": "What is the lowest temperature a boston fern can tolerate?",
+            "link": "/ask/Nephrolepis_exaltata-6.html"
+        },
+        {
+            "q": "Where should I place my boston fern?",
+            "link": "/ask/Nephrolepis_exaltata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Nephrolepis-exaltata-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Nephrolepis-exaltata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Nephrolepis-exaltata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Nephrolepis-exaltata-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Nephrolepis-exaltata-Lack-of-fertilizer.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Pachira aquatica",
+                "link": "/wiki/Pachira_aquatica.html",
+                "imageUrl": "/wiki-image/1080/201220068223352832.jpeg",
+                "displayName": "Money tree"
+            },
+            {
+                "scientificName": "Kalanchoe tetraphylla",
+                "link": "/wiki/Kalanchoe_tetraphylla.html",
+                "imageUrl": "/wiki-image/1080/154180791868325930.jpeg",
+                "displayName": "Paddle plant"
+            },
+            {
+                "scientificName": "Calamagrostis epigejos",
+                "link": "/wiki/Calamagrostis_epigejos.html",
+                "imageUrl": "/wiki-image/1080/221564434954092544.jpeg",
+                "displayName": "Bush-grass"
+            },
+            {
+                "scientificName": "Peperomia caperata",
+                "link": "/wiki/Peperomia_caperata.html",
+                "imageUrl": "/wiki-image/1080/154184098993143841.jpeg",
+                "displayName": "Emerald ripple peperomia"
+            },
+            {
+                "scientificName": "Guizotia abyssinica",
+                "link": "/wiki/Guizotia_abyssinica.html",
+                "imageUrl": "/wiki-image/1080/153851380761624621.jpeg",
+                "displayName": "Niger"
+            },
+            {
+                "scientificName": "Lilium bulbiferum",
+                "link": "/wiki/Lilium_bulbiferum.html",
+                "imageUrl": "/wiki-image/1080/221935795006504960.jpeg",
+                "displayName": "Orange lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Nephrolepis_exaltata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Nephrolepis_exaltata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Nephrolepis_exaltata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Nephrolepis_exaltata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Nephrolepis_exaltata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Nephrolepis_exaltata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Nephrolepis_exaltata.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Nephrolepis_exaltata.html",
+            "values": [
+                "Care Boston fern",
+                "Care Boston fern",
+                "Grow Boston fern",
+                "Maintain Boston fern",
+                "Boston fern Care",
+                "Boston fern Grow",
+                "Boston fern Maintain",
+                "Boston fern Cares",
+                "Growth Boston fern",
+                "Maintains Boston fern",
+                "Boston fern Growth",
+                "Boston fern Maintains",
+                "Boston fern Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nephrolepis-exaltata-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Nephrolepis_exaltata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Nephrolepis_exaltata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Nephrolepis_exaltata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Nephrolepis_exaltata.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Nephrolepis_exaltata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Nephrolepis_exaltata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Nephrolepis_exaltata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Nephrolepis_exaltata.html"
+        }
+    ]
+}

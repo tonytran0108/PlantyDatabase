@@ -1,0 +1,672 @@
+{
+    "title": "Bittersweet (Solanum dulcamara) - PictureThis",
+    "displayName": "Bittersweet",
+    "otherCommonName": "Poisonberry, Woody nightshade",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202657507878109184.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7645985",
+                "authorLink": "https://www.inaturalist.org/people/irag",
+                "author": "irag",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152525451342905344.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/30666202",
+                "authorLink": "https://www.inaturalist.org/people/steveexplore",
+                "author": "steveexplore",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152373946371538949.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28899329",
+                "authorLink": "https://www.inaturalist.org/people/nonenmac",
+                "author": "nonenmac",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153932727442210833.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22226724",
+                "authorLink": "https://www.inaturalist.org/people/ianmanning",
+                "author": "ianmanning",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153932048837378050.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The species known as bittersweet is a semi-woody vine found in forests, marshes, shrublands, and hedgerows. All parts of the plant contain alkaloids (especially the bright red berries), which are extremely poisonous to humans and livestock if ingested. In spite of its toxicity, bittersweet was hung as a talisman in the past to ward off witchcraft.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The species known as bittersweet is a semi-woody vine found in forests, marshes, shrublands, and hedgerows. All parts of the plant contain alkaloids (especially the bright red berries), which are extremely poisonous to humans and livestock if ingested. In spite of its toxicity, bittersweet was hung as a talisman in the past to ward off witchcraft.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Bittersweet (<i>Solanum dulcamara</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nightshades",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Solanum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nightshade",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Solanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   61 cm to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251769453891878914.png",
+        "habitat": "Hedgerows, woody areas, moist banks by the edges of swamps",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Bittersweet is widely native to Europe and Asia, where it will thrive in a range of ecosystems from marshland to woods. It is naturalized in North America, Brazil, and Colombia. In the United States it is considered an invasive weed.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "149",
+                "162",
+                "150",
+                "107",
+                "95",
+                "91",
+                "82",
+                "97",
+                "152",
+                "111",
+                "140",
+                "171"
+            ],
+            "north": [
+                "864",
+                "1018",
+                "7811",
+                "40311",
+                "55394",
+                "49412",
+                "50714",
+                "35305",
+                "17964",
+                "5439",
+                "1494",
+                "1046"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Fruits of the bittersweet nightshade can be used as pesticides.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The climbing bittersweet has attractive foliage and bright berries, and is ornamentally used in hedgerows and vertical garden spaces. It is easy to grow with little maintenance, will typically climb on nearby vegetation, and should be monitored to avoid smothering other plants. It is an alluring but toxic plant, so grow with caution.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "fidelity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, a shepherdess' flock of sheep suffered from an unknown disease, and she never found the cause. There were always sheep falling down and twitching. The shepherdess carefully observed the food eaten by the sheep along the way and found that all sheep were twitching after eating fruit from the bittersweet nightshade. After finding the cause, the flock of sheep recovered their health.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Climbing nightshade",
+                "values": [
+                    "It is the type of vine with a strong climbing capability. You can see it in places like woodlands, bushes, hedges and swamps. The word, nightshade is given to its name because of the special characteristics of the Solanum genus. Some of the plants in the genus like to grow in shaded areas while some of them blossoms during night time. Hence, it is called climbing nightshade."
+                ]
+            },
+            {
+                "key": "Bittersweet",
+                "values": [
+                    "This name is given not for the reason that its fruit tastes bitter and sweet. It is given this name because it is toxic and harmful to humans and animals even though its red fruit looks beautiful and delicious from the outside. This unique characteristic further emphasis the concept as the more beautiful the fruit appears to be, the greater the risk it is to consume it. Therefore, it is called bittersweet."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Bittersweet</strong> is highly toxic to dogs and cats, causing symptoms like vomiting, diarrhea, excessive salivation, and even paralysis or death. <strong>Ingestion or contact</strong> with any part of the plant, including leaves, berries, flowers, and stems, can result in severe symptoms such as slowed heart rate, numbness, and skin irritation. Immediate medical attention is required for suspected poisoning. Bittersweet is often found in forest areas.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Solanum_dulcamara.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to Europe and Asia, today, bittersweet is naturalized in many temperate regions across the world. In North America, it is labeled as an invasive weed in many regions. Bittersweet can grow in a wide variety of habitats, including but not limited to deciduous woodlands, creeks, field edges, gardens, parks, roadsides, and pastures. It is known to spread plant diseases to crops Ã¢ÂÂ especially its cousin-plant, potato Ã¢ÂÂ when growing near the agricultural fields.\n  </div> \n  <div>\n   Because its berries are toxic to all mammals, bittersweet can be undesirable even in its native range if it grows in sensitive locations such as playgrounds or pasturelands.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing bittersweet is in early spring or late fall. It's crucial to remove this plant before it reaches its full bloom stage to prevent the spread of seeds. Here are some organic methods for controlling or removing bittersweet:\n  </div> \n  <ol> \n   <li>Hand Pulling: Simply pull out the plant from the ground. Make sure to remove the entire root system to prevent it from growing back.</li> \n   <li>Vinegar Spray: Mix white vinegar and water in a 1:1 ratio. Use a spray bottle to apply it to the bittersweet plant. This solution will help dry out the plant and kill it. Repeat the process several times if necessary.</li> \n   <li>Mulching: Spread a thick layer of organic mulch around the area where bittersweet is growing. This method blocks sunlight, thereby preventing the plant from photosynthesizing and growing. Make sure to refresh the mulch layer as it decomposes.</li> \n   <li>Solarization: Cover the bittersweet plant with a clear plastic sheet during the hottest part of summer. The heat trapped underneath the plastic will kill the plant.</li> \n   <li>Crop Rotation: Alternate the area of cultivation with other plants. Different plant species can help disrupt the life cycle of bittersweet.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Purple young stems maturing to greenish-brown without tendrils.",
+            "Dark green ovate leaves with basal lobes emitting unpleasant odor when crushed.",
+            "Star-shaped clusters of purple flowers with backward-curving petals and yellow stamen columns.",
+            "Small green berries maturing to shiny red, each housing tiny yellow seeds.",
+            "Trunk with wiry, thin bark bearing subtle lenticels for gas exchange."
+        ],
+        "title": "Quickly Identify Bittersweet",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Solanum-dulcamara.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bittersweet prefers consistent, moderate watering, indicating some drought tolerance and a need for stable humidity. Weekly watering is ideal for optimal growth. Thriving outdoors in various climates, bittersweet benefits from regular rainfall during the growing season, minimizing supplemental watering needs.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bittersweet propagates best in Spring via sowing, with moderate difficulty. Key indicators of successful propagation are new growth and leaves. For optimal results, ensure adequate light and moisture during the process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Solanum_dulcamara.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What happens if you eat bittersweet nightshade?",
+            "link": "/ask/Solanum_dulcamara-0.html"
+        },
+        {
+            "q": "How do I get rid of bittersweet?",
+            "link": "/ask/Solanum_dulcamara-1.html"
+        },
+        {
+            "q": "Is bittersweet a weed?",
+            "link": "/ask/Solanum_dulcamara-2.html"
+        },
+        {
+            "q": "Is bittersweet poisonous to humans?",
+            "link": "/ask/Solanum_dulcamara-3.html"
+        },
+        {
+            "q": "What is the most poisonous berry in the world?",
+            "link": "/ask/Solanum_dulcamara-4.html"
+        },
+        {
+            "q": "Can you grow bittersweet nightshade in pots?",
+            "link": "/ask/Solanum_dulcamara-5.html"
+        },
+        {
+            "q": "What is the hardiness of bittersweetÃ¯Â¼Â",
+            "link": "/ask/Solanum_dulcamara-6.html"
+        },
+        {
+            "q": "How do you control bittersweet?",
+            "link": "/ask/Solanum_dulcamara-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lycoris radiata",
+                "link": "/wiki/Lycoris_radiata.html",
+                "imageUrl": "/wiki-image/1080/153893488620994601.jpeg",
+                "displayName": "Red Spider lily"
+            },
+            {
+                "scientificName": "Rhamnus cathartica",
+                "link": "/wiki/Rhamnus_cathartica.html",
+                "imageUrl": "/wiki-image/1080/153744302931968020.jpeg",
+                "displayName": "Common buckthorn"
+            },
+            {
+                "scientificName": "Kalanchoe blossfeldiana",
+                "link": "/wiki/Kalanchoe_blossfeldiana.html",
+                "imageUrl": "/wiki-image/1080/153754456234655761.jpeg",
+                "displayName": "Florist kalanchoe"
+            },
+            {
+                "scientificName": "Datura metel",
+                "link": "/wiki/Datura_metel.html",
+                "imageUrl": "/wiki-image/1080/153971326313300010.jpeg",
+                "displayName": "Devil's trumpet"
+            },
+            {
+                "scientificName": "Euphorbia milii",
+                "link": "/wiki/Euphorbia_milii.html",
+                "imageUrl": "/wiki-image/1080/153464563122044932.jpeg",
+                "displayName": "Crown of thorns"
+            },
+            {
+                "scientificName": "Caesalpinia pulcherrima",
+                "link": "/wiki/Caesalpinia_pulcherrima.html",
+                "imageUrl": "/wiki-image/1080/153987685843730478.jpeg",
+                "displayName": "Peacock flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Solanum_dulcamara.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Solanum_dulcamara.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Solanum_dulcamara.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Solanum_dulcamara.html",
+            "values": [
+                "Care Bittersweet",
+                "Care Bittersweet",
+                "Grow Bittersweet",
+                "Maintain Bittersweet",
+                "Bittersweet Care",
+                "Bittersweet Grow",
+                "Bittersweet Maintain",
+                "Bittersweet Cares",
+                "Growth Bittersweet",
+                "Maintains Bittersweet",
+                "Bittersweet Growth",
+                "Bittersweet Maintains",
+                "Bittersweet Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Solanum_dulcamara.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Solanum_dulcamara.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Solanum_dulcamara.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Solanum_dulcamara.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Solanum_dulcamara.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Solanum_dulcamara.html"
+        }
+    ]
+}

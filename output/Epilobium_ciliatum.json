@@ -1,0 +1,591 @@
+{
+    "title": "Fringed willowherb (Epilobium ciliatum) - PictureThis",
+    "displayName": "Fringed willowherb",
+    "otherCommonName": "Glandular willowherb, Slender willow herb",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154018145751793683.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 395,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4691905",
+                "authorLink": "https://www.inaturalist.org/people/dloarie",
+                "author": "dloarie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153961125765971978.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19625011",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153853566899978280.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 406,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31358619",
+                "authorLink": "https://www.inaturalist.org/people/meurkc",
+                "author": "meurkc",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153860318588567578.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27956758",
+                "authorLink": "https://www.inaturalist.org/people/ianmanning",
+                "author": "ianmanning",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153861924906336266.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The fringed willowherb is native to North America and East Asia, but was introduced to North Europe in the 1900s and spread rapidly. It prefers humid places such as in the wetlands or by the streams and ponds, but it can also survive in a variety of habitats such as roadsides and wastelands.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The fringed willowherb is native to North America and East Asia, but was introduced to North Europe in the 1900s and spread rapidly. It prefers humid places such as in the wetlands or by the streams and ponds, but it can also survive in a variety of habitats such as roadsides and wastelands.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Fringed willowherb (<i>Epilobium ciliatum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Willowherbs",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Epilobium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Evening primrose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Onagraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Myrtle order",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Myrtales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Winter",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/510039160393367552.jpeg",
+        "habitat": "Moist places, stream-sides, ditches, ponds, gardens, roadsides, recently cleared areas and wasteland",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Fringed willowherb is native to Eastern Europe, Asia, South America and North America. The plant also grows as an introduced species in several European countries, mainland Malaysia, and New Zealand. Despite not being classed as an invasive species, this plant has a weedy nature and grows in many habitats outside its preferred wetlands.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "246",
+                "191",
+                "208",
+                "351",
+                "276",
+                "221",
+                "353",
+                "655",
+                "884",
+                "795",
+                "487",
+                "431"
+            ],
+            "north": [
+                "2734",
+                "5791",
+                "25066",
+                "113970",
+                "114843",
+                "48069",
+                "27253",
+                "17984",
+                "9619",
+                "3282",
+                "948",
+                "1379"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Fringed willowherb is a garden ornamental, ideal in prairie and meadow landscapes as well as wetland landscapes. This plant is self-seeding and can quickly take over the garden, and become weedy if not managed.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Production, rebirth, renewal",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Fringed willowherb is sometimes referred to as \"Codlings and Cream,\" a seemingly unappetizing combination. This is because the leaves are said to smell like boiled fish when they're crushed, and the stigma portion of the plant has a creamy coloration.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Fringed willowherb",
+                "values": [
+                    "When you first notice this plant, you will find it particularly delicate because the stems, leaves, and inflorescences are featured with a thin fur. Even the specific epithet, \"ciliatum\" means furry tassels, so it is called fringed willowherb."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Fringed willowherb hails from North America. Known as a weed, this plant raises concern due to its swiftly multiplying nature. It possesses a unique ability to reproduce via seeds and spreads aggressively, making it difficult for other species to grow. Similarly, in gardens, this property of fringed willowherb proves detrimental as it tends to take over space rapidly and deprives native vegetation of necessary nutrients, sunlight, and water. It poses a threat to the garden's biodiversity. Its primary mode of spread is through its tiny, lightweight seeds which are numerous and can be easily carried away by wind or water currents. Notably, each plant is capable of producing up to several thousand seeds. It is this characteristic that enables fringed willowherb to invade and colonize new areas so rapidly, wreaking havoc on the local ecosystem and proving particularly problematic in gardens.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to take control of the fringed willowherb plant is the late spring to early summer period. It is most effective to remove the plant during this time, ideally before it gets a chance to start flowering.\n  </div> \n  <ol> \n   <li>Manual Weeding: Pull the fringed willowherb by hand when the soil is moist. This ensures that you eradicate all portions of the root system.</li> \n   <li>Smothering: Cover the area where fringed willowherb grow with a thick layer of mulch or a weed-suppressing landscape fabric. This method blocks sunlight from reaching the plants, preventing their growth.</li> \n   <li>Lawn Mowing: Regularly mow your lawn to prevent the fringed willowherb from flowering and seeding. Make sure to bag and dispose of clippings so seeds do not spread around your lawn.</li> \n   <li>Corn Gluten Meal: Apply corn gluten meal in the early spring. This organic compound prevents weed germination, thereby controlling the spread of fringed willowherb.</li> \n   <li>Vinegar Spray: Spray a homemade vinegar solution (1 part vinegar to 1 part water) on the fringed willowherb. Only use this method in areas where you do not wish for other plants to grow as the vinegar is non-selective and will harm other plants.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Tiny hairs cover fringed willowherb's stems, aiding in differentiation.",
+            "Leaves lack petioles, showing deep veins and purple margins.",
+            "Single stem of fringed willowherb grows 1.5-3 feet (45-90 cm) tall.",
+            "Flowers possess four distinct petals in pink, blue, or white.",
+            "Fruit capsules split open with tufted white-haired seeds."
+        ],
+        "title": "Quickly Identify Fringed willowherb",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Epilobium-ciliatum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fringed willowherb, originating from moist habitats, thrives in consistently moist environments and tolerates brief droughts. Regular weekly watering supports its lush growth. As an herbaceous perennial, it exhibits increased vigor during the growing season when rainfall is abundant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best propagation method for fringed willowherb is sowing in Spring. It propagates easily, with new shoots indicating success. Adequate light and moisture are essential for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Epilobium_ciliatum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does fringed willowherb grow?",
+            "link": "/ask/Epilobium_ciliatum-0.html"
+        },
+        {
+            "q": "Is fringed willowherb annual or perennial?",
+            "link": "/ask/Epilobium_ciliatum-1.html"
+        },
+        {
+            "q": "Is fringed willowherb tolerant to cold?",
+            "link": "/ask/Epilobium_ciliatum-2.html"
+        },
+        {
+            "q": "Why is it called Fringed willowherb?",
+            "link": "/ask/Epilobium_ciliatum-3.html"
+        },
+        {
+            "q": "When does fringed willowherb bloom?",
+            "link": "/ask/Epilobium_ciliatum-4.html"
+        },
+        {
+            "q": "Where is fringed willowherb's native range?",
+            "link": "/ask/Epilobium_ciliatum-5.html"
+        },
+        {
+            "q": "Is fringed willowherb deer resistant?",
+            "link": "/ask/Epilobium_ciliatum-6.html"
+        },
+        {
+            "q": "Does the fringed willowherb smell?",
+            "link": "/ask/Epilobium_ciliatum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Paspalum dilatatum",
+                "link": "/wiki/Paspalum_dilatatum.html",
+                "imageUrl": "/wiki-image/1080/201220403230801920.jpeg",
+                "displayName": "Dallis grass"
+            },
+            {
+                "scientificName": "Solanum mauritianum",
+                "link": "/wiki/Solanum_mauritianum.html",
+                "imageUrl": "/wiki-image/1080/221587490338537472.jpeg",
+                "displayName": "Ear-leaved nightshade"
+            },
+            {
+                "scientificName": "Solidago altissima",
+                "link": "/wiki/Solidago_altissima.html",
+                "imageUrl": "/wiki-image/1080/154138434900852752.png",
+                "displayName": "Canada goldenrod"
+            },
+            {
+                "scientificName": "Bowlesia incana",
+                "link": "/wiki/Bowlesia_incana.html",
+                "imageUrl": "/wiki-image/1080/153761688959582220.jpeg",
+                "displayName": "Hoary Bowlesia"
+            },
+            {
+                "scientificName": "Boerhavia coccinea",
+                "link": "/wiki/Boerhavia_coccinea.html",
+                "imageUrl": "/wiki-image/1080/153855353606373395.jpeg",
+                "displayName": "Scarlet spiderling"
+            },
+            {
+                "scientificName": "Jatropha gossypiifolia",
+                "link": "/wiki/Jatropha_gossypiifolia.html",
+                "imageUrl": "/wiki-image/1080/157098715339816970.jpeg",
+                "displayName": "Bellyache bush"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Epilobium_ciliatum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Epilobium_ciliatum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Epilobium_ciliatum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Epilobium_ciliatum.html",
+            "values": [
+                "Care Fringed willowherb",
+                "Care Fringed willowherb",
+                "Grow Fringed willowherb",
+                "Maintain Fringed willowherb",
+                "Fringed willowherb Care",
+                "Fringed willowherb Grow",
+                "Fringed willowherb Maintain",
+                "Fringed willowherb Cares",
+                "Growth Fringed willowherb",
+                "Maintains Fringed willowherb",
+                "Fringed willowherb Growth",
+                "Fringed willowherb Maintains",
+                "Fringed willowherb Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Epilobium_ciliatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Epilobium_ciliatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Epilobium_ciliatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Epilobium_ciliatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Epilobium_ciliatum.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Epilobium_ciliatum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Epilobium_ciliatum.html"
+        }
+    ]
+}

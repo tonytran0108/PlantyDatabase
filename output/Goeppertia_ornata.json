@@ -1,0 +1,846 @@
+{
+    "title": "Pin stripe plant (Goeppertia ornata) - PictureThis",
+    "displayName": "Pin stripe plant",
+    "otherCommonName": "Pinstripe Plant, Prayer Plant, Pinstripe Calathea",
+    "mainImage": {
+        "copyright": {
+            "width": 1409,
+            "height": 1409,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153740750994014214.jpeg"
+    },
+    "images": [],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The pin stripe plant, or Goeppertia ornata, is a gorgeous tropical houseplant with distinct markings on the leaves. Although calatheas have a reputation for being difficult to grow, the pin stripe plant is one of the easier choices to care for. The plant is sometimes named as a member of the prayer plant family for the way it closes up its leaves in the evening.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The pin stripe plant, or Goeppertia ornata, is a gorgeous tropical houseplant with distinct markings on the leaves. Although calatheas have a reputation for being difficult to grow, the pin stripe plant is one of the easier choices to care for. The plant is sometimes named as a member of the prayer plant family for the way it closes up its leaves in the evening.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Pin stripe plant (<i>Goeppertia ornata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Calatheas",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Goeppertia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arrowroot",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Marantaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gingers, bananas, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Zingiberales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800668089057282.jpeg",
+        "habitat": "Tropical areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Pin stripe plant, a highly decorative plant, is native to the northern parts of South America. It has also been introduced and acclimatized in regions of Central Africa and Southeast Asia. In addition to its presence in wild settings, pin stripe plant is also widely cultivated for ornamental purposes in various temperate and tropical regions worldwide.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "843",
+                "1011",
+                "1115",
+                "1185",
+                "1120",
+                "991",
+                "1128",
+                "1270",
+                "1173",
+                "1005",
+                "662",
+                "919"
+            ],
+            "north": [
+                "9426",
+                "9090",
+                "9606",
+                "9808",
+                "9186",
+                "8686",
+                "9522",
+                "8819",
+                "7609",
+                "6052",
+                "6085",
+                "9657"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The pin stripe plant is generally chosen by gardeners in tropical regions who want an attractive plant with dramatic foliage that grows well in wet, shady conditions. Besides its use in livening up shady areas, it is also commonly cultivated as a container plant.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "New beginning",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "A member of the prayer plant family, this plant will fold up its leaves at night as part of its circadian rhythm. This behavior is called nyctinasty and is shared by all prayer plants. One theory is that the movements of the plant follow the sun to catch as much light as possible.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from tropical rainforests, pin stripe plant thrives in high humidity and consistently moist soil. Water weekly to maintain moisture balance. Typically grown indoors, regular misting enhances its ornamental appeal, supporting lush foliage and vibrant patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pin stripe plant requires bi-monthly application of high nitrogen fertilizer during the growing season, using a quarter-strength water-soluble option. Reduce feeding in winter to prevent root burn. Proper fertilization fosters vibrant foliage, crucial for its overall health and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune pin stripe plant in early spring to remove dead leaves and shape the plant. Use sterilized scissors to prevent disease. Avoid heavy pruning in winter. Regular leaf removal improves appearance and air circulation, promoting bushier growth and overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The preferred propagation method for pin stripe plant is division, ideally in spring or autumn. It has moderate difficulty, with successful signs being new growth and strong root development. Proper root separation and soil moisture retention are essential for success.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot pin stripe plant every 3-4 years in spring to support its moderate growth, using a pot 2-3 inches wider. Post-repotting, provide bright, indirect light and high humidity to aid recovery and enhance leaf markings.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Goeppertia_ornata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the benefits of spraying and watering pin stripe plant regularly?",
+            "link": "/ask/Goeppertia_ornata-0.html"
+        },
+        {
+            "q": "What kind of soil does pin stripe plant like?",
+            "link": "/ask/Goeppertia_ornata-1.html"
+        },
+        {
+            "q": "How do you take care of a pin stripe plant?",
+            "link": "/ask/Goeppertia_ornata-2.html"
+        },
+        {
+            "q": "Does pin stripe plant need full sun?",
+            "link": "/ask/Goeppertia_ornata-3.html"
+        },
+        {
+            "q": "Is the pin stripe plant an evergreen?",
+            "link": "/ask/Goeppertia_ornata-4.html"
+        },
+        {
+            "q": "What is pin stripe plant good for?",
+            "link": "/ask/Goeppertia_ornata-5.html"
+        },
+        {
+            "q": "How often should pin stripe plant be watered?",
+            "link": "/ask/Goeppertia_ornata-6.html"
+        },
+        {
+            "q": "How fast does pin stripe plant grow?",
+            "link": "/ask/Goeppertia_ornata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Goeppertia-ornata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Goeppertia-ornata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Goeppertia-ornata-Mealybug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Goeppertia-ornata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Goeppertia-ornata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Goeppertia-ornata-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Goeppertia-ornata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Goeppertia-ornata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Goeppertia-ornata-Notch.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Goeppertia-ornata-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Goeppertia-ornata-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Goeppertia-ornata-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Goeppertia-ornata-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Goeppertia-ornata-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Goeppertia-ornata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Goeppertia-ornata-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Goeppertia-ornata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Goeppertia-ornata-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Goeppertia-ornata-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Goeppertia-ornata-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Goeppertia-ornata-Wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "ÃÂGraptoveria 'Titubans'",
+                "link": "/wiki/ÃÂGraptoveria__Titubans_.html",
+                "imageUrl": "/wiki-image/1080/393498534234554368.jpeg",
+                "displayName": "Porcelain Plant"
+            },
+            {
+                "scientificName": "Hoya australis",
+                "link": "/wiki/Hoya_australis.html",
+                "imageUrl": "/wiki-image/1080/236495283170082816.jpeg",
+                "displayName": "Porcelain flower"
+            },
+            {
+                "scientificName": "Bactris gasipaes",
+                "link": "/wiki/Bactris_gasipaes.html",
+                "imageUrl": "/wiki-image/1080/157141025062649861.jpeg",
+                "displayName": "Peach palm"
+            },
+            {
+                "scientificName": "Rhodophiala bifida",
+                "link": "/wiki/Rhodophiala_bifida.html",
+                "imageUrl": "/wiki-image/1080/154198950990053379.jpeg",
+                "displayName": "Oxblood lily"
+            },
+            {
+                "scientificName": "Picea orientalis",
+                "link": "/wiki/Picea_orientalis.html",
+                "imageUrl": "/wiki-image/1080/604819532315033605.jpeg",
+                "displayName": "Oriental spruce"
+            },
+            {
+                "scientificName": "ÃÂGraptoveria 'Opalina'",
+                "link": "/wiki/ÃÂGraptoveria__Opalina_.html",
+                "imageUrl": "/wiki-image/1080/153723214642544667.jpeg",
+                "displayName": "Opalina"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Goeppertia_ornata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Goeppertia_ornata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Goeppertia_ornata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Goeppertia_ornata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Goeppertia_ornata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Goeppertia_ornata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Goeppertia_ornata.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Goeppertia_ornata.html",
+            "values": [
+                "Care Pin stripe plant",
+                "Care Pin stripe plant",
+                "Grow Pin stripe plant",
+                "Maintain Pin stripe plant",
+                "Pin stripe plant Care",
+                "Pin stripe plant Grow",
+                "Pin stripe plant Maintain",
+                "Pin stripe plant Cares",
+                "Growth Pin stripe plant",
+                "Maintains Pin stripe plant",
+                "Pin stripe plant Growth",
+                "Pin stripe plant Maintains",
+                "Pin stripe plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-ornata-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Goeppertia_ornata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Goeppertia_ornata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Goeppertia_ornata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Goeppertia_ornata.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Goeppertia_ornata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Goeppertia_ornata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Goeppertia_ornata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Goeppertia_ornata.html"
+        }
+    ]
+}

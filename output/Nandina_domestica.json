@@ -1,0 +1,995 @@
+{
+    "title": "Heavenly bamboo (Nandina domestica) - PictureThis",
+    "displayName": "Heavenly bamboo",
+    "otherCommonName": "Sacred bamboo",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154179791140945944.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/36216115",
+                "authorLink": "https://www.inaturalist.org/people/atlnature",
+                "author": "atlnature",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153669484601671700.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7929459",
+                "authorLink": "https://www.inaturalist.org/people/alisonnorthup",
+                "author": "alisonnorthup",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153882128432496663.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4233734",
+                "authorLink": "https://www.inaturalist.org/people/myrmexflora",
+                "author": "myrmexflora",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918111668502539.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11292875",
+                "authorLink": "https://www.inaturalist.org/people/coatlicue",
+                "author": "coatlicue",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153926332235907086.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Heavenly bamboo 'Twilight'",
+            "link": "/wiki/Nandina_domestica__Twilight_.html"
+        },
+        {
+            "displayName": "Heavenly bamboo 'Aka'",
+            "link": "/wiki/Nandina_domestica__Aka_.html"
+        },
+        {
+            "displayName": "Heavenly bamboo 'Fire Power'",
+            "link": "/wiki/Nandina_domestica__Fire_Power_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Despite its name, heavenly bamboo is not actually bamboo at all but a semi-evergreen shrub. It gains its name because a casual observer may mistake it for actual bamboo. The bright red berries are a key distinguishing feature of this plant. They should be avoided, however, since they are toxic to most animals and humans alike.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Despite its name, heavenly bamboo is not actually bamboo at all but a semi-evergreen shrub. It gains its name because a casual observer may mistake it for actual bamboo. The bright red berries are a key distinguishing feature of this plant. They should be avoided, however, since they are toxic to most animals and humans alike.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Heavenly bamboo (<i>Nandina domestica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nandina",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Nandina.html"
+            },
+            {
+                "type": "Family",
+                "name": "Barberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Berberidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Buttercups, poppies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Ranunculales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 mm to 7 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801488427810818.jpeg",
+        "habitat": "Ravines and valleys in mountains",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Heavenly bamboo is native to South and Central China and India, and has been introduced to several other countries scattered around the globe. It is cultivated as an ornamental around the world, but can escape to thrive wild at forest edges and interiors. It is listed as invasive in several southeastern states in the US.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 127.7626025, \"2\": 124.5080703, \"3\": 151.6192534, \"4\": 133.1604317, \"5\": 133.969815, \"6\": 109.0, \"7\": 160.8942441, \"8\": 146.5812825, \"9\": 161.774558, \"10\": 163.2321995, \"11\": 120.8122308, \"12\": 127.0049245}, \"flower_month\": 10, \"fruit_month\": 7, \"fall_foliage_month\": 3, \"spring_foliage_month\": 10}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 204.0764725, \"2\": 220.5473801, \"3\": 181.4472166, \"4\": 213.4874789, \"5\": 190.236393, \"6\": 162.5372443, \"7\": 134.2588618, \"8\": 180.6686476, \"9\": 163.5615823, \"10\": 180.857365, \"11\": 287.1050395, \"12\": 276.0}, \"flower_month\": 4, \"fruit_month\": 11, \"fall_foliage_month\": 11, \"spring_foliage_month\": 4}, \"BWk\": {\"trends\": {\"1\": 23.0, \"2\": 22.0, \"3\": 58.0, \"4\": 97.0, \"5\": 111.0, \"6\": 68.0, \"7\": 45.0, \"8\": 40.0, \"9\": 41.0, \"10\": 25.0, \"11\": 20.0, \"12\": 27.0}, \"flower_month\": 5, \"fruit_month\": 9, \"fall_foliage_month\": 9, \"spring_foliage_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 498.0, \"2\": 676.0, \"3\": 1171.0, \"4\": 2420.0, \"5\": 2853.0, \"6\": 1970.0, \"7\": 1214.0, \"8\": 1075.0, \"9\": 1095.0, \"10\": 917.0, \"11\": 676.0, \"12\": 484.0}, \"flower_month\": 5, \"fruit_month\": 9, \"fall_foliage_month\": 9, \"spring_foliage_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Heavenly bamboo is often planted in gardens, green belts, and a variety of landscaping. It is appreciated for the distinctive colors of foliage and flowers, as well as for its thick clusters of bright berries that persist throughout the cold months of the year. Mass plantings can create excellent borders, foundation plantings, and hedges, although it is also suitable as a focal point in landscaping design. This species looks good alongside hostas and ornamental grasses, as well as flowers such as Camellias and Hellebores.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Auspiciousness, good luck",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The heavenly bamboo stems grow in clumps, and in autumn and winter the leaves gradually turn red and its branches are full of rich red fruits. It is a beautiful view in the autumn and cold winter gardens.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Heavenly bamboo",
+                "values": [
+                    "This plant looks especially like bamboo because its leaves and vine-like stem are very similar to that of Poaceae plants from the family Gramineae. When it was first introduced into the United States, it was being treasured and it was believed that the plant could only be planted in sacred places. So, it was called heavenly bamboo."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The berries of heavenly bamboo are extremely toxic due to <strong>hydrogen cyanide</strong>. Ingestion by children, cats, and dogs can cause vomiting, diarrhea, abdominal pain, and potentially fatal effects such as seizures and respiratory failure. All parts of the heavenly bamboo plant, including leaves and stems, contain cyanide and should be avoided.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Nandina_domestica.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Cane-like stems reach 6-8 feet (183-244 cm), resembling bamboo.",
+            "Leaves are bi- to tri-pinnately compound, reddish new growth, and 1-2 feet (30-60 cm) long.",
+            "Distinctive bright red berries, 0.3 inches (8 mm) in diameter, clustered at terminals.",
+            "Delicate white flowers with yellow anthers, 5-13 mm (0.2-0.5 inches) in diameter.",
+            "Foliage changes from bluish-green in summer to purplish-red in fall, creating a vibrant display."
+        ],
+        "title": "Quickly Identify Heavenly bamboo",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Nandina-domestica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Heavenly bamboo thrives in moderate moisture and is moderately drought-tolerant. Water once every 1-2 weeks, allowing soil to slightly dry between sessions. Best as an ornamental shrub, it prefers well-draining soil to support its hydration needs and enhance resilience.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing heavenly bamboo is vital for robust growth and berry yield. In spring, use balanced fertilizer, then a high-nitrogen blend quarterly. Apply 1/4 lb for young and up to 2 lbs for mature plants, adjusting as needed. Water thoroughly post-application to avoid root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Heavenly bamboo requires careful pruning for optimal shape. In spring, remove bottom sprouts and can trim 1/3 of longer branches to enhance light access and conserve nutrients. During winter dormancy, cut dead, infected, or overly dense branches to promote health and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To propagate heavenly bamboo, use healthy semi-hardwood stem cuttings of 4-6 inches. Cut at a 45-degree angle, remove lower leaves, and use rooting hormone. Plant in a well-drained mix with adequate moisture. Roots form in a few weeks, resulting in new growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot heavenly bamboo in early spring every 2-3 years using a larger container to facilitate root growth. Use well-draining soil and a pot with drainage holes. After repotting, keep the soil moist without overwatering and provide dappled sunlight for optimal recovery and health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Nandina_domestica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How tall does heavenly bamboo grow?",
+            "link": "/ask/Nandina_domestica-0.html"
+        },
+        {
+            "q": "How do you take care of heavenly bamboo?",
+            "link": "/ask/Nandina_domestica-1.html"
+        },
+        {
+            "q": "How fast does heavenly bamboo grow?",
+            "link": "/ask/Nandina_domestica-2.html"
+        },
+        {
+            "q": "When should I prune my heavenly bamboo?",
+            "link": "/ask/Nandina_domestica-3.html"
+        },
+        {
+            "q": "What can I feed my heavenly bamboo?",
+            "link": "/ask/Nandina_domestica-4.html"
+        },
+        {
+            "q": "Is heavenly bamboo drought-tolerant?",
+            "link": "/ask/Nandina_domestica-5.html"
+        },
+        {
+            "q": "How do you propagate heavenly bamboo?",
+            "link": "/ask/Nandina_domestica-6.html"
+        },
+        {
+            "q": "Can heavenly bamboo be transplanted?",
+            "link": "/ask/Nandina_domestica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Nandina-domestica-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Nandina-domestica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Nandina-domestica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Nandina-domestica-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Nandina-domestica-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Nandina-domestica-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Nandina-domestica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Nandina-domestica-Underwatering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Nandina-domestica-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Nandina-domestica-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Nandina-domestica-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Nandina-domestica-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Nandina-domestica-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Nandina-domestica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Nandina-domestica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Nandina-domestica-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Nandina-domestica-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Nandina-domestica-Wilting.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Nandina-domestica-Notch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Nandina-domestica-Mealybug.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Nandina-domestica-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Nandina-domestica-Scars.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Nandina-domestica-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Nandina-domestica-Leaf-rot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Citrus aurantiifolia",
+                "link": "/wiki/Citrus_aurantiifolia.html",
+                "imageUrl": "/wiki-image/1080/154168710125322264.jpeg",
+                "displayName": "Key lime"
+            },
+            {
+                "scientificName": "Amaranthus cruentus",
+                "link": "/wiki/Amaranthus_cruentus.html",
+                "imageUrl": "/wiki-image/1080/154188016003317793.jpeg",
+                "displayName": "Red amaranth"
+            },
+            {
+                "scientificName": "Pelargonium graveolens",
+                "link": "/wiki/Pelargonium_graveolens.html",
+                "imageUrl": "/wiki-image/1080/153877120500629527.jpeg",
+                "displayName": "Rose geranium"
+            },
+            {
+                "scientificName": "Celastrus scandens",
+                "link": "/wiki/Celastrus_scandens.html",
+                "imageUrl": "/wiki-image/1080/153698849293074465.jpeg",
+                "displayName": "American bittersweet"
+            },
+            {
+                "scientificName": "Chaenomeles japonica",
+                "link": "/wiki/Chaenomeles_japonica.html",
+                "imageUrl": "/wiki-image/1080/201173411993583616.jpeg",
+                "displayName": "Japanese flowering quince"
+            },
+            {
+                "scientificName": "Cocculus carolinus",
+                "link": "/wiki/Cocculus_carolinus.html",
+                "imageUrl": "/wiki-image/1080/154151530256138245.jpeg",
+                "displayName": "Carolina coralbead"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Nandina_domestica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Nandina_domestica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Nandina_domestica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Nandina_domestica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Nandina_domestica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Nandina_domestica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Nandina_domestica.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Nandina_domestica.html",
+            "values": [
+                "Care Heavenly bamboo",
+                "Care Heavenly bamboo",
+                "Grow Heavenly bamboo",
+                "Maintain Heavenly bamboo",
+                "Heavenly bamboo Care",
+                "Heavenly bamboo Grow",
+                "Heavenly bamboo Maintain",
+                "Heavenly bamboo Cares",
+                "Growth Heavenly bamboo",
+                "Maintains Heavenly bamboo",
+                "Heavenly bamboo Growth",
+                "Heavenly bamboo Maintains",
+                "Heavenly bamboo Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nandina-domestica-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Nandina_domestica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Nandina_domestica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Nandina_domestica.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Nandina_domestica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Nandina_domestica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Nandina_domestica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Nandina_domestica.html"
+        }
+    ]
+}

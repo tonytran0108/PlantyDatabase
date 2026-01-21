@@ -1,0 +1,574 @@
+{
+    "title": "Velvetleaf (Abutilon theophrasti) - PictureThis",
+    "displayName": "Velvetleaf",
+    "otherCommonName": "China jute, Buttonweed",
+    "mainImage": {
+        "copyright": {
+            "width": 1574,
+            "height": 1574,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153898092825935902.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11452487",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153944564372078605.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 479,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24408383",
+                "authorLink": "https://www.inaturalist.org/people/gianluigi1951",
+                "author": "gianluigi1951",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153942756190847009.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22264131",
+                "authorLink": "https://www.inaturalist.org/people/loarie",
+                "author": "loarie",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153909899691032583.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3096,
+                "height": 4128,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti_sl3.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153985349381521409.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Abutilon theophrasti is named after the Greek botanist Theophrastus, who was a successor of Aristotle. The velvetleaf is now considered to be an invasive species in many places of the world and is especially dangerous for corn and soybean crops. When left unmanaged, the velvetleaf can create 100s of millions of dollars in damage for farmers.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Abutilon theophrasti is named after the Greek botanist Theophrastus, who was a successor of Aristotle. The velvetleaf is now considered to be an invasive species in many places of the world and is especially dangerous for corn and soybean crops. When left unmanaged, the velvetleaf can create 100s of millions of dollars in damage for farmers.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Velvetleaf (<i>Abutilon theophrasti</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Indian mallows",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Abutilon.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mallow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Malvaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mallows, rock-roses, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malvales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736623161868289.png",
+        "habitat": "Cultivated ground, Waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The velvetleaf originates from Central Asia to China, where it occurs in agricultural and waste areas, as well as in urban environments. The species has been widely introduced to many parts of the world, including Europe, Africa, North America, and Australia. The plant is reported invasive or serious agricultural weed in numerous countries around the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "111",
+                "109",
+                "88",
+                "82",
+                "78",
+                "57",
+                "66",
+                "116",
+                "136",
+                "181",
+                "101",
+                "101"
+            ],
+            "north": [
+                "978",
+                "1479",
+                "3498",
+                "15071",
+                "40103",
+                "40714",
+                "33513",
+                "16734",
+                "6058",
+                "1765",
+                "1016",
+                "997"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "The stem and bark fiber of velvetleaf can be used in textile products such as sacks, etc. Its seeds contain high oil content and can be refined into industrial oil.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Velvetleaf is often grown in fields.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Gratitude, effort",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, velvetleaf was demoted to the man's world because of its poor appearance. However, the goddess of the moon felt that velvetleaf was extremely ambitious, and so she always took care of it with the brilliance of the moon. Velvetleaf worked harder and wanted to repay the world on its own, so it became a superior ingredient in Chinese medicine.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Velvetleaf||Lantern mallow",
+                "values": [
+                    "As a harmful weed, it has a deceptive appearance. The yellow flowers are bright and the whole stem and leaves are covered with a thin fur. Given the leaves exhibit a velvet texture, it is called Velvetleaf. As the flower buds look like a lantern before it starts to bloom, it is then called lantern mallow."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Found throughout most of the Northern Hemisphere, velvetleaf originated in India or China and is now considered invasive and/or noxious in parts of North America, Europe, northern Africa, Japan, and South Korea. It is mainly an agricultural weed, as it causes serious damage to corn, soybeans, and cotton. This is mainly due to the fact that it competes for similar nutrients and light needed for the survival of those crops. Each plant can produce between 700 and 44,200 seeds, making the spread of velvetleaf difficult to control. Repeated use of herbicides and biological methods are the best means of elimination.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove 'velvetleaf' is in late spring or early summer. This is when the plant has germinated but before it has reached the seeding stage. Let's look at the methods for plant control:\n  </div> \n  <ol> \n   <li>Hand pulling: This is a simple and straightforward method. Wear garden gloves to protect your hands. Grasp 'velvetleaf' at its base and pull upward with a firm, steady pressure to remove the entire plant, including the roots. Dispose of the plant in a compost bin or yard waste container.</li> \n   <li>Smothering: This involves covering the area where 'velvetleaf' is growing with a layer of newspaper (at least 10 sheets thick), followed by a layer of mulch like straw or wood chips. This will block sunlight and suffocate the plant, causing it to die back.</li> \n   <li>Using a hoe: Another organic strategy is to use a sharp hoe. Cut 'velvetleaf' at ground level, severing the stem from the roots. Make sure to do this before the plant starts seeding to prevent it from spreading.</li> \n   <li>Organic herbicide: You can create your own using household items. Mix 1 gallon of white vinegar with 1 cup of table salt and 1 tablespoon of dish soap. Using a spray bottle, apply the mixture to 'velvetleaf', focusing on the leaves and stems. This solution should kill the plant within a few days.</li> \n   <li>Crowd it out: Plant densely around 'velvetleaf'. The densely planted area will limit the amount of sunlight, water, and nutrients available to 'velvetleaf', limiting its growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Velvetleaf thrives in warm, temperate regions with moderate moisture. It requires weekly watering to maintain even soil moisture but tolerates brief dry spells. Typically grown outdoors, velvetleaf experiences vigorous growth during the rainy season, benefiting from natural rainfall.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Velvetleaf propagates easily by sowing seeds in spring. Successful propagation is indicated by seedling emergence. For optimal growth, ensure well-draining soil and maintain consistent moisture.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Abutilon_theophrasti.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of velvetleaf?",
+            "link": "/ask/Abutilon_theophrasti-0.html"
+        },
+        {
+            "q": "How does velvetleaf spread?",
+            "link": "/ask/Abutilon_theophrasti-1.html"
+        },
+        {
+            "q": "Where is velvetleaf native?",
+            "link": "/ask/Abutilon_theophrasti-2.html"
+        },
+        {
+            "q": "Does velvetleaf smell?",
+            "link": "/ask/Abutilon_theophrasti-3.html"
+        },
+        {
+            "q": "When does velvetleaf bloom?",
+            "link": "/ask/Abutilon_theophrasti-4.html"
+        },
+        {
+            "q": "Is velvetleaf invasive?",
+            "link": "/ask/Abutilon_theophrasti-5.html"
+        },
+        {
+            "q": "How tall is velvetleaf?",
+            "link": "/ask/Abutilon_theophrasti-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Symphyotrichum cordifolium",
+                "link": "/wiki/Symphyotrichum_cordifolium.html",
+                "imageUrl": "/wiki-image/1080/153466860929548296.jpeg",
+                "displayName": "Common blue wood-aster"
+            },
+            {
+                "scientificName": "Epipremnum pinnatum",
+                "link": "/wiki/Epipremnum_pinnatum.html",
+                "imageUrl": "/wiki-image/1080/157314056410103817.jpeg",
+                "displayName": "Centipede tongavine"
+            },
+            {
+                "scientificName": "Elaeagnus pungens",
+                "link": "/wiki/Elaeagnus_pungens.html",
+                "imageUrl": "/wiki-image/1080/154164891899396104.jpeg",
+                "displayName": "Thorny olive"
+            },
+            {
+                "scientificName": "Lysimachia nummularia",
+                "link": "/wiki/Lysimachia_nummularia.html",
+                "imageUrl": "/wiki-image/1080/347112414990729216.jpeg",
+                "displayName": "Creeping jenny"
+            },
+            {
+                "scientificName": "Mimusops elengi",
+                "link": "/wiki/Mimusops_elengi.html",
+                "imageUrl": "/wiki-image/1080/217191647145033728.jpeg",
+                "displayName": "Spanish cherry"
+            },
+            {
+                "scientificName": "Raphanus sativus",
+                "link": "/wiki/Raphanus_sativus.html",
+                "imageUrl": "/wiki-image/1080/380133270318940160.jpeg",
+                "displayName": "Radish"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Abutilon_theophrasti.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Abutilon_theophrasti.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Abutilon_theophrasti.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Abutilon_theophrasti.html",
+            "values": [
+                "Care Velvetleaf",
+                "Care Velvetleaf",
+                "Grow Velvetleaf",
+                "Maintain Velvetleaf",
+                "Velvetleaf Care",
+                "Velvetleaf Grow",
+                "Velvetleaf Maintain",
+                "Velvetleaf Cares",
+                "Growth Velvetleaf",
+                "Maintains Velvetleaf",
+                "Velvetleaf Growth",
+                "Velvetleaf Maintains",
+                "Velvetleaf Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Abutilon_theophrasti.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Abutilon_theophrasti.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Abutilon_theophrasti.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Abutilon_theophrasti.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Abutilon_theophrasti.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Abutilon_theophrasti.html"
+        }
+    ]
+}

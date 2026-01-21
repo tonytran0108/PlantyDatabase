@@ -1,0 +1,894 @@
+{
+    "title": "Tree of heaven (Ailanthus altissima) - PictureThis",
+    "displayName": "Tree of heaven",
+    "otherCommonName": "Chinese Sumac, Paradise tree, Tree of hell, Varnish tree",
+    "mainImage": {
+        "copyright": {
+            "width": 2336,
+            "height": 2336,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "maple",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201161622308323328.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25006760",
+                "authorLink": "https://www.inaturalist.org/people/rbelshee",
+                "author": "rbelshee",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152520915857440770.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1487811",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152363208953298950.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/310774",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662715733213219.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21620865",
+                "authorLink": "https://www.inaturalist.org/people/stinger",
+                "author": "stinger",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153657432923439105.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While the tree of heaven has a lovely name, it has a bad reputation in many areas of the US. Several states consider it an invasive species because of its aggressive growth, rapid reproduction, and ability to thrive in poor conditions. The root system of this tree routinely damages sidewalks, sewer systems and other structures.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While the tree of heaven has a lovely name, it has a bad reputation in many areas of the US. Several states consider it an invasive species because of its aggressive growth, rapid reproduction, and ability to thrive in poor conditions. The root system of this tree routinely damages sidewalks, sewer systems and other structures.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Tree of heaven (<i>Ailanthus altissima</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Ailanthus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ailanthus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Quassia",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Simaroubaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m to 27 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806195711967232.jpeg",
+        "habitat": "Uplands",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Tree of heaven is native to China. It's a widely distributed plant; you can find it in many countries around the globe. It grows in forests, urban and agricultural regions primarily, and is considered invasive in the southern and tropical United States. It is listed as a noxious weed in Australia and South Africa.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2609",
+                "2325",
+                "2082",
+                "1709",
+                "1567",
+                "1397",
+                "1955",
+                "3677",
+                "4574",
+                "3755",
+                "2543",
+                "2892"
+            ],
+            "north": [
+                "25188",
+                "55791",
+                "124771",
+                "248174",
+                "276210",
+                "133470",
+                "91387",
+                "68529",
+                "46215",
+                "21316",
+                "15077",
+                "17723"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can conserve soil and water, greening saline-alkali land, and purify air.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Trees of heaven are excellent material for buildings, furniture manufacturing and papermaking.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Tree of heaven is an ornamental tree, cultivated for its unique foliage and fast growth. It is considered a shade tree, but has become viewed as invasive and weedy. The tree has an off-putting aroma but is useful in landscaping to colonize disturbed areas. It is cultivated in some areas as a host for the Ailanthus SilkMoth.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength of spirit, extreme adaptability",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The common name for the tree of heaven is named for its stinky leaves. Although it stinks, it is eco-friendly. It can not only grow stubbornly in saline-alkali soil, but also is a pioneer tree species for windbreaking and fixing sand.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Tree of heaven",
+                "values": [
+                    "With a long history in China, it was also one of the China representing trees that was first introduced into the western countries. When it was first introduced to Europe and the United States, it was glorified as one of the most beautiful garden specimen, basically calling it Tree of Heaven. With this in mind, it was clear that it hold a prestigious position in people's mind at that time."
+                ]
+            },
+            {
+                "key": "Ghetto palm||Stink tree||Tree of hell",
+                "values": [
+                    "Although it was very popular at first, people started feeling disgusted with its terrible odor when their passion for the plant faded away. Moreover, it also became an invasive species which then lead to mocking names like ghetto palm, stink tree and even tree of Hell."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Tree of heaven is toxic to both cats and dogs</strong>, with leaves and flowers posing the greatest risk. <strong>Symptoms include vomiting, diarrhea, and abdominal pain</strong>. Immediate veterinary attention is crucial if ingested. Keeping pets away from tree of heaven can prevent accidental poisoning.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ailanthus_altissima.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Tree of heaven is a fast-growing and foul-smelling tree that is cultivated as an ornamental plant and as a host for silkworms. Due to its vigorous growth and adaptability, tree of heaven is considered a noxious weed in many countries.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for controlling tree of heaven is during the early spring or late fall, before the plant sets seeds. Removal should take place before it reaches maturity, which typically happens by its third growing season.\n  </div> \n  <ol> \n   <li>Manual removal: Dig out young tree of heaven saplings, ensuring to remove as much of the root system as possible to prevent regrowth.</li> \n   <li>Mulching: Apply a thick layer of organic mulch around desired plants to suppress tree of heaven seedlings by blocking sunlight and limiting seed germination.</li> \n   <li>Mowing: Regularly mow areas where tree of heaven is not wanted. This will weaken the plant over time as it depletes energy reserves from the root without letting it photosynthesize.</li> \n   <li>Plant competition: Introduce vigorous ground cover or other competitive plants to outcompete tree of heaven for resources, reducing its ability to establish and spread.</li> \n   <li>Barrier installation: Use landscape fabric or physical barriers to contain tree of heaven and prevent its underground rhizomes from infiltrating unwanted areas.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Large compound leaves, 10-41 lanceolate leaflets, 1-4 feet (30-120 cm) long.",
+            "Smooth pale gray bark, becoming rough and furrowed with age.",
+            "Yellow-green flowers in panicles, emitting a foul odor.",
+            "Distinctive samaras with twisted papery wings, up to 2 inches (5 cm) long.",
+            "Light chestnut brown stem emitting foul odor when broken, thin twigs, zigzag branching."
+        ],
+        "title": "Quickly Identify Tree of heaven",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ailanthus-altissima.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tree of heaven originates from temperate regions and requires moderate moisture. It benefits from watering every 1-2 weeks and adapts well to outdoor seasonal rainfall. As a deciduous plant, it conserves water by shedding leaves during cooler or dry periods.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize tree of heaven with balanced fertilizers in early spring for new growth. Apply high nitrogen fertilizers every 4-6 weeks during growth, ensuring to follow manufacturer's instructions. Water soil before and after application, and fertilize during cooler times to avoid damage to tree of heaven and the environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tree of heaven exhibits vigorous growth and can be invasive. Prune in early spring to manage size, focusing on dead branches and dense areas for better air circulation. Dispose of cuttings properly to prevent propagation. Annual inspections and timely pruning are essential for optimal management.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tree of heaven propagates easily via hardwood cuttings, layering, and seed sowing, preferably in autumn and winter. Success is indicated by rooting and new growth. Optimal soil moisture and temperature are essential for effective propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ailanthus_altissima.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is the tree of heaven a problem?",
+            "link": "/ask/Ailanthus_altissima-0.html"
+        },
+        {
+            "q": "Why is it called the tree of heaven?",
+            "link": "/ask/Ailanthus_altissima-1.html"
+        },
+        {
+            "q": "How do you get rid of tree of heaven?",
+            "link": "/ask/Ailanthus_altissima-2.html"
+        },
+        {
+            "q": "What is tree of heaven Good For?",
+            "link": "/ask/Ailanthus_altissima-3.html"
+        },
+        {
+            "q": "What damage does the tree of heaven do?",
+            "link": "/ask/Ailanthus_altissima-4.html"
+        },
+        {
+            "q": "Does Epsom salt kill tree of heaven?",
+            "link": "/ask/Ailanthus_altissima-5.html"
+        },
+        {
+            "q": "How long does a tree of heaven live?",
+            "link": "/ask/Ailanthus_altissima-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Ailanthus-altissima-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Ailanthus-altissima-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ailanthus-altissima-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Ailanthus-altissima-Mealybug.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Ailanthus-altissima-Moss.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Ailanthus-altissima-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Ailanthus-altissima-Aphid.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Ailanthus-altissima-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Ailanthus-altissima-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Ailanthus-altissima-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Ailanthus-altissima-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Ailanthus-altissima-Weevil.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Ailanthus-altissima-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ailanthus-altissima-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Sapsucker damage",
+                "link": "/disease/Ailanthus-altissima-Sapsucker-damage.html"
+            },
+            {
+                "diseaseName": "Borer",
+                "link": "/disease/Ailanthus-altissima-Borer.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Ailanthus-altissima-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Ailanthus-altissima-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Ailanthus-altissima-Thrips.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ailanthus-altissima-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ailanthus-altissima-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Ailanthus-altissima-Lichen.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Convolvulus arvensis",
+                "link": "/wiki/Convolvulus_arvensis.html",
+                "imageUrl": "/wiki-image/1080/201175439218147328.jpeg",
+                "displayName": "Field bindweed"
+            },
+            {
+                "scientificName": "Piper auritum",
+                "link": "/wiki/Piper_auritum.html",
+                "imageUrl": "/wiki-image/1080/154096619099258880.jpeg",
+                "displayName": "Hoja Santa"
+            },
+            {
+                "scientificName": "Brachiaria mutica",
+                "link": "/wiki/Brachiaria_mutica.html",
+                "imageUrl": "/wiki-image/1080/217218288827203584.jpeg",
+                "displayName": "Para grass"
+            },
+            {
+                "scientificName": "Salix babylonica",
+                "link": "/wiki/Salix_babylonica.html",
+                "imageUrl": "/wiki-image/1080/202654806343680000.jpeg",
+                "displayName": "Weeping willow"
+            },
+            {
+                "scientificName": "Rosa gallica",
+                "link": "/wiki/Rosa_gallica.html",
+                "imageUrl": "/wiki-image/1080/202653204320878592.jpeg",
+                "displayName": "French rose"
+            },
+            {
+                "scientificName": "Ruellia simplex",
+                "link": "/wiki/Ruellia_simplex.html",
+                "imageUrl": "/wiki-image/1080/154113996536938507.jpeg",
+                "displayName": "Mexican petunia"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Ailanthus_altissima.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ailanthus_altissima.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ailanthus_altissima.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ailanthus_altissima.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Ailanthus_altissima.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Ailanthus_altissima.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Ailanthus_altissima.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ailanthus_altissima.html",
+            "values": [
+                "Care Tree of heaven",
+                "Care Tree of heaven",
+                "Grow Tree of heaven",
+                "Maintain Tree of heaven",
+                "Tree of heaven Care",
+                "Tree of heaven Grow",
+                "Tree of heaven Maintain",
+                "Tree of heaven Cares",
+                "Growth Tree of heaven",
+                "Maintains Tree of heaven",
+                "Tree of heaven Growth",
+                "Tree of heaven Maintains",
+                "Tree of heaven Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ailanthus-altissima-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ailanthus-altissima-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ailanthus-altissima-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ailanthus-altissima-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ailanthus-altissima-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ailanthus_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ailanthus_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Ailanthus_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Ailanthus_altissima.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ailanthus_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ailanthus_altissima.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Ailanthus_altissima.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ailanthus_altissima.html"
+        }
+    ]
+}

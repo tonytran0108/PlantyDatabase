@@ -1,0 +1,953 @@
+{
+    "title": "Mango tree (Mangifera indica) - PictureThis",
+    "displayName": "Mango tree",
+    "otherCommonName": "Indian mango",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "BING-JHEN HONG",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317750884683579392.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/30269758",
+                "authorLink": "https://www.inaturalist.org/people/jagdishsupekar",
+                "author": "jagdishsupekar",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153693016727486475.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "BING-JHEN HONG",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/348103659082907648.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157437695633653772.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157154481195188236.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Mango tree is a large tree native to the Indian subcontinent. It is most well-known for the tropical fruit it produces, and mango is the national fruit of India, Pakistan, and the Philippines. Mango tree can also be used for wood after the treeÃ¢ÂÂs fruit production is over. This type of wood is highly prized for making musical instruments.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Mango tree is a large tree native to the Indian subcontinent. It is most well-known for the tropical fruit it produces, and mango is the national fruit of India, Pakistan, and the Philippines. Mango tree can also be used for wood after the treeÃ¢ÂÂs fruit production is over. This type of wood is highly prized for making musical instruments.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Mango tree (<i>Mangifera indica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mangifera",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Mangifera.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cashew",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Anacardiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m to 20 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803464112766979.jpeg",
+        "habitat": "Humid tropical forests, more open, secondary formations",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Mango tree is native to Belize, China, Myanmar, and Thailand. This tree has been cultivated in Asia, the Indian subcontinent, eastern Africa, and northwestern Africa as an ornamental and for fruit production. However, it has escaped cultivation and has become invasive in many tropical and subtropical locations ranging from Australia to Brazil to Hawaii.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 521.2109598, \"2\": 535.5251805, \"3\": 528.9344289, \"4\": 477.8874879, \"5\": 500.763688, \"6\": 517.0, \"7\": 588.1704161, \"8\": 490.0667402, \"9\": 420.172058, \"10\": 415.4898963, \"11\": 420.0824188, \"12\": 485.9708097}, \"fruit_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 72.51390955, \"2\": 83.22731971, \"3\": 102.9513449, \"4\": 91.90964578, \"5\": 90.62663953, \"6\": 108.0, \"7\": 90.90070287, \"8\": 74.01629116, \"9\": 57.77662786, \"10\": 66.79819116, \"11\": 55.01271224, \"12\": 68.14898389}, \"fruit_month\": 3}, \"Csa\": {\"trends\": {\"1\": 71.54234862, \"2\": 81.12663421, \"3\": 72.87599877, \"4\": 55.593619, \"5\": 71.81092943, \"6\": 93.0, \"7\": 96.68927358, \"8\": 63.14941725, \"9\": 43.07014285, \"10\": 45.68369442, \"11\": 59.45782258, \"12\": 58.20759219}, \"fruit_month\": 2}, \"Csb\": {\"trends\": {\"1\": 38.64173644, \"2\": 29.68158295, \"3\": 51.46118224, \"4\": 31.26492741, \"5\": 45.75014817, \"6\": 70.0, \"7\": 31.51389787, \"8\": 17.05591247, \"9\": 33.4164294, \"10\": 26.5224217, \"11\": 35.61659848, \"12\": 37.02181912}, \"fruit_month\": 3}, \"Default\": {\"trends\": {\"1\": 1944.972929, \"2\": 2009.875826, \"3\": 2086.94915, \"4\": 1846.760821, \"5\": 1991.656181, \"6\": 2346.0, \"7\": 2288.837404, \"8\": 2205.457499, \"9\": 1840.05312, \"10\": 1873.299287, \"11\": 1738.145725, \"12\": 1836.596102}, \"fruit_month\": 3}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 778.2512607, \"2\": 743.8463548, \"3\": 678.1461244, \"4\": 604.4158691, \"5\": 629.2186901, \"6\": 759.0147413, \"7\": 934.366664, \"8\": 964.8533896, \"9\": 971.3017753, \"10\": 829.9451512, \"11\": 824.8142382, \"12\": 830.0}, \"fruit_month\": 9}, \"Csa\": {\"trends\": {\"1\": 168.3194837, \"2\": 137.8421126, \"3\": 119.7304763, \"4\": 96.65353523, \"5\": 112.9739146, \"6\": 143.7723333, \"7\": 167.267256, \"8\": 180.6686476, \"9\": 196.9968229, \"10\": 189.1535744, \"11\": 172.6099784, \"12\": 167.0}, \"fruit_month\": 9}, \"BSk\": {\"trends\": {\"1\": 123.0, \"2\": 147.0, \"3\": 171.0, \"4\": 191.0, \"5\": 263.0, \"6\": 293.0, \"7\": 333.0, \"8\": 271.0, \"9\": 271.0, \"10\": 209.0, \"11\": 117.0, \"12\": 126.0}, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "In addition to fresh food, it can be canned or made into preserves and jams, etc. Its leaves and bark can be used as yellow dyes.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Mangos have cosmetic effects and nourish the skin.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Mango tree is a fruit-bearing evergreen tree commonly found in tropical and subtropical gardens. It is prized for its fragrant blossoms and long, dense green leaves. These leaves can be used as fodder for cattle, and is good for boundaries. The timber can be used for furniture. Mango tree is a shade-providing feature plant in tropical gardens Plant with Marigolds or Mint to deter pests.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Fruit of love",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In Indian Buddhism and Hindu monasteries, there are patterns of leaves, flowers and fruits from the Indian mango tree trees. Hindus believe that mango tree flowers' five petals represent the five arrows of Kamadeva, the god of love. They use mango treees to worship Saraswati, the goddess of love.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Mango||Mango tree",
+                "values": [
+                    "The English word \"mango\" is originated from the Malayalam word mangga via Dravidian-Tamil in which mankay as man for mango tree and kay for fruit or maangaay during the spice trade period with South India in the 15th and 16th centuries."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from the tropics, mango tree thrives in high humidity and regular rainfall. It prefers consistent moisture, with optimal watering every 1-2 weeks. Typically grown outdoors, mango tree benefits from warm temperatures and seasonal rains that enhance its growth and fruiting cycle.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing mango tree enhances growth and fruit yield. Use high phosphorus fertilizers for flowering and balanced ones for overall health. Apply in early spring, midsummer, and pre-monsoon, adjusting dosage for age. Wear gloves, irrigate afterwards, and conduct soil tests for optimized nutrition.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mango tree requires annual pruning to enhance fruit production and health. Key methods involve removing dead branches, thinning out crowded areas, and ensuring an open canopy for air circulation. Optimal pruning occurs from early to late spring. Always sterilize tools to prevent infection.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mango tree is a large evergreen tree that produces succulent fruit. To propagate, use semi-hardwood cuttings treated with rooting hormone, planted in well-draining sandy mix. Maintain consistent moisture and warmth for root establishment, preserving the genetic integrity of the parent plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot mango tree every 2-3 years in early spring to support its robust root system. Use a large, sturdy container for growth. After repotting, water thoroughly and provide indirect light for recovery, ensuring it has room to flourish.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Mangifera_indica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is mango tree food for?",
+            "link": "/ask/Mangifera_indica-0.html"
+        },
+        {
+            "q": "How often should mango tree be watered?",
+            "link": "/ask/Mangifera_indica-1.html"
+        },
+        {
+            "q": "How long does it take for mango tree to bear fruit?",
+            "link": "/ask/Mangifera_indica-2.html"
+        },
+        {
+            "q": "Where does mango tree grow best?",
+            "link": "/ask/Mangifera_indica-3.html"
+        },
+        {
+            "q": "How big does mango tree get?",
+            "link": "/ask/Mangifera_indica-4.html"
+        },
+        {
+            "q": "What is the use of mango tree?",
+            "link": "/ask/Mangifera_indica-5.html"
+        },
+        {
+            "q": "Can I eat mango tree leaves?",
+            "link": "/ask/Mangifera_indica-6.html"
+        },
+        {
+            "q": "How many hours of sun does a mango tree need?",
+            "link": "/ask/Mangifera_indica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Mangifera-indica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Mangifera-indica-Wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Mangifera-indica-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Mangifera-indica-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Mangifera-indica-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Mangifera-indica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Mangifera-indica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Mangifera-indica-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "psyllid",
+                "link": "/disease/Mangifera-indica-psyllid.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Mangifera-indica-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Mangifera-indica-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Mangifera-indica-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Mangifera-indica-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Mangifera-indica-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Mangifera-indica-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Mangifera-indica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Mangifera-indica-Mealybug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Mangifera-indica-Aphid.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Mangifera-indica-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Mangifera-indica-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Mangifera-indica-Black-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Mangifera-indica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Mangifera-indica-Underwatering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Mangifera-indica-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Mangifera-indica-Leafminer-stripe.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Erythrina variegata",
+                "link": "/wiki/Erythrina_variegata.html",
+                "imageUrl": "/wiki-image/1080/153453318897664027.jpeg",
+                "displayName": "Indian coral tree"
+            },
+            {
+                "scientificName": "Crocosmia crocosmiiflora",
+                "link": "/wiki/Crocosmia_crocosmiiflora.html",
+                "imageUrl": "/wiki-image/1080/348127925648130048.jpeg",
+                "displayName": "Montbretia"
+            },
+            {
+                "scientificName": "Ipomoea cordatotriloba",
+                "link": "/wiki/Ipomoea_cordatotriloba.html",
+                "imageUrl": "/wiki-image/1080/154200037616779295.jpeg",
+                "displayName": "Tievine"
+            },
+            {
+                "scientificName": "Callisia fragrans",
+                "link": "/wiki/Callisia_fragrans.html",
+                "imageUrl": "/wiki-image/1080/153873169130717209.jpeg",
+                "displayName": "Basket plant"
+            },
+            {
+                "scientificName": "Canna indica",
+                "link": "/wiki/Canna_indica.html",
+                "imageUrl": "/wiki-image/1080/154076621731528708.jpeg",
+                "displayName": "Indian shot"
+            },
+            {
+                "scientificName": "Peperomia pellucida",
+                "link": "/wiki/Peperomia_pellucida.html",
+                "imageUrl": "/wiki-image/1080/154041145301663773.jpeg",
+                "displayName": "Pepper elder"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Mangifera_indica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Mangifera_indica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Mangifera_indica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Mangifera_indica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Mangifera_indica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Mangifera_indica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Mangifera_indica.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Mangifera_indica.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Mangifera_indica.html",
+            "values": [
+                "Care Mango tree",
+                "Care Mango tree",
+                "Grow Mango tree",
+                "Maintain Mango tree",
+                "Mango tree Care",
+                "Mango tree Grow",
+                "Mango tree Maintain",
+                "Mango tree Cares",
+                "Growth Mango tree",
+                "Maintains Mango tree",
+                "Mango tree Growth",
+                "Mango tree Maintains",
+                "Mango tree Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mangifera-indica-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Mangifera_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Mangifera_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Mangifera_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Mangifera_indica.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Mangifera_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Mangifera_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Mangifera_indica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Mangifera_indica.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Mangifera_indica.html"
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+{
+    "title": "Aloe vera - PictureThis",
+    "displayName": "Aloe vera",
+    "otherCommonName": "Chinese aloe, Wand of heaven, Burn aloe",
+    "mainImage": {
+        "copyright": {
+            "width": 1871,
+            "height": 1871,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "arisaema",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/242358321552261120.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23885020",
+                "authorLink": "https://www.inaturalist.org/people/mdpurdy",
+                "author": "mdpurdy",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153974573308575777.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1440,
+                "height": 1920,
+                "copyrightType": "CC",
+                "referral": "https://pixy.org/84064/",
+                "authorLink": "https://pixy.org/author/Jolie_Mowrey/",
+                "author": "Jolie Mowrey",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154060210661490718.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 358,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/482087",
+                "authorLink": "https://www.inaturalist.org/people/scotty",
+                "author": "scotty",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152463225856720897.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/37541962",
+                "authorLink": "https://www.inaturalist.org/people/charro",
+                "author": "charro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153440391046103073.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Aloe vera is an evergreen succulent species native to the Arabian Peninsula. The thick leaves are filled with gooey flesh that stores water for survival in its native desert territories. Aloe vera has become a popular houseplant and is also incorporated into a wide range of cosmetics and skin-care products.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Aloe vera is an evergreen succulent species native to the Arabian Peninsula. The thick leaves are filled with gooey flesh that stores water for survival in its native desert territories. Aloe vera has become a popular houseplant and is also incorporated into a wide range of cosmetics and skin-care products.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Aloe vera (<i>Aloe vera</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Aloe",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Aloe.html"
+            },
+            {
+                "type": "Family",
+                "name": "Asphodel",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asphodelaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Succulent, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 10 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Winter",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801424003301380.jpeg",
+        "habitat": "Maritime sands, rocks",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Aloe vera is thought to originate from the Arabian Peninsula, with a wild native population known today only in Oman. It naturally grows in arid, sandy conditions. Aloe vera is cultivated throughout the world, and has escaped to grow wild in many countries in tropical and subtropical regions.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "5237",
+                "5361",
+                "5770",
+                "5429",
+                "5272",
+                "4857",
+                "6241",
+                "6998",
+                "7124",
+                "6009",
+                "4244",
+                "5632"
+            ],
+            "north": [
+                "60598",
+                "71227",
+                "95344",
+                "110612",
+                "110516",
+                "81386",
+                "76138",
+                "63767",
+                "54914",
+                "43441",
+                "39977",
+                "57260"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Aloe vera can be used directly for beauty treatment. It can tighten, soften, and moisturize skin and diminish inflammation.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Aloe vera is an iconic piece found in rock and succulent gardens all over the world. Its interesting shape and verdant color have won this plant an Award of Garden Merit, which has only made it even more popular. Aloe vera is typically grown near other low-water plants, such as cacti or other succulents, or in pots as a standalone. It works great as a specimen plant in a rock garden or in containers.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purity, healing, self-love, immortality",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "When you hear of Aloe vera, you think of gel, facial masks and maybe even aloe yogurt. It is widely used in our daily lives. However, never eat it raw, since it contains aloin, which can cause diarrhea. According to legend, Aloe vera won the favor of Alexander the Great on one of his expeditions for its edible and anti-inflammatory properties. Alexander the Great sustained his soldiers by growing Aloe vera, which was then widely cultivated.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Aloe vera",
+                "values": [
+                    "Its Latin name, aloe vera, is most commonly used, where aloe stems from the word \"alloeh\" in Arabic, meaning shining and bitter, just like its pulp. It tastes bitter even with its crystal-clear appearance."
+                ]
+            },
+            {
+                "key": "True aloe",
+                "values": [
+                    "When people hear the name \"true aloe\", they all raise the same question. Is there a fake aloe? The \"true\" in true aloe is not used to identify the authenticity of aloe. Instead, it is derived from its scientific nomenclature where its species epithet, Vera, means \"true\" or \"genuine\"."
+                ]
+            },
+            {
+                "key": "Barbados aloe||Chinese aloe||Mediterranean aloe",
+                "values": [
+                    "When you realize that Aloe vera is being called differently based on different geographical locations, you might wonder about the plant's origin. In fact, it did not originate from Barbados, China, or even the Mediterranean. It actually originated from the Arabian Peninsula, but nobody calls it Arabian aloe."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Aloe vera, containing aloin, can cause <strong>digestive upset</strong> and liver damage in humans when ingested. <strong>Toxic to cats</strong> and mildly toxic to dogs, it may cause vomiting, lethargy, and depression. Skin contact with aloe vera may irritate sensitive individuals. Keep away from children and cognitively impaired people; veterinary care is advised for affected pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Aloe_vera.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Rosettes of gray-green, fleshy leaves, 2-3 feet (60-90 cm) long.",
+            "Yellow flowers on 3-5 foot tall (0.9-1.5 m) panicles.",
+            "Red or yellow-orange flowers in 3-foot (90 cm) spikes.",
+            "Triangular, pointed leaves with white spots, 18 inches (45 cm) long.",
+            "Short, stout green stem with fleshy leaves in a rosette."
+        ],
+        "title": "Quickly Identify Aloe vera",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Aloe-vera.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from arid regions, aloe vera exhibits high drought tolerance and requires minimal watering, typically once every three weeks. Its thick leaves efficiently store water, making it suitable for indoor cultivation in well-draining soil that mimics its desert habitat.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize aloe vera sparingly with succulent-specific feed every 6-8 weeks during spring-summer, using quarter strength for delicate roots. Cease feeding in cooler seasons to prevent over-fertilization. Precise measurements are crucial to avoid nutrient burn and ensure a robust specimen.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Aloe vera requires minimal pruning, limited to removing spent flower stalks and dead or discolored leaves. Trim orange or brown leaves to enhance nutrient delivery to healthy parts. Use a knife for smaller plants and pruning shears for larger ones.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagating aloe vera involves a simple cutting technique. Sever a healthy leaf near the stem and let it callous. Place the cutting in well-draining soil with consistent moisture and warmth. Avoid overwatering to prevent decay, and be patient as roots develop over time.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot aloe vera every 2 years when root-bound to keep its rosette shape. Spring is ideal for repotting to enhance growth. Use a slightly larger pot with good drainage, water minimally post-repotting, and provide bright, indirect sunlight for recovery.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Aloe_vera.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is aloe vera good for?",
+            "link": "/ask/Aloe_vera-0.html"
+        },
+        {
+            "q": "Is aloe vera good for the face?",
+            "link": "/ask/Aloe_vera-1.html"
+        },
+        {
+            "q": "Can one apply aloe vera to the face daily?",
+            "link": "/ask/Aloe_vera-2.html"
+        },
+        {
+            "q": "How do you eat fresh aloe vera?",
+            "link": "/ask/Aloe_vera-3.html"
+        },
+        {
+            "q": "How can I use aloe vera for hair growth?",
+            "link": "/ask/Aloe_vera-4.html"
+        },
+        {
+            "q": "Is aloe vera good for wrinkles?",
+            "link": "/ask/Aloe_vera-5.html"
+        },
+        {
+            "q": "How do you take care of aloe vera?",
+            "link": "/ask/Aloe_vera-6.html"
+        },
+        {
+            "q": "How big is aloe vera?",
+            "link": "/ask/Aloe_vera-7.html"
+        },
+        {
+            "q": "Does aloe vera stimulate collagen?",
+            "link": "/ask/Aloe_vera-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Aloe-vera-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Aloe-vera-Black-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Aloe-vera-Wilting.html"
+            },
+            {
+                "diseaseName": "Soft Rot",
+                "link": "/disease/Aloe-vera-Soft-Rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Aloe-vera-Brown-spot.html"
+            },
+            {
+                "diseaseName": "leaf discolorations",
+                "link": "/disease/Aloe-vera-leaf-discolorations.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Aloe-vera-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Etiolated stem",
+                "link": "/disease/Aloe-vera-Etiolated-stem.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Aloe-vera-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Aloe-vera-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Aloe-vera-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Aloe-vera-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Aloe-vera-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wrinkling",
+                "link": "/disease/Aloe-vera-Leaf-wrinkling.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Aloe-vera-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Aloe-vera-White-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Aloe-vera-Black-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Aloe_vera.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Aloe_vera.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Aloe_vera.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Aloe_vera.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Aloe_vera.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Aloe_vera.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Aloe_vera.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Aloe_vera.html",
+            "values": [
+                "Care Aloe vera",
+                "Care Aloe vera",
+                "Grow Aloe vera",
+                "Maintain Aloe vera",
+                "Aloe vera Care",
+                "Aloe vera Grow",
+                "Aloe vera Maintain",
+                "Aloe vera Cares",
+                "Growth Aloe vera",
+                "Maintains Aloe vera",
+                "Aloe vera Growth",
+                "Aloe vera Maintains",
+                "Aloe vera Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-leaf-discolorations.html",
+            "values": [
+                "leaf discolorations"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Etiolated-stem.html",
+            "values": [
+                "Etiolated stem"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Leaf-wrinkling.html",
+            "values": [
+                "Leaf wrinkling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aloe-vera-Soft-Rot.html",
+            "values": [
+                "Soft Rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Aloe_vera.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Aloe_vera.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Aloe_vera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Aloe_vera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Aloe_vera.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Aloe_vera.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Aloe_vera.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Aloe_vera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Aloe_vera.html"
+        },
+        {
+            "title": "How to arrange succulents together?",
+            "link": "/succulent-arrangements/Aloe_vera.html",
+            "lmsicon": "/wiki-image/1080/545508842865000448.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Aloe_vera.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Aloe_vera.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Aloe_vera.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Aloe_vera.html"
+        }
+    ]
+}

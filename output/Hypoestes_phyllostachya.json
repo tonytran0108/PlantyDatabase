@@ -1,0 +1,999 @@
+{
+    "title": "Polka dot plant (Hypoestes phyllostachya) - PictureThis",
+    "displayName": "Polka dot plant",
+    "otherCommonName": "Baby's tears, Measles plant",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Xiaoyan Chen",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347095333905793024.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24598873",
+                "authorLink": "https://www.inaturalist.org/people/miquelon",
+                "author": "miquelon",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154014211561750555.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/91123567",
+                "authorLink": "https://www.inaturalist.org/people/crystified",
+                "author": "crystified",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422707133641490444.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/98400830",
+                "authorLink": "https://www.inaturalist.org/people/shelmill",
+                "author": "shelmill",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422707137936457735.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/46164708",
+                "authorLink": "https://www.inaturalist.org/people/lc80series",
+                "author": "Matt Murrah",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/422707137936457738.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Polka dot plant 'Splash Pink'",
+            "link": "/wiki/Hypoestes_phyllostachya__Splash_Pink_.html"
+        },
+        {
+            "displayName": "Polka dot plant 'Confetti Pink'",
+            "link": "/wiki/Hypoestes_phyllostachya__Confetti_Pink_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The polka dot plant, also known as Hypoestes phyllostachya, has spots of colors on its variegated spiky leaves. This common houseplant is most often pink, but white and red varieties can be found. To make the color in the leaves of the polka dot plant as vibrant as possible, place it in indirect but bright sunlight.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The polka dot plant, also known as Hypoestes phyllostachya, has spots of colors on its variegated spiky leaves. This common houseplant is most often pink, but white and red varieties can be found. To make the color in the leaves of the polka dot plant as vibrant as possible, place it in indirect but bright sunlight.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Polka dot plant (<i>Hypoestes phyllostachya</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Hypoestes",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Hypoestes.html"
+            },
+            {
+                "type": "Family",
+                "name": "Acanthus",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Acanthaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288810299826143232.jpeg",
+        "habitat": "Humid tropical forest areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Polka dot plant is native to Madagascar, growing along waterways, woodlands, and rainforest margins. It has been introduced as a garden plant in India, Mexico, Central America, Australia, and a few South American countries. In Australia, the plant has become widely naturalized and is considered an invasive weed.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3732",
+                "3521",
+                "3041",
+                "2467",
+                "1927",
+                "1660",
+                "1932",
+                "2405",
+                "3091",
+                "3215",
+                "2757",
+                "3778"
+            ],
+            "north": [
+                "15340",
+                "18304",
+                "25317",
+                "34744",
+                "32535",
+                "25910",
+                "23727",
+                "20206",
+                "15911",
+                "10932",
+                "10997",
+                "13739"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "While most popular as an indoor houseplant, polka dot plant is sometimes used in landscaping as a bedding plant. It is valued most for the visual interest of its leaves, which can add splashes of color to porch container gardens or beneath shade trees. They pair well with Impatiens, Sweet potato vines, and Caladiums.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Patience",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Polka dot plant is popular for use in planted glass terrarium setups, and, in fact, it is one of the few plants that tolerate these conditions well. This is because it doesn't grow tall, and it can handle high humidity while also producing attractive foliage.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Polka dot plant",
+                "values": [
+                    "It must be one of the most colorful plants. This beauty shows off red, pink or white leaves marked with splashes of dark green making it appear similar to the Polka dot pattern. So, it is called the Polka dot plant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Ovate leaves with polka-dot patterns in pink, red, white, and green.",
+            "Bushy growth up to 24 inches (60 cm) tall, varying with hybrids.",
+            "Small tubular flowers in clusters, with pale pink to lavender hues.",
+            "Leaves 2-4 inches (5-10 cm) long, green with lavender, red, or pink spots.",
+            "Visible vein pattern and glossy texture on leaves, making them decorative."
+        ],
+        "title": "Quickly Identify Polka dot plant",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Hypoestes-phyllostachya.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Polka dot plant prefers humid conditions akin to its tropical rainforest origin. It is moderately drought-tolerant, requiring weekly watering for moisture maintenance. As an evergreen, polka dot plant conserves water in its leaves, reducing the need for frequent watering compared to deciduous plants.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For polka dot plant, use a high nitrogen fertilizer every 4-6 weeks in spring and summer, then every 8 weeks in fall and winter. Water before fertilizing to aid absorption. Always use half the recommended strength to prevent root burn and ensure optimal nutrient uptake.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Polka dot plant features colorful, dotted foliage and benefits from regular pruning. Trim in early spring for bushier growth and post-flowering in late spring for shape. Use clean, sharp tools and cut above a leaf node to prevent legginess and promote health and vibrancy.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Polka dot plant propagates best in Spring and Summer through cuttings. Successful rooting is indicated by new leaf growth. To enhance rooting chances, keep cuttings moist and in partial shade.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Polka dot plant is a bushy plant with vibrant foliage, best repotted every 2-3 years in spring into a larger, well-draining pot. Keep the soil consistently moist and provide bright, indirect light to promote healthy growth and its signature colorful spots.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Hypoestes_phyllostachya.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is the polka dot plant an indoor plant?",
+            "link": "/ask/Hypoestes_phyllostachya-0.html"
+        },
+        {
+            "q": "How much sun does a polka dot plant need?",
+            "link": "/ask/Hypoestes_phyllostachya-1.html"
+        },
+        {
+            "q": "How often do you water a polka dot plant?",
+            "link": "/ask/Hypoestes_phyllostachya-2.html"
+        },
+        {
+            "q": "How long do polka dot plant live?",
+            "link": "/ask/Hypoestes_phyllostachya-3.html"
+        },
+        {
+            "q": "How big does polka dot plant get?",
+            "link": "/ask/Hypoestes_phyllostachya-4.html"
+        },
+        {
+            "q": "Is polka dot plant poisonous?",
+            "link": "/ask/Hypoestes_phyllostachya-5.html"
+        },
+        {
+            "q": "How do you revive a polka dot plant?",
+            "link": "/ask/Hypoestes_phyllostachya-6.html"
+        },
+        {
+            "q": "What kind of soil does polka dot plant need?",
+            "link": "/ask/Hypoestes_phyllostachya-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Hypoestes-phyllostachya-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Hypoestes-phyllostachya-Wilting.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Hypoestes-phyllostachya-Mealybug.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Hypoestes-phyllostachya-Notch.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Hypoestes-phyllostachya-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Hypoestes-phyllostachya-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Hypoestes-phyllostachya-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Hypoestes-phyllostachya-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Hypoestes-phyllostachya-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Hypoestes-phyllostachya-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Hypoestes-phyllostachya-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Hypoestes-phyllostachya-White-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Hypoestes-phyllostachya-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Hypoestes-phyllostachya-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Hypoestes-phyllostachya-Thrips.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Hypoestes-phyllostachya-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Hypoestes-phyllostachya-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Hypoestes-phyllostachya-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Hypoestes-phyllostachya-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Hypoestes-phyllostachya-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Hypoestes-phyllostachya-Weevil.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Hypoestes-phyllostachya-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Hypoestes-phyllostachya-Whitefly.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Hypoestes-phyllostachya-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Hypoestes-phyllostachya-Aphid.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Hypoestes-phyllostachya-Dodder.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Hypoestes-phyllostachya-Scars.html"
+            },
+            {
+                "diseaseName": "Snail and slug",
+                "link": "/disease/Hypoestes-phyllostachya-Snail-and-slug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Nymphaea tetragona",
+                "link": "/wiki/Nymphaea_tetragona.html",
+                "imageUrl": "/wiki-image/1080/153884228671504392.jpeg",
+                "displayName": "Pygmy water lily"
+            },
+            {
+                "scientificName": "Hibiscus rosa-sinensis",
+                "link": "/wiki/Hibiscus_rosa-sinensis.html",
+                "imageUrl": "/wiki-image/1080/154120121160302616.jpeg",
+                "displayName": "Chinese hibiscus"
+            },
+            {
+                "scientificName": "Drimiopsis maculata",
+                "link": "/wiki/Drimiopsis_maculata.html",
+                "imageUrl": "/wiki-image/1080/200454906914471936.jpeg",
+                "displayName": "Little white soldiers"
+            },
+            {
+                "scientificName": "Metrosideros excelsa",
+                "link": "/wiki/Metrosideros_excelsa.html",
+                "imageUrl": "/wiki-image/1080/153437543482785798.jpeg",
+                "displayName": "Pohutukawa"
+            },
+            {
+                "scientificName": "Cereus jamacaru",
+                "link": "/wiki/Cereus_jamacaru.html",
+                "imageUrl": "/wiki-image/1080/216430402846359552.jpeg",
+                "displayName": "Mandacaru"
+            },
+            {
+                "scientificName": "Ixora coccinea",
+                "link": "/wiki/Ixora_coccinea.html",
+                "imageUrl": "/wiki-image/1080/201213887765413888.jpeg",
+                "displayName": "Flame of the woods"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Hypoestes_phyllostachya.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Hypoestes_phyllostachya.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Hypoestes_phyllostachya.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Hypoestes_phyllostachya.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Hypoestes_phyllostachya.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Hypoestes_phyllostachya.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Hypoestes_phyllostachya.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Hypoestes_phyllostachya.html",
+            "values": [
+                "Care Polka dot plant",
+                "Care Polka dot plant",
+                "Grow Polka dot plant",
+                "Maintain Polka dot plant",
+                "Polka dot plant Care",
+                "Polka dot plant Grow",
+                "Polka dot plant Maintain",
+                "Polka dot plant Cares",
+                "Growth Polka dot plant",
+                "Maintains Polka dot plant",
+                "Polka dot plant Growth",
+                "Polka dot plant Maintains",
+                "Polka dot plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypoestes-phyllostachya-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Hypoestes_phyllostachya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Hypoestes_phyllostachya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Hypoestes_phyllostachya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Hypoestes_phyllostachya.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Hypoestes_phyllostachya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Hypoestes_phyllostachya.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Hypoestes_phyllostachya.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Hypoestes_phyllostachya.html"
+        }
+    ]
+}

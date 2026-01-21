@@ -1,0 +1,1005 @@
+{
+    "title": "Horse Chestnut  (Aesculus hippocastanum) - PictureThis",
+    "displayName": "Horse Chestnut ",
+    "otherCommonName": "Buckeye , Conker tree",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153404669803102231.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17761108",
+                "authorLink": "https://www.inaturalist.org/people/natemartineau",
+                "author": "natemartineau",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152380925693394946.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3264,
+                "height": 2448,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_(1).jpg",
+                "authorLink": "https://www.flickr.com/people/20664893@N00",
+                "author": "Wendy Cutler",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154183437568180251.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8300722",
+                "authorLink": "https://www.inaturalist.org/people/achang",
+                "author": "achang",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881123410149422.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31696618",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153890241625718822.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Horse chestnut 'Baumannii'",
+            "link": "/wiki/Aesculus_hippocastanum__Baumannii_.html"
+        },
+        {
+            "displayName": "Bottlebrush buckeye 'Briotii'",
+            "link": "/wiki/Aesculus_ÃÂ_carnea__Briotii_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The horse Chestnut was the tree that Anne Frank mentioned in her diary. While the original tree fell down in 2010, there have been new trees planted around the world from the original seeds. Horse Chestnut 's seeds resemble chestnuts, but they are inedible and toxic.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The horse Chestnut was the tree that Anne Frank mentioned in her diary. While the original tree fell down in 2010, there have been new trees planted around the world from the original seeds. Horse Chestnut 's seeds resemble chestnuts, but they are inedible and toxic.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Horse Chestnut  (<i>Aesculus hippocastanum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Buckeye",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Aesculus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Soapberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Sapindaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 m to 30 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804207142109188.jpeg",
+        "habitat": "Mountain woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Horse Chestnut is a common woodland tree native to the Eastern Mediterranean and Turkmenistan. It has also been introduced to Western Europe and parts of Eastern Europe, several Eastern US states, and New Zealand's South Island. It is classified as an invasive species in Oregon.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 161.0, \"2\": 147.0, \"3\": 180.0, \"4\": 134.0, \"5\": 102.0, \"6\": 75.0, \"7\": 90.0, \"8\": 90.0, \"9\": 129.0, \"10\": 209.0, \"11\": 157.0, \"12\": 142.0}, \"flower_month\": 10}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 31.0, \"2\": 14.0, \"3\": 77.0, \"4\": 384.0, \"5\": 492.0, \"6\": 240.0, \"7\": 212.0, \"8\": 202.0, \"9\": 257.0, \"10\": 192.0, \"11\": 67.0, \"12\": 52.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 202.0, \"2\": 183.0, \"3\": 728.0, \"4\": 2127.0, \"5\": 3368.0, \"6\": 1480.0, \"7\": 1072.0, \"8\": 1213.0, \"9\": 1714.0, \"10\": 1603.0, \"11\": 661.0, \"12\": 239.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 563.0, \"2\": 436.0, \"3\": 1449.0, \"4\": 5672.0, \"5\": 10555.0, \"6\": 4733.0, \"7\": 3666.0, \"8\": 3889.0, \"9\": 5455.0, \"10\": 4531.0, \"11\": 1681.0, \"12\": 713.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 26.0, \"2\": 16.0, \"3\": 53.0, \"4\": 173.0, \"5\": 227.0, \"6\": 122.0, \"7\": 146.0, \"8\": 140.0, \"9\": 178.0, \"10\": 102.0, \"11\": 73.0, \"12\": 43.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 18.0, \"2\": 9.0, \"3\": 31.0, \"4\": 348.0, \"5\": 631.0, \"6\": 284.0, \"7\": 260.0, \"8\": 257.0, \"9\": 294.0, \"10\": 152.0, \"11\": 38.0, \"12\": 13.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 72.0, \"2\": 32.0, \"3\": 155.0, \"4\": 703.0, \"5\": 695.0, \"6\": 310.0, \"7\": 282.0, \"8\": 269.0, \"9\": 472.0, \"10\": 307.0, \"11\": 107.0, \"12\": 65.0}, \"flower_month\": 4}, \"Dfa\": {\"trends\": {\"1\": 45.0, \"2\": 51.0, \"3\": 115.0, \"4\": 917.0, \"5\": 2212.0, \"6\": 861.0, \"7\": 661.0, \"8\": 700.0, \"9\": 1029.0, \"10\": 611.0, \"11\": 105.0, \"12\": 50.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 107.0, \"2\": 91.0, \"3\": 246.0, \"4\": 892.0, \"5\": 2722.0, \"6\": 1280.0, \"7\": 882.0, \"8\": 914.0, \"9\": 1347.0, \"10\": 1438.0, \"11\": 554.0, \"12\": 211.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Horse Chestnut (Aesculus hippocastanum) is a large tree with a wide-spreading canopy that is only suitable for larger gardens and landscapes due to the amount of space it takes up. Still, it's an attractive tree that produces plentiful spring flowers and large brown nuts. Its wide crown makes it a good shade or specimen tree for lawns and parks. Unfortunately, few plants pair well with horse Chestnut due to its allelopathic nature.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Luxury, uniqueness, growth, longevity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Brewers in Bavaria used to plant horse Chestnut around their cellars. The wide branches provided shade and thus kept the cellars cool, but the horse Chestnut hestnut's shallow roots did not invade the cellar itself. This was the genesis of the modern \"beer garden\" and the reason horse Chestnut s are closely associated with beer gardens throughout Germany.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Horse chestnut",
+                "values": [
+                    "The common name, horse-chestnut is reported as having originated from the erroneous belief that the tree was a kind of chestnut although they are actually only distantly related. Also, there is the alleged observation that the fruit or seeds could help panting or coughing horses."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Horse Chestnut is toxic to humans, cats, and dogs.</strong> Consumption causes severe symptoms like face inflammation, loss of coordination, vomiting, and potentially coma in humans. <strong>Ingestion by cats and dogs leads to gastrointestinal upset and lethargy.</strong> Both animals require immediate veterinary care if exposed. Children, cognitively impaired people, and pets should be kept away from horse Chestnut .\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Aesculus_hippocastanum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Large palmate leaves with 5-7 leaflets, up to 10 inches (25 cm) across.",
+            "Creamy white flowers in pyramidal clusters, up to 12 inches (30 cm) tall.",
+            "Fruit with rough, prickly texture, 1-2 inches (2.5-5 cm) in diameter.",
+            "Distinctive yellow fall color of leaves, 4-12 inches (10-30 cm) long.",
+            "Yellow-throated flowers with red-speckled centers, in showy panicles 5-12 feet (1.5-3.6 meters) long."
+        ],
+        "title": "Quickly Identify Horse Chestnut ",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Aesculus-hippocastanum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Horse Chestnut thrives in moist conditions near water sources, requiring watering every 1-2 weeks to maintain balanced moisture. As a deciduous plant, it sheds leaves annually to conserve water in colder months.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Horse Chestnut requires balanced nutrition fertilizers in early spring for optimal growth. Use high nitrogen fertilizers during the growth season, applying every 4-6 weeks. Reduce fertilization in autumn to prevent frost damage. Beginners should prefer slow-release types, while experienced gardeners may use granular formulations.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune horse Chestnut in early spring to shape the tree and remove dead branches. Focus on thinning for better air circulation and disease prevention. Avoid over-pruning to maintain strength. Regular pruning enhances aesthetics and promotes healthy growth. Consult guides for specific techniques.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Horse Chestnut can be propagated via hardwood cuttings, layering, and seeds in autumn or winter. Propagation success is indicated by new growth or roots. Ensure the plant is healthy and well-watered before propagation to enhance success chances.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Aesculus_hippocastanum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How poisonous is horse Chestnut ?",
+            "link": "/ask/Aesculus_hippocastanum-0.html"
+        },
+        {
+            "q": "Why is this plant called horse chestnut?",
+            "link": "/ask/Aesculus_hippocastanum-1.html"
+        },
+        {
+            "q": "Does horse Chestnut grow in America?",
+            "link": "/ask/Aesculus_hippocastanum-2.html"
+        },
+        {
+            "q": "What is the lifespan of a horse Chestnut tree?",
+            "link": "/ask/Aesculus_hippocastanum-3.html"
+        },
+        {
+            "q": "Can you keep a horse Chestnut tree small?",
+            "link": "/ask/Aesculus_hippocastanum-4.html"
+        },
+        {
+            "q": "What can eat horse Chestnut ?",
+            "link": "/ask/Aesculus_hippocastanum-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Aesculus-hippocastanum-Wilting.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Aesculus-hippocastanum-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Aesculus-hippocastanum-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Aesculus-hippocastanum-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Aesculus-hippocastanum-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Aesculus-hippocastanum-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Aesculus-hippocastanum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Aesculus-hippocastanum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Aesculus-hippocastanum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Aesculus-hippocastanum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Aesculus-hippocastanum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Aesculus-hippocastanum-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Aesculus-hippocastanum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Aesculus-hippocastanum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Aesculus-hippocastanum-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Aesculus-hippocastanum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Aesculus-hippocastanum-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Aesculus-hippocastanum-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Aesculus-hippocastanum-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Aesculus-hippocastanum-Spots.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Aesculus-hippocastanum-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Aesculus-hippocastanum-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Aesculus-hippocastanum-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Plumeria pudica",
+                "link": "/wiki/Plumeria_pudica.html",
+                "imageUrl": "/wiki-image/1080/154128015310192672.jpeg",
+                "displayName": "Bridal bouquet"
+            },
+            {
+                "scientificName": "Dracaena reflexa var. angustifolia",
+                "link": "/wiki/Dracaena_reflexa_var._angustifolia.html",
+                "imageUrl": "/wiki-image/1080/153714491563966470.jpeg",
+                "displayName": "Madagascar dragon tree"
+            },
+            {
+                "scientificName": "Hypericum perforatum",
+                "link": "/wiki/Hypericum_perforatum.html",
+                "imageUrl": "/wiki-image/1080/154211354855604233.jpeg",
+                "displayName": "Common St. John's wort"
+            },
+            {
+                "scientificName": "Polyscias fruticosa",
+                "link": "/wiki/Polyscias_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/347123526071123968.jpeg",
+                "displayName": "Ming aralia"
+            },
+            {
+                "scientificName": "Melothria pendula",
+                "link": "/wiki/Melothria_pendula.html",
+                "imageUrl": "/wiki-image/1080/153749624396447751.jpeg",
+                "displayName": "Creeping cucumber"
+            },
+            {
+                "scientificName": "Plumeria rubra",
+                "link": "/wiki/Plumeria_rubra.html",
+                "imageUrl": "/wiki-image/1080/154018648262967327.jpeg",
+                "displayName": "Red frangipani"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Aesculus_hippocastanum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Aesculus_hippocastanum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Aesculus_hippocastanum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Aesculus_hippocastanum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Aesculus_hippocastanum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Aesculus_hippocastanum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Aesculus_hippocastanum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Aesculus_hippocastanum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Aesculus_hippocastanum.html",
+            "values": [
+                "Care Horse Chestnut ",
+                "Care Horse Chestnut ",
+                "Grow Horse Chestnut ",
+                "Maintain Horse Chestnut ",
+                "Horse Chestnut  Care",
+                "Horse Chestnut  Grow",
+                "Horse Chestnut  Maintain",
+                "Horse Chestnut  Cares",
+                "Growth Horse Chestnut ",
+                "Maintains Horse Chestnut ",
+                "Horse Chestnut  Growth",
+                "Horse Chestnut  Maintains",
+                "Horse Chestnut  Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aesculus-hippocastanum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Aesculus_hippocastanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Aesculus_hippocastanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Aesculus_hippocastanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Aesculus_hippocastanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Aesculus_hippocastanum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Aesculus_hippocastanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Aesculus_hippocastanum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Aesculus_hippocastanum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Aesculus_hippocastanum.html"
+        }
+    ]
+}

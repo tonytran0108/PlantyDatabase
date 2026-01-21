@@ -1,0 +1,611 @@
+{
+    "title": "Bull thistle (Cirsium vulgare) - PictureThis",
+    "displayName": "Bull thistle",
+    "otherCommonName": "Bird Thistle, Blue Thistle, Button Thistle, Green thistle, Roadside Thistle, Spear thistle, Fuller's thistle, Swamp Thistle",
+    "mainImage": {
+        "copyright": {
+            "width": 1279,
+            "height": 1278,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201173914504757248.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6245355",
+                "authorLink": "https://www.inaturalist.org/people/penelopegillette",
+                "author": "penelopegillette",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152491972072833024.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/31010759",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152377781777334277.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1179973",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152374642156240899.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8317562",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153664626993659933.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Bull thistle (Cirsium vulgare) is a thistle plant native to Europe, Africa, and Asia. Bull thistle produces a large amount of nectar and attracts pollinators. Bull thistle is considered a noxious weed in areas of Europe and Australia.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Bull thistle (Cirsium vulgare) is a thistle plant native to Europe, Africa, and Asia. Bull thistle produces a large amount of nectar and attracts pollinators. Bull thistle is considered a noxious weed in areas of Europe and Australia.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Bull thistle (<i>Cirsium vulgare</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Thistles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cirsium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736902334742529.png",
+        "habitat": "Fields, waysides, gardens, waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Bull thistle is native to most parts of Eurasia and several countries in northwestern Africa. It grows naturally in wastelands and fields. This plant has seen worldwide distribution but is considered an invasive weed in Canada, the USA, and Australia because it outcompetes crops and native plant species.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "651",
+                "480",
+                "538",
+                "495",
+                "550",
+                "560",
+                "725",
+                "1012",
+                "1240",
+                "1100",
+                "781",
+                "1042"
+            ],
+            "north": [
+                "2672",
+                "6058",
+                "17600",
+                "30064",
+                "34647",
+                "35338",
+                "28490",
+                "12540",
+                "7161",
+                "3183",
+                "1605",
+                "2010"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength, Protection, inconvenience, trouble, aggression, do not intrude",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Although bull thistle is considered to be an invasive or injurious weed in some locations, it does have benefits for farmers because it attracts beneficial insects and birds. Aside from its nectar for pollinators, it also is food to the American Goldfinch, who dines on its seeds. Other birds may use the fibers for building nests.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bull thistle",
+                "values": [
+                    "This plant is considered to be the sixth-largest nectar producer among the plants. Its entire bud is featured with stiff spines that make it look like a ferocious bull. Hence, it is also called bull thistle."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Bull thistle</strong>'s spiny flowers, stems, and leaves can irritate the skin upon contact, causing redness and minor wounds to gardeners and weeders. It is only mildly toxic to humans if consumed in large amounts.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Cirsium_vulgare.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   This is a biennial native to Europe and Asia. It is considered an invasive weed in many regions such as Africa, North America, Australia, and parts of Europe. Bull thistle grows in sunny disturbed areas. The weed takes available light and resources within the soil, eliminating other native plants in its invaded habitat. It can cause contact dermatitis and often obscures visibility or access to invaded areas. The weed is unpalatable to animals and can crowd out native vegetation that would otherwise provide nutrition for grazing animals. Bull thistle can be removed by cutting the weed before it seeds but can also spread via wind. Despite its drawbacks, Bull Thistle is a commercial crop in Australia.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of bull thistle is late spring or early summer. This is before the plant reaches the state of flowering and releasing seeds, which can cause an infestation. Always dispose of the plant carefully to avoid spreading seeds.\n  </div> \n  <ol> \n   <li>Hand-pulling: Wearing protective gloves, grasp bull thistle at the base of the stem and pull firmly to uproot the plant. Ensure you remove the taproot to prevent regrowth.</li> \n   <li>Mowing: Regularly mowing the area can prevent bull thistle from flowering and seeding. Mow when the plant is young and not deeply rooted yet.</li> \n   <li>Mulching: This is an indirect method to control bull thistle. By covering the soil with organic materials like wood chips or straw, you prevent the thistles from receiving sunlight, thereby preventing their growth.</li> \n   <li>Plant competitive species: Planting densely growing plants will inhibit bull thistle growth by competing for nutrients, sunlight, and space.</li> \n   <li>Biocontrol: Introduce species that are natural enemies of bull thistle, such as certain beetles or weevils that feed on the thistles.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive reddish-purple flower heads",
+            "Large spiky leaves with clasping form",
+            "Stout stems with dark purple veins",
+            "Pinkish-purple tubular disc florets",
+            "Feathery pappus on small flat achene fruit"
+        ],
+        "title": "Quickly Identify Bull thistle",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cirsium-vulgare.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, bull thistle thrives in moderate moisture environments. It needs weekly watering for vigor and grows outdoors, utilizing seasonal rains for its water needs, demonstrating its adaptation to efficiently use rainfall during active growth cycles.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of bull thistle is straightforward, typically done by sowing in spring. Success is indicated by the emergence of new seedlings. To prevent overcrowding, ensure adequate spacing between seeds during planting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cirsium_vulgare.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you get rid of bull thistle?",
+            "link": "/ask/Cirsium_vulgare-0.html"
+        },
+        {
+            "q": "Is bull thistle invasive?",
+            "link": "/ask/Cirsium_vulgare-1.html"
+        },
+        {
+            "q": "How does bull thistle spread?",
+            "link": "/ask/Cirsium_vulgare-2.html"
+        },
+        {
+            "q": "Is bull thistle the same as milk thistle?",
+            "link": "/ask/Cirsium_vulgare-3.html"
+        },
+        {
+            "q": "Where does bull thistle grow?",
+            "link": "/ask/Cirsium_vulgare-4.html"
+        },
+        {
+            "q": "Is bull thistle annual or perennial?",
+            "link": "/ask/Cirsium_vulgare-5.html"
+        },
+        {
+            "q": "What is the prefered habitat of bull thistle?",
+            "link": "/ask/Cirsium_vulgare-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alpinia purpurata",
+                "link": "/wiki/Alpinia_purpurata.html",
+                "imageUrl": "/wiki-image/1080/201162696050147328.jpeg",
+                "displayName": "Red ginger"
+            },
+            {
+                "scientificName": "Panicum maximum",
+                "link": "/wiki/Panicum_maximum.html",
+                "imageUrl": "/wiki-image/1080/157206214076268553.jpeg",
+                "displayName": "Guinea grass"
+            },
+            {
+                "scientificName": "Ipomoea lacunosa",
+                "link": "/wiki/Ipomoea_lacunosa.html",
+                "imageUrl": "/wiki-image/1080/152561520478257155.jpeg",
+                "displayName": "White morning-glory"
+            },
+            {
+                "scientificName": "Murraya paniculata",
+                "link": "/wiki/Murraya_paniculata.html",
+                "imageUrl": "/wiki-image/1080/153785788021080065.jpeg",
+                "displayName": "Orange jasmine"
+            },
+            {
+                "scientificName": "Clerodendrum bungei",
+                "link": "/wiki/Clerodendrum_bungei.html",
+                "imageUrl": "/wiki-image/1080/153819490629451796.jpeg",
+                "displayName": "Rose glory bower"
+            },
+            {
+                "scientificName": "Convolvulus arvensis",
+                "link": "/wiki/Convolvulus_arvensis.html",
+                "imageUrl": "/wiki-image/1080/201175439218147328.jpeg",
+                "displayName": "Field bindweed"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cirsium_vulgare.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Cirsium_vulgare.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cirsium_vulgare.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cirsium_vulgare.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cirsium_vulgare.html",
+            "values": [
+                "Care Bull thistle",
+                "Care Bull thistle",
+                "Grow Bull thistle",
+                "Maintain Bull thistle",
+                "Bull thistle Care",
+                "Bull thistle Grow",
+                "Bull thistle Maintain",
+                "Bull thistle Cares",
+                "Growth Bull thistle",
+                "Maintains Bull thistle",
+                "Bull thistle Growth",
+                "Bull thistle Maintains",
+                "Bull thistle Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cirsium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cirsium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cirsium_vulgare.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Cirsium_vulgare.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cirsium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cirsium_vulgare.html"
+        }
+    ]
+}

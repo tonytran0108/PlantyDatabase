@@ -1,0 +1,975 @@
+{
+    "title": "Lemon (Citrus limon) - PictureThis",
+    "displayName": "Lemon",
+    "otherCommonName": "Meyer lemon",
+    "mainImage": {
+        "copyright": {
+            "width": 2960,
+            "height": 2959,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "shyu",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201174112073252864.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 5184,
+                "height": 3888,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157690329904971783.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157064609004519430.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5184,
+                "height": 3888,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157344267210063877.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5184,
+                "height": 3888,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157672862272978950.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Lemon is a cultivated small evergreen tree known for its yellow, juicy, sour fruits full of citric acid. Its origins are unknown, but it was probably first created in India, China, or Burma as a hybrid of sour orange (<em>Citrus</em> ÃÂ <em>aurantium</em>) and citron (<em>Citrus medica</em>). It is commercial fruit cultivated in warm regions around the world.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Lemon is a cultivated small evergreen tree known for its yellow, juicy, sour fruits full of citric acid. Its origins are unknown, but it was probably first created in India, China, or Burma as a hybrid of sour orange (Citrus ÃÂ aurantium) and citron (Citrus medica). It is commercial fruit cultivated in warm regions around the world.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Lemon (<i>Citrus limon</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Citrus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Citrus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rue",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rutaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub, Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early spring, Mid fall, Late fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/406810128238804993.jpeg",
+        "habitat": "Woodland garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Lemon is an artificial hybrid, cultivated so long ago that its native range and habitat are unknown. This popular plant is grown and cultivated widely; you can find it in subtropical parts of Europe, Africa, South and North America, and Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 152.0148491, \"2\": 112.0182768, \"3\": 171.1418168, \"4\": 131.2484028, \"5\": 120.0136044, \"6\": 119.0, \"7\": 164.2827492, \"8\": 191.3658993, \"9\": 154.6403463, \"10\": 149.9969549, \"11\": 134.2993681, \"12\": 126.4472756}, \"flower_month\": 1, \"fruit_month\": 8}, \"Cfb\": {\"trends\": {\"1\": 716.2598412, \"2\": 715.7549495, \"3\": 793.0373296, \"4\": 670.8680444, \"5\": 704.5236151, \"6\": 674.0, \"7\": 864.4656843, \"8\": 896.9032929, \"9\": 846.6902191, \"10\": 847.6784541, \"11\": 670.9393532, \"12\": 688.7177614}, \"flower_month\": 10, \"fruit_month\": 8}, \"Csa\": {\"trends\": {\"1\": 463.941291, \"2\": 484.9702471, \"3\": 474.5037253, \"4\": 496.0106006, \"5\": 464.1253755, \"6\": 531.0, \"7\": 497.2591213, \"8\": 541.9101155, \"9\": 503.3822945, \"10\": 467.9117792, \"11\": 450.4061604, \"12\": 451.2529177}, \"flower_month\": 2, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 212.0341436, \"2\": 173.1425672, \"3\": 232.4053391, \"4\": 191.5808318, \"5\": 199.0532763, \"6\": 158.0, \"7\": 193.0226244, \"8\": 234.1311621, \"9\": 212.7084256, \"10\": 238.7017953, \"11\": 224.1105966, \"12\": 201.7949859}, \"flower_month\": 10, \"fruit_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 22.5492228, \"2\": 29.27659574, \"3\": 46.77530864, \"4\": 32.0, \"5\": 33.94475138, \"6\": 31.88927336, \"7\": 32.0, \"8\": 53.97150997, \"9\": 23.03476483, \"10\": 24.71957672, \"11\": 29.30453564, \"12\": 26.16432866}, \"flower_month\": 11, \"fruit_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 3445.0, \"2\": 2653.0, \"3\": 3047.0, \"4\": 2656.0, \"5\": 2573.0, \"6\": 1999.0, \"7\": 2289.0, \"8\": 3122.0, \"9\": 3852.0, \"10\": 4227.0, \"11\": 3163.0, \"12\": 2967.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 6619.562178, \"2\": 6444.350271, \"3\": 6898.066604, \"4\": 6407.675101, \"5\": 6423.768617, \"6\": 6261.0, \"7\": 6767.535458, \"8\": 7444.101682, \"9\": 7262.908431, \"10\": 7275.732886, \"11\": 6416.752503, \"12\": 6429.228991}, \"flower_month\": 10, \"fruit_month\": 8}, \"BWk\": {\"trends\": {\"1\": 327.0, \"2\": 199.0, \"3\": 293.0, \"4\": 200.0, \"5\": 183.0, \"6\": 141.0, \"7\": 138.0, \"8\": 176.0, \"9\": 348.0, \"10\": 359.0, \"11\": 292.0, \"12\": 244.0}, \"flower_month\": 10, \"fruit_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 2119.0, \"2\": 2522.0, \"3\": 3598.0, \"4\": 3676.0, \"5\": 3533.0, \"6\": 2740.0, \"7\": 2197.0, \"8\": 2061.0, \"9\": 2011.0, \"10\": 2703.0, \"11\": 2372.0, \"12\": 2106.0}, \"flower_month\": 4, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 1629.0, \"2\": 2072.0, \"3\": 3519.0, \"4\": 4946.0, \"5\": 5274.0, \"6\": 5190.0, \"7\": 3942.0, \"8\": 4155.0, \"9\": 3673.0, \"10\": 3159.0, \"11\": 1777.0, \"12\": 1531.0}, \"flower_month\": 5, \"fruit_month\": 8}, \"Dfc\": {\"trends\": {\"1\": 86.0, \"2\": 69.0, \"3\": 101.0, \"4\": 115.0, \"5\": 136.0, \"6\": 114.0, \"7\": 126.0, \"8\": 104.0, \"9\": 109.0, \"10\": 70.0, \"11\": 50.0, \"12\": 78.0}, \"flower_month\": 5, \"fruit_month\": 9}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Spices can be extracted from the leaves, and essential oils from the lemon peels. It is a raw material used in advanced cosmetic products.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Lemons are rich in vitamins, which can effectively promote metabolism and delay aging.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Though lemon trees are typically grown commercially, they have seen a jump in popularity in home gardens. Their compact size (they can even be grown indoors), attractive leaves, and bright, tasty fruit have made them a staple in warmer-climate regions, particularly in Mediterranean-style gardens. Planting a lime tree nearby will help pollinate your lemon tree, and lemon balm will help deter harmful caterpillars. Roses, geraniums, and jasmine work great when planted under lemon trees.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purification, abundance, happiness, love",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Those with this birth flower are very charming and popular, but are also the subject of jealousy from those of the same gender, so they have to work harder to win favor from them. It belongs to the citrus family. They blossom in summer, mostly small white or yellow flowers that have a mosquito repellent effect.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Lemon",
+                "values": [
+                    "The word Ã¢ÂÂlemonÃ¢ÂÂ is derived from the Anglo-Saxon language and from the word Ã¢ÂÂlymonÃ¢ÂÂ from the old French language meaning Ã¢ÂÂcitrusÃ¢ÂÂ. As the appearance of the fruit is almost identical to a citrus, it is still being called lemon up to this day."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Every part of the lemon is <strong>severely poisonous to cats</strong> and mildly to moderately toxic to dogs. Limonene, linalool, and psoralen cause symptoms like vomiting, tremors, and in severe cases, death. Even small amounts can be harmful, requiring veterinary attention.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Citrus_limon.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lemon thrives in subtropical climates, requiring moderate watering and consistent moisture without waterlogging. Ideally, water lemon every 1-2 weeks, allowing slight soil drying. It prefers full sun and well-draining soil to support vigorous growth and abundant fruiting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, lemon requires fertilization tailored for fruit-bearing plants, focusing on high phosphorus during flowering. Fertilize every 4-6 weeks in active growth, using label-recommended amounts. Reduce fertilization in winter and avoid over-fertilization. Water before application for root protection and ensure even distribution.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lemon features vibrant yellow fruit and fragrant blossoms. Prune in early spring to remove dead or diseased branches, enhance air circulation, and encourage light penetration, aligning with its growth cycle for improved health and fruit yield. Regular pruning promotes vitality and size management.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The citrus tree lemon flourishes in well-draining, fertile soil with ample sunlight. For propagation, use a healthy cutting and possibly rooting hormone. Maintain high humidity and stable temperatures for rooting success. Once established, transfer lemon to a larger pot or outdoors, ensuring consistent care.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot lemon every 2-3 years when it outgrows its container, ideally in spring. Select a pot 2 inches wider with drainage holes. After repotting, water well and position in a sunny location to support consistent growth and avoid overwatering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Citrus_limon.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the health benefits of lemon?",
+            "link": "/ask/Citrus_limon-0.html"
+        },
+        {
+            "q": "Is drinking lemon water good for you?",
+            "link": "/ask/Citrus_limon-1.html"
+        },
+        {
+            "q": "How much lemon water should you drink a day?",
+            "link": "/ask/Citrus_limon-2.html"
+        },
+        {
+            "q": "Does lemon lighten skin?",
+            "link": "/ask/Citrus_limon-3.html"
+        },
+        {
+            "q": "Is lemon harmful for the face?",
+            "link": "/ask/Citrus_limon-4.html"
+        },
+        {
+            "q": "What is the side effect of lemon?",
+            "link": "/ask/Citrus_limon-5.html"
+        },
+        {
+            "q": "What diseases can lemon cure?",
+            "link": "/ask/Citrus_limon-6.html"
+        },
+        {
+            "q": "Is lemon bad for heart?",
+            "link": "/ask/Citrus_limon-7.html"
+        },
+        {
+            "q": "Should you drink lemon water in the morning or at night?",
+            "link": "/ask/Citrus_limon-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Citrus-limon-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf mites",
+                "link": "/disease/Citrus-limon-Leaf-mites.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Citrus-limon-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Citrus-limon-Wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Citrus-limon-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Citrus-limon-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "psyllid",
+                "link": "/disease/Citrus-limon-psyllid.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Citrus-limon-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Citrus-limon-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Citrus-limon-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Citrus-limon-Mealybug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Citrus-limon-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Citrus-limon-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Citrus-limon-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Citrus-limon-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Citrus-limon-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Citrus-limon-Black-mold.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Citrus-limon-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Citrus-limon-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Citrus-limon-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Citrus-limon-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Citrus-limon-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Citrus-limon-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Citrus-limon-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Citrus-limon-Leaf-malformation.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Citrus_limon.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Citrus_limon.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Citrus_limon.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Citrus_limon.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Citrus_limon.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Citrus_limon.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Citrus_limon.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Citrus_limon.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Citrus_limon.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Citrus_limon.html",
+            "values": [
+                "Care Lemon",
+                "Care Lemon",
+                "Grow Lemon",
+                "Maintain Lemon",
+                "Lemon Care",
+                "Lemon Grow",
+                "Lemon Maintain",
+                "Lemon Cares",
+                "Growth Lemon",
+                "Maintains Lemon",
+                "Lemon Growth",
+                "Lemon Maintains",
+                "Lemon Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-limon-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Citrus_limon.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Citrus_limon.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Citrus_limon.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Citrus_limon.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Citrus_limon.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Citrus_limon.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Citrus_limon.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Citrus_limon.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Citrus_limon.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Citrus_limon.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Citrus_limon.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Citrus_limon.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Citrus_limon.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Citrus_limon.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Citrus_limon.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Citrus_limon.html"
+        }
+    ]
+}

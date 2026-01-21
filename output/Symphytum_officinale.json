@@ -1,0 +1,973 @@
+{
+    "title": "Common comfrey (Symphytum officinale) - PictureThis",
+    "displayName": "Common comfrey",
+    "otherCommonName": "Cultivated Comfrey , Comfrey, Blue-Flowered Common Comfrey, Bruisewort, Knitbone",
+    "mainImage": {
+        "copyright": {
+            "width": 1554,
+            "height": 1555,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/152447016650145793.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24977253",
+                "authorLink": "https://www.inaturalist.org/people/niconoe",
+                "author": "niconoe",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153890142841470992.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25110591",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153859893386805265.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4669591",
+                "authorLink": "https://www.inaturalist.org/people/alvarosaurus",
+                "author": "alvarosaurus",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153895722003988513.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24503652",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153976493158957083.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey (Symphytum officinale) is a perennial flowering plant native to Europe. It is most commonly found in Ireland and Britain and can grow in a variety of environments, from moist soil to areas affected by drought. Interestingly, it can grow even after being removed if even a small piece of root is left in the soil. The common comfrey is toxic if ingested.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common comfrey (Symphytum officinale) is a perennial flowering plant native to Europe. It is most commonly found in Ireland and Britain and can grow in a variety of environments, from moist soil to areas affected by drought. Interestingly, it can grow even after being removed if even a small piece of root is left in the soil. The common comfrey is toxic if ingested.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common comfrey (<i>Symphytum officinale</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Comfrey",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Symphytum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Borage",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Boraginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Boraginales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Boraginales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802094018199552.jpeg",
+        "habitat": "Damp, shady localities, meadows, woods, near streams and rivers",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey is native to Eurasia from Spain to western Russia, south to Turkey. It naturally grows in damp meadows throughout this region but has also been introduced throughout the world as a medicinal herb. Common comfrey can escape from cultivation and become weedy in the United States, Norway, and some countries in Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 34.53043312, \"2\": 23.96946808, \"3\": 27.45369198, \"4\": 16.64505396, \"5\": 22.06561658, \"6\": 22.0, \"7\": 9.090070287, \"8\": 8.70779896, \"9\": 32.56500843, \"10\": 47.98179929, \"11\": 45.84392687, \"12\": 40.7861343}, \"flower_month\": 10}, \"Default\": {\"trends\": {\"1\": 103.9721808, \"2\": 90.08322942, \"3\": 92.53595728, \"4\": 93.59149861, \"5\": 79.59850382, \"6\": 80.0, \"7\": 55.19857356, \"8\": 56.95026439, \"9\": 111.3963596, \"10\": 147.2543718, \"11\": 137.9946775, \"12\": 137.1162581}, \"flower_month\": 10}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 5.021805284, \"2\": 3.833770196, \"3\": 8.946032339, \"4\": 38.72365795, \"5\": 55.52862277, \"6\": 46.23482149, \"7\": 29.89275877, \"8\": 22.01904314, \"9\": 25.79063804, \"10\": 23.62800217, \"11\": 3.586444641, \"12\": 2.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 6.10485174, \"2\": 5.215647502, \"3\": 17.69213223, \"4\": 35.58124649, \"5\": 28.52422893, \"6\": 16.28131989, \"7\": 14.09347168, \"8\": 16.77916165, \"9\": 16.26579271, \"10\": 10.50853191, \"11\": 7.806481436, \"12\": 8.0}, \"flower_month\": 4}, \"Csb\": {\"trends\": {\"1\": 5.113010832, \"2\": 6.626806252, \"3\": 23.7196075, \"4\": 75.41077436, \"5\": 76.19220449, \"6\": 54.96306359, \"7\": 54.77609424, \"8\": 38.62485508, \"9\": 37.55187715, \"10\": 31.75589684, \"11\": 13.81261525, \"12\": 3.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 27.25954103, \"2\": 47.92885938, \"3\": 81.26192896, \"4\": 124.9122877, \"5\": 133.9414963, \"6\": 101.2668611, \"7\": 90.96749579, \"8\": 83.71931047, \"9\": 76.94913865, \"10\": 58.72400679, \"11\": 32.06433749, \"12\": 20.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 16.50241201, \"2\": 8.689899701, \"3\": 40.22206251, \"4\": 210.4873657, \"5\": 296.3704516, \"6\": 205.3695828, \"7\": 118.3244611, \"8\": 135.9820942, \"9\": 123.9415633, \"10\": 66.28616815, \"11\": 20.87910733, \"12\": 8.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 55.0, \"2\": 106.0, \"3\": 712.0, \"4\": 2725.0, \"5\": 3966.0, \"6\": 1453.0, \"7\": 926.0, \"8\": 944.0, \"9\": 742.0, \"10\": 332.0, \"11\": 100.0, \"12\": 40.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 16.0, \"2\": 45.0, \"3\": 205.0, \"4\": 1398.0, \"5\": 2466.0, \"6\": 1212.0, \"7\": 790.0, \"8\": 597.0, \"9\": 431.0, \"10\": 199.0, \"11\": 31.0, \"12\": 13.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 138.6774119, \"2\": 201.7867263, \"3\": 565.2478983, \"4\": 1372.911391, \"5\": 1557.263446, \"6\": 990.0493735, \"7\": 794.5248896, \"8\": 816.1726237, \"9\": 777.466004, \"10\": 491.0964281, \"11\": 219.2641527, \"12\": 122.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common comfrey produce attractive blooms and foliage which sees them often grown in cottage and wildflower gardens, as well as herb gardens. These ornamentals may also be used as an underplanting for shrubs and roses. Furthermore, common comfrey can be adapted for containers.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Safety during travel, Money",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common comfrey",
+                "values": [
+                    "The word comfrey is derived from the latin word for \"grow together\" which reflects the early uses of the plant. Greeks and Romans used to use it to stop heavy bleeding, treat bronchial problems and heal wounds and broken bones. However, it is actually toxic and has been prohibited from selling the powder form of this product. However, the name common comfrey is still in place to this day."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common comfrey causes irritation upon contact</strong> due to its hairy leaves and stems, leading to rashes and swelling if ingested. It contains toxic alkaloids that attack the liver, causing inflammation, jaundice, and necrosis. <strong>Common comfrey is toxic to cats and dogs</strong> if ingested, with symptoms ranging from discomfort to severe poisoning, necessitating immediate veterinary care.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Symphytum_officinale.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey, also known as Symphytum officinale or Common comfrey, is originally from Europe, specifically Eurasia. This plant is considered a weed due to several factors. The first is its ability to spread quickly and take over a garden area. Common comfrey can grow in various soils and conditions, making it difficult to control. Additionally, it reproduces through its root system, meaning even a small piece left in the soil can grow into a new plant. This plant is particularly harmful to gardens as it competes with other plants for nutrients, light, and space. Despite its potentially beneficial uses, it's important to remember that common comfrey can easily become invasive if not properly managed. If you're growing this plant in your garden, keep an eye out for its broad leaves and bell-shaped flowers. The main means by which common comfrey spreads are through its root system and seeds.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove or restrict common comfrey is in early spring before it begins to bloom to prevent seed dispersal. It is best controlled before it reaches the flowering state.\n  </div> \n  <ol> \n   <li>Manual weeding: Remove common comfrey plants by hand, ensuring to pull out the entire root system to prevent regrowth. Use a fork to loosen the soil and facilitate complete removal of the taproot.</li> \n   <li>Mulching: Apply a thick layer of organic mulch around garden plants to suppress common comfrey seedlings. Use materials like straw, wood chips, or leaf mold to create a barrier.</li> \n   <li>Cutting back: Regularly cut back the leaves of common comfrey to the ground to weaken the plant and discourage its spread. This should be done repeatedly throughout the growing season.</li> \n   <li>Soil solarization: During the hot, sunny periods, cover the soil where common comfrey is a problem with clear plastic to elevate soil temperatures and eliminate the plant and seeds.</li> \n   <li>Cultivation restriction: To cultivate common comfrey without it becoming invasive, plant it in a confined space such as a raised bed with solid borders or use root barriers to prevent roots from spreading.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Large, hairy leaves up to 12 inches (30 cm) long.",
+            "Bell-shaped, purple or pink flowers in clusters.",
+            "Distinctive fused petal design creating bell-like appearance.",
+            "Winged stems with rough, hairy texture, up to 0.4 inches (10 mm) thick.",
+            "Deep green leaves with visible veins and clasping form."
+        ],
+        "title": "Quickly Identify Common comfrey",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Symphytum-officinale.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey thrives in moist, temperate climates and prefers regular watering, ideally every week. As an herbaceous perennial, it can endure short dry spells due to its water-retaining leaves, allowing it to flourish even during the rainy season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For common comfrey, use a balanced fertilizer annually in spring, following label instructions for medium-sized perennials. Benefits include enhanced growth and leaf yield for compost. Avoid over-fertilization to maintain flowering. Opt for slow-release formulations and ensure even application to the root zone for best results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey features large green leaves and small purple flowers. Prune in early to late spring, removing dead foliage and trimming flower stems post-bloom. This practice enhances growth, air circulation, and reduces diseases. Always use clean, sharp tools to minimize plant stress.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey propagates easily through tubers, ideally in Spring. Use well-draining, moisture-rich soil. New shoots and leaves indicate successful propagation. Avoid overwatering to prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common comfrey requires excellent drainage in pots to thrive and prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Symphytum_officinale.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is it called common comfreyÃ¯Â¼Â",
+            "link": "/ask/Symphytum_officinale-0.html"
+        },
+        {
+            "q": "What is common comfrey used for?",
+            "link": "/ask/Symphytum_officinale-1.html"
+        },
+        {
+            "q": "Is common comfrey really toxic?",
+            "link": "/ask/Symphytum_officinale-2.html"
+        },
+        {
+            "q": "Where can I get common comfrey?",
+            "link": "/ask/Symphytum_officinale-3.html"
+        },
+        {
+            "q": "Is common comfrey plant edible?",
+            "link": "/ask/Symphytum_officinale-4.html"
+        },
+        {
+            "q": "Is common comfrey easy to grow?",
+            "link": "/ask/Symphytum_officinale-5.html"
+        },
+        {
+            "q": "How fast does common comfrey grow?",
+            "link": "/ask/Symphytum_officinale-6.html"
+        },
+        {
+            "q": "What does common comfrey symbolize?",
+            "link": "/ask/Symphytum_officinale-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Symphytum-officinale-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Symphytum-officinale-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Angular leaf spot",
+                "link": "/disease/Symphytum-officinale-Angular-leaf-spot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Symphytum-officinale-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Symphytum-officinale-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Symphytum-officinale-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Symphytum-officinale-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Symphytum-officinale-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Symphytum-officinale-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Symphytum-officinale-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Symphytum-officinale-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Symphytum-officinale-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Symphytum-officinale-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Symphytum-officinale-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Symphytum-officinale-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Symphytum-officinale-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Symphytum-officinale-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Symphytum-officinale-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Symphytum-officinale-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Symphytum-officinale-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Symphytum-officinale-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Symphytum-officinale-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Symphytum-officinale-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Symphytum-officinale-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Symphytum-officinale-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Myrtus communis",
+                "link": "/wiki/Myrtus_communis.html",
+                "imageUrl": "/wiki-image/1080/347113789380263936.jpeg",
+                "displayName": "Common myrtle"
+            },
+            {
+                "scientificName": "Dodonaea viscosa",
+                "link": "/wiki/Dodonaea_viscosa.html",
+                "imageUrl": "/wiki-image/1080/154156495238332443.jpeg",
+                "displayName": "Hopbush"
+            },
+            {
+                "scientificName": "Pelargonium hortorum",
+                "link": "/wiki/Pelargonium_hortorum.html",
+                "imageUrl": "/wiki-image/1080/347094560811679744.jpeg",
+                "displayName": "Zonal geranium"
+            },
+            {
+                "scientificName": "Artemisia vulgaris",
+                "link": "/wiki/Artemisia_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/153725684248739844.jpeg",
+                "displayName": "Common mugwort"
+            },
+            {
+                "scientificName": "Dactylis glomerata",
+                "link": "/wiki/Dactylis_glomerata.html",
+                "imageUrl": "/wiki-image/1080/153764076961398820.jpeg",
+                "displayName": "Orchard grass"
+            },
+            {
+                "scientificName": "Datura innoxia",
+                "link": "/wiki/Datura_innoxia.html",
+                "imageUrl": "/wiki-image/1080/154153042084626460.jpeg",
+                "displayName": "Downy thorn-apple"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Symphytum_officinale.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Symphytum_officinale.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Symphytum_officinale.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Symphytum_officinale.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Symphytum_officinale.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Symphytum_officinale.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Symphytum_officinale.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Symphytum_officinale.html",
+            "values": [
+                "Care Common comfrey",
+                "Care Common comfrey",
+                "Grow Common comfrey",
+                "Maintain Common comfrey",
+                "Common comfrey Care",
+                "Common comfrey Grow",
+                "Common comfrey Maintain",
+                "Common comfrey Cares",
+                "Growth Common comfrey",
+                "Maintains Common comfrey",
+                "Common comfrey Growth",
+                "Common comfrey Maintains",
+                "Common comfrey Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Angular-leaf-spot.html",
+            "values": [
+                "Angular leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Symphytum-officinale-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Symphytum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Symphytum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Symphytum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Symphytum_officinale.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Symphytum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Symphytum_officinale.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Symphytum_officinale.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Symphytum_officinale.html"
+        }
+    ]
+}

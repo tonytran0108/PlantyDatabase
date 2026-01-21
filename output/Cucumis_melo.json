@@ -1,0 +1,1069 @@
+{
+    "title": "Cantaloupe (Cucumis melo) - PictureThis",
+    "displayName": "Cantaloupe",
+    "otherCommonName": "Muskmelon, Christmas melonc",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "pada smith",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/330366096985260032.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/234591970",
+                "authorLink": "https://www.inaturalist.org/people/megachile",
+                "author": "Adam Kranz",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/349646965386444801.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/235886256",
+                "authorLink": "https://www.inaturalist.org/people/bacchusrock",
+                "author": "Jo Roberts",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349646973976379393.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "pada smith",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/347088758310862848.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 7360,
+                "height": 4912,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "huamixinhua",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157673605302321163.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Cantaloupe 'Emir'",
+            "link": "/wiki/Cucumis_melo__Emir_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Cucumis melo includes a variety of melons, including honeydew, cantaloupe, and muskmelon. These melons are an excellent source of vitamins A and C and are commonly eaten fresh or dried. It is occasionally turned into oil or liqueur.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Cucumis melo includes a variety of melons, including honeydew, cantaloupe, and muskmelon. These melons are an excellent source of vitamins A and C and are commonly eaten fresh or dried. It is occasionally turned into oil or liqueur.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cantaloupe (<i>Cucumis melo</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Melon",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cucumis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Gourd",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Cucurbitaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Cucurbitales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Cucurbitales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802622299176965.jpeg",
+        "habitat": "Cultivated fields",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cantaloupe is native to parts of Asia and Africa, as well as Australia, and it is widely introduced worldwide. It has seen worldwide distribution as it's a popularly cultivated fruit. Cantaloupe favors hot climates and warm soil and thrives in nutrient-rich soil that's well-fertilized.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 44.09591042, \"2\": 30.01796959, \"3\": 25.57991568, \"4\": 15.22771524, \"5\": 11.92681783, \"6\": 9.0, \"7\": 3.733698845, \"8\": 8.230791367, \"9\": 28.34244289, \"10\": 30.96711328, \"11\": 48.95023697, \"12\": 39.24225794}, \"flower_month\": 11, \"fruit_month\": 1}, \"Cfa\": {\"trends\": {\"1\": 475.2400289, \"2\": 468.6839989, \"3\": 485.6513064, \"4\": 335.6216403, \"5\": 187.8858989, \"6\": 134.0, \"7\": 124.5430402, \"8\": 223.0243848, \"9\": 367.4283159, \"10\": 426.2678443, \"11\": 504.8877898, \"12\": 441.6637749}, \"flower_month\": 11, \"fruit_month\": 1}, \"Cfb\": {\"trends\": {\"1\": 148.9741543, \"2\": 130.5004373, \"3\": 95.46397437, \"4\": 60.79063185, \"5\": 26.00590526, \"6\": 30.0, \"7\": 22.72517572, \"8\": 35.55684575, \"9\": 126.5833392, \"10\": 197.5721147, \"11\": 188.2297703, \"12\": 131.135166}, \"flower_month\": 10, \"fruit_month\": 1}, \"Csb\": {\"trends\": {\"1\": 62.91667344, \"2\": 59.36316591, \"3\": 59.20802688, \"4\": 39.24746207, \"5\": 21.67112282, \"6\": 16.0, \"7\": 8.863283775, \"8\": 15.50537498, \"9\": 19.27870927, \"10\": 38.8364032, \"11\": 69.58935395, \"12\": 54.75057756}, \"flower_month\": 11, \"fruit_month\": 1}, \"Csa\": {\"trends\": {\"1\": 279.0, \"2\": 270.0, \"3\": 306.0, \"4\": 134.0, \"5\": 44.0, \"6\": 16.0, \"7\": 15.0, \"8\": 44.0, \"9\": 134.0, \"10\": 267.0, \"11\": 327.0, \"12\": 274.0}, \"flower_month\": 11, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 1423.725729, \"2\": 1380.992904, \"3\": 1368.478913, \"4\": 960.1484991, \"5\": 646.1027491, \"6\": 550.0, \"7\": 545.3238388, \"8\": 710.7080939, \"9\": 1093.831723, \"10\": 1462.602495, \"11\": 1625.107532, \"12\": 1381.827179}, \"flower_month\": 11, \"fruit_month\": 1}}",
+            "north": "{\"Csb\": {\"trends\": {\"1\": 34.33021559, \"2\": 56.32785314, \"3\": 108.7452775, \"4\": 165.9401339, \"5\": 249.8533757, \"6\": 197.2728336, \"7\": 209.8768629, \"8\": 204.2710457, \"9\": 135.3220798, \"10\": 64.91278913, \"11\": 48.75040677, \"12\": 32.0}, \"flower_month\": 5, \"fruit_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 395.6763683, \"2\": 897.5309561, \"3\": 1339.653525, \"4\": 1606.362891, \"5\": 1780.049818, \"6\": 1730.115416, \"7\": 1800.198864, \"8\": 1448.863261, \"9\": 1208.136937, \"10\": 808.5506905, \"11\": 576.3946383, \"12\": 366.0}, \"flower_month\": 5, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Muskmelon can be dried, preserved, canned, or used in other processed products for sale.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The cantaloupe is a commercial fruit crop that can also be grown in home food gardens in containers or in the ground. This climbing plant is most often grown for its melon-like fruits. Gardeners can complement the cantaloupe by planting Corn, Beans, and Sunflower plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Longevity, good health",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that when cantaloupe seeds were introduced into China, many places couldnÃ¢ÂÂt produce sweet cantaloupes. Until one day, a horse came to a soft sandy soil, licking it with cantaloupe seeds in his mouth, and sowed them. The next year, fresh, sweet and juicy cantaloupes grew up out of this land.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Cantaloupe",
+                "values": [
+                    "Cantaloupe is derived from cantaloup in French in the 18th century and originated from Cantalupo in Italy. It was first appeared in English literature in 1739. The cantaloupe is probably originated in a region between South Asia and Africa. Later, it was introduced to Europe and became a commercial crop in the United States around 1890."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Scrambling, trailing vine up to 10 feet (3 meters) long.",
+            "Large, lobed leaves with fuzzy texture and heart-shaped base.",
+            "Bright yellow flowers with 5 egg-shaped petals, 1 inch (2.5 cm) across.",
+            "Round to oblong fruit with rough, netted skin and sweet, juicy flesh.",
+            "Stem covered in long, white hairs, sturdy and branching for climbing."
+        ],
+        "title": "Quickly Identify Cantaloupe",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cucumis-melo.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cantaloupe flourishes in tropical-like conditions, needing consistent moisture without being overly wet or drought-prone. Watering twice weekly is optimal, especially during the growing season, to ensure healthy fruit development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, cantaloupe needs balanced N-P-K fertilizers every 2-4 weeks during the active season, reducing to monthly post-harvest. Use 1-2 pounds per 100 square feet, ensuring even distribution. Adjust based on soil tests and plant response to promote health and fruit yield.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cantaloupe thrives with regular mid-spring pruning, which enhances fruit quality and yield. Focus on removing lateral shoots, excess foliage, non-fruit-bearing vines, and diseased leaves. Clean tools are essential to reduce pests and promote healthier, larger fruit.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The optimal propagation method for cantaloupe is sowing in Spring, with moderate difficulty. Signs of successful propagation include robust seedling growth. Maintaining adequate soil moisture and warm temperatures enhances germination success.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cucumis_melo.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is cantaloupe a weed?",
+            "link": "/ask/Cucumis_melo-0.html"
+        },
+        {
+            "q": "How do I get rid of cantaloupe?",
+            "link": "/ask/Cucumis_melo-1.html"
+        },
+        {
+            "q": "What is cantaloupe used for?",
+            "link": "/ask/Cucumis_melo-2.html"
+        },
+        {
+            "q": "Is there a difference between American cantaloupe and true cantaloupe?",
+            "link": "/ask/Cucumis_melo-3.html"
+        },
+        {
+            "q": "Are shamam and cantaloupe same?",
+            "link": "/ask/Cucumis_melo-4.html"
+        },
+        {
+            "q": "Where are cantaloupes originally from?",
+            "link": "/ask/Cucumis_melo-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Cucumis-melo-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Cucumis-melo-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Cucumis-melo-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Cucumis-melo-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Cucumis-melo-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Cucumis-melo-Wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Cucumis-melo-Wounds.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Cucumis-melo-Scars.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Cucumis-melo-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Cucumis-melo-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Yellow spots",
+                "link": "/disease/Cucumis-melo-Yellow-spots.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Cucumis-melo-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Cucumis-melo-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Cucumis-melo-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Cucumis-melo-Spots.html"
+            },
+            {
+                "diseaseName": "Root rot",
+                "link": "/disease/Cucumis-melo-Root-rot.html"
+            },
+            {
+                "diseaseName": "Yellow blotch",
+                "link": "/disease/Cucumis-melo-Yellow-blotch.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Cucumis-melo-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Cucumis-melo-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Cucumis-melo-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Cucumis-melo-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Cucumis-melo-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Cucumis-melo-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Cucumis-melo-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Cucumis-melo-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Cucumis-melo-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Cucumis-melo-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Cucumis-melo-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Cucumis-melo-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Cucumis-melo-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Cucumis-melo-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Interveinal spots (angular spots)",
+                "link": "/disease/Cucumis-melo-Interveinal-spots-(angular-spots).html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Cucumis-melo-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Cucumis-melo-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Cucumis-melo-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Snail and slug",
+                "link": "/disease/Cucumis-melo-Snail-and-slug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Cucumis-melo-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Cucumis-melo-Mealybug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Zingiber zerumbet",
+                "link": "/wiki/Zingiber_zerumbet.html",
+                "imageUrl": "/wiki-image/1080/153785478783434784.jpeg",
+                "displayName": "Bitter ginger"
+            },
+            {
+                "scientificName": "Arundo donax",
+                "link": "/wiki/Arundo_donax.html",
+                "imageUrl": "/wiki-image/1080/154253613038829584.jpeg",
+                "displayName": "Giant reed"
+            },
+            {
+                "scientificName": "Cocos nucifera",
+                "link": "/wiki/Cocos_nucifera.html",
+                "imageUrl": "/wiki-image/1080/201174919527104512.jpeg",
+                "displayName": "Common coconut palm"
+            },
+            {
+                "scientificName": "Commelina communis",
+                "link": "/wiki/Commelina_communis.html",
+                "imageUrl": "/wiki-image/1080/201175202994946048.jpeg",
+                "displayName": "Asiatic dayflower"
+            },
+            {
+                "scientificName": "Begonia cucullata",
+                "link": "/wiki/Begonia_cucullata.html",
+                "imageUrl": "/wiki-image/1080/154255708982870034.jpeg",
+                "displayName": "Wax begonia"
+            },
+            {
+                "scientificName": "Carpobrotus chilensis",
+                "link": "/wiki/Carpobrotus_chilensis.html",
+                "imageUrl": "/wiki-image/1080/154134002494603295.jpeg",
+                "displayName": "Sea fig"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Cucumis_melo.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cucumis_melo.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cucumis_melo.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Cucumis_melo.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Cucumis_melo.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Cucumis_melo.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cucumis_melo.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cucumis_melo.html",
+            "values": [
+                "Care Cantaloupe",
+                "Care Cantaloupe",
+                "Grow Cantaloupe",
+                "Maintain Cantaloupe",
+                "Cantaloupe Care",
+                "Cantaloupe Grow",
+                "Cantaloupe Maintain",
+                "Cantaloupe Cares",
+                "Growth Cantaloupe",
+                "Maintains Cantaloupe",
+                "Cantaloupe Growth",
+                "Cantaloupe Maintains",
+                "Cantaloupe Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Yellow-spots.html",
+            "values": [
+                "Yellow spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Yellow-blotch.html",
+            "values": [
+                "Yellow blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Interveinal-spots-(angular-spots).html",
+            "values": [
+                "Interveinal spots (angular spots)"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Root-rot.html",
+            "values": [
+                "Root rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-melo-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cucumis_melo.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cucumis_melo.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Cucumis_melo.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Cucumis_melo.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cucumis_melo.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cucumis_melo.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Cucumis_melo.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cucumis_melo.html"
+        }
+    ]
+}

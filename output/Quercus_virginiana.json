@@ -1,0 +1,969 @@
+{
+    "title": "Live oak (Quercus virginiana) - PictureThis",
+    "displayName": "Live oak",
+    "otherCommonName": "Bay live oak, Escarpment live oak",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154134144228524037.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "http://www.inaturalist.org/observations/2365537",
+                "authorLink": "https://www.inaturalist.org/people/robberfly",
+                "author": "Liam O'Brien",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153740695159439401.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13897918",
+                "authorLink": "https://www.inaturalist.org/people/chuckdavis",
+                "author": "chuckdavis",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153799179729109012.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/164786",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153919533302677532.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 360,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/5968520",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153732693635366945.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "In its active growth phases during spring and summer, live oak exhibits a rapid growth rate. This accelerated pace facilitates a flurry of leaf production and a considerable extension in height. Enhanced by sunlight abundance and warm conditions, live oak's rapid growth might result in a denser canopy and more extensive root system, potentially overshadowing neighboring vegetation. Unlike its slower growth in cooler seasons, live oak's fast-paced development during these seasons presents a remarkable life cycle adaptation.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Quercus virginiana, commonly known as live oak, is a large evergreen tree native to coastal areas of southeast North America, known for its imposing, wide crown. Live oak is commonly cultivated as an ornamental in the American South, most often planted in avenues.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Quercus virginiana, commonly known as live oak, is a large evergreen tree native to coastal areas of southeast North America, known for its imposing, wide crown. Live oak is commonly cultivated as an ornamental in the American South, most often planted in avenues.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Live oak (<i>Quercus virginiana</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Oaks",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Quercus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Beech",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fagaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Beeches, walnuts, and allied trees",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 35 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   18 m to 30 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm to 3 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800728218599425.jpeg",
+        "habitat": "Coast, Sandy-loam soils, Heavy clays",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Live oak is native to the southeastern US, following the Atlantic coast from Texas to Virginia. Live oak prefers moist environments and is typically found in sandy, gravelly, or clay soils along coastal plains, though it is sometimes cultivated further inland as a shade tree.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "442",
+                "432",
+                "524",
+                "523",
+                "513",
+                "496",
+                "622",
+                "660",
+                "621",
+                "505",
+                "350",
+                "454"
+            ],
+            "north": [
+                "18587",
+                "25231",
+                "33992",
+                "29459",
+                "25778",
+                "17929",
+                "17269",
+                "20949",
+                "24341",
+                "18371",
+                "12796",
+                "16202"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Live oak (Quercus virginiana) is a common oak that grows slowly to become a mighty, wide-spreading tree. This makes a great low-maintenance shade tree for lawns. It has attractively shiny evergreen leaves and offers great winter color as well as flowers and acorns. Good shrubs to grow around this oak tree include yews, boxwoods, and rhododendrons since they like shady conditions.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Health, Money, Liberty",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Live oak was used in early American shipbuilding. Its characteristics lent it to being used frequently in butt joints for shipbuilding in the early days of American ship manufacturing. The tree also has a specific gravity, or density of 0.88, which is very high for oak.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Southern live oak",
+                "values": [
+                    "This plant has a long lifespan in which some lived for more than 1000 years. The Emancipation Oak on the campus of Hampton University in Virginia is listed by the National Geographic Society as one of the top ten trees in the world. It is also often called Ã¢ÂÂlive oak\" within its native habitat. However, the full name, southern live oak is given to distinguish it from other live oaks which is a general term for any evergreen species of oak."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Live oak tree's tissues contain tannins</strong> that can cause digestive problems. <strong>Live oak poses mild toxicity</strong> to cats and dogs if they consume high amounts, especially the leaves and seeds. Symptoms include gastrointestinal upset, vomiting, and diarrhea. Immediate veterinary care is advised if pets show signs of distress after ingestion. Monitor children to prevent ingestion. Acorns may obstruct bowels if swallowed whole.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Quercus_virginiana.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Leathery leaves with revolute margins resembling laurel, persisting year-round.",
+            "Male flowers in pendulous catkins, wind-pollinated, greenish hue, lacking petals.",
+            "Egg-shaped acorns with bowl-shaped caps and sharp-pointed scales, fall maturation.",
+            "Dark green shiny leaves with pale underside, oblong to elliptic-obovate shape.",
+            "Rugged dark brown bark with reddish tints, furrowed texture, robust girth up to 4 feet."
+        ],
+        "title": "Quickly Identify Live oak",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Quercus-virginiana.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Adapted to dry spells, live oak prefers moderate moisture and exhibits drought tolerance by storing water. Water live oak every 1-2 weeks, allowing soil to dry slightly. Typically grown outdoors, it requires careful soil moisture management to prevent root rot while supporting robust year-round foliage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Live oak thrives with balanced nutrition fertilizers during growth and high nitrogen in spring. Fertilize biannually per manufacturer guidelines, avoiding over-fertilization. Adjust feeding seasonally and perform soil tests to customize the fertilization program for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Live oak thrives with winter pruning, ideally from early to late winter, to maintain shape, eliminate dead or diseased wood, and enhance air circulation. Focus on crossing branches and interior growth. Use clean, sharp tools for precise cuts to promote healthy regrowth and structural integrity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Live oak can be propagated through cutting and layering in spring, which is moderately challenging. Success is marked by new growth. Key factors include using rooting hormone and maintaining adequate moisture levels for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Quercus_virginiana.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is the difference between an oak and a live oak?",
+            "link": "/ask/Quercus_virginiana-0.html"
+        },
+        {
+            "q": "Why is it called a Live oak?",
+            "link": "/ask/Quercus_virginiana-1.html"
+        },
+        {
+            "q": "How fast does live oak grow?",
+            "link": "/ask/Quercus_virginiana-2.html"
+        },
+        {
+            "q": "What is the best soil for live oak?",
+            "link": "/ask/Quercus_virginiana-3.html"
+        },
+        {
+            "q": "Does live oak have deep roots?",
+            "link": "/ask/Quercus_virginiana-4.html"
+        },
+        {
+            "q": "How much space does a live oak need?",
+            "link": "/ask/Quercus_virginiana-5.html"
+        },
+        {
+            "q": "In which conditions does live oak grow best?",
+            "link": "/ask/Quercus_virginiana-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Quercus-virginiana-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Quercus-virginiana-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Quercus-virginiana-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Quercus-virginiana-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Quercus-virginiana-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Quercus-virginiana-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Quercus-virginiana-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Quercus-virginiana-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Quercus-virginiana-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Quercus-virginiana-Gall.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Quercus-virginiana-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Quercus-virginiana-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Quercus-virginiana-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Quercus-virginiana-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Quercus-virginiana-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Quercus-virginiana-Mealybug.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Quercus-virginiana-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Quercus-virginiana-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Quercus-virginiana-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Quercus-virginiana-Leaf-drop.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Dianthus barbatus",
+                "link": "/wiki/Dianthus_barbatus.html",
+                "imageUrl": "/wiki-image/1080/154023140798758929.jpeg",
+                "displayName": "Sweet william"
+            },
+            {
+                "scientificName": "Aphelandra squarrosa",
+                "link": "/wiki/Aphelandra_squarrosa.html",
+                "imageUrl": "/wiki-image/1080/154131966680104993.jpeg",
+                "displayName": "Zebra plant"
+            },
+            {
+                "scientificName": "Oxalis triangularis",
+                "link": "/wiki/Oxalis_triangularis.html",
+                "imageUrl": "/wiki-image/1080/153935974437486623.jpeg",
+                "displayName": "False shamrock"
+            },
+            {
+                "scientificName": "Prunus cerasifera",
+                "link": "/wiki/Prunus_cerasifera.html",
+                "imageUrl": "/wiki-image/1080/202644425407725568.jpeg",
+                "displayName": "Cherry plum"
+            },
+            {
+                "scientificName": "Lilium pensylvanicum",
+                "link": "/wiki/Lilium_pensylvanicum.html",
+                "imageUrl": "/wiki-image/1080/154075148557746194.jpeg",
+                "displayName": "Siberian lily"
+            },
+            {
+                "scientificName": "Brugmansia suaveolens",
+                "link": "/wiki/Brugmansia_suaveolens.html",
+                "imageUrl": "/wiki-image/1080/347102781379084288.jpeg",
+                "displayName": "Angel's trumpet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Quercus_virginiana.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Quercus_virginiana.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Quercus_virginiana.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Quercus_virginiana.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Quercus_virginiana.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Quercus_virginiana.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Quercus_virginiana.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Quercus_virginiana.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Quercus_virginiana.html",
+            "values": [
+                "Care Live oak",
+                "Care Live oak",
+                "Grow Live oak",
+                "Maintain Live oak",
+                "Live oak Care",
+                "Live oak Grow",
+                "Live oak Maintain",
+                "Live oak Cares",
+                "Growth Live oak",
+                "Maintains Live oak",
+                "Live oak Growth",
+                "Live oak Maintains",
+                "Live oak Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-virginiana-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Quercus_virginiana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Quercus_virginiana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Quercus_virginiana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Quercus_virginiana.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Quercus_virginiana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Quercus_virginiana.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Quercus_virginiana.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Quercus_virginiana.html"
+        }
+    ]
+}

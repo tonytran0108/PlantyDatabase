@@ -1,0 +1,861 @@
+{
+    "title": "Creeping woodsorrel (Oxalis corniculata) - PictureThis",
+    "displayName": "Creeping woodsorrel",
+    "otherCommonName": "Yellow woodsorrel, Procumbent yellow sorrel",
+    "mainImage": {
+        "copyright": {
+            "width": 751,
+            "height": 751,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154230257006673950.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20844315",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152493995002429442.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/64318995",
+                "authorLink": "https://www.inaturalist.org/people/1515879",
+                "author": "Judy Gallagher",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154165484604882955.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/41640403",
+                "authorLink": "https://www.inaturalist.org/people/finatic",
+                "author": "BJ Stacey",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154146187316822039.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27077320",
+                "authorLink": "https://www.inaturalist.org/people/sgene",
+                "author": "sgene",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153886620968288273.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel (Oxalis corniculata) is a flowering herb which grows aggressively. The leaves have a lemony flavor and are often made into tea that's rich in vitamin C. However, if ingested in large amounts the oxalic acid for which the genus is named can begin to block the body's calcium absorption.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Creeping woodsorrel (Oxalis corniculata) is a flowering herb which grows aggressively. The leaves have a lemony flavor and are often made into tea that's rich in vitamin C. However, if ingested in large amounts the oxalic acid for which the genus is named can begin to block the body's calcium absorption.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Creeping woodsorrel (<i>Oxalis corniculata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Wood sorrels",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Oxalis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Wood sorrel",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Oxalidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Woodsorrels, quandongs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Oxalidales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 35 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   45 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/330442706316918784.jpeg",
+        "habitat": "Arable land, Waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel enjoys a broad geographical presence, natively growing in regions spanning Africa, Asia, central and southern parts of Europe, and the Americas. It has also been introduced across the continents, establishing itself in ecosystems from Scandinavia to Southeast Asia and from the Pacific islands to South America. Although creeping woodsorrel is sometimes thought to be opportunistic in certain areas, it may have an impact on native ecosystems where it is considered invasive, notably in parts of North America, Australasia, and East Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1042",
+                "1097",
+                "1325",
+                "1160",
+                "1220",
+                "1092",
+                "1500",
+                "2182",
+                "2438",
+                "1772",
+                "1012",
+                "1227"
+            ],
+            "north": [
+                "6498",
+                "11012",
+                "21481",
+                "31073",
+                "33488",
+                "23907",
+                "20718",
+                "16263",
+                "12585",
+                "6345",
+                "3938",
+                "4516"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Creeping woodsorrel is a great addition to woodland or wildlife gardens, although care should be taken to make sure it does not crowd out other plants. It is also possible to grow this pretty plant in containers for courtyards. It is summer flowering, attracting a variety of pollinating insects.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Patriotism, luck, joy, good-heartedness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In Southern Europe, wood sorrel is also known as Hallelujah. Wood sorrel blossoms just around Easter, so the flower symbolizes Easter. People born with this flower blessing are active, talkative, often laugh, and get along well with others.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Creeping woodsorrel",
+                "values": [
+                    "Many of the species are known as wood sorrels because they give out an acidic taste which is sort of the reminiscent of the sorrel proper plant. This plant has a narrow creeping stem and it spreads very easily, so it is called creeping woodsorrel."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel contains <strong>soluble calcium oxalates</strong> and <strong>oxalic acid</strong>, making it toxic to cats and dogs. Ingestion may lead to symptoms like gastrointestinal upset, vomiting, and diarrhea. Immediate veterinary care is essential if poisoning is suspected. The plant also poses risks for conditions like rheumatism, arthritis, and kidney stones due to its calcium-binding properties.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Oxalis_corniculata.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel is found throughout the world and is considered invasive in parts of every continent. It is capable of self-pollinating and produces massive amounts of seeds in short timeframes. This growth affects crops, gardens, and greenhouses across the world. As the plant can grow year-round in greenhouses, creeping woodsorrel poses a particular problem for these growers. Removal is extremely difficult due to the high level of seeds. Hand-weeding and covering seeds with mulch are the simplest means of controlling the spread. Following up pulling with an herbicide is the best way to eliminate the plant completely.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing creeping woodsorrel is during the spring season, before the weed has started to flower and set seeds. This will help prevent the spreading of seeds and future growth.\n  </div> \n  <ol> \n   <li>Manual Pulling: For this method, soil should be first moistened to make the root removal easier. Then handle the plant at its base and gently pull up to uproot the whole plant. Make sure every piece of the root is removed to prevent regrowth.</li> \n   <li>Smothering: This method requires a piece of cardboard or several layers of newspaper. Cover the creeping woodsorrel with the material and secure it with stones or other heavy objects. This blocks sunlight and air, ultimately killing the plant.</li> \n   <li>Organic Herbicides: Use organic herbicides like vinegar or citric acid, which you can dilute with water. Spray this solution directly onto the creeping woodsorrel in the morning when the sunlight can enhance the effects.</li> \n   <li>Landscape Fabric: Spread a piece of landscape fabric over the area of creeping woodsorrel and tuck it into the topsoil. The fabric acts as a barrier, preventing the plant from receiving sunlight, thus inhibiting its growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Trifoliolate leaves with heart-shaped leaflets, folding rhythmically at night.",
+            "Bright yellow flowers in umbel inflorescence, 1-5 per cluster.",
+            "Cylindrical five-sided fruit capsule with stiff hairs, bursting for seed dispersal.",
+            "Heart-shaped, trifolate leaves with pubescent green or purple foliage.",
+            "Slender stems with above and below-ground stolons, branching for lateral spread."
+        ],
+        "title": "Quickly Identify Creeping woodsorrel",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Oxalis-corniculata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel thrives in moist conditions, requiring consistent hydration and evenly moist soil. To maintain its health, water creeping woodsorrel weekly. This herbaceous plant can grow in both sunny and shaded areas, with water availability directly affecting its growth and flowering patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel is a light feeder, requiring minimal additional fertilizer if planted in balanced soil. Use a half-strength all-purpose liquid fertilizer every few months, avoiding feeding during winter dormancy. When repotting, incorporate organic compost to enhance growth during the sprouting phase.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel needs pruning only during winter dormancy, indicated by withering foliage. Remove dead leaves as they turn brown; this is normal. New growth may emerge in 2 to 4 weeks. Always disinfect pruning tools to prevent cross-contamination.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping woodsorrel is propagated mainly by tubers in spring, indicating successful propagation through new shoots. For optimal growth, gently remove and replant tubers when necessary.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ensure creeping woodsorrel has excellent drainage in pots to promote healthy growth and prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Oxalis_corniculata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a creeping woodsorrel?",
+            "link": "/ask/Oxalis_corniculata-0.html"
+        },
+        {
+            "q": "How do I get rid of creeping woodsorrel in my yard?",
+            "link": "/ask/Oxalis_corniculata-1.html"
+        },
+        {
+            "q": "What can creeping woodsorrel be used for?",
+            "link": "/ask/Oxalis_corniculata-2.html"
+        },
+        {
+            "q": "How often should creeping woodsorrel be watered?",
+            "link": "/ask/Oxalis_corniculata-3.html"
+        },
+        {
+            "q": "Does creeping woodsorrel need a lot of sunlight?",
+            "link": "/ask/Oxalis_corniculata-4.html"
+        },
+        {
+            "q": "Does oxalis need sun or shade?",
+            "link": "/ask/Oxalis_corniculata-5.html"
+        },
+        {
+            "q": "Is Oxalis an indoor or outdoor plant?",
+            "link": "/ask/Oxalis_corniculata-6.html"
+        },
+        {
+            "q": "Should I cut back my oxalis?",
+            "link": "/ask/Oxalis_corniculata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Oxalis-corniculata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Oxalis-corniculata-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Oxalis-corniculata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Oxalis-corniculata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Oxalis-corniculata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Oxalis-corniculata-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Oxalis-corniculata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Oxalis-corniculata-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Oxalis-corniculata-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Oxalis-corniculata-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Oxalis-corniculata-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Oxalis-corniculata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Oxalis-corniculata-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Oxalis-corniculata-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Oxalis-corniculata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Oxalis-corniculata-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Oxalis-corniculata-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Oxalis-corniculata-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Oxalis-corniculata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Oxalis-corniculata-Mealybug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Wisteria sinensis",
+                "link": "/wiki/Wisteria_sinensis.html",
+                "imageUrl": "/wiki-image/1080/153835669771255828.jpeg",
+                "displayName": "Chinese wisteria"
+            },
+            {
+                "scientificName": "Lantana camara",
+                "link": "/wiki/Lantana_camara.html",
+                "imageUrl": "/wiki-image/1080/201214725284036608.jpeg",
+                "displayName": "Common lantana"
+            },
+            {
+                "scientificName": "Croton monanthogynus",
+                "link": "/wiki/Croton_monanthogynus.html",
+                "imageUrl": "/wiki-image/1080/153952016140337166.jpeg",
+                "displayName": "Prairie Tea"
+            },
+            {
+                "scientificName": "Prunus laurocerasus",
+                "link": "/wiki/Prunus_laurocerasus.html",
+                "imageUrl": "/wiki-image/1080/202644562846679040.jpeg",
+                "displayName": "Cherry laurel"
+            },
+            {
+                "scientificName": "Allamanda cathartica",
+                "link": "/wiki/Allamanda_cathartica.html",
+                "imageUrl": "/wiki-image/1080/201161892891262976.jpeg",
+                "displayName": "Golden trumpet"
+            },
+            {
+                "scientificName": "Platycladus orientalis",
+                "link": "/wiki/Platycladus_orientalis.html",
+                "imageUrl": "/wiki-image/1080/347119321298141184.jpeg",
+                "displayName": "Oriental arborvitae"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Oxalis_corniculata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Oxalis_corniculata.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Oxalis_corniculata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Oxalis_corniculata.html",
+            "values": [
+                "Care Creeping woodsorrel",
+                "Care Creeping woodsorrel",
+                "Grow Creeping woodsorrel",
+                "Maintain Creeping woodsorrel",
+                "Creeping woodsorrel Care",
+                "Creeping woodsorrel Grow",
+                "Creeping woodsorrel Maintain",
+                "Creeping woodsorrel Cares",
+                "Growth Creeping woodsorrel",
+                "Maintains Creeping woodsorrel",
+                "Creeping woodsorrel Growth",
+                "Creeping woodsorrel Maintains",
+                "Creeping woodsorrel Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oxalis-corniculata-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Oxalis_corniculata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Oxalis_corniculata.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Oxalis_corniculata.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Oxalis_corniculata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Oxalis_corniculata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Oxalis_corniculata.html"
+        }
+    ]
+}

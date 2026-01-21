@@ -1,0 +1,860 @@
+{
+    "title": "Wild carrot (Daucus carota) - PictureThis",
+    "displayName": "Wild carrot",
+    "otherCommonName": "Queen anne's lace, Bird's nest",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "merc67",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348119717965627392.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4734362",
+                "authorLink": "https://www.inaturalist.org/people/fabienpiednoir",
+                "author": "fabienpiednoir",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152511900721086466.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9576592",
+                "authorLink": "https://www.inaturalist.org/people/pleary",
+                "author": "pleary",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660374976036890.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11069037",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153655792245932070.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5496995",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153664755842678796.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Wild carrot 'Eskimo'",
+            "link": "/wiki/Daucus_carota__Eskimo_.html"
+        },
+        {
+            "displayName": "Wild carrot 'Dara'",
+            "link": "/wiki/Daucus_carota__Dara_.html"
+        },
+        {
+            "displayName": "Wild carrot 'Sweet Candle'",
+            "link": "/wiki/Daucus_carota__Sweet_Candle_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The wild carrot is a common flowering plant with light, delicate flowers. Originally native to Europe and Asia, it has also spread to North America and Australia. Studies of historical paintings suggest that the wild carrot was cultivated in Turkey, Spain, and North Africa for centuries.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The wild carrot is a common flowering plant with light, delicate flowers. Originally native to Europe and Asia, it has also spread to North America and Australia. Studies of historical paintings suggest that the wild carrot was cultivated in Turkey, Spain, and North Africa for centuries.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Wild carrot (<i>Daucus carota</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Daucus\n",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Daucus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Umbellifers",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Carrots, ivies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Apiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Biennial, Annual, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Summer, Fall, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 7 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806053978046464.jpeg",
+        "habitat": "Cultivated and wasteland, amongst grass",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Wild carrot is indigenous to temperate regions but has been introduced and naturalized across a variety of climates including tropical, subarctic, and highland areas. Its cultivated form is widespread, thriving in numerous continents such as Europe, Asia, North and South America, Africa, and Oceania. As a result, wild carrot has established a global presence beyond its native habitat.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 93.23216942, \"2\": 59.25785163, \"3\": 60.52291185, \"4\": 65.13281984, \"5\": 40.97900222, \"6\": 48.0, \"7\": 78.17460447, \"8\": 58.77764298, \"9\": 55.1504175, \"10\": 87.96663203, \"11\": 119.1942099, \"12\": 116.6793209}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 283.4974796, \"2\": 213.3102885, \"3\": 218.1742082, \"4\": 229.8005546, \"5\": 268.4332522, \"6\": 241.0, \"7\": 324.5295446, \"8\": 289.4321656, \"9\": 284.5304606, \"10\": 332.4096579, \"11\": 437.4724882, \"12\": 392.3048496}, \"flower_month\": 11}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 5.014366637, \"2\": 8.97311591, \"3\": 9.390061109, \"4\": 13.93771338, \"5\": 15.20493008, \"6\": 15.82096511, \"7\": 16.52444115, \"8\": 11.85603909, \"9\": 16.01915093, \"10\": 8.810886186, \"11\": 5.102756892, \"12\": 5.0}, \"flower_month\": 7}, \"BSk\": {\"trends\": {\"1\": 75.32707927, \"2\": 71.30812564, \"3\": 110.4834994, \"4\": 114.7367643, \"5\": 139.7029636, \"6\": 189.5119606, \"7\": 189.3208055, \"8\": 116.5174366, \"9\": 82.37606777, \"10\": 64.97700597, \"11\": 43.03733569, \"12\": 52.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 133.4346166, \"2\": 140.8224826, \"3\": 166.223754, \"4\": 187.9964367, \"5\": 234.2580376, \"6\": 242.0121618, \"7\": 229.2043552, \"8\": 131.5018018, \"9\": 91.26917023, \"10\": 79.09052964, \"11\": 78.06481436, \"12\": 93.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 55.51268904, \"2\": 80.84703627, \"3\": 121.8822909, \"4\": 136.7958733, \"5\": 166.1727018, \"6\": 254.909776, \"7\": 366.155612, \"8\": 211.0109533, \"9\": 119.0834302, \"10\": 76.12075272, \"11\": 31.6877644, \"12\": 42.0}, \"flower_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 409.7191621, \"2\": 674.0311171, \"3\": 564.6795383, \"4\": 567.6586424, \"5\": 702.1147901, \"6\": 868.8808583, \"7\": 842.9122636, \"8\": 469.8665177, \"9\": 305.6689287, \"10\": 315.0937379, \"11\": 348.1270928, \"12\": 291.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 153.7815853, \"2\": 226.6268515, \"3\": 386.5618804, \"4\": 478.3482884, \"5\": 633.0340591, \"6\": 894.8184144, \"7\": 1027.718155, \"8\": 519.8030237, \"9\": 344.4611858, \"10\": 250.4588667, \"11\": 170.774451, \"12\": 150.0}, \"flower_month\": 7}, \"Dfa\": {\"trends\": {\"1\": 170.4380668, \"2\": 335.0237626, \"3\": 454.8634594, \"4\": 643.5816959, \"5\": 788.7185311, \"6\": 1160.433672, \"7\": 1401.976927, \"8\": 851.1407472, \"9\": 513.045172, \"10\": 375.6739444, \"11\": 270.1837186, \"12\": 163.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 76.73621586, \"2\": 96.31305502, \"3\": 184.6558324, \"4\": 373.9485531, \"5\": 470.5251098, \"6\": 790.7327876, \"7\": 1037.046525, \"8\": 531.6997711, \"9\": 330.7200196, \"10\": 197.1255327, \"11\": 125.274644, \"12\": 79.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 1341.623334, \"2\": 2077.2163, \"3\": 2484.822199, \"4\": 3215.778543, \"5\": 4189.66332, \"6\": 5933.840156, \"7\": 6816.238239, \"8\": 3735.882937, \"9\": 2239.762169, \"10\": 1622.151344, \"11\": 1258.099932, \"12\": 1072.0}, \"flower_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Essential oils can be extracted from the fruit.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The wild carrot can be kept in gardens and beds. It is ideally grown in vegetable gardens and prized for its edible carrots. The wild carrot has many uses in a large vegetable garden, as it is said to improve Tomato plant production and be good for the climate and soil surrounding Lettuce plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Wisdom, purity, sanctuary",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Freshly-cut wild carrot flowers can take on the color of the water they consume, making them great for simple science demonstrations. You simply color some water with food coloring, trim the flower stems (to ensure a fresh cut), and stick them in the water. When they take on the water's color, it shows how plants \"drink\" up moisture.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Wild carrot",
+                "values": [
+                    "Many scholars believed that it is the ancestor of all hybrid carrots. The specific epithet, \"carota\" is derived from the Greek word, karÃÂ´ton meaning carrot. As it is often grown in the wild, so it is called wild carrot."
+                ]
+            },
+            {
+                "key": "Queen anne's lace",
+                "values": [
+                    "This kind of flower looks similar to Queen Anne's lace, which is one of the prestigious clothing accessories. The red flower in the centre is thought to represent a blood droplet in which Queen Anne accidentally pricked herself with a needle while making the lace. Hence, it is called Queen Anne's lace."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Wild carrot</strong> is toxic to both cats and dogs, with leaves, sap, roots, and seeds posing a poisoning risk through ingestion. Symptoms in pets include gastrointestinal upset and physical discomfort. Immediate veterinary care is crucial if poisoning is suspected to ensure proper treatment and care. Pet owners must prevent access to <strong>wild carrot</strong> to avoid accidental poisoning.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Daucus_carota.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "2-pinnately divided leaves with feathery appearance, up to 20 inches (50 cm) long.",
+            "Lacy white flowers in umbel clusters with central deep purple florets, 3-4 inches (7.6-10.2 cm) wide.",
+            "Biconvex schizocarp fruit, ribbed with bristly hairs, forming a bird's nest-like structure.",
+            "Robust, hairy stem reaching up to 3 feet (90 cm) with sparse branching and rough texture.",
+            "Distinctive biennial growth pattern with rosette in first year and tall flowering stem in second year."
+        ],
+        "title": "Quickly Identify Wild carrot",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Daucus-carota.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, wild carrot thrives in moderate moisture. It prefers consistently moist soil, requiring watering twice a week, while demonstrating moderate drought tolerance. Grown outdoors, wild carrot needs careful watering during its active growing season to support flowering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of wild carrot, apply high-phosphorus and potassium fertilizers monthly during the growing season, adjusting for soil fertility. Benefits include improved vigor and potential flowering. Suspend during dormancy and apply away from the stem to prevent burns. Regular soil testing aids in nutrient management.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wild carrot features delicate, lacy leaves and umbel-shaped flowers. Prune spent stems in early spring for new growth, and thin in late spring to maintain shape. Regular pruning prevents overcrowding, encourages blooms, and reduces disease risk. Use sterilized tools for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best propagation method for wild carrot is sowing in Spring, with moderate difficulty. Successful germination is marked by vibrant green seedlings. For optimal results, ensure adequate moisture and well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Daucus_carota.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you grow wild carrot from seed?",
+            "link": "/ask/Daucus_carota-0.html"
+        },
+        {
+            "q": "Is wild carrot invasive?",
+            "link": "/ask/Daucus_carota-1.html"
+        },
+        {
+            "q": "Is Queen Anne's lace the same as wild carrot?",
+            "link": "/ask/Daucus_carota-2.html"
+        },
+        {
+            "q": "What is wild carrot used for?",
+            "link": "/ask/Daucus_carota-3.html"
+        },
+        {
+            "q": "How do you kill wild carrot?",
+            "link": "/ask/Daucus_carota-4.html"
+        },
+        {
+            "q": "How can you tell the difference between wild carrot and poison hemlock?",
+            "link": "/ask/Daucus_carota-5.html"
+        },
+        {
+            "q": "Why do wild carrots grow crooked?",
+            "link": "/ask/Daucus_carota-6.html"
+        },
+        {
+            "q": "Can you transplant wild carrot?",
+            "link": "/ask/Daucus_carota-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Daucus-carota-Spots.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Daucus-carota-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Daucus-carota-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Daucus-carota-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Daucus-carota-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Daucus-carota-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Daucus-carota-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Daucus-carota-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Daucus-carota-Underwatering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Daucus-carota-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Daucus-carota-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Daucus-carota-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Daucus-carota-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Daucus-carota-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Daucus-carota-Yellow-edges.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Artemisia verlotiorum",
+                "link": "/wiki/Artemisia_verlotiorum.html",
+                "imageUrl": "/wiki-image/1080/152640401847615489.jpeg",
+                "displayName": "Chinese mugwort"
+            },
+            {
+                "scientificName": "Asystasia gangetica",
+                "link": "/wiki/Asystasia_gangetica.html",
+                "imageUrl": "/wiki-image/1080/153464356963614722.jpeg",
+                "displayName": "Chinese violet"
+            },
+            {
+                "scientificName": "Sida rhombifolia",
+                "link": "/wiki/Sida_rhombifolia.html",
+                "imageUrl": "/wiki-image/1080/153379621553831941.jpeg",
+                "displayName": "Arrowleaf sida"
+            },
+            {
+                "scientificName": "Bauhinia variegata",
+                "link": "/wiki/Bauhinia_variegata.html",
+                "imageUrl": "/wiki-image/1080/153992247098998825.jpeg",
+                "displayName": "Orchid tree"
+            },
+            {
+                "scientificName": "Miscanthus sinensis",
+                "link": "/wiki/Miscanthus_sinensis.html",
+                "imageUrl": "/wiki-image/1080/153965987668951048.jpeg",
+                "displayName": "Chinese silver grass"
+            },
+            {
+                "scientificName": "Pyrus calleryana",
+                "link": "/wiki/Pyrus_calleryana.html",
+                "imageUrl": "/wiki-image/1080/154216976967794695.jpeg",
+                "displayName": "Bradford pear"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Daucus_carota.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Daucus_carota.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Daucus_carota.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Daucus_carota.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Daucus_carota.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Daucus_carota.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Daucus_carota.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Daucus_carota.html",
+            "values": [
+                "Care Wild carrot",
+                "Care Wild carrot",
+                "Grow Wild carrot",
+                "Maintain Wild carrot",
+                "Wild carrot Care",
+                "Wild carrot Grow",
+                "Wild carrot Maintain",
+                "Wild carrot Cares",
+                "Growth Wild carrot",
+                "Maintains Wild carrot",
+                "Wild carrot Growth",
+                "Wild carrot Maintains",
+                "Wild carrot Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Daucus-carota-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Daucus_carota.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Daucus_carota.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Daucus_carota.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Daucus_carota.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Daucus_carota.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Daucus_carota.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Daucus_carota.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Daucus_carota.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Daucus_carota.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Daucus_carota.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Daucus_carota.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Daucus_carota.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Daucus_carota.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Daucus_carota.html"
+        }
+    ]
+}

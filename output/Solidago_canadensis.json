@@ -1,0 +1,943 @@
+{
+    "title": "Canada goldenrod (Solidago canadensis) - PictureThis",
+    "displayName": "Canada goldenrod",
+    "otherCommonName": "Creek goldenrod",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153846660592566302.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20756486",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884022513074195.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4390700",
+                "authorLink": "https://www.inaturalist.org/people/georectified",
+                "author": "georectified",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153892092756623390.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27309746",
+                "authorLink": "https://www.inaturalist.org/people/taco2000",
+                "author": "taco2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153891439921594387.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25935635",
+                "authorLink": "https://www.inaturalist.org/people/niklaslaxstrm",
+                "author": "niklaslaxstrm",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153855486750359560.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a rapid growth rate, canada goldenrod undergoes substantial changes in spring and summer. Its characteristic height gain is most pronounced, manifesting in robust stalk development. Leaves proliferate swiftly, often in sync with the swift seasonal escalation. Despite the speed, the plant's structure remains compact, not compromising on stability. The rapid growth also corroborates with an accelerated flowering cycle observed in these seasons, creating dense clusters of golden-yellow blooms. This unparalleled growth signifies canada goldenrod's ability to outcompete other species, covering ground rapidly and efficiently.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The Solidago canadensis, colloquially known as canada goldenrod, is a perennial herb native to North America. This plant can be found growing in a variety of different habitats, and it often forms colonies. In many parts of Europe and East Asia, canada goldenrod is considered an invasive species.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The Solidago canadensis, colloquially known as canada goldenrod, is a perennial herb native to North America. This plant can be found growing in a variety of different habitats, and it often forms colonies. In many parts of Europe and East Asia, canada goldenrod is considered an invasive species.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Canada goldenrod (<i>Solidago canadensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Goldenrods",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Solidago.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid summer, Late summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/434664090665680896.jpeg",
+        "habitat": "Dry to damp thickets, roadsides, slopes, clearings",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod's native region runs from subarctic North America right down through Mexico. It grows in any habitat of open fields or forest edges, and thrives in disturbed ground. Imported to the Old World as an ornamental, canada goldenrod has naturalized as an invasive weed in Australia, New Zealand, the majority of Europe, and a large portion of Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "360",
+                "464",
+                "410",
+                "377",
+                "349",
+                "232",
+                "337",
+                "310",
+                "316",
+                "342",
+                "250",
+                "325"
+            ],
+            "north": [
+                "4300",
+                "8701",
+                "44073",
+                "130313",
+                "129172",
+                "75802",
+                "78383",
+                "64253",
+                "31976",
+                "13162",
+                "3740",
+                "3372"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Canada goldenrod is a common herbaceous plant which carries bright yellow flowers in late summer to early fall. These flowers attract bees and butterflies with their nectar. Given how showy the flowers are, this plant does have ornamental use, however it does spread rapidly, so use in the garden is not typical.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Growth, encouragement, caution, good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In the Shanghai area, canada goldenrod is accused of causing the local extinction of as many as 30 native species. It propagates quickly and crowds out other plants. Elsewhere in China, it has even been cited as the reason for reduced orange harvests. Though less damaging in its native North American habitats, canada goldenrod is still usually considered a weed.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Canada goldenrod",
+                "values": [
+                    "This plant, whose inflorescence is covered with small yellow flowers, is a particularly troublesome grass weed. It is on the list of invasive weeds in several countries and it is regarded to be on a critical level of alertness to prevent its invasion. As it is native to places like Canada, it is commonly called Canada goldenrod."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Contact with <strong>canada goldenrod</strong> may cause mild allergic reactions like sneezing or itchy eyes. Consumption has diuretic effects and may interact with medications. Beware when using it in <strong>tea</strong> if on medication or having high blood pressure.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Solidago_canadensis.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod (Solidago canadensis) is a tall perennial weed native to Canada, the US, and Mexico, but it has spread outside of its native range to become an invasive weed in many parts of China, Japan, Australasia, and Europe. It seems to be especially problematic in China; it is estimated that canada goldenrod has caused local extinctions of 30 species of native plants in Shanghai.\n  </div> \n  <div>\n   Canada goldenrod tends to grow in monoculture colonies that exclude all other plant life from the area. It spreads very efficiently on account of its large rhizomes, vigorous growth, and allelopathic abilities, chemically inhibiting the growth of other plants. Canada goldenrod can be easily controlled by cultivation, but it's a challenge to eradicate it from natural areas.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to restrict or control canada goldenrod is before it sets seed, usually in late summer or early fall.\n  </div> \n  <ol> \n   <li>Hand pulling: Manually remove canada goldenrod by grasping the stem at the base and pulling gently to get as much of the root as possible.</li> \n   <li>Mowing: Cut canada goldenrod down before it flowers to prevent seed dispersal and reduce its energy reserves.</li> \n   <li>Mulching: Cover the soil around desirable plants with a thick layer of organic material to suppress canada goldenrod growth and prevent seed germination.</li> \n   <li>Densely planting: Cultivate a garden with competitive plants that can out-compete canada goldenrod for resources, thereby limiting its spread.</li> \n   <li>Timed watering: Water surrounding plants deeply but infrequently to discourage canada goldenrod which prefers consistent moisture.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Lanceolate leaves, 4-6 inches (10-15 cm) long, 1 inch (2.5 cm) wide, with sharp teeth.",
+            "Vibrant yellow flowers in dense clusters, panicles up to 12 inches (30 cm) long.",
+            "Brown oblong seeds with white feathery hairs for wind dispersal.",
+            "Green to reddish stem, erect up to 6 feet (180 cm) tall, densely hairy.",
+            "Branching clusters of 100-1300 small flowers with ray petals and disc flowers."
+        ],
+        "title": "Quickly Identify Canada goldenrod",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Solidago-canadensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod thrives in meadows and prairies, favoring consistent hydration and moderate humidity. It requires weekly watering for optimal health as an herbaceous perennial, flourishing when water is plentiful and aligning its growth cycle with rainfall availability.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod thrives with balanced nutrition, using a 10-10-10 fertilizer every 4-6 weeks during its growth season. Apply as directed, avoid foliage contact, and refrain from winter fertilization. Employ a slow-release formula and water thoroughly after application for optimal nutrient absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod features tall yellow flower clusters and thrives with targeted pruning. In early spring, cut stems to ground level to promote growth and prevent crowding. Deadhead in late spring to encourage blooming and manage self-seeding, enhancing both aesthetics and control.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod propagates best through sowing in Spring, requiring moist, well-drained soil for optimal germination. The propagation process has a moderate difficulty level and is indicated by sprouting and early foliage development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Canada goldenrod requires pots with excellent drainage to thrive, ensuring optimal moisture levels and preventing root rot. Proper drainage is crucial for maintaining the health of canada goldenrod, making pot selection and care essential for successful growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Solidago_canadensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is canada goldenrod used for?",
+            "link": "/ask/Solidago_canadensis-0.html"
+        },
+        {
+            "q": "Is canada goldenrod poisonous to humans?",
+            "link": "/ask/Solidago_canadensis-1.html"
+        },
+        {
+            "q": "Is goldenrod an annual or perennial?",
+            "link": "/ask/Solidago_canadensis-2.html"
+        },
+        {
+            "q": "Why do farmers grow goldenrod?",
+            "link": "/ask/Solidago_canadensis-3.html"
+        },
+        {
+            "q": "What's the difference between goldenrod and ragweed?",
+            "link": "/ask/Solidago_canadensis-4.html"
+        },
+        {
+            "q": "How do I get rid of canada goldenrod?",
+            "link": "/ask/Solidago_canadensis-5.html"
+        },
+        {
+            "q": "Is canada goldenrod invasive?",
+            "link": "/ask/Solidago_canadensis-6.html"
+        },
+        {
+            "q": "Should you cut back canada goldenrod?",
+            "link": "/ask/Solidago_canadensis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Solidago-canadensis-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Solidago-canadensis-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Solidago-canadensis-Spots.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Solidago-canadensis-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Solidago-canadensis-Underwatering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Solidago-canadensis-Notch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Solidago-canadensis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Solidago-canadensis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Solidago-canadensis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Solidago-canadensis-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Solidago-canadensis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Solidago-canadensis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Solidago-canadensis-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Solidago-canadensis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Solidago-canadensis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Solidago-canadensis-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Solidago-canadensis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Solidago-canadensis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Solidago-canadensis-Flower-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Terminalia catappa",
+                "link": "/wiki/Terminalia_catappa.html",
+                "imageUrl": "/wiki-image/1080/153462046271209513.jpeg",
+                "displayName": "Tropical almond"
+            },
+            {
+                "scientificName": "Malus prunifolia",
+                "link": "/wiki/Malus_prunifolia.html",
+                "imageUrl": "/wiki-image/1080/153975290568114187.jpeg",
+                "displayName": "Plumleaf crab apple"
+            },
+            {
+                "scientificName": "Alternanthera brasiliana",
+                "link": "/wiki/Alternanthera_brasiliana.html",
+                "imageUrl": "/wiki-image/1080/201162859258904576.jpeg",
+                "displayName": "Brazilian joyweed"
+            },
+            {
+                "scientificName": "Erigeron canadensis",
+                "link": "/wiki/Erigeron_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153461895947354149.jpeg",
+                "displayName": "Horseweed"
+            },
+            {
+                "scientificName": "Pyrus communis",
+                "link": "/wiki/Pyrus_communis.html",
+                "imageUrl": "/wiki-image/1080/153847584010534954.jpeg",
+                "displayName": "Common pear"
+            },
+            {
+                "scientificName": "Bidens frondosa",
+                "link": "/wiki/Bidens_frondosa.html",
+                "imageUrl": "/wiki-image/1080/154063242908401683.jpeg",
+                "displayName": "Devil's beggarticks"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Solidago_canadensis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Solidago_canadensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Solidago_canadensis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Solidago_canadensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Solidago_canadensis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Solidago_canadensis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Solidago_canadensis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Solidago_canadensis.html",
+            "values": [
+                "Care Canada goldenrod",
+                "Care Canada goldenrod",
+                "Grow Canada goldenrod",
+                "Maintain Canada goldenrod",
+                "Canada goldenrod Care",
+                "Canada goldenrod Grow",
+                "Canada goldenrod Maintain",
+                "Canada goldenrod Cares",
+                "Growth Canada goldenrod",
+                "Maintains Canada goldenrod",
+                "Canada goldenrod Growth",
+                "Canada goldenrod Maintains",
+                "Canada goldenrod Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solidago-canadensis-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Solidago_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Solidago_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Solidago_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Solidago_canadensis.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Solidago_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Solidago_canadensis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Solidago_canadensis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Solidago_canadensis.html"
+        }
+    ]
+}

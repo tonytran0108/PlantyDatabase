@@ -1,0 +1,928 @@
+{
+    "title": "Beet (Beta vulgaris) - PictureThis",
+    "displayName": "Beet",
+    "otherCommonName": "Sugar beet, Beetroot",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "LOVE_LIFE",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317695007159058432.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23734902",
+                "authorLink": "https://www.inaturalist.org/people/andrawaag",
+                "author": "andrawaag",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153676249175162899.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23734851",
+                "authorLink": "https://www.inaturalist.org/people/andrawaag",
+                "author": "andrawaag",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153432866263400461.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1332557",
+                "authorLink": "https://www.inaturalist.org/people/tony_wills",
+                "author": "tony_wills",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153827831455940622.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Svetlana Khoroshilova",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/348126001502781440.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Beet 'Solo'",
+            "link": "/wiki/Beta_vulgaris__Solo_.html"
+        },
+        {
+            "displayName": "Beet 'Boltardy'",
+            "link": "/wiki/Beta_vulgaris__Boltardy_.html"
+        },
+        {
+            "displayName": "Beet 'Boldor'",
+            "link": "/wiki/Beta_vulgaris__Boldor_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The beet (Beta vulgaris) provides a variety of uses for food products and garden growth. The roots are commonly consumed as nutrient-rich vegetables, the body of the sugar beet is used to make table sugar, and the leaves are harvested as a separate vegetable: chard. In 18th-Century Silesia, an area that is now part of Poland, the first-ever beet sugar extraction plant was created by a royal decree from the king.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The beet (Beta vulgaris) provides a variety of uses for food products and garden growth. The roots are commonly consumed as nutrient-rich vegetables, the body of the sugar beet is used to make table sugar, and the leaves are harvested as a separate vegetable: chard. In 18th-Century Silesia, an area that is now part of Poland, the first-ever beet sugar extraction plant was created by a royal decree from the king.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Beet (<i>Beta vulgaris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Beets",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Beta.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaranth",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaranthaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804984531189761.jpeg",
+        "habitat": "Coastal cliffs, stony, sandy beaches, salt marshes or coastal grasslands, ruderal or disturbed places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Beet is native to most countries in Europe, North Africa and parts of West Asia. From that simple origin, beet is now widely grown as a vegetable worldwide. In Britain this plant is still found and harvested in its native form.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1856",
+                "1868",
+                "2150",
+                "1939",
+                "1933",
+                "1942",
+                "2914",
+                "5024",
+                "6428",
+                "6139",
+                "2644",
+                "2597"
+            ],
+            "north": [
+                "8936",
+                "13412",
+                "26188",
+                "50871",
+                "62581",
+                "40634",
+                "29934",
+                "22075",
+                "18849",
+                "12743",
+                "8037",
+                "8876"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Beet (Beta vulgaris) is a very widespread vegetable grown for its edible taproot. The plant has little real ornamental appeal, although its green leaves with red veining are attractive, so it is best suited to vegetable gardens. Beet grows well with chard, lettuce, cauliflower, and cabbage in vegetable gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, blood, the heart",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Beet",
+                "values": [
+                    "Betalains gave Beta vulgaris its red color. In the 19th century, the red beet juice which is rich in Rose Betalains was used by women for cheeks and lips. This is inspired by the legend saying, \"red as beet\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate coastal regions, beet thrives in consistent moisture and requires watering twice a week. It is not drought-tolerant and benefits from regular rainfall during its growing season, mirroring its native habitat conditions for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize beet using a high nitrogen fertilizer at 2-3 lbs per 100 square feet for vibrant foliage and root growth. Feed monthly during growth; reduce in late season. Ensure even soil application and avoid foliage contact. Balance fertilization with beet's life cycle for optimal yields.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Beet thrives with minimal pruning, ideally in early to late spring. Remove damaged leaves for better air circulation and thin seedlings to 3-4 inches apart for healthier roots. Regular pruning enhances yield quality and overall health. Consult university extension services for more pruning details.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Beet is propagated by sowing seeds in spring, requiring moderate care. Germination success is marked by seedling emergence, necessitating consistent soil moisture and temperature for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Beta_vulgaris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is beet used for?",
+            "link": "/ask/Beta_vulgaris-0.html"
+        },
+        {
+            "q": "What is beet?",
+            "link": "/ask/Beta_vulgaris-1.html"
+        },
+        {
+            "q": "What are the benefits of eating beet?",
+            "link": "/ask/Beta_vulgaris-2.html"
+        },
+        {
+            "q": "Why are beet bad for you?",
+            "link": "/ask/Beta_vulgaris-3.html"
+        },
+        {
+            "q": "Can beet cause kidney damage?",
+            "link": "/ask/Beta_vulgaris-4.html"
+        },
+        {
+            "q": "Are beet good for weight loss?",
+            "link": "/ask/Beta_vulgaris-5.html"
+        },
+        {
+            "q": "Can beet be eaten raw?",
+            "link": "/ask/Beta_vulgaris-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Beta-vulgaris-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Beta-vulgaris-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Beta-vulgaris-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Beta-vulgaris-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Beta-vulgaris-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Beta-vulgaris-Wounds.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Beta-vulgaris-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Beta-vulgaris-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Beta-vulgaris-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Beta-vulgaris-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Beta-vulgaris-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Beta-vulgaris-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Beta-vulgaris-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Beta-vulgaris-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Beta-vulgaris-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Root damage",
+                "link": "/disease/Beta-vulgaris-Root-damage.html"
+            },
+            {
+                "diseaseName": "Root malformation",
+                "link": "/disease/Beta-vulgaris-Root-malformation.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Beta-vulgaris-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Beta-vulgaris-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Beta-vulgaris-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Beta-vulgaris-Leaf-edges-turning-downwards.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Euphorbia tirucalli",
+                "link": "/wiki/Euphorbia_tirucalli.html",
+                "imageUrl": "/wiki-image/1080/154153102214168607.jpeg",
+                "displayName": "Pencil cactus"
+            },
+            {
+                "scientificName": "Hemerocallis fulva",
+                "link": "/wiki/Hemerocallis_fulva.html",
+                "imageUrl": "/wiki-image/1080/393494492670328832.jpeg",
+                "displayName": "Ditch lily"
+            },
+            {
+                "scientificName": "Euonymus europaeus",
+                "link": "/wiki/Euonymus_europaeus.html",
+                "imageUrl": "/wiki-image/1080/154185305878953999.jpeg",
+                "displayName": "European spindletree"
+            },
+            {
+                "scientificName": "Hemerocallis lilioasphodelus",
+                "link": "/wiki/Hemerocallis_lilioasphodelus.html",
+                "imageUrl": "/wiki-image/1080/154056826227261475.jpeg",
+                "displayName": "Yellow daylily"
+            },
+            {
+                "scientificName": "Euphorbia marginata",
+                "link": "/wiki/Euphorbia_marginata.html",
+                "imageUrl": "/wiki-image/1080/154087075681927188.jpeg",
+                "displayName": "Snow-on-the-mountain"
+            },
+            {
+                "scientificName": "Dianthus barbatus",
+                "link": "/wiki/Dianthus_barbatus.html",
+                "imageUrl": "/wiki-image/1080/154023140798758929.jpeg",
+                "displayName": "Sweet william"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Beta_vulgaris.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Beta_vulgaris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Beta_vulgaris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Beta_vulgaris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Beta_vulgaris.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Beta_vulgaris.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Beta_vulgaris.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Beta_vulgaris.html",
+            "values": [
+                "Care Beet",
+                "Care Beet",
+                "Grow Beet",
+                "Maintain Beet",
+                "Beet Care",
+                "Beet Grow",
+                "Beet Maintain",
+                "Beet Cares",
+                "Growth Beet",
+                "Maintains Beet",
+                "Beet Growth",
+                "Beet Maintains",
+                "Beet Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Root-malformation.html",
+            "values": [
+                "Root malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Root-damage.html",
+            "values": [
+                "Root damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Beta-vulgaris-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Beta_vulgaris.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Beta_vulgaris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Beta_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Beta_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Beta_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Beta_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Beta_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Beta_vulgaris.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Beta_vulgaris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Beta_vulgaris.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Beta_vulgaris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Beta_vulgaris.html"
+        }
+    ]
+}

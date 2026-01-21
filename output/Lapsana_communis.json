@@ -1,0 +1,526 @@
+{
+    "title": "Common nipplewort (Lapsana communis) - PictureThis",
+    "displayName": "Common nipplewort",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1910,
+            "height": 1910,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "license": "CC-BY-SA-3.0"
+        },
+        "imageUrl": "/wiki-image/1080/201214832658219008.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/5342354",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152510474791944195.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11879516",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153657660556705821.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/13727371",
+                "authorLink": "https://www.inaturalist.org/people/1029721",
+                "author": "Owen Strickland",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153962779328380965.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "https://www.inaturalist.org/users/515751",
+                "author": "Brian Starzomski",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/153844929720745990.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common nipplewort (Lapsana communis)&nbsp;is a flowering plant related to sunflowers. Common nipplewort grows throughout Europe, Asia, and North America. Common nipplewort is edible and can be cooked like spinach. The name common nipplewort comes from the plant's flower buds, which resemble this part of the anatomy.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common nipplewort (Lapsana communis)&nbsp;is a flowering plant related to sunflowers. Common nipplewort grows throughout Europe, Asia, and North America. Common nipplewort is edible and can be cooked like spinach. The name common nipplewort comes from the plant's flower buds, which resemble this part of the anatomy.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common nipplewort (<i>Lapsana communis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nippleworts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Lapsana.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251774483298582528.png",
+        "habitat": "Waste ground, roadsides, walls",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common nipplewort is native across Europe, western Asia, typically growing in low-lying valleys and maritime habitats. It has been introduced across North America and in Greenland, Australia, and some South American countries. In many of those countries, it is considered invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "129",
+                "129",
+                "171",
+                "264",
+                "304",
+                "187",
+                "203",
+                "257",
+                "487",
+                "681",
+                "298",
+                "198"
+            ],
+            "north": [
+                "2714",
+                "4852",
+                "18456",
+                "81820",
+                "70088",
+                "20245",
+                "8481",
+                "5399",
+                "3802",
+                "1858",
+                "1397",
+                "1773"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common nipplewort is a wild annual or perennial plant. Its young leaves and shoots can be eaten raw or cooked, but should be harvested before the plant flowers. It is a common and often invasive weed found in many areas of the world, including the United States and Canada.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common nipplewort",
+                "values": [
+                    "The English name 'Nipplewort' is derived from its closed flower buds, which resemble nipples. Due to the resemblance to nipples, it was once used as a treatment for breast ulcers under the doctrine's prescription. As it is the most common species in its genus, it is called common nipplewort."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common nipplewort originates from Europe, but is now found globally. Belonging to the daisy family, it's often seen as a weed due to its ability to spread rapidly and grow in diverse environments, thus outcompeting native plants. This is mainly because of its prolific seeding capacity. Producing numerous yellow flowers that each hold up to 400 seeds, it has the potential to generate thousands of offspring in a single growing season. Its resilience and adaptability are the main factors that make this plant harmful, particularly to gardens where it can choke out flowers and vegetables. Common nipplewort's principal mode of spreading is through its seeds, which can be dispersed by wind or water, and by humans and animals that inadvertently aid in their distribution. These qualities make common nipplewort a tenacious and intrusive weed that is difficult to control once established.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove common nipplewort is during the late spring and early summer, before it starts flowering and seeds have not formed yet. To keep this weed under control, you can use natural and organic methods. Here are some of them:\n  </div> \n  <ol> \n   <li>Hand-pulling: Wet the soil to make it easier to grip the plant at the base and pull it out, ensuring you remove the entire root.</li> \n   <li>Shallow tilling: You can carefully till the soil to loosen it and allow you to remove the weed and its roots. Be sure not to till too deep to avoid bringing dormant seeds closer to the surface.</li> \n   <li>Smothering: Cover the area with a thick layer of newspaper or cardboard, then add a thick layer of mulch on top. This will block light and suppress future weed growth.</li> \n   <li>Using vinegar spray: On a dry, sunny day, spray undiluted vinegar directly onto common nipplewort. The acid will wither the plant. Be cautious though not to spray on desired plants.</li> \n   <li>Planting competitive species: Plant aggressive, fast-growing species that can outcompete common nipplewort for resources, reducing its chances of taking hold.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Native to temperate regions, common nipplewort prefers moderately moist soil, thriving under consistent moisture without waterlogging. Weekly watering is ideal to avoid over-saturation. Primarily grown outdoors, common nipplewort shows resilience during the growing season, benefiting from adequate moisture for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common nipplewort propagates easily by sowing seeds in spring, requiring minimal effort and demonstrating rapid germination as a success indicator. For optimal results, use well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Lapsana_communis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is common nipplewort edible?",
+            "link": "/ask/Lapsana_communis-0.html"
+        },
+        {
+            "q": "Is common nipplewort annual or perennial?",
+            "link": "/ask/Lapsana_communis-1.html"
+        },
+        {
+            "q": "Why is it called common nipplewort?",
+            "link": "/ask/Lapsana_communis-2.html"
+        },
+        {
+            "q": "How tall is common nipplewort?",
+            "link": "/ask/Lapsana_communis-3.html"
+        },
+        {
+            "q": "What is common nipplewort good for?",
+            "link": "/ask/Lapsana_communis-4.html"
+        },
+        {
+            "q": "When does common nipplewort bloom?",
+            "link": "/ask/Lapsana_communis-5.html"
+        },
+        {
+            "q": "How does common nipplewort spread?",
+            "link": "/ask/Lapsana_communis-6.html"
+        },
+        {
+            "q": "How do you cook common nipplewort?",
+            "link": "/ask/Lapsana_communis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Potentilla indica",
+                "link": "/wiki/Potentilla_indica.html",
+                "imageUrl": "/wiki-image/1080/352288894259527680.jpeg",
+                "displayName": "Mock strawberry"
+            },
+            {
+                "scientificName": "Taeniatherum caput-medusae",
+                "link": "/wiki/Taeniatherum_caput-medusae.html",
+                "imageUrl": "/wiki-image/1080/222362920914288640.jpeg",
+                "displayName": "Medusa head"
+            },
+            {
+                "scientificName": "Ficaria verna subsp. verna",
+                "link": "/wiki/Ficaria_verna_subsp._verna.html",
+                "imageUrl": "/wiki-image/1080/157141398724804617.jpeg",
+                "displayName": "Lesser celandine"
+            },
+            {
+                "scientificName": "Cenchrus clandestinus",
+                "link": "/wiki/Cenchrus_clandestinus.html",
+                "imageUrl": "/wiki-image/1080/154197048319541266.jpeg",
+                "displayName": "Kikuyu grass"
+            },
+            {
+                "scientificName": "Cardamine hirsuta",
+                "link": "/wiki/Cardamine_hirsuta.html",
+                "imageUrl": "/wiki-image/1080/154135265214988299.jpeg",
+                "displayName": "Hairy bittercress"
+            },
+            {
+                "scientificName": "Eleusine indica",
+                "link": "/wiki/Eleusine_indica.html",
+                "imageUrl": "/wiki-image/1080/154140724118421508.jpeg",
+                "displayName": "Goosegrass"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Lapsana_communis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Lapsana_communis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Lapsana_communis.html",
+            "values": [
+                "Care Common nipplewort",
+                "Care Common nipplewort",
+                "Grow Common nipplewort",
+                "Maintain Common nipplewort",
+                "Common nipplewort Care",
+                "Common nipplewort Grow",
+                "Common nipplewort Maintain",
+                "Common nipplewort Cares",
+                "Growth Common nipplewort",
+                "Maintains Common nipplewort",
+                "Common nipplewort Growth",
+                "Common nipplewort Maintains",
+                "Common nipplewort Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Lapsana_communis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Lapsana_communis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Lapsana_communis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Lapsana_communis.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Lapsana_communis.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Lapsana_communis.html"
+        }
+    ]
+}

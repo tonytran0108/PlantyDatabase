@@ -1,0 +1,626 @@
+{
+    "title": "Tansy ragwort (Jacobaea vulgaris) - PictureThis",
+    "displayName": "Tansy ragwort",
+    "otherCommonName": "Stinking willie, St. James-wort",
+    "mainImage": {
+        "copyright": {
+            "width": 2012,
+            "height": 2012,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "license": "CC0"
+        },
+        "imageUrl": "/wiki-image/1080/201214025204367360.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/26424361",
+                "authorLink": "https://www.inaturalist.org/people/rmcminds",
+                "author": "rmcminds",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656492325601321.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22331228",
+                "authorLink": "https://www.inaturalist.org/people/rappman",
+                "author": "rappman",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665546116661258.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/12000432",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654675554435108.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9769918",
+                "authorLink": "https://www.inaturalist.org/people/ianmanning",
+                "author": "ianmanning",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153885757679861791.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Tansy ragwort is a biennial that is classified in many areas of the United States as a noxious weed. The tansy ragwort is poisonous to livestock, pets, and humans. This plant is found in sunny open areas like pastures and meadows. It has bright yellow flowers and grows 61 to 122 cm tall.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Tansy ragwort is a biennial that is classified in many areas of the United States as a noxious weed. The tansy ragwort is poisonous to livestock, pets, and humans. This plant is found in sunny open areas like pastures and meadows. It has bright yellow flowers and grows 61 to 122 cm tall.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Tansy ragwort (<i>Jacobaea vulgaris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Jacobaea",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Jacobaea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/391152412644048896.jpeg",
+        "habitat": "Wasteland, waysides, grazing pastures, roadsides",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Tansy ragwort is a widespread plant species native to the grasslands, open woodlands, and marshes of Europe, Asia, and North Africa. It occurs in many places as an introduced species across all continents except Antarctica. Tansy ragwort is classed as a noxious weed throughout its range and an invasive species in countries like America.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "134",
+                "97",
+                "130",
+                "122",
+                "170",
+                "247",
+                "182",
+                "162",
+                "239",
+                "297",
+                "144",
+                "219"
+            ],
+            "north": [
+                "1568",
+                "2953",
+                "11972",
+                "34787",
+                "39344",
+                "52965",
+                "30340",
+                "13384",
+                "7526",
+                "2737",
+                "892",
+                "986"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, the fae realm",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Tansy ragwort is of great ecological importance, because of hundreds of insects that feed on the plant. Some of them, like the tansy ragwort flea beetle (Longitarsus jacobaeae) are used to combat the invasiveness of tansy ragwort in non-native areas. In the UK, where tansy ragwort is native, the plant plays an important role in natural biodiversity as the only food source for many threatened species of insects, such as the cinnabar moth (Tyria jacobaeae).",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common ragwort||Tansy ragwort",
+                "values": [
+                    "The word ragwort probably refers to the ragged form of the leaves. In 1597, Herarde wrote in his Herbal note: \"The country people call it ragworte ... also ragwoort ... it groweth everywhere in untilled pastures and fields\". Since it is very commonly seen, it is called common ragwort. Also, it is very similar to tansy in appearance, it is called Tansy ragwort as well."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Jacobaea_vulgaris.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Tansy ragwort originates from Europe and Western Asia but it has vastly spread in different parts, including North America. ItÃ¢ÂÂs considered a weed due to its aggressive and invasive nature. Tansy ragwort thrives even under adverse conditions, multiplying rapidly and often outcompeting other plant species for resources such as space, water, and nutrients. What truly sets it apart as a harmful weed, though, is that it is toxic to many animals especially horses and cows. When ingested, it can cause severe liver damage which can often be fatal. The main mode of spreading is through its small, lightweight seeds which are easily carried by the wind, enabling the plant to colonize new areas quickly. Its capacity to produce thousands of seeds from a single plant significantly contributes to its rapid spread as well. Consequently, tansy ragwort can quickly overrun a garden, causing damage and pushing out preferred plants.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The optimal season for removing tansy ragwort is late spring or early summer, prior to the flowering stage. This can prevent the plant from producing and spreading seeds.\n  </div> \n  <ol> \n   <li>Hand Pulling: Hand pull the tansy ragwort, ensuring to remove the entire root system to prevent regrowth. Best done after rain when the soil is moist, making it easier to pull out roots.</li> \n   <li>Mowing: Regularly mow the area where tansy ragwort is growing, before it has the chance to flower and release seeds. This procedure interrupts the plant's lifecycle.</li> \n   <li>Biological control: Introduce insects that feed on tansy ragwort, such as the Cinnabar moth or Ragwort flea beetle. They can damage the leaves and stems, reducing the plant's ability to photosynthesize.</li> \n   <li>Mulching: Cover the area with a thick layer of mulch. This blocks sunlight preventing tansy ragwort from photosynthesizing and adding nutrients to the soil.</li> \n   <li>Solarization: A process by which you can control tansy ragwort with heat. Cover the area with a clear plastic tarp during the hottest part of summer. The sunlight warms up the soil and eliminates the weed.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Adapted to moderate climates, tansy ragwort thrives with consistent moisture and prefers evenly moist soil. It benefits from weekly watering and can tolerate short dry spells. Primarily cultivated outdoors, tansy ragwort requires monitoring during the growing season to ensure sufficient water, especially in dry conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tansy ragwort grows vigorously and propagates best through surface sowing on fertile, well-drained soil. Lightly cover seeds and maintain consistent moisture, avoiding waterlogging. A greenhouse provides an optimal environment. Transplant seedlings for strong development and health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Jacobaea_vulgaris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is tansy ragwort poisonous to humans?",
+            "link": "/ask/Jacobaea_vulgaris-0.html"
+        },
+        {
+            "q": "How do I get rid of tansy ragwort?",
+            "link": "/ask/Jacobaea_vulgaris-1.html"
+        },
+        {
+            "q": "Where is tansy ragwort native to?",
+            "link": "/ask/Jacobaea_vulgaris-2.html"
+        },
+        {
+            "q": "Is tansy ragwort invasive?",
+            "link": "/ask/Jacobaea_vulgaris-3.html"
+        },
+        {
+            "q": "How tall is tansy ragwort?",
+            "link": "/ask/Jacobaea_vulgaris-4.html"
+        },
+        {
+            "q": "Why is it called Tansy ragwort?",
+            "link": "/ask/Jacobaea_vulgaris-5.html"
+        },
+        {
+            "q": "What is tansy ragwort good for?",
+            "link": "/ask/Jacobaea_vulgaris-6.html"
+        },
+        {
+            "q": "When should I cut my tansy ragwort?",
+            "link": "/ask/Jacobaea_vulgaris-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Salix cinerea",
+                "link": "/wiki/Salix_cinerea.html",
+                "imageUrl": "/wiki-image/1080/157393899852136452.jpeg",
+                "displayName": "Grey willow"
+            },
+            {
+                "scientificName": "Tradescantia spathacea",
+                "link": "/wiki/Tradescantia_spathacea.html",
+                "imageUrl": "/wiki-image/1080/153723206052610076.jpeg",
+                "displayName": "Oyster plant"
+            },
+            {
+                "scientificName": "Ambrosia psilostachya",
+                "link": "/wiki/Ambrosia_psilostachya.html",
+                "imageUrl": "/wiki-image/1080/154132220083175457.jpeg",
+                "displayName": "Cuman ragweed"
+            },
+            {
+                "scientificName": "Bauhinia monandra",
+                "link": "/wiki/Bauhinia_monandra.html",
+                "imageUrl": "/wiki-image/1080/351936423473414144.jpeg",
+                "displayName": "Pink bauhinia"
+            },
+            {
+                "scientificName": "Brassica napus",
+                "link": "/wiki/Brassica_napus.html",
+                "imageUrl": "/wiki-image/1080/154065188528586761.jpeg",
+                "displayName": "Rutabaga"
+            },
+            {
+                "scientificName": "Ambrosia trifida",
+                "link": "/wiki/Ambrosia_trifida.html",
+                "imageUrl": "/wiki-image/1080/154243936477511708.jpeg",
+                "displayName": "Giant ragweed"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Jacobaea_vulgaris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Jacobaea_vulgaris.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Jacobaea_vulgaris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Jacobaea_vulgaris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Jacobaea_vulgaris.html",
+            "values": [
+                "Care Tansy ragwort",
+                "Care Tansy ragwort",
+                "Grow Tansy ragwort",
+                "Maintain Tansy ragwort",
+                "Tansy ragwort Care",
+                "Tansy ragwort Grow",
+                "Tansy ragwort Maintain",
+                "Tansy ragwort Cares",
+                "Growth Tansy ragwort",
+                "Maintains Tansy ragwort",
+                "Tansy ragwort Growth",
+                "Tansy ragwort Maintains",
+                "Tansy ragwort Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Jacobaea_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Jacobaea_vulgaris.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Jacobaea_vulgaris.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Jacobaea_vulgaris.html"
+        }
+    ]
+}

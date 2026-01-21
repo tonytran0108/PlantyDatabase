@@ -1,0 +1,739 @@
+{
+    "title": "White clover (Trifolium repens) - PictureThis",
+    "displayName": "White clover",
+    "otherCommonName": "Dutch clover, Shamrock",
+    "mainImage": {
+        "copyright": {
+            "width": 4912,
+            "height": 4912,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "huamixinhua",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202692159674253312.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10171485",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152528131402498052.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28526667",
+                "authorLink": "https://www.inaturalist.org/people/joepb",
+                "author": "joepb",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152491396547215360.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/15213615",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661337048711197.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9542951",
+                "authorLink": "https://www.inaturalist.org/people/anniero",
+                "author": "anniero",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662157387464705.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "White clover 'Purpurascens Quadrifolium'",
+            "link": "/wiki/Trifolium_repens__Purpurascens_Quadrifolium_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   White clover (Trifolium repens) is a perennial herb, one of the most cultivated species of clover. It can be found on lawns and grasslands all over the world. White clover is often cultivated as a forage plant and used for green manure in agriculture.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "White clover (Trifolium repens) is a perennial herb, one of the most cultivated species of clover. It can be found on lawns and grasslands all over the world. White clover is often cultivated as a forage plant and used for green manure in agriculture.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "White clover (<i>Trifolium repens</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Clovers",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Trifolium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Legume Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fabaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Legumes, milkworts and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fabales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   7 mm to 1.2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804275861585921.jpeg",
+        "habitat": "Grassland, lawns",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   White clover is native to Europe and central Asia, and south into parts of Africa and the Middle East. It grows in lawns and fields, prairies, and other places where there are few trees to block out light. In Japan, Australia, and the United States its spread is managed because this weedy plant is considered potentially invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 69.06086624, \"2\": 63.25276298, \"3\": 68.01028239, \"4\": 79.60677981, \"5\": 55.95209919, \"6\": 47.0, \"7\": 62.72148498, \"8\": 89.25493934, \"9\": 108.1998667, \"10\": 100.1972867, \"11\": 108.9467438, \"12\": 100.6746353}, \"flower_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 80.0, \"2\": 52.0, \"3\": 120.0, \"4\": 127.0, \"5\": 99.0, \"6\": 125.0, \"7\": 109.0, \"8\": 239.0, \"9\": 246.0, \"10\": 260.0, \"11\": 198.0, \"12\": 114.0}, \"flower_month\": 10}, \"Default\": {\"trends\": {\"1\": 326.0, \"2\": 222.0, \"3\": 325.0, \"4\": 299.0, \"5\": 262.0, \"6\": 265.0, \"7\": 285.0, \"8\": 515.0, \"9\": 642.0, \"10\": 666.0, \"11\": 545.0, \"12\": 423.0}, \"flower_month\": 10}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 30.75723545, \"2\": 28.64390295, \"3\": 45.37324883, \"4\": 37.015845, \"5\": 53.70778169, \"6\": 43.08263974, \"7\": 32.24666096, \"8\": 24.2020081, \"9\": 21.76360824, \"10\": 22.62201434, \"11\": 23.84366642, \"12\": 46.0}, \"flower_month\": 5}, \"BWk\": {\"trends\": {\"1\": 0.835727773, \"2\": 2.243278978, \"3\": 4.303778008, \"4\": 8.115630578, \"5\": 9.218737137, \"6\": 9.967208019, \"7\": 7.081903348, \"8\": 8.675150551, \"9\": 6.816659971, \"10\": 6.363417801, \"11\": 1.700918964, \"12\": 8.0}, \"flower_month\": 6}, \"BSk\": {\"trends\": {\"1\": 20.92418869, \"2\": 29.90340753, \"3\": 51.43968595, \"4\": 89.39906218, \"5\": 108.5599265, \"6\": 106.3570253, \"7\": 84.81766513, \"8\": 77.67829108, \"9\": 73.52256516, \"10\": 50.47800464, \"11\": 37.65766873, \"12\": 29.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 28.78001535, \"2\": 63.33286253, \"3\": 86.81488142, \"4\": 108.6024613, \"5\": 128.2467301, \"6\": 95.48028275, \"7\": 56.37388672, \"8\": 45.26471516, \"9\": 39.30899906, \"10\": 41.48104701, \"11\": 43.36934131, \"12\": 51.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 23.3737638, \"2\": 34.45939251, \"3\": 58.75164319, \"4\": 91.98657258, \"5\": 116.9627601, \"6\": 132.3569991, \"7\": 81.86964622, \"8\": 75.69434687, \"9\": 84.23799469, \"10\": 66.78078306, \"11\": 23.5626966, \"12\": 28.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 241.2056358, \"2\": 527.7219675, \"3\": 574.5452038, \"4\": 802.2685665, \"5\": 789.5361179, \"6\": 626.0641857, \"7\": 416.0034018, \"8\": 334.228255, \"9\": 301.0590724, \"10\": 271.7080911, \"11\": 231.3212919, \"12\": 205.0}, \"flower_month\": 4}, \"Cfb\": {\"trends\": {\"1\": 84.57987191, \"2\": 90.65074059, \"3\": 137.8117221, \"4\": 221.0604918, \"5\": 310.7727241, \"6\": 448.3115451, \"7\": 363.8940464, \"8\": 315.4230514, \"9\": 230.1157456, \"10\": 151.0865228, \"11\": 110.1770652, \"12\": 95.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 104.6410456, \"2\": 235.3525856, \"3\": 403.9721001, \"4\": 533.1096081, \"5\": 638.779852, \"6\": 688.9852044, \"7\": 476.4271792, \"8\": 402.2238994, \"9\": 385.5715015, \"10\": 261.289639, \"11\": 151.7247909, \"12\": 72.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 33.00482403, \"2\": 42.00118189, \"3\": 84.10067615, \"4\": 230.8352314, \"5\": 354.2321693, \"6\": 466.5070562, \"7\": 339.6521194, \"8\": 280.7687844, \"9\": 234.390754, \"10\": 120.8747772, \"11\": 65.84949235, \"12\": 42.0}, \"flower_month\": 6}, \"Dfc\": {\"trends\": {\"1\": 0.0, \"2\": 1.392987162, \"3\": 2.009953, \"4\": 2.151948693, \"5\": 7.072881858, \"6\": 13.15206981, \"7\": 11.32163621, \"8\": 8.331624344, \"9\": 5.404311555, \"10\": 0.0, \"11\": 1.785802014, \"12\": 1.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 598.2479049, \"2\": 1268.091093, \"3\": 1773.630696, \"4\": 2741.511261, \"5\": 3273.553794, \"6\": 3482.796175, \"7\": 2424.294675, \"8\": 1995.956762, \"9\": 1710.575226, \"10\": 1171.114141, \"11\": 776.0472821, \"12\": 645.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can inhibit weeds from growing and can improve soil and conserve water and soil.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It can be used as good feed.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "White clover is popularly planted as ground cover in gardens and parks. It does well in this role due to its low, creeping growth, providing the added beautification of its pink-tinged white blooms. It is often used to aid in the improvement of local soil, as a means of controlling erosion, and a grazing plant for livestock. This nitrogen-fixing plant is a good companion for apple trees Ã¢ÂÂ it's even said to make the apples taste better!",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Hope, faith, love, good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Trifolium repens is also known as white clover. Four-leaf clovers represents good luck in Britain and the United States because it is considered a plant only grown in the Garden of Eden. In some countries, the playing cards suit of clubs represents the lucky white clover.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "White clover||Dutch clover||Ladino clover",
+                "values": [
+                    "This species includes varieties that are often classified as small, intermediate and large, based on its height which reflects petiole length. The term Ã¢ÂÂwhite cloverÃ¢ÂÂ is applied to the species in general, Ã¢ÂÂDutch cloverÃ¢ÂÂ is often applied to intermediate varieties (but sometimes to smaller varieties), and Ã¢ÂÂladino cloverÃ¢ÂÂ is applied to large varieties."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>White clover poses a mild toxicity risk to cats and dogs.</strong> All parts of white clover are toxic if ingested in high amounts, causing symptoms like gastrointestinal upset and physical discomfort. <strong>Immediate veterinary treatment is crucial</strong> if poisoning is suspected to ensure the health of the affected pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Trifolium_repens.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   White clover's native range includes Europe, western Central Asia, and parts of North Africa. Because it spreads efficiently by seed that can remain viable for years and survive both low temperatures and high heat, it was naturalized in North America, China, Australasia, southern Latin America, and parts of Africa. Although it is a desirable plant in many respects, from enriching the soil to being quality animal feed to providing food for pollinators, white clover is still considered a weed in some places, such as garden beds, lawns, and fields. Since it tends to grow in clumps, it is easy to remove manually, but it can keep coming back for years via seeds.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to control white clover is during its active growing season, in late spring or early summer before it can spread its seeds. To keep this plant from turning into an unwanted weed or to cultivate it without letting it overtake the garden, follow these steps:\n  </div> \n  <ol> \n   <li>Manual removal: Pull white clover from the ground, ensuring that all root segments are extracted to prevent regrowth.</li> \n   <li>Mulching: Spread a thick layer of organic mulch around plants to suppress the growth of white clover by blocking sunlight.</li> \n   <li>Mowing: Regularly mow the area to keep white clover from flowering and seeding, cutting it back just enough without harming the grass it grows within.</li> \n   <li>Plant competition: Introduce competitive plants that can outcompete white clover, such as taller grasses or ground covers that shade it out.</li> \n   <li>Vinegar solution: Spray a diluted vinegar solution directly onto white clover as a natural herbicide, taking care to not harm nearby desirable plants.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Tripinnate leaf arrangement with oval leaflets.",
+            "Rounded white flower heads, fragrant with sweet scent.",
+            "Globular flowers with 40-100 small, white florets.",
+            "Ovate fruit pod housing 4-6 small seeds.",
+            "Square-shaped stem with unique branching pattern."
+        ],
+        "title": "Quickly Identify White clover",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Trifolium-repens.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White clover thrives in temperate climates, requiring consistent moisture and evenly moist soil. Once established, it shows moderate drought tolerance. Weekly watering promotes optimal growth, with supplemental irrigation needed during prolonged dry periods to support lush foliage and flowering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize white clover with balanced fertilizers (equal NPK) every 6-8 weeks during the growing season to enhance growth and flowering. Avoid over-fertilization, which can disrupt nitrogen-fixing. Reduce applications in late fall and winter, and consider slow-release formulas to minimize nutrient run-off.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White clover is a low-growing perennial with trifoliate leaves and white flowers. Prune in spring for dense growth, remove dead parts, and mow regularly to control spread. Pruning improves air circulation, reduces disease risk, and promotes vigorous growth for a thriving white clover.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White clover is primarily propagated by sowing in spring, noted for its ease. Successful propagation is indicated by new leaf and root growth. Maintaining adequate moisture and using well-draining soil are crucial for effective growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White clover requires excellent drainage in pots to thrive, ensuring its roots do not become waterlogged, promoting healthy growth and minimizing the risk of rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Trifolium_repens.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is white clover invasive?",
+            "link": "/ask/Trifolium_repens-0.html"
+        },
+        {
+            "q": "Is white clover toxic to people?",
+            "link": "/ask/Trifolium_repens-1.html"
+        },
+        {
+            "q": "How do you get rid of white clover without destroying grass?",
+            "link": "/ask/Trifolium_repens-2.html"
+        },
+        {
+            "q": "Is white clover toxic to dogs?",
+            "link": "/ask/Trifolium_repens-3.html"
+        },
+        {
+            "q": "What animals eat white clover?",
+            "link": "/ask/Trifolium_repens-4.html"
+        },
+        {
+            "q": "Is white clover good for a lawn?",
+            "link": "/ask/Trifolium_repens-5.html"
+        },
+        {
+            "q": "How do you take care of white clover?",
+            "link": "/ask/Trifolium_repens-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Trifolium-repens-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Trifolium-repens-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Trifolium-repens-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Trifolium-repens-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Trifolium-repens-Flower-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Erythrina variegata",
+                "link": "/wiki/Erythrina_variegata.html",
+                "imageUrl": "/wiki-image/1080/153453318897664027.jpeg",
+                "displayName": "Indian coral tree"
+            },
+            {
+                "scientificName": "Crocosmia crocosmiiflora",
+                "link": "/wiki/Crocosmia_crocosmiiflora.html",
+                "imageUrl": "/wiki-image/1080/348127925648130048.jpeg",
+                "displayName": "Montbretia"
+            },
+            {
+                "scientificName": "Ipomoea cordatotriloba",
+                "link": "/wiki/Ipomoea_cordatotriloba.html",
+                "imageUrl": "/wiki-image/1080/154200037616779295.jpeg",
+                "displayName": "Tievine"
+            },
+            {
+                "scientificName": "Callisia fragrans",
+                "link": "/wiki/Callisia_fragrans.html",
+                "imageUrl": "/wiki-image/1080/153873169130717209.jpeg",
+                "displayName": "Basket plant"
+            },
+            {
+                "scientificName": "Canna indica",
+                "link": "/wiki/Canna_indica.html",
+                "imageUrl": "/wiki-image/1080/154076621731528708.jpeg",
+                "displayName": "Indian shot"
+            },
+            {
+                "scientificName": "Peperomia pellucida",
+                "link": "/wiki/Peperomia_pellucida.html",
+                "imageUrl": "/wiki-image/1080/154041145301663773.jpeg",
+                "displayName": "Pepper elder"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Trifolium_repens.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Trifolium_repens.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Trifolium_repens.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Trifolium_repens.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Trifolium_repens.html",
+            "values": [
+                "Care White clover",
+                "Care White clover",
+                "Grow White clover",
+                "Maintain White clover",
+                "White clover Care",
+                "White clover Grow",
+                "White clover Maintain",
+                "White clover Cares",
+                "Growth White clover",
+                "Maintains White clover",
+                "White clover Growth",
+                "White clover Maintains",
+                "White clover Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-repens-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-repens-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-repens-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-repens-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-repens-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Trifolium_repens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Trifolium_repens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Trifolium_repens.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Trifolium_repens.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Trifolium_repens.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Trifolium_repens.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Trifolium_repens.html"
+        }
+    ]
+}

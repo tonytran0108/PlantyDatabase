@@ -1,0 +1,991 @@
+{
+    "title": "Purpletop vervain (Verbena bonariensis) - PictureThis",
+    "displayName": "Purpletop vervain",
+    "otherCommonName": "Tall vervain, South american vervain",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153952879428763691.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 2048,
+                "height": 1536,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Verbena_bonariensis.jpg",
+                "authorLink": "https://www.flickr.com/photos/90901507@N00",
+                "author": "frank wouters",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/152528741287854080.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 345,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/15903307",
+                "authorLink": "https://www.inaturalist.org/people/nicky",
+                "author": "nicky",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153883876484186120.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 302,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35218234",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153949885836558339.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 376,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25135521",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153806884900438050.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Purpletop vervain 'Lollipop'",
+            "link": "/wiki/Verbena_bonariensis__Lollipop_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Purpletop vervain (Verbena bonariensis) is a flowering plant native to South America. In autumn, purpletop vervain loses its leaves. The lavender flowers on this species have a sweet scent.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Purpletop vervain (Verbena bonariensis) is a flowering plant native to South America. In autumn, purpletop vervain loses its leaves. The lavender flowers on this species have a sweet scent.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Purpletop vervain (<i>Verbena bonariensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Vervains",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Verbena.html"
+            },
+            {
+                "type": "Family",
+                "name": "Verbena",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Verbenaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.8 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 mm to 6 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/341552785984421888.jpeg",
+        "habitat": "Garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Purpletop vervain is native to most of South America and has been introduced across the globe as an ornamental plant, including in the US. Its native habitat includes damp grasslands and stream or river banks. It has escaped cultivation and become invasive in the US, particularly in livestock pastures.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 91.94186181, \"2\": 47.74370108, \"3\": 60.88981637, \"4\": 64.45193093, \"5\": 40.60246119, \"6\": 50.0, \"7\": 48.18088417, \"8\": 75.564183, \"9\": 100.1538474, \"10\": 129.3353763, \"11\": 109.786798, \"12\": 99.16336348}, \"flower_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 41.43651974, \"2\": 35.28838356, \"3\": 29.94948215, \"4\": 36.90859791, \"5\": 22.06561658, \"6\": 11.0, \"7\": 21.81616869, \"8\": 21.7694974, \"9\": 22.060167, \"10\": 28.69499761, \"11\": 40.98986402, \"12\": 33.55821176}, \"flower_month\": 1}, \"Default\": {\"trends\": {\"1\": 217.6484318, \"2\": 151.2718381, \"3\": 165.5114683, \"4\": 156.2643771, \"5\": 116.8573779, \"6\": 118.0, \"7\": 128.4794385, \"8\": 170.0706526, \"9\": 211.3846582, \"10\": 274.0049703, \"11\": 281.8614689, \"12\": 235.3829097}, \"flower_month\": 11}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 8.369675474, \"2\": 13.8015727, \"3\": 8.051429106, \"4\": 14.58113046, \"5\": 18.95024428, \"6\": 21.84722334, \"7\": 29.16366709, \"8\": 32.41692462, \"9\": 36.18388024, \"10\": 21.48000197, \"11\": 8.966111602, \"12\": 9.0}, \"flower_month\": 9}, \"Csa\": {\"trends\": {\"1\": 12.20970348, \"2\": 14.90185001, \"3\": 23.45236133, \"4\": 33.45699296, \"5\": 52.78105354, \"6\": 48.29205053, \"7\": 37.82984504, \"8\": 32.38768412, \"9\": 25.7541718, \"10\": 24.88862821, \"11\": 15.61296287, \"12\": 13.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 12.41731202, \"2\": 11.92825125, \"3\": 9.487843, \"4\": 21.67604384, \"5\": 34.82732592, \"6\": 43.82190205, \"7\": 51.04582259, \"8\": 51.84544306, \"9\": 51.42239033, \"10\": 27.55291049, \"11\": 14.62512203, \"12\": 11.0}, \"flower_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 39.6502415, \"2\": 69.62297467, \"3\": 87.75249836, \"4\": 152.4508067, \"5\": 208.9487343, \"6\": 227.7105662, \"7\": 195.2343331, \"8\": 185.6102542, \"9\": 173.4015152, \"10\": 136.7305233, \"11\": 65.6555482, \"12\": 53.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 100.7269384, \"2\": 119.1409734, \"3\": 142.9796616, \"4\": 226.4206543, \"5\": 385.8548573, \"6\": 681.5658914, \"7\": 692.0767516, \"8\": 729.7477972, \"9\": 652.2320902, \"10\": 366.5622684, \"11\": 180.2181994, \"12\": 87.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 34.88034855, \"2\": 31.50895272, \"3\": 47.38161035, \"4\": 78.63901465, \"5\": 126.5920628, \"6\": 167.5211179, \"7\": 180.7973522, \"8\": 187.1215532, \"9\": 185.636562, \"10\": 121.8604039, \"11\": 61.6635514, \"12\": 32.0}, \"flower_month\": 8}, \"Dfb\": {\"trends\": {\"1\": 14.85217081, \"2\": 17.3797994, \"3\": 27.42413353, \"4\": 40.2435565, \"5\": 67.54330431, \"6\": 100.8879739, \"7\": 118.1398676, \"8\": 143.0746854, \"9\": 164.4186815, \"10\": 103.1118171, \"11\": 32.92474618, \"12\": 10.0}, \"flower_month\": 9}, \"Default\": {\"trends\": {\"1\": 263.6483354, \"2\": 332.354608, \"3\": 432.5375221, \"4\": 708.1159545, \"5\": 1115.916055, \"6\": 1595.350973, \"7\": 1563.842156, \"8\": 1687.037227, \"9\": 1510.301784, \"10\": 896.634264, \"11\": 447.56166, \"12\": 253.0}, \"flower_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Purpletop vervain is a good nectariferous plant, from which nectar can be extracted.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Purpletop vervain is commonly used in the landscape layouts of botanical gardens and farms. It is important for its ability to grow easily and without much trouble. It is prized for its height, which allows its attractive blooms to grow overtop nearby plants and draw the eye. It makes a good fit for desert gardens and meadow gardens. It is often planted with perennial pastel flowers, whose softer appearance sets off its more vivid colors.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Justice, expectation, and innocence",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Purpletop vervain is probably the best plant to imitate lavender, not that it looks like lavender, but it is in line with people's image of lavender. It's not easy to grow lavender in most climates, but it is easier to plant purpletop vervain, and large areas of the purple flower look like a field of lavender.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Purpletop vervain",
+                "values": [
+                    "The fragrant lavender to rose-purple flowers sprout in tight clusters on the terminal and axillary stems. The common name, vervaine comes from the Celtic name \"ferfain. Therefore, it is called purpletop vervain."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Lance-shaped leaves with jagged edges form a textured rosette.",
+            "Clusters of small purple blooms, each about 0.25 inches (0.63 cm) long.",
+            "Salver-shaped flowers in dense clusters, creating vibrant color display.",
+            "Small, brown seed capsules, around 1/8 inch (3 mm) in diameter.",
+            "Thin, upright stems with red-ridged angles and square cross-section."
+        ],
+        "title": "Quickly Identify Purpletop vervain",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Verbena-bonariensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Purpletop vervain thrives in tropical climates, favoring regular rainfall and high humidity. It prefers consistent moisture without waterlogging and shows moderate drought tolerance once established. Water twice a week to maintain optimal hydration, making it suitable for rain gardens or regularly watered areas.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth and blooms of purpletop vervain, apply a balanced fertilizer high in phosphorus at the start of the growing season, followed by monthly applications. Ensure proper soil integration and adjust quantities as the season progresses, as over-fertilization can damage purpletop vervain.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Purpletop vervain features a tall structure with clusters of tiny purple flowers. Annual pruning in early to late spring promotes vigorous growth. Cutting back old stems and removing spent flowers encourages continuous blooming, enhances air circulation, and prevents legginess for a healthier appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Purpletop vervain is a tall perennial that can be easily propagated using semi-ripe cuttings taken from healthy stems. Dip cuttings in rooting hormone and plant them in well-draining soil, ensuring moisture and adequate light for root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot purpletop vervain every 2-3 years in early spring to support its upright growth. Use a medium-sized pot with well-draining soil and water regularly post-repotting to ensure recovery, allowing purpletop vervain to thrive and produce lavender blooms.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Verbena_bonariensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Do you cut back purpletop vervain?",
+            "link": "/ask/Verbena_bonariensis-0.html"
+        },
+        {
+            "q": "Does purpletop vervain need a lot of sunlight?",
+            "link": "/ask/Verbena_bonariensis-1.html"
+        },
+        {
+            "q": "Does purpletop vervain come back each year?",
+            "link": "/ask/Verbena_bonariensis-2.html"
+        },
+        {
+            "q": "Is purpletop vervain poisonous to dogs?",
+            "link": "/ask/Verbena_bonariensis-3.html"
+        },
+        {
+            "q": "What goes well with purpletop vervain?",
+            "link": "/ask/Verbena_bonariensis-4.html"
+        },
+        {
+            "q": "Can you grow purpletop vervain in pots?",
+            "link": "/ask/Verbena_bonariensis-5.html"
+        },
+        {
+            "q": "Why is my purpletop vervain dying?",
+            "link": "/ask/Verbena_bonariensis-6.html"
+        },
+        {
+            "q": "What is purpletop vervain good for?",
+            "link": "/ask/Verbena_bonariensis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Verbena-bonariensis-Mealybug.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Verbena-bonariensis-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Verbena-bonariensis-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Verbena-bonariensis-Dodder.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Verbena-bonariensis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Verbena-bonariensis-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Verbena-bonariensis-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Verbena-bonariensis-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Verbena-bonariensis-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Verbena-bonariensis-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Verbena-bonariensis-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Verbena-bonariensis-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Verbena-bonariensis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Verbena-bonariensis-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Verbena-bonariensis-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Verbena-bonariensis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Verbena-bonariensis-Aphid.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Verbena-bonariensis-Thrips.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Verbena-bonariensis-Weevil.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Verbena-bonariensis-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Verbena-bonariensis-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Verbena-bonariensis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Verbena-bonariensis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Verbena-bonariensis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Verbena-bonariensis-Underwatering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Verbena-bonariensis-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Verbena-bonariensis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Verbena-bonariensis-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Verbena-bonariensis-Whitefly.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Verbena-bonariensis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Verbena-bonariensis-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Verbena-bonariensis-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Verbena-bonariensis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Verbena-bonariensis-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Verbena-bonariensis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Verbena-bonariensis-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bidens pilosa",
+                "link": "/wiki/Bidens_pilosa.html",
+                "imageUrl": "/wiki-image/1080/153405498731790344.jpeg",
+                "displayName": "Hairy beggarticks"
+            },
+            {
+                "scientificName": "Kalanchoe delagoensis",
+                "link": "/wiki/Kalanchoe_delagoensis.html",
+                "imageUrl": "/wiki-image/1080/154165463130046475.jpeg",
+                "displayName": "Chandelier plant"
+            },
+            {
+                "scientificName": "Amaranthus blitum",
+                "link": "/wiki/Amaranthus_blitum.html",
+                "imageUrl": "/wiki-image/1080/152640423322451970.jpeg",
+                "displayName": "Purple amaranth"
+            },
+            {
+                "scientificName": "Acer palmatum",
+                "link": "/wiki/Acer_palmatum.html",
+                "imageUrl": "/wiki-image/1080/347099938110734336.jpeg",
+                "displayName": "Japanese maple"
+            },
+            {
+                "scientificName": "Euphorbia hirta",
+                "link": "/wiki/Euphorbia_hirta.html",
+                "imageUrl": "/wiki-image/1080/153936360984543269.jpeg",
+                "displayName": "Asthma-plant"
+            },
+            {
+                "scientificName": "Phymatosorus scolopendria",
+                "link": "/wiki/Phymatosorus_scolopendria.html",
+                "imageUrl": "/wiki-image/1080/153405348407934998.jpeg",
+                "displayName": "Monarch fern"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Verbena_bonariensis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Verbena_bonariensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Verbena_bonariensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Verbena_bonariensis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Verbena_bonariensis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Verbena_bonariensis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Verbena_bonariensis.html",
+            "values": [
+                "Care Purpletop vervain",
+                "Care Purpletop vervain",
+                "Grow Purpletop vervain",
+                "Maintain Purpletop vervain",
+                "Purpletop vervain Care",
+                "Purpletop vervain Grow",
+                "Purpletop vervain Maintain",
+                "Purpletop vervain Cares",
+                "Growth Purpletop vervain",
+                "Maintains Purpletop vervain",
+                "Purpletop vervain Growth",
+                "Purpletop vervain Maintains",
+                "Purpletop vervain Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbena-bonariensis-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Verbena_bonariensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Verbena_bonariensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Verbena_bonariensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Verbena_bonariensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Verbena_bonariensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Verbena_bonariensis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Verbena_bonariensis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Verbena_bonariensis.html"
+        }
+    ]
+}

@@ -1,0 +1,801 @@
+{
+    "title": "Common coconut palm (Cocos nucifera) - PictureThis",
+    "displayName": "Common coconut palm",
+    "otherCommonName": "Coconut tree",
+    "mainImage": {
+        "copyright": {
+            "width": 3456,
+            "height": 3456,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "alsages",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201174919527104512.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6286440",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918459560853528.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20665243",
+                "authorLink": "https://www.inaturalist.org/people/greg3ph",
+                "author": "greg3ph",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153892560908058633.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31626511",
+                "authorLink": "https://www.inaturalist.org/people/tereso30",
+                "author": "tereso30",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153871674482098195.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31991693",
+                "authorLink": "https://www.inaturalist.org/people/rob21",
+                "author": "rob21",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153850457343655943.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common coconut palm (Cocos nucifera) is a broadleaf evergreen native to the Western Pacific tropical islands. In the United States, common coconut palm grows in Hawaii, Southern Florida, and Texas. This tree produces coconuts.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common coconut palm (Cocos nucifera) is a broadleaf evergreen native to the Western Pacific tropical islands. In the United States, common coconut palm grows in Hawaii, Southern Florida, and Texas. This tree produces coconuts.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common coconut palm (<i>Cocos nucifera</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Coconut palm",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cocos.html"
+            },
+            {
+                "type": "Family",
+                "name": "Palm",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Arecaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Palms, bullanocks, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Arecales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Palm",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "All year round",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 30 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   7 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804447660277760.jpeg",
+        "habitat": "Along tropical seashores",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Native to Australia and the Philippines, the common coconut palm has been widely distributed across Asia, Africa, and the Americas. Habitat includes sandy beaches, coastal areas, and subtropical regions. It is considered an invasive species in Florida.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 403.7987174, \"2\": 393.0898056, \"3\": 414.4909186, \"4\": 415.7935544, \"5\": 454.58834, \"6\": 454.0, \"7\": 449.9912766, \"8\": 263.3741912, \"9\": 261.3482053, \"10\": 190.2307826, \"11\": 318.1844925, \"12\": 367.1154308}, \"fruit_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 170.678998, \"2\": 205.7379343, \"3\": 163.4742568, \"4\": 149.0817876, \"5\": 187.5577409, \"6\": 224.0, \"7\": 164.5302722, \"8\": 150.2095321, \"9\": 100.8464777, \"10\": 67.26860096, \"11\": 106.7893826, \"12\": 178.6329426}, \"fruit_month\": 6}, \"Csa\": {\"trends\": {\"1\": 96.47377313, \"2\": 85.89878916, \"3\": 87.45119852, \"4\": 75.80948045, \"5\": 96.75577861, \"6\": 98.0, \"7\": 95.76842336, \"8\": 55.80646176, \"9\": 32.84098392, \"10\": 28.14853899, \"11\": 69.45515558, \"12\": 70.31016087}, \"fruit_month\": 6}, \"Csb\": {\"trends\": {\"1\": 47.55906024, \"2\": 37.10197869, \"3\": 29.88068646, \"4\": 27.9388713, \"5\": 40.13170892, \"6\": 57.0, \"7\": 56.13413058, \"8\": 34.8870937, \"9\": 23.13445112, \"10\": 13.73482552, \"11\": 31.7809648, \"12\": 49.53623684}, \"fruit_month\": 6}, \"Default\": {\"trends\": {\"1\": 1475.711819, \"2\": 1526.315849, \"3\": 1476.813692, \"4\": 1398.858649, \"5\": 1647.858388, \"6\": 1845.0, \"7\": 1684.508193, \"8\": 1284.111441, \"9\": 1179.727711, \"10\": 984.8024444, \"11\": 1136.988061, \"12\": 1437.435439}, \"fruit_month\": 6}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 364.4266383, \"2\": 317.7682984, \"3\": 263.6553648, \"4\": 207.288732, \"5\": 264.104321, \"6\": 264.8315208, \"7\": 256.4002798, \"8\": 200.0699336, \"9\": 253.9087628, \"10\": 195.8218117, \"11\": 259.6310343, \"12\": 314.0}, \"fruit_month\": 1}, \"BSk\": {\"trends\": {\"1\": 265.3187125, \"2\": 258.3961112, \"3\": 214.2574745, \"4\": 134.5766631, \"5\": 79.47350508, \"6\": 87.55825169, \"7\": 86.27584848, \"8\": 114.0708763, \"9\": 111.246185, \"10\": 116.5290107, \"11\": 228.6358459, \"12\": 376.0}, \"fruit_month\": 12}, \"Csa\": {\"trends\": {\"1\": 330.5341157, \"2\": 271.9587626, \"3\": 222.1802652, \"4\": 145.5113662, \"5\": 133.1879351, \"6\": 172.7475636, \"7\": 149.8358568, \"8\": 155.3047986, \"9\": 149.1030999, \"10\": 160.9464624, \"11\": 294.9115209, \"12\": 322.0}, \"fruit_month\": 1}, \"Csb\": {\"trends\": {\"1\": 176.0336587, \"2\": 179.5864494, \"3\": 138.3035576, \"4\": 93.80808887, \"5\": 72.98286047, \"6\": 70.2635921, \"7\": 64.39626849, \"8\": 67.91753041, \"9\": 80.1783323, \"10\": 57.4408134, \"11\": 177.9389847, \"12\": 219.0}, \"fruit_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 1558.750119, \"2\": 1058.975535, \"3\": 682.2886559, \"4\": 502.6920811, \"5\": 531.5843972, \"6\": 590.6301091, \"7\": 542.347146, \"8\": 578.8963174, \"9\": 621.9759871, \"10\": 668.7524953, \"11\": 1247.455416, \"12\": 1651.0}, \"fruit_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 972.6685269, \"2\": 795.7840013, \"3\": 505.0799614, \"4\": 284.0886087, \"5\": 201.4568518, \"6\": 237.3148669, \"7\": 251.5615364, \"8\": 247.1277636, \"9\": 281.05468, \"10\": 360.9852491, \"11\": 742.9082108, \"12\": 922.0}, \"fruit_month\": 1}, \"Dfa\": {\"trends\": {\"1\": 749.9274938, \"2\": 661.6880072, \"3\": 525.7603875, \"4\": 275.4252849, \"5\": 193.0717238, \"6\": 200.508246, \"7\": 169.0589214, \"8\": 199.3631501, \"9\": 232.4092206, \"10\": 257.1777848, \"11\": 753.7557796, \"12\": 788.0}, \"fruit_month\": 12}, \"Dfb\": {\"trends\": {\"1\": 600.6877973, \"2\": 588.0165465, \"3\": 447.4704454, \"4\": 261.8092046, \"5\": 159.0058226, \"6\": 163.976232, \"7\": 160.411789, \"8\": 177.8039253, \"9\": 189.8345464, \"10\": 244.349012, \"11\": 464.9616594, \"12\": 611.0}, \"fruit_month\": 12}, \"Default\": {\"trends\": {\"1\": 7815.117172, \"2\": 6272.533792, \"3\": 4560.548595, \"4\": 2815.628356, \"5\": 2199.781233, \"6\": 2458.895977, \"7\": 2426.233723, \"8\": 2617.101392, \"9\": 2936.593734, \"10\": 3253.699296, \"11\": 6334.845221, \"12\": 7870.0}, \"fruit_month\": 12}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common coconut palm is a popular tree in landscaped yards prized for its long life and the oils contained in the round fruits. The tree's height and broad leaves provide ground cover, and it is useful for edging. Its fragrant flowers growing in clusters make it an essential plant in tropical gardens. Plant low-growing plants near it like Muhly grass, railroad vine, Indian hawthorne, and dwarf oleander to complement common coconut palm's shape.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purification, Protection, Chastity",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common coconut palm",
+                "values": [
+                    "The term \"coconut\" refers to the whole coconut palm, the seed, or the fruit, in which in the botanical term is a drupe, not a nut. The term is derived from the 16th-century Portuguese and Spanish word coco, meaning \"head\" or \"skull\" since the coconut shell resembles facial features. Since it is also the most common plant in its genus, it is called common coconut palm."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in tropical climates, common coconut palm prefers consistent moisture but can tolerate brief droughts. It requires watering every 1-2 weeks and features a thick husk to retain water, essential for surviving intermittent rains as an evergreen plant commonly grown outdoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common coconut palm requires stage-specific fertilization to enhance growth, with young plants needing monthly applications during the growing season, tapering off for mature specimens. Apply when soil is moist, avoiding trunk contact, to maximize vigor and productivity while adjusting for seasonal changes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common coconut palm thrives with proper pruning, which involves removing dead fronds and trimming inflorescences post-fruiting. Early spring is the ideal time for this, enhancing growth, fruit production, and plant aesthetics while reducing pests and promoting overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common coconut palm is best propagated by sowing in spring. The process is moderately easy, evidenced by emerging seedlings and vigorous growth. Ensure adequate moisture and warmth for optimal success.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot common coconut palm every 1-2 years during early spring to support its fast growth. Use a large, sturdy container with well-draining soil and provide ample sunlight. Regular watering is important for thriving, but avoid overwatering to ensure common coconut palm's health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cocos_nucifera.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is common coconut palm used for?",
+            "link": "/ask/Cocos_nucifera-0.html"
+        },
+        {
+            "q": "How many coconuts can a common coconut palm produce?",
+            "link": "/ask/Cocos_nucifera-1.html"
+        },
+        {
+            "q": "Why is it called common coconut palmÃ¯Â¼Â",
+            "link": "/ask/Cocos_nucifera-2.html"
+        },
+        {
+            "q": "What does common coconut palm symbolize?",
+            "link": "/ask/Cocos_nucifera-3.html"
+        },
+        {
+            "q": "How do you take care of a common coconut palm?",
+            "link": "/ask/Cocos_nucifera-4.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Cocos-nucifera-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Cocos-nucifera-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Cocos-nucifera-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Cocos-nucifera-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Cocos-nucifera-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Cocos-nucifera-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Cocos-nucifera-Wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Cocos-nucifera-Spots.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Cocos-nucifera-Notch.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Cocos-nucifera-Scars.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Cocos-nucifera-Underwatering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Cocos-nucifera-Mealybug.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Cocos-nucifera-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Cocos-nucifera-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Cocos-nucifera-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Cocos-nucifera-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Cocos-nucifera-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Cocos-nucifera-Leaf-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Phymatosorus scolopendria",
+                "link": "/wiki/Phymatosorus_scolopendria.html",
+                "imageUrl": "/wiki-image/1080/153405348407934998.jpeg",
+                "displayName": "Monarch fern"
+            },
+            {
+                "scientificName": "Koelreuteria elegans",
+                "link": "/wiki/Koelreuteria_elegans.html",
+                "imageUrl": "/wiki-image/1080/153966241072021528.jpeg",
+                "displayName": "Flamegold rain tree"
+            },
+            {
+                "scientificName": "Eucalyptus polyanthemos",
+                "link": "/wiki/Eucalyptus_polyanthemos.html",
+                "imageUrl": "/wiki-image/1080/154254562226602005.jpeg",
+                "displayName": "Red box"
+            },
+            {
+                "scientificName": "Betula pendula",
+                "link": "/wiki/Betula_pendula.html",
+                "imageUrl": "/wiki-image/1080/201170306732228608.jpeg",
+                "displayName": "Silver birch"
+            },
+            {
+                "scientificName": "Amaranthus viridis",
+                "link": "/wiki/Amaranthus_viridis.html",
+                "imageUrl": "/wiki-image/1080/154197056909475853.jpeg",
+                "displayName": "Green amaranth"
+            },
+            {
+                "scientificName": "Acalypha virginica var. rhomboidea",
+                "link": "/wiki/Acalypha_virginica_var._rhomboidea.html",
+                "imageUrl": "/wiki-image/1080/154031554639691801.jpeg",
+                "displayName": "Common three-seeded mercury"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Cocos_nucifera.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cocos_nucifera.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cocos_nucifera.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Cocos_nucifera.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Cocos_nucifera.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Cocos_nucifera.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Cocos_nucifera.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cocos_nucifera.html",
+            "values": [
+                "Care Common coconut palm",
+                "Care Common coconut palm",
+                "Grow Common coconut palm",
+                "Maintain Common coconut palm",
+                "Common coconut palm Care",
+                "Common coconut palm Grow",
+                "Common coconut palm Maintain",
+                "Common coconut palm Cares",
+                "Growth Common coconut palm",
+                "Maintains Common coconut palm",
+                "Common coconut palm Growth",
+                "Common coconut palm Maintains",
+                "Common coconut palm Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cocos-nucifera-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cocos_nucifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cocos_nucifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Cocos_nucifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Cocos_nucifera.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cocos_nucifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Cocos_nucifera.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Cocos_nucifera.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cocos_nucifera.html"
+        }
+    ]
+}

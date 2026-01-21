@@ -1,0 +1,763 @@
+{
+    "title": "Buffalo grass (Stenotaphrum secundatum) - PictureThis",
+    "displayName": "Buffalo grass",
+    "otherCommonName": "Saint Augustine Grass, St. Augustine's grass, Buffalo turf",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202658542965227520.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/34117431",
+                "authorLink": "https://www.inaturalist.org/people/parkecology",
+                "author": "parkecology",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153951028297859105.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29901432",
+                "authorLink": "https://www.inaturalist.org/people/nick_goldwater",
+                "author": "nick_goldwater",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153798114577219589.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 577,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/105015249",
+                "authorLink": "https://www.inaturalist.org/people/alockick",
+                "author": "alockick",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422715349913927681.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/88943187",
+                "authorLink": "https://www.inaturalist.org/people/noelles8",
+                "author": "noelles8",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422715349913927684.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Boasting a rapid growth rate, buffalo grass vigorously develops during Summer and Fall, displaying a spurt in leaf production and propelling advancements in stature. Quick leaf production shields tender growth, while its accelerated height progression enables flower maturation. Seasonal variations exist, but the intensity of growth is prominent in Summer and Fall.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Buffalo grass (Stenotaphrum secundatum) is a plant species also known as St. Augustine grass. Buffalo grass is a common lawn grass that is as popular as bermuda grass. Buffalo grass thrives in the Mediterranean region and tropical climates. It is common in the southern United States, Hawaii, South Africa and New Zealand.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Buffalo grass (Stenotaphrum secundatum) is a plant species also known as St. Augustine grass. Buffalo grass is a common lawn grass that is as popular as bermuda grass. Buffalo grass thrives in the Mediterranean region and tropical climates. It is common in the southern United States, Hawaii, South Africa and New Zealand.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Buffalo grass (<i>Stenotaphrum secundatum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "St. Augustine grasses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Stenotaphrum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Grass",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803468407734279.jpeg",
+        "habitat": "A variety of habitats, siliceous and calcareous sands near the sea",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Buffalo grass is a plant that thrives across continents, marking its presence significantly in both its native and introduced territories. Originally hailing from regions including South America, Africa, and the Caribbean, buffalo grass was transported to various parts of Europe, Asia, and Oceania. While it has been cultivated for specific uses, buffalo grass is sometimes thought to be mildly invasive, particularly in certain areas of Oceania. Despite its wide reach, buffalo grass only may have an impact on ecosystems in a few places, with thoughtful cultivation reducing ecological concerns.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2195",
+                "2027",
+                "2094",
+                "1489",
+                "1376",
+                "1246",
+                "2087",
+                "3276",
+                "3496",
+                "3591",
+                "2376",
+                "2950"
+            ],
+            "north": [
+                "7588",
+                "15534",
+                "30747",
+                "43448",
+                "48261",
+                "41471",
+                "39237",
+                "31150",
+                "19438",
+                "9620",
+                "5100",
+                "5647"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Buffalo grass has a strong tolerance for various soil conditions from sandy to clay, and can tolerate shade and drought as well. It is often grown for lawns or ground cover, especially in coastal areas as this grass can help with soil conservation.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Psychic powers, Protection. It symbolizes food, concealment and hardiness.",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Fertilize buffalo grass with a well-balanced fertilizer (such as 13-13-13) every two weeks during the summer blooming period. Make sure the fertilizer is not acidic as this can burn the plant. The amount of fertilizer required will depend on the plant's height. Generally, 1 cup of fertilizer is required for every 1.5 m. Sprinkle the fertilizer near the drip line.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Buffalo grass",
+                "values": [
+                    "American bison prefers to feed on this grass, hence it is named buffalo grass. Also, it has become very popular as a low-maintenance lawn grass."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Robust, creeping growth habit forming dense mats.",
+            "Leaves broad, flat, dark green, 0.1-0.5 inches wide.",
+            "Stems smooth, green, cylindrical, branching from nodes.",
+            "Inflorescences subtle, hidden, with paired spikelets.",
+            "Salt-tolerant plant found in coastal regions."
+        ],
+        "title": "Quickly Identify Buffalo grass",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Stenotaphrum-secundatum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Buffalo grass thrives in tropical climates requiring high humidity and regular rainfall. It has a moderate moisture need, ideally watered twice a week. As an outdoor grass, it benefits from dew collection for hydration, reducing the necessity for frequent manual watering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To ensure buffalo grass thrives, apply a balanced fertilizer rich in nitrogen every 8-10 weeks during growth. Use about 0.45 kg (1 lb) per 93 mÃÂ² (1,000 sq ft). Reduce feeding in cooler months and water lightly after application to enhance absorption while avoiding over-fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Buffalo grass thrives with regular pruning during early to late spring. Trim dead or diseased areas and control growth to enhance air circulation and prevent pests. Use sharp tools, avoiding cuts greater than one-third of its height for optimal health and appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Buffalo grass thrives when propagated through division in spring and autumn. The method is straightforward, marked by new growth as a success indicator. Ensuring correct rootball separation is essential for healthy propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Stenotaphrum_secundatum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of buffalo grass?",
+            "link": "/ask/Stenotaphrum_secundatum-0.html"
+        },
+        {
+            "q": "Is buffalo grass invasive?",
+            "link": "/ask/Stenotaphrum_secundatum-1.html"
+        },
+        {
+            "q": "Can buffalo grass be grown from seed?",
+            "link": "/ask/Stenotaphrum_secundatum-2.html"
+        },
+        {
+            "q": "How fast does buffalo grass spread?",
+            "link": "/ask/Stenotaphrum_secundatum-3.html"
+        },
+        {
+            "q": "What kills buffalo grass?",
+            "link": "/ask/Stenotaphrum_secundatum-4.html"
+        },
+        {
+            "q": "Will buffalo grass grow in full sun?",
+            "link": "/ask/Stenotaphrum_secundatum-5.html"
+        },
+        {
+            "q": "Can you mix Bermuda grass with buffalo grass?",
+            "link": "/ask/Stenotaphrum_secundatum-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Stenotaphrum-secundatum-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Fire ants",
+                "link": "/disease/Stenotaphrum-secundatum-Fire-ants.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Stenotaphrum-secundatum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Stenotaphrum-secundatum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dieback",
+                "link": "/disease/Stenotaphrum-secundatum-Dieback.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bidens pilosa",
+                "link": "/wiki/Bidens_pilosa.html",
+                "imageUrl": "/wiki-image/1080/153405498731790344.jpeg",
+                "displayName": "Hairy beggarticks"
+            },
+            {
+                "scientificName": "Kalanchoe delagoensis",
+                "link": "/wiki/Kalanchoe_delagoensis.html",
+                "imageUrl": "/wiki-image/1080/154165463130046475.jpeg",
+                "displayName": "Chandelier plant"
+            },
+            {
+                "scientificName": "Amaranthus blitum",
+                "link": "/wiki/Amaranthus_blitum.html",
+                "imageUrl": "/wiki-image/1080/152640423322451970.jpeg",
+                "displayName": "Purple amaranth"
+            },
+            {
+                "scientificName": "Acer palmatum",
+                "link": "/wiki/Acer_palmatum.html",
+                "imageUrl": "/wiki-image/1080/347099938110734336.jpeg",
+                "displayName": "Japanese maple"
+            },
+            {
+                "scientificName": "Euphorbia hirta",
+                "link": "/wiki/Euphorbia_hirta.html",
+                "imageUrl": "/wiki-image/1080/153936360984543269.jpeg",
+                "displayName": "Asthma-plant"
+            },
+            {
+                "scientificName": "Phymatosorus scolopendria",
+                "link": "/wiki/Phymatosorus_scolopendria.html",
+                "imageUrl": "/wiki-image/1080/153405348407934998.jpeg",
+                "displayName": "Monarch fern"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Stenotaphrum_secundatum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Stenotaphrum_secundatum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Stenotaphrum_secundatum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Stenotaphrum_secundatum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Stenotaphrum_secundatum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Stenotaphrum_secundatum.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Stenotaphrum_secundatum.html",
+            "values": [
+                "Care Buffalo grass",
+                "Care Buffalo grass",
+                "Grow Buffalo grass",
+                "Maintain Buffalo grass",
+                "Buffalo grass Care",
+                "Buffalo grass Grow",
+                "Buffalo grass Maintain",
+                "Buffalo grass Cares",
+                "Growth Buffalo grass",
+                "Maintains Buffalo grass",
+                "Buffalo grass Growth",
+                "Buffalo grass Maintains",
+                "Buffalo grass Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Stenotaphrum-secundatum-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Stenotaphrum_secundatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Stenotaphrum_secundatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Stenotaphrum_secundatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Stenotaphrum_secundatum.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Stenotaphrum_secundatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Stenotaphrum_secundatum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Stenotaphrum_secundatum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Stenotaphrum_secundatum.html"
+        }
+    ]
+}

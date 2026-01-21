@@ -1,0 +1,978 @@
+{
+    "title": "Papaya (Carica papaya) - PictureThis",
+    "displayName": "Papaya",
+    "otherCommonName": "Pawpaw",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Kwangmoozaa",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317748866048950272.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.inaturalist.org/people/420777",
+                "author": "tereso30",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/152487007090638852.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 334,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1453786",
+                "authorLink": "https://www.inaturalist.org/people/meurkc",
+                "author": "meurkc",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153953699767517206.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1598469",
+                "authorLink": "https://www.inaturalist.org/people/sgene",
+                "author": "sgene",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153970888226635785.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "http://www.inaturalist.org/observations/1049031",
+                "authorLink": "https://www.inaturalist.org/people/robberfly",
+                "author": "Liam O'Brien",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153991916386517032.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya is a fruit-bearing plant that originates from Central America. The fruits are edible and sweet and juicy when ripe. An enzyme collected from the milky sap is used as a meat softener, which if ingested may be toxic. Keeping a papaya plant in your garden will welcome many birds to your landscape.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Papaya is a fruit-bearing plant that originates from Central America. The fruits are edible and sweet and juicy when ripe. An enzyme collected from the milky sap is used as a meat softener, which if ingested may be toxic. Keeping a papaya plant in your garden will welcome many birds to your landscape.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Papaya (<i>Carica papaya</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Papaya",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Carica.html"
+            },
+            {
+                "type": "Family",
+                "name": "Papaya",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Caricaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mustards, capers, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Brassicales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "All year round",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "All year round",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m to 10 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804877157007363.jpeg",
+        "habitat": "Subtropical, mountain, tropical",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya is native to Central America and northern South America. It has been introduced to the Americas, Africa, Eurasia, and some countries in Oceania. The native habitat of this plant is lowland tropical areas, but it has also been cultivated throughout tropical areas worldwide both commercially and in personal gardens.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 427.4054116, \"2\": 503.6960464, \"3\": 647.0460004, \"4\": 502.2534617, \"5\": 410.0052454, \"6\": 376.0, \"7\": 315.4484303, \"8\": 261.9069255, \"9\": 193.7888053, \"10\": 220.4090371, \"11\": 210.3699124, \"12\": 404.3896028}, \"fruit_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 75.47366096, \"2\": 97.20950942, \"3\": 109.1908204, \"4\": 99.87032376, \"5\": 92.99081274, \"6\": 53.0, \"7\": 58.17644984, \"8\": 33.37989601, \"9\": 40.4436395, \"10\": 39.98483274, \"11\": 29.66371738, \"12\": 53.69313882}, \"fruit_month\": 3}, \"Csa\": {\"trends\": {\"1\": 42.81701167, \"2\": 51.30066575, \"3\": 58.84062123, \"4\": 61.36957941, \"5\": 45.35427122, \"6\": 42.0, \"7\": 46.04251123, \"8\": 46.26061962, \"9\": 33.37936071, \"10\": 41.99208275, \"11\": 42.09403368, \"12\": 35.15508043}, \"fruit_month\": 4}, \"Csb\": {\"trends\": {\"1\": 42.60499146, \"2\": 45.14074074, \"3\": 68.06156361, \"4\": 45.89957428, \"5\": 36.11853803, \"6\": 36.0, \"7\": 17.72656755, \"8\": 17.83118122, \"9\": 19.27870927, \"10\": 14.2084402, \"11\": 19.17816841, \"12\": 27.63600582}, \"fruit_month\": 3}, \"Default\": {\"trends\": {\"1\": 1614.341394, \"2\": 1805.913797, \"3\": 2068.141029, \"4\": 1871.829972, \"5\": 1688.504432, \"6\": 1730.0, \"7\": 1584.579741, \"8\": 1320.778049, \"9\": 1168.990713, \"10\": 1177.413648, \"11\": 1076.798893, \"12\": 1362.783254}, \"fruit_month\": 3}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 391.455724, \"2\": 347.3073233, \"3\": 297.9918775, \"4\": 304.5875246, \"5\": 336.0431845, \"6\": 390.2780306, \"7\": 441.2287024, \"8\": 398.5264001, \"9\": 400.6116036, \"10\": 353.4689741, \"11\": 317.9155522, \"12\": 425.0}, \"fruit_month\": 7}, \"BSk\": {\"trends\": {\"1\": 92.90339776, \"2\": 53.67278274, \"3\": 47.86127302, \"4\": 31.31357525, \"5\": 32.75894941, \"6\": 42.33958012, \"7\": 69.74977046, \"8\": 80.73649151, \"9\": 85.07061204, \"10\": 100.9560093, \"11\": 69.03905934, \"12\": 84.0}, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 83.72368101, \"2\": 68.54851003, \"3\": 66.24263464, \"4\": 56.55825001, \"5\": 68.50306949, \"6\": 101.827238, \"7\": 157.6243543, \"8\": 203.3010052, \"9\": 185.7011335, \"10\": 160.3933818, \"11\": 141.3840527, \"12\": 127.0}, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 37.25193606, \"2\": 32.47135063, \"3\": 27.36877789, \"4\": 12.20415913, \"5\": 11.64873017, \"6\": 18.86570021, \"7\": 36.51739616, \"8\": 47.95703483, \"9\": 48.03933834, \"10\": 49.50183919, \"11\": 56.87547456, \"12\": 41.0}, \"fruit_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 270.9433169, \"2\": 219.4637245, \"3\": 185.630285, \"4\": 128.4116575, \"5\": 160.4684463, \"6\": 280.675186, \"7\": 387.0108374, \"8\": 460.780701, \"9\": 498.2190775, \"10\": 516.683612, \"11\": 453.4813446, \"12\": 464.0}, \"fruit_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 131.4832554, \"2\": 123.6735104, \"3\": 113.6946707, \"4\": 64.50678232, \"5\": 55.12212247, \"6\": 92.18885513, \"7\": 126.1197999, \"8\": 108.2606784, \"9\": 163.1470766, \"10\": 151.0865228, \"11\": 136.9343524, \"12\": 162.0}, \"fruit_month\": 9}, \"Dfa\": {\"trends\": {\"1\": 93.54275292, \"2\": 74.59262277, \"3\": 64.57938004, \"4\": 23.02550349, \"5\": 16.77396182, \"6\": 32.09558406, \"7\": 77.06534983, \"8\": 110.1743725, \"9\": 132.5629235, \"10\": 114.3843055, \"11\": 119.2702902, \"12\": 132.0}, \"fruit_month\": 9}, \"Dfb\": {\"trends\": {\"1\": 53.63283904, \"2\": 70.24335592, \"3\": 65.81792046, \"4\": 44.31312963, \"5\": 26.19723439, \"6\": 37.66661823, \"7\": 51.31700499, \"8\": 56.98530205, \"9\": 66.20675915, \"10\": 72.35156916, \"11\": 71.47079048, \"12\": 84.0}, \"fruit_month\": 12}, \"Default\": {\"trends\": {\"1\": 2520.381335, \"2\": 2113.485156, \"3\": 1721.453967, \"4\": 1014.028617, \"5\": 837.8235546, \"6\": 1218.978661, \"7\": 1773.501714, \"8\": 2080.09827, \"9\": 2393.155124, \"10\": 2646.876217, \"11\": 2757.636797, \"12\": 3123.0}, \"fruit_month\": 12}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Papaya essence can be extracted from immature papaya milk, which is a superior raw material for cosmetics with a brightening effect.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Papaya trees can be planted in the garden, for private enjoyment of its edible fruit and large leaves. It's best to plant two or three to ensure proper pollination. They do well along walls, fences, or buildings. Companion plants to the papaya are Ginger, Banana, and Palm trees.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Temptation",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "As early as the 15th century, Columbus discovered that Caribbean natives often ate some kind of sweet fruity dessert after eating a lot of fish and meat to help digestion.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Papaya",
+                "values": [
+                    "The common name comes from the TaÃÂ­no word papÃÂ¡ia that was changed in Spanish to papaya. Papaya is the common name used the most worldwide, with some changes based on different locations."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya has <strong>mild toxicity</strong> to cats and dogs when consumed in large amounts. The unripe fruit, in particular, can cause physical discomfort and signs of illness. Pet owners should monitor for changes in behavior or health and seek immediate <strong>veterinary care</strong> if poisoning occurs.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Carica_papaya.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya flourishes in humid, moisture-rich environments mimicking its tropical origins. Water every 1-2 weeks, ensuring the soil dries slightly between sessions. As an evergreen, papaya requires consistent moisture during the active growing season to enhance fruiting potential.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, papaya requires phosphorus-rich fertilizers during fruiting and balanced N-P-K during vegetative stages. Apply quarter-strength liquid fertilizer bi-weekly in spring and summer, reducing frequency to monthly as fruit matures. Proper handling is essential; use gloves to avoid harmful contact.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya thrives with early to late spring pruning, aiding growth by removing dead leaves and thinning branches for better air circulation. Cautious management prevents stress; regular pruning enhances structure, health, and pest resistance. Over-pruning should be avoided for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Papaya can be propagated using grafting and layering in Spring and Winter. Success is shown by new shoots and leaves. Maintaining consistent moisture levels is crucial for optimal propagation results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot papaya every 2-3 years in warmer months to support its rapid growth. Use large pots for root space, and after repotting, ensure papaya is in a well-lit area with consistent moisture. Monitor for stress, noting that lush, green foliage indicates thriving health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Carica_papaya.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What benefits does papaya have for humans?",
+            "link": "/ask/Carica_papaya-0.html"
+        },
+        {
+            "q": "Is papaya a tree or shrub?",
+            "link": "/ask/Carica_papaya-1.html"
+        },
+        {
+            "q": "What are the benefits of eating papaya?",
+            "link": "/ask/Carica_papaya-2.html"
+        },
+        {
+            "q": "How do you eat papaya?",
+            "link": "/ask/Carica_papaya-3.html"
+        },
+        {
+            "q": "Can you eat the skin of a papaya?",
+            "link": "/ask/Carica_papaya-4.html"
+        },
+        {
+            "q": "What is the best time to eat papaya?",
+            "link": "/ask/Carica_papaya-5.html"
+        },
+        {
+            "q": "Are papaya seeds poisonous?",
+            "link": "/ask/Carica_papaya-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Carica-papaya-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Carica-papaya-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Carica-papaya-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Carica-papaya-Wilting.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Carica-papaya-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Carica-papaya-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Carica-papaya-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Carica-papaya-Black-mold.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Carica-papaya-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Carica-papaya-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Carica-papaya-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Carica-papaya-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Carica-papaya-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Carica-papaya-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "psyllid",
+                "link": "/disease/Carica-papaya-psyllid.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Carica-papaya-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Carica-papaya-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Carica-papaya-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Carica-papaya-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Carica-papaya-Aphid.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Carica-papaya-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Carica-papaya-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Carica-papaya-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Carica-papaya-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Carica-papaya-Dark-spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Philodendron xanadu",
+                "link": "/wiki/Philodendron_xanadu.html",
+                "imageUrl": "/wiki-image/1080/153821565098655778.jpeg",
+                "displayName": "Xanadu"
+            },
+            {
+                "scientificName": "Solanum americanum",
+                "link": "/wiki/Solanum_americanum.html",
+                "imageUrl": "/wiki-image/1080/153937112603820054.jpeg",
+                "displayName": "American black nightshade"
+            },
+            {
+                "scientificName": "Sansevieria cylindrica",
+                "link": "/wiki/Sansevieria_cylindrica.html",
+                "imageUrl": "/wiki-image/1080/202656094833868800.jpeg",
+                "displayName": "Cylindrical snake plant"
+            },
+            {
+                "scientificName": "Cordyline australis",
+                "link": "/wiki/Cordyline_australis.html",
+                "imageUrl": "/wiki-image/1080/153412362089529354.jpeg",
+                "displayName": "Cabbage tree"
+            },
+            {
+                "scientificName": "Cestrum nocturnum",
+                "link": "/wiki/Cestrum_nocturnum.html",
+                "imageUrl": "/wiki-image/1080/154067542170664975.jpeg",
+                "displayName": "Night-blooming jasmine"
+            },
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Carica_papaya.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Carica_papaya.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Carica_papaya.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Carica_papaya.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Carica_papaya.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Carica_papaya.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Carica_papaya.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Carica_papaya.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Carica_papaya.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Carica_papaya.html",
+            "values": [
+                "Care Papaya",
+                "Care Papaya",
+                "Grow Papaya",
+                "Maintain Papaya",
+                "Papaya Care",
+                "Papaya Grow",
+                "Papaya Maintain",
+                "Papaya Cares",
+                "Growth Papaya",
+                "Maintains Papaya",
+                "Papaya Growth",
+                "Papaya Maintains",
+                "Papaya Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carica-papaya-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Carica_papaya.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Carica_papaya.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Carica_papaya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Carica_papaya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Carica_papaya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Carica_papaya.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Carica_papaya.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Carica_papaya.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Carica_papaya.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Carica_papaya.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Carica_papaya.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Carica_papaya.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Carica_papaya.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Carica_papaya.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Carica_papaya.html"
+        }
+    ]
+}

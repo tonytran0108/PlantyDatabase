@@ -1,0 +1,854 @@
+{
+    "title": "Norfolk island pine (Araucaria heterophylla) - PictureThis",
+    "displayName": "Norfolk island pine",
+    "otherCommonName": "Star pine, Living christmas tree, House Pine",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "ChrisSuperseal",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348123969983250432.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 480,
+                "height": 360,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/227937",
+                "authorLink": "https://www.inaturalist.org/people/sterling",
+                "author": "sterling",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153887969588019203.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4382,
+                "height": 3045,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Araucaria_heterophylla_Kingston_1.jpg",
+                "authorLink": "https://www.flickr.com/people/58607562@N00",
+                "author": "bertknot",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153894008312037381.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1935468",
+                "authorLink": "https://www.inaturalist.org/people/88389",
+                "author": "Mark Tutty",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/1.0/",
+                "license": "CC-BY-SA"
+            },
+            "imageUrl": "/wiki-image/1080/153717549580681237.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2751,
+                "height": 3528,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Araucaria_heterophylla_Norfolk_Island_9.jpg",
+                "authorLink": "https://www.flickr.com/people/58607562@N00",
+                "author": "bertknot",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153765532955312146.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Norfolk island pine (Araucaria heterophylla) is a conifer tree native to Norfolk Island, a small island in the Pacific Islands. Now, it is a popular houseplant all around the world. However, norfolk island pine is in danger of dying out in the wild.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Norfolk island pine (Araucaria heterophylla) is a conifer tree native to Norfolk Island, a small island in the Pacific Islands. Now, it is a popular houseplant all around the world. However, norfolk island pine is in danger of dying out in the wild.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Norfolk island pine (<i>Araucaria heterophylla</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Araucaria",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Araucaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Araucarians",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araucariaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pines and Allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Pinales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Conifers",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Pinopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 m to 65 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m to 8 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288817343572508672.jpeg",
+        "habitat": "Gardens",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Norfolk island pine is a vulnerable species native only to coastal headlines and scrubland groves on Norfolk Island, and it is found in just a few other places, namely, Bangladesh, UK, and New Zealand's North Island.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "656",
+                "621",
+                "594",
+                "585",
+                "510",
+                "469",
+                "569",
+                "865",
+                "947",
+                "866",
+                "681",
+                "779"
+            ],
+            "north": [
+                "14430",
+                "15062",
+                "17678",
+                "18466",
+                "18859",
+                "15696",
+                "15553",
+                "14115",
+                "13924",
+                "15083",
+                "15032",
+                "15941"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Norfolk island pine (Araucaria heterophylla) is a popular evergreen tree that offers year-round garden interest with its attractive evergreen needles and pointed upright crown. However, this is a very tall tree that can crowd out small gardens. Norfolk island pine is best grown as a shade or specimen tree on large lawns and in parks and landscapes. Good plants that grow in the same conditions include Boston fern and satin picta.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "symbol of Norfolk Island",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Often given as a gift around the holidays, the norfolk island pine is often decorated as a small Christmas tree. A slow grower, this little tree can be container grown for years. Florida gardeners will sometimes plant these in their yard, but caution should be taken as the norfolk island pine does not withstand strong winds and may topple over during a tropical storm or hurricane.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Norfolk island pine",
+                "values": [
+                    "It is as its common name Norfolk Island pine or Norfolk pine implies that the tree is endemic to Norfolk Island, a small island in the Pacific Ocean between New Zealand and New Caledonia, about 1440 km east of Sydney, Australia."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive pyramidal silhouette with neat whorls of branches and soft coniferous foliage.",
+            "Robust, spiny, globose seed cones weighing 10-15 pounds (4.5-6.8 kg) after 18 months.",
+            "Dark green, awl-shaped leaves in a spiral, scale-like pattern with pointed ends.",
+            "Hard, gray-brown resinous stem with distinctive whorled branching and herringbone arrangement.",
+            "Rough, vertically furrowed trunk with exfoliating bark reaching up to 2 feet (60 cm) in diameter."
+        ],
+        "title": "Quickly Identify Norfolk island pine",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Araucaria-heterophylla.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Norfolk Island's humid subtropical climate, norfolk island pine thrives in consistent moisture and humidity. Water every 1-2 weeks, letting the soil dry slightly in between. Regular misting is beneficial, particularly indoors, to maintain the favored ambient humidity levels.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For robust growth, fertilize norfolk island pine every three months with balanced, slow-release fertilizer during spring and summer. Monthly liquid feeds are beneficial, but avoid overfertilization. Water norfolk island pine before fertilizing and adjust applications in fall and winter to protect roots and ensure healthy development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Norfolk island pine is an evergreen conifer with a symmetrical shape and soft, needle-like leaves. Prune in early to late winter, focusing on dead branches. Light trimming fosters density and air circulation, while avoiding heavy pruning to prevent stress due to its slow growth rate.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Norfolk island pine thrives for its attractive foliage and low maintenance. Propagation via semi-hardwood cuttings from healthy plants is ideal. Use rooting hormone in well-draining soil, maintain high humidity, and provide indirect light. Ensure consistent moisture without overwatering. Roots develop in weeks; acclimatize before transplanting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot norfolk island pine every 2-3 years in a pot 2-3 inches (5-8 cm) wider to support its vertical growth. Spring is the best time for repotting. After repotting, keep the soil moist and avoid direct sunlight to promote healthy, symmetrical growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Araucaria_heterophylla.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How high is norfolk island pine?",
+            "link": "/ask/Araucaria_heterophylla-0.html"
+        },
+        {
+            "q": "How do you care for norfolk island pine?",
+            "link": "/ask/Araucaria_heterophylla-1.html"
+        },
+        {
+            "q": "How fast does the norfolk island pine grow ?",
+            "link": "/ask/Araucaria_heterophylla-2.html"
+        },
+        {
+            "q": "Why is my norfolk island pine dying?",
+            "link": "/ask/Araucaria_heterophylla-3.html"
+        },
+        {
+            "q": "Is Araucaria indoor plant?",
+            "link": "/ask/Araucaria_heterophylla-4.html"
+        },
+        {
+            "q": "Do norfolk island pine have cones?",
+            "link": "/ask/Araucaria_heterophylla-5.html"
+        },
+        {
+            "q": "Do norfolk island pine like to be root bound?",
+            "link": "/ask/Araucaria_heterophylla-6.html"
+        },
+        {
+            "q": "How long do norfolk island pine live indoors?",
+            "link": "/ask/Araucaria_heterophylla-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dieback",
+                "link": "/disease/Araucaria-heterophylla-Dieback.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Araucaria-heterophylla-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Araucaria-heterophylla-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Araucaria-heterophylla-Mealybug.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Araucaria-heterophylla-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Araucaria-heterophylla-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Araucaria-heterophylla-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Araucaria-heterophylla-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Araucaria-heterophylla-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Araucaria-heterophylla-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Araucaria-heterophylla-Crown-gall.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lomandra longifolia",
+                "link": "/wiki/Lomandra_longifolia.html",
+                "imageUrl": "/wiki-image/1080/153785843855654951.jpeg",
+                "displayName": "Spiny-head mat-rush"
+            },
+            {
+                "scientificName": "Pachira aquatica",
+                "link": "/wiki/Pachira_aquatica.html",
+                "imageUrl": "/wiki-image/1080/201220068223352832.jpeg",
+                "displayName": "Money tree"
+            },
+            {
+                "scientificName": "Kalanchoe tetraphylla",
+                "link": "/wiki/Kalanchoe_tetraphylla.html",
+                "imageUrl": "/wiki-image/1080/154180791868325930.jpeg",
+                "displayName": "Paddle plant"
+            },
+            {
+                "scientificName": "Calamagrostis epigejos",
+                "link": "/wiki/Calamagrostis_epigejos.html",
+                "imageUrl": "/wiki-image/1080/221564434954092544.jpeg",
+                "displayName": "Bush-grass"
+            },
+            {
+                "scientificName": "Peperomia caperata",
+                "link": "/wiki/Peperomia_caperata.html",
+                "imageUrl": "/wiki-image/1080/154184098993143841.jpeg",
+                "displayName": "Emerald ripple peperomia"
+            },
+            {
+                "scientificName": "Guizotia abyssinica",
+                "link": "/wiki/Guizotia_abyssinica.html",
+                "imageUrl": "/wiki-image/1080/153851380761624621.jpeg",
+                "displayName": "Niger"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Araucaria_heterophylla.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Araucaria_heterophylla.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Araucaria_heterophylla.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Araucaria_heterophylla.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Araucaria_heterophylla.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Araucaria_heterophylla.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Araucaria_heterophylla.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Araucaria_heterophylla.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Araucaria_heterophylla.html",
+            "values": [
+                "Care Norfolk island pine",
+                "Care Norfolk island pine",
+                "Grow Norfolk island pine",
+                "Maintain Norfolk island pine",
+                "Norfolk island pine Care",
+                "Norfolk island pine Grow",
+                "Norfolk island pine Maintain",
+                "Norfolk island pine Cares",
+                "Growth Norfolk island pine",
+                "Maintains Norfolk island pine",
+                "Norfolk island pine Growth",
+                "Norfolk island pine Maintains",
+                "Norfolk island pine Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Araucaria-heterophylla-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Araucaria-heterophylla-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Araucaria-heterophylla-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Araucaria-heterophylla-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Araucaria_heterophylla.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Araucaria_heterophylla.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Araucaria_heterophylla.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Araucaria_heterophylla.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Araucaria_heterophylla.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Araucaria_heterophylla.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Araucaria_heterophylla.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Araucaria_heterophylla.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Araucaria_heterophylla.html"
+        }
+    ]
+}

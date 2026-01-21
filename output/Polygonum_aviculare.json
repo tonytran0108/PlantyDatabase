@@ -1,0 +1,607 @@
+{
+    "title": "Prostrate knotweed (Polygonum aviculare) - PictureThis",
+    "displayName": "Prostrate knotweed",
+    "otherCommonName": "Doorweed , Wiregrass, Birdgrass, Pigweed",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/152610667789025280.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7810341",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152484898261696517.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2976,
+                "height": 3454,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Polygonum_aviculare_subsp._depressum_(s._lat.)_sl9.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153880835647340550.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22956440",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918953482092596.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8611390",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153923308578930721.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Prostrate knotweed (Polygonum aviculare) is a low-growing species that can root practically anywhere. It produces many small white flowers each summer and produces plenty of seeds that can survive for years. Its seeds can lay dormant in soils, and once they see sunlight, they will start to germinate. Because it grows so dwarf, mowing is not effective in removing it.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Prostrate knotweed (Polygonum aviculare) is a low-growing species that can root practically anywhere. It produces many small white flowers each summer and produces plenty of seeds that can survive for years. Its seeds can lay dormant in soils, and once they see sunlight, they will start to germinate. Because it grows so dwarf, mowing is not effective in removing it.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Prostrate knotweed (<i>Polygonum aviculare</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Knotweeds",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Polygonum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckwheat",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Polygonaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 40 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251753734311575553.png",
+        "habitat": "Waste places, roadsides, railway embankments, coast, garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Prostrate knotweed is native to the most of entire temperate northern hemisphere, its range stretching across the whole of Eurasia, America, parts of Africa. It is usually found in grassland biomes with disturbed soil.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "418",
+                "502",
+                "353",
+                "236",
+                "218",
+                "181",
+                "313",
+                "678",
+                "988",
+                "1065",
+                "495",
+                "466"
+            ],
+            "north": [
+                "1407",
+                "2506",
+                "8305",
+                "30384",
+                "40020",
+                "28881",
+                "23155",
+                "15214",
+                "6147",
+                "1923",
+                "1195",
+                "1264"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Restoration",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "This plant was found in Philadelphia around 1910. It is a kind of rice field weed that is hard to remove because of its strong viability in wetlands, river banks, grasslands, moors and mudflats.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Prostrate knotweed",
+                "values": [
+                    "The stem is very special because it looks like bamboo with multiple nodes in a section. This may be the reason why this genus is called knotweed. Since the plant grows in a prostrate position, it is called prostrate knotweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Consuming large quantities of prostrate knotweed leaves, which contain oxalic acid, can cause mineral deficiencies. <strong>People with rheumatism, arthritis, gout, kidney stones, and hyperacidity should avoid prostrate knotweed</strong> to prevent exacerbation of these conditions. There's a potential for photosensitivity, though no reports exist for this species.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Polygonum_aviculare.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Prostrate knotweed has spread as a weed to almost all temperate locations from its native habitat of Eurasia. It is considered invasive or an agricultural weed in 3 states. It readily establishes a persistent seedbank, with individual plants able to produce thousands of seeds that can last several years. Prostrate knotweed has been used as groundcover and cultivated as a dye; it has also been found to suppress other weeds and kill potato pathogens. However, it can also have synergistic effects or acts as an alternative host for crop pathogens and pests. Mowing is generally ineffective due to its matting growth pattern, but a combination of herbicide and other techniques including tilling, polarization, undersowing, and plowing can effectively control prostrate knotweed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing prostrate knotweed or prostrate knotweed is spring. It's ideal to remove this plant before it reaches the flowering stage to prevent it from spreading seeds.\n  </div> \n  <ol> \n   <li>Hand pulling: Put on a pair of gloves to protect your hands. Grasp the knotweed close to the ground and firmly pull it out, being careful to remove all the roots. Doing it after rainfall can make this task easier as wet soil loosens the root grip. Dispose of the plant in a garden waste bag.</li> \n   <li>Smothering: Cover the area where prostrate knotweed is growing with a thick layer of newspaper or cardboard, and then add a layer of mulch on top. This method works by denying the plant light and air, causing it to die off.</li> \n   <li>Planting competition: Simultaneously planting faster-growing, more competitive plants can help limit the space for prostrate knotweed to grow. Choose species that are native to your area and that grow thickly to limit the knotweed's access to light, water, and space.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Sprawling habit with stems up to 3 feet (91 cm) long.",
+            "Oval, pointed leaves with a smooth texture and alternate arrangement.",
+            "Tiny, inconspicuous flowers with greenish-white hue in leaf nodes.",
+            "Small, 3-angled hard achene fruit, brown to reddish-brown in color.",
+            "Stems matted and wiry, branching frequently for a dense appearance."
+        ],
+        "title": "Quickly Identify Prostrate knotweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Polygonum-aviculare.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prostrate knotweed thrives in humid environments and prefers consistent moisture, requiring weekly watering. It is moderately drought-tolerant and often grown outdoors, where its growth cycle benefits from natural rainwater, enhancing seasonal vigor.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prostrate knotweed propagates well by sowing in spring, with seedling emergence signaling success. The difficulty level is moderate, requiring consistent soil moisture for effective propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Polygonum_aviculare.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you get rid of prostrate knotweed?",
+            "link": "/ask/Polygonum_aviculare-0.html"
+        },
+        {
+            "q": "Will vinegar kill prostrate knotweed?",
+            "link": "/ask/Polygonum_aviculare-1.html"
+        },
+        {
+            "q": "Is prostrate knotweed invasive?",
+            "link": "/ask/Polygonum_aviculare-2.html"
+        },
+        {
+            "q": "Is the prostrate knotweed poisonous?",
+            "link": "/ask/Polygonum_aviculare-3.html"
+        },
+        {
+            "q": "Where is prostrate knotweed native?",
+            "link": "/ask/Polygonum_aviculare-4.html"
+        },
+        {
+            "q": "Is prostrate knotweed annual or perennial?",
+            "link": "/ask/Polygonum_aviculare-5.html"
+        },
+        {
+            "q": "How tall can prostrate knotweed get?",
+            "link": "/ask/Polygonum_aviculare-6.html"
+        },
+        {
+            "q": "Is prostrate knotweed edible?",
+            "link": "/ask/Polygonum_aviculare-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Fallopia baldschuanica",
+                "link": "/wiki/Fallopia_baldschuanica.html",
+                "imageUrl": "/wiki-image/1080/153874530635350028.jpeg",
+                "displayName": "Bukhara fleeceflower"
+            },
+            {
+                "scientificName": "Scorzoneroides autumnalis",
+                "link": "/wiki/Scorzoneroides_autumnalis.html",
+                "imageUrl": "/wiki-image/1080/153680488307884049.jpeg",
+                "displayName": "Autumn hawkbit"
+            },
+            {
+                "scientificName": "Lactuca biennis",
+                "link": "/wiki/Lactuca_biennis.html",
+                "imageUrl": "/wiki-image/1080/153892698347012114.jpeg",
+                "displayName": "Tall blue lettuce"
+            },
+            {
+                "scientificName": "Stachytarpheta jamaicensis",
+                "link": "/wiki/Stachytarpheta_jamaicensis.html",
+                "imageUrl": "/wiki-image/1080/154103778809741333.jpeg",
+                "displayName": "Blue porterweed"
+            },
+            {
+                "scientificName": "Osmanthus heterophyllus",
+                "link": "/wiki/Osmanthus_heterophyllus.html",
+                "imageUrl": "/wiki-image/1080/153962147968188446.jpeg",
+                "displayName": "Holly olive"
+            },
+            {
+                "scientificName": "Carex pendula",
+                "link": "/wiki/Carex_pendula.html",
+                "imageUrl": "/wiki-image/1080/154238086732054532.jpeg",
+                "displayName": "Drooping sedge"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Polygonum_aviculare.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Polygonum_aviculare.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Polygonum_aviculare.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Polygonum_aviculare.html",
+            "values": [
+                "Care Prostrate knotweed",
+                "Care Prostrate knotweed",
+                "Grow Prostrate knotweed",
+                "Maintain Prostrate knotweed",
+                "Prostrate knotweed Care",
+                "Prostrate knotweed Grow",
+                "Prostrate knotweed Maintain",
+                "Prostrate knotweed Cares",
+                "Growth Prostrate knotweed",
+                "Maintains Prostrate knotweed",
+                "Prostrate knotweed Growth",
+                "Prostrate knotweed Maintains",
+                "Prostrate knotweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Polygonum_aviculare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Polygonum_aviculare.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Polygonum_aviculare.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Polygonum_aviculare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Polygonum_aviculare.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Polygonum_aviculare.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Polygonum_aviculare.html"
+        }
+    ]
+}

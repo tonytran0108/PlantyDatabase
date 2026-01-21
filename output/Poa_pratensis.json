@@ -1,0 +1,779 @@
+{
+    "title": "Kentucky bluegrass (Poa pratensis) - PictureThis",
+    "displayName": "Kentucky bluegrass",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 871,
+            "height": 871,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154159742233608208.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1712,
+                "height": 2288,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Poa_pratensis1.JPG",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Don_Pedro28",
+                "author": "Petr Filippov",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154015873714094099.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1536,
+                "height": 2048,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:POA_PRATENSIS_-_LA_COMA_-_IB-197_(Poa_de_prat).jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Isidre_blanc",
+                "author": "Isidre blanc",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153762745521537028.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/24202753",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153769737728294937.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 773,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/25365046",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153782502371098635.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass is one of the most commonly planted grasses for lawns in cool and humid parts of the United States. The name refers not to the color of the grass stalks, but instead is due to the purple-blue flowers that are seen if the grass is allowed to bloom. A good spot to see kentucky bluegrass is at Lambeau Field in Green Bay, Wisconsin, home of the Green Bay Packers football team.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Kentucky bluegrass is one of the most commonly planted grasses for lawns in cool and humid parts of the United States. The name refers not to the color of the grass stalks, but instead is due to the purple-blue flowers that are seen if the grass is allowed to bloom. A good spot to see kentucky bluegrass is at Lambeau Field in Green Bay, Wisconsin, home of the Green Bay Packers football team.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Kentucky bluegrass (<i>Poa pratensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Meadow-grasses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Poa.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Grass",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Mid summer, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 70 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802970191527937.jpeg",
+        "habitat": "Meadows, grassy places, dunes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass is a widely distributed species, natively found across temperate regions of both the Eastern and Western Hemispheres, including major parts of Europe, Asia, and North America. Cultivated for various purposes, kentucky bluegrass has been introduced to regions such as South America, the Caribbean, and Oceania. In some of its introduced ranges, kentucky bluegrass is sometimes thought to be having potential impacts on local ecosystems, particularly in places like Southern South America and Oceania.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "64",
+                "91",
+                "116",
+                "115",
+                "97",
+                "83",
+                "109",
+                "255",
+                "373",
+                "262",
+                "154",
+                "122"
+            ],
+            "north": [
+                "2714",
+                "6744",
+                "23145",
+                "53080",
+                "40591",
+                "21639",
+                "19971",
+                "15196",
+                "9654",
+                "3471",
+                "905",
+                "1190"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The blue-green blades of kentucky bluegrass only add to its attraction as grass for golf courses, lawns, and sports pitches. The tough blades and deep roots make it a strong grass that can withstand a high volume of traffic and wear. It keeps its green color for most of the year and has impressive recuperative abilities.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Kentucky bluegrass's pollen</strong> can cause allergic reactions, including sneezing, runny nose, itchy eyes, and shortness of breath. Symptoms are typically mild. <strong>Kentucky bluegrass produces pollen</strong> when it flowers, which often doesn't happen due to mowing. Individuals with other grass allergies are more susceptible to kentucky bluegrass.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Poa_pratensis.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass is a grassy weed that grows throughout the United States and Canada. It is found in prairies, meadows, fields, woods, and open forests. It is considered an environmental weed in Australia. This grass is on the invasive species list in California, Wisconsin and Kentucky. It impacts the native tall grass prairies of the midwestern states, where controlled fire is the only reasonable removal process. in a garden setting, the use of herbicides is the most effective approach. On the prairies, bluegrass displaces native species, and is less nutritious for foraging cattle. The grass competes against other plants in home gardens.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to control or restrict kentucky bluegrass is during early spring or fall before it sets seed. Controlling kentucky bluegrass when young will prevent it from becoming invasive.\n  </div> \n  <ol> \n   <li>Hand pulling: Gently pull kentucky bluegrass from the ground, ensuring the entire root system is removed to prevent regrowth.</li> \n   <li>Mowing: Regularly mow the area to keep kentucky bluegrass from reaching maturity and setting seed. Set the mower to a high setting to avoid damaging desired grasses.</li> \n   <li>Mulching: Apply a thick layer of organic mulch to suppress kentucky bluegrass seedlings and prevent light from reaching the soil, which inhibits germination.</li> \n   <li>Edging: Create barriers using edging materials around desired areas to prevent kentucky bluegrass from spreading into them.</li> \n   <li>Dense planting: Plant competitive plants closely, as they will crowd out kentucky bluegrass by competing for light, water, and nutrients.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Lush green color with boat-shaped leaf tips",
+            "Blades up to 3mm wide, 20-30cm tall, tapering to a point",
+            "Dense root network for robust sod formation",
+            "Distinctive pyramid-shaped inflorescence with spikelets of 3-6 flowers",
+            "Flowers resemble clustered grains"
+        ],
+        "title": "Quickly Identify Kentucky bluegrass",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Poa-pratensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass thrives in temperate regions, favoring consistent moisture without waterlogging. It requires bi-weekly watering to maintain balance. Found in cooler climates, it benefits from morning dew and occasional rains, aiding hydration without overwatering risks.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass requires nitrogen-rich lawn fertilizers for optimal growth, with applications in early spring and autumn at 1 pound per 1,000 square feet. Seasonal feeding is crucial; balanced feeds promote growth, while high-nitrogen mixes aid recovery. Use slow-release formulas to prevent over-fertilization and protect the environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass thrives as a cool-season grass, requiring regular mowing to a height of 2-3 inches for healthy growth. Prune during early to late spring to enhance density and minimize disease risk. Utilize sharp mower blades for optimal results, following horticultural care guidelines.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Kentucky bluegrass propagates best through division in spring or autumn. Monitor for new growth as an indicator of success. Ensure proper root separation and maintain consistent watering for optimal propagation results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Poa_pratensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does kentucky bluegrass grow best?",
+            "link": "/ask/Poa_pratensis-0.html"
+        },
+        {
+            "q": "When should you plant kentucky bluegrass?",
+            "link": "/ask/Poa_pratensis-1.html"
+        },
+        {
+            "q": "Does kentucky bluegrass grow in shade?",
+            "link": "/ask/Poa_pratensis-2.html"
+        },
+        {
+            "q": "How do I get rid of kentucky bluegrass?",
+            "link": "/ask/Poa_pratensis-3.html"
+        },
+        {
+            "q": "Will kentucky bluegrass choke out weeds?",
+            "link": "/ask/Poa_pratensis-4.html"
+        },
+        {
+            "q": "How do you thicken kentucky bluegrass?",
+            "link": "/ask/Poa_pratensis-5.html"
+        },
+        {
+            "q": "How much is a pallet of kentucky bluegrass?",
+            "link": "/ask/Poa_pratensis-6.html"
+        },
+        {
+            "q": "Is fescue or kentucky bluegrass better?",
+            "link": "/ask/Poa_pratensis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Fire ants",
+                "link": "/disease/Poa-pratensis-Fire-ants.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Poa-pratensis-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Dieback",
+                "link": "/disease/Poa-pratensis-Dieback.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Poa-pratensis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Poa-pratensis-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Poa-pratensis-Rust-disease.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Euphorbia prostrata",
+                "link": "/wiki/Euphorbia_prostrata.html",
+                "imageUrl": "/wiki-image/1080/154013086280319008.jpeg",
+                "displayName": "Prostrate sandmat"
+            },
+            {
+                "scientificName": "Cedrus deodara",
+                "link": "/wiki/Cedrus_deodara.html",
+                "imageUrl": "/wiki-image/1080/154017815039311899.jpeg",
+                "displayName": "Deodar cedar"
+            },
+            {
+                "scientificName": "Persicaria capitata",
+                "link": "/wiki/Persicaria_capitata.html",
+                "imageUrl": "/wiki-image/1080/153817652383449125.jpeg",
+                "displayName": "Pink knotweed"
+            },
+            {
+                "scientificName": "Bellis perennis",
+                "link": "/wiki/Bellis_perennis.html",
+                "imageUrl": "/wiki-image/1080/201227026070372352.jpeg",
+                "displayName": "Common daisy"
+            },
+            {
+                "scientificName": "Parthenium hysterophorus",
+                "link": "/wiki/Parthenium_hysterophorus.html",
+                "imageUrl": "/wiki-image/1080/153448925146120234.jpeg",
+                "displayName": "Santa Maria feverfew"
+            },
+            {
+                "scientificName": "Agave sisalana",
+                "link": "/wiki/Agave_sisalana.html",
+                "imageUrl": "/wiki-image/1080/153458429908746251.jpeg",
+                "displayName": "Sisal"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Poa_pratensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Poa_pratensis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Poa_pratensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Poa_pratensis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Poa_pratensis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Poa_pratensis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Poa_pratensis.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Poa_pratensis.html",
+            "values": [
+                "Care Kentucky bluegrass",
+                "Care Kentucky bluegrass",
+                "Grow Kentucky bluegrass",
+                "Maintain Kentucky bluegrass",
+                "Kentucky bluegrass Care",
+                "Kentucky bluegrass Grow",
+                "Kentucky bluegrass Maintain",
+                "Kentucky bluegrass Cares",
+                "Growth Kentucky bluegrass",
+                "Maintains Kentucky bluegrass",
+                "Kentucky bluegrass Growth",
+                "Kentucky bluegrass Maintains",
+                "Kentucky bluegrass Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-pratensis-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-pratensis-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-pratensis-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Poa_pratensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Poa_pratensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Poa_pratensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Poa_pratensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Poa_pratensis.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Poa_pratensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Poa_pratensis.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Poa_pratensis.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Poa_pratensis.html"
+        }
+    ]
+}

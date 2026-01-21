@@ -1,0 +1,986 @@
+{
+    "title": "Satin pothos (Scindapsus pictus) - PictureThis",
+    "displayName": "Satin pothos",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Konstantin Dmitriev",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347134572727009280.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 771,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/235703771",
+                "authorLink": "https://www.inaturalist.org/people/calebcatto",
+                "author": "Caleb Catto",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349646845127360516.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Konstantin Dmitriev",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/347134572727009280.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2832,
+                "height": 2128,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157273129666740230.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2832,
+                "height": 2128,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157398070265380870.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Satin Pothos 'Silvery Ann'",
+            "link": "/wiki/Scindapsus_pictus__Silvery_Ann_.html"
+        },
+        {
+            "displayName": "Satin pothos 'Argyraeus'",
+            "link": "/wiki/Scindapsus_pictus__Argyraeus_.html"
+        },
+        {
+            "displayName": "Satin pothos 'Exotica'",
+            "link": "/wiki/Scindapsus_pictus__Exotica_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The satin pothos is a commonly cultivated houseplant that is native to Bangladesh, Thailand, Malaysia, Borneo, and the Philippines. Due to the location of its natural habitat, the satin pothos must maintain a minimum temperature of 15 Ã¢ÂÂ.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The satin pothos is a commonly cultivated houseplant that is native to Bangladesh, Thailand, Malaysia, Borneo, and the Philippines. Due to the location of its natural habitat, the satin pothos must maintain a minimum temperature of 15 Ã¢ÂÂ.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Satin pothos (<i>Scindapsus pictus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Scindapsus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Scindapsus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 41 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802935831789570.jpeg",
+        "habitat": "Forest",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Satin pothos is native to neighboring countries in the South China Sea. This plant has stayed within its native region, not spreading to any other areas. Satin pothos prefers heat and humidity, and so favors tropical temperatures with damp, shaded soil, it will be easier to see it in a place full of trees.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "746",
+                "764",
+                "884",
+                "900",
+                "811",
+                "739",
+                "838",
+                "836",
+                "847",
+                "808",
+                "547",
+                "807"
+            ],
+            "north": [
+                "13129",
+                "14165",
+                "16382",
+                "18308",
+                "18209",
+                "17220",
+                "17333",
+                "15136",
+                "12606",
+                "9879",
+                "7973",
+                "13028"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Usually an indoor houseplant, satin pothos can grow outdoors if the climate is right; in fact, it can grow more than three times larger than indoors. Because it is a climbing vine, in the garden, it requires a surface to climb on, be it a trellis or a larger tree. Satin pothos is suitable for tropical gardens as a specimen, or as an interesting backdrop to grow over structures in the back of garden beds. It performs well in hanging baskets.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Perseverance, determination to reach one's goals",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Although they are typically grown as houseplants in the United States, satin pothos can be found growing in the wild in tropical areas. In its natural habitat, it is an epiphytic plant, because it grows up trees. As it vines up a tree, the leaves lie flat against the tree for protection. In homes, satin pothos is often grown in hanging baskets, so the vines can trail down.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Satin pothos",
+                "values": [
+                    "This species is not a pothos plant but it is closely related to it. It is featured with dark green leaves, laced with abundant silver marks and satin luster. So, this plant is called satin pothos."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   All parts of satin pothos are toxic due to insoluble calcium oxalates in the sap, causing mouth irritation, vomiting, and abdominal pain when ingested. <strong>Skin contact can lead to dermatitis</strong>. <strong>Cats and dogs are vulnerable</strong>: cats may experience severe mouth pain and stomach issues, while dogs can suffer immediate irritation and potentially severe symptoms if large amounts are consumed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Scindapsus_pictus.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped leaves with silver mottled pattern, up to 3 inches (7.5 cm) long.",
+            "White acylindrical spadix enclosed by flesh-colored spathe, 1.2-2.4 inches (3-6 cm) long.",
+            "Compact dark green berries under 1 inch (2.54 cm) in diameter, with firm texture.",
+            "Juvenile leaves egg-shaped or heart-shaped, up to 6 by 5.5 inches (15 by 14 cm).",
+            "Mature leaves transition from oblong to lance-shaped, adorned with white spots."
+        ],
+        "title": "Quickly Identify Satin pothos",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Scindapsus-pictus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 41 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in humid tropical understories, satin pothos requires consistent moisture and benefits from weekly watering to maintain moist, not waterlogged, soil. Higher humidity levels are ideal for its ornamental growth, achievable through misting or humidifiers to support lush foliage and health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal health, satin pothos requires monthly fertilization with high nitrogen during the growing season, then every 6-8 weeks in fall and winter. Use a balanced, water-soluble fertilizer to avoid root burn, enhancing foliage and plant vitality as satin pothos matures and growth slows.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Satin pothos features silvery, variegated leaves and benefits from early to late spring pruning. Trim leggy stems above nodes and remove yellowing leaves to promote growth, enhance air circulation, and maintain aesthetic appeal, preventing overcrowding and reducing disease risk.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of satin pothos is best achieved through herbaceous cuttings in Spring and Summer. Success is indicated by root formation at the base of the cutting. Maintain consistent moisture and prevent direct sunlight during this process for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For satin pothos, an ornamental climbing plant, repot annually in spring using a slightly larger pot to promote growth. Provide moderate indirect light and consistent moisture post-repotting, avoiding waterlogging. A well-draining pot is essential for maintaining satin pothos's health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Scindapsus_pictus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why are my satin pothos leaves curling?",
+            "link": "/ask/Scindapsus_pictus-0.html"
+        },
+        {
+            "q": "How do you care for satin pothos?",
+            "link": "/ask/Scindapsus_pictus-1.html"
+        },
+        {
+            "q": "Why is my satin pothos turning yellow?",
+            "link": "/ask/Scindapsus_pictus-2.html"
+        },
+        {
+            "q": "Does satin pothos like direct sunlight?",
+            "link": "/ask/Scindapsus_pictus-3.html"
+        },
+        {
+            "q": "How do you propagate satin pothos?",
+            "link": "/ask/Scindapsus_pictus-4.html"
+        },
+        {
+            "q": "Is the satin pothos an evergreen?",
+            "link": "/ask/Scindapsus_pictus-5.html"
+        },
+        {
+            "q": "Can satin pothos plant indoors?",
+            "link": "/ask/Scindapsus_pictus-6.html"
+        },
+        {
+            "q": "How often should I water satin pothos?",
+            "link": "/ask/Scindapsus_pictus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Scindapsus-pictus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Scindapsus-pictus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Scindapsus-pictus-Wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Scindapsus-pictus-Wounds.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Scindapsus-pictus-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Scindapsus-pictus-Scars.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Scindapsus-pictus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Scindapsus-pictus-White-blotch.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Scindapsus-pictus-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Scindapsus-pictus-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Scindapsus-pictus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Scindapsus-pictus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Scindapsus-pictus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Scindapsus-pictus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Scindapsus-pictus-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Scindapsus-pictus-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Scindapsus-pictus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Waterlogging",
+                "link": "/disease/Scindapsus-pictus-Waterlogging.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Scindapsus-pictus-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Scindapsus-pictus-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Scindapsus-pictus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Scindapsus-pictus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Scindapsus-pictus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Scindapsus-pictus-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Houttuynia cordata",
+                "link": "/wiki/Houttuynia_cordata.html",
+                "imageUrl": "/wiki-image/1080/154158312009498627.jpeg",
+                "displayName": "Chameleon plant"
+            },
+            {
+                "scientificName": "Plantago lanceolata",
+                "link": "/wiki/Plantago_lanceolata.html",
+                "imageUrl": "/wiki-image/1080/201222022433472512.jpeg",
+                "displayName": "Ribwort plantain"
+            },
+            {
+                "scientificName": "Cymbopogon citratus",
+                "link": "/wiki/Cymbopogon_citratus.html",
+                "imageUrl": "/wiki-image/1080/317756837508251648.jpeg",
+                "displayName": "Lemon grass"
+            },
+            {
+                "scientificName": "Adenium obesum",
+                "link": "/wiki/Adenium_obesum.html",
+                "imageUrl": "/wiki-image/1080/153778641195499523.jpeg",
+                "displayName": "Desert rose"
+            },
+            {
+                "scientificName": "Solanum xanti",
+                "link": "/wiki/Solanum_xanti.html",
+                "imageUrl": "/wiki-image/1080/154042146029043730.jpeg",
+                "displayName": "Purple nightshade"
+            },
+            {
+                "scientificName": "Quercus palustris",
+                "link": "/wiki/Quercus_palustris.html",
+                "imageUrl": "/wiki-image/1080/202645696718045184.jpeg",
+                "displayName": "Pin oak"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Scindapsus_pictus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Scindapsus_pictus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Scindapsus_pictus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Scindapsus_pictus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Scindapsus_pictus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Scindapsus_pictus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Scindapsus_pictus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Scindapsus_pictus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Scindapsus_pictus.html",
+            "values": [
+                "Care Satin pothos",
+                "Care Satin pothos",
+                "Grow Satin pothos",
+                "Maintain Satin pothos",
+                "Satin pothos Care",
+                "Satin pothos Grow",
+                "Satin pothos Maintain",
+                "Satin pothos Cares",
+                "Growth Satin pothos",
+                "Maintains Satin pothos",
+                "Satin pothos Growth",
+                "Satin pothos Maintains",
+                "Satin pothos Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Scindapsus-pictus-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Scindapsus_pictus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Scindapsus_pictus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Scindapsus_pictus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Scindapsus_pictus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Scindapsus_pictus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Scindapsus_pictus.html"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Scindapsus_pictus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Scindapsus_pictus.html"
+        }
+    ]
+}

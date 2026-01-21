@@ -1,0 +1,560 @@
+{
+    "title": "Jimsonweed (Datura stramonium) - PictureThis",
+    "displayName": "Jimsonweed",
+    "otherCommonName": "Moon flower, Angel's trumpet",
+    "mainImage": {
+        "copyright": {
+            "width": 807,
+            "height": 807,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154250649511395354.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16005311",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661397178253317.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/8714543",
+                "authorLink": "https://www.inaturalist.org/people/1515879",
+                "author": "Judy Gallagher",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/153887462781878283.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5544466",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929154029420553.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25539111",
+                "authorLink": "https://www.inaturalist.org/people/duarte",
+                "author": "duarte",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929832634253349.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed (Datura stramonium) is a species of nightshade plant native to Central America which is considered an invasive species in more temperate climates. It can be toxic if ingested in significant quantities. It has a distinctive, strong smell. The jimsonweed gets its common name from Jamestown, Virginia, where soldiers ingested the plants exhibited altered mental states afterward.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Jimsonweed (Datura stramonium) is a species of nightshade plant native to Central America which is considered an invasive species in more temperate climates. It can be toxic if ingested in significant quantities. It has a distinctive, strong smell. The jimsonweed gets its common name from Jamestown, Virginia, where soldiers ingested the plants exhibited altered mental states afterward.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Jimsonweed (<i>Datura stramonium</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Thornapples",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Datura.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nightshade",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Solanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Perennial, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "All year round",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736498607816706.png",
+        "habitat": "Dry waste ground, amongst rubble or the ruins of old buildings",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed is native to regions in Central and South America but has been introduced across the continents, from Europe to Asia, and Africa to Oceania. Its presence spans temperate to tropical climates in these areas. In Africa's eastern regions and some parts of the Caribbean, jimsonweed is sometimes thought to be establishing itself in ways that may have an impact on ecosystems, but it generally coexists with local flora outside of its indigenous range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 147.8524534, \"2\": 116.1763393, \"3\": 110.7754491, \"4\": 102.1798905, \"5\": 52.54436154, \"6\": 54.0, \"7\": 34.54478487, \"8\": 36.68164223, \"9\": 53.33636844, \"10\": 91.61255819, \"11\": 149.2311566, \"12\": 157.5361235}, \"flower_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 53.27552538, \"2\": 45.94148048, \"3\": 46.79606587, \"4\": 18.81614795, \"5\": 8.668635086, \"6\": 12.0, \"7\": 8.181063258, \"8\": 4.35389948, \"9\": 9.454357286, \"10\": 23.99089964, \"11\": 28.58503675, \"12\": 48.01405683}, \"flower_month\": 1}, \"Csa\": {\"trends\": {\"1\": 104.6035855, \"2\": 108.5665252, \"3\": 88.53084295, \"4\": 75.80948045, \"5\": 53.66922095, \"6\": 31.0, \"7\": 22.10040539, \"8\": 13.21731989, \"9\": 19.91994107, \"10\": 42.45353421, \"11\": 77.87396231, \"12\": 116.4151844}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 575.3127338, \"2\": 524.3523826, \"3\": 490.5158061, \"4\": 345.9542895, \"5\": 232.8679633, \"6\": 214.0, \"7\": 157.9821243, \"8\": 159.148684, \"9\": 212.726783, \"10\": 391.4356719, \"11\": 496.1936275, \"12\": 594.1704518}, \"flower_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 68.97077041, \"2\": 49.2317082, \"3\": 35.56281665, \"4\": 58.16775643, \"5\": 83.76443016, \"6\": 72.86034662, \"7\": 84.942424, \"8\": 57.27808584, \"9\": 64.48476517, \"10\": 49.48565638, \"11\": 59.16761666, \"12\": 57.0}, \"flower_month\": 7}, \"Csa\": {\"trends\": {\"1\": 17.44243354, \"2\": 4.470555002, \"3\": 13.57768288, \"4\": 23.89785212, \"5\": 35.71143622, \"6\": 58.50236978, \"7\": 53.77772088, \"8\": 56.97110701, \"9\": 60.09306753, \"10\": 53.6488208, \"11\": 52.04320957, \"12\": 24.0}, \"flower_month\": 9}, \"Csb\": {\"trends\": {\"1\": 5.113010832, \"2\": 3.976083751, \"3\": 5.838672616, \"4\": 6.011003753, \"5\": 18.89947038, \"6\": 28.37282472, \"7\": 40.24766781, \"8\": 41.47635445, \"9\": 42.62645515, \"10\": 32.6898938, \"11\": 18.68765593, \"12\": 2.0}, \"flower_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 41.30233489, \"2\": 41.87468767, \"3\": 37.38567978, \"4\": 65.57514739, \"5\": 117.084469, \"6\": 188.3600916, \"7\": 233.5364366, \"8\": 228.7678833, \"9\": 157.0897162, \"10\": 147.2482558, \"11\": 83.97802677, \"12\": 39.0}, \"flower_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 50.74792314, \"2\": 51.15291791, \"3\": 36.17557704, \"4\": 23.84348114, \"5\": 43.63351168, \"6\": 135.0499052, \"7\": 274.8417145, \"8\": 354.6296054, \"9\": 314.8952309, \"10\": 197.7306842, \"11\": 149.526017, \"12\": 71.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 18.23290947, \"2\": 38.58239109, \"3\": 32.9916398, \"4\": 44.16367063, \"5\": 158.7022183, \"6\": 284.3133821, \"7\": 349.9838652, \"8\": 353.9570315, \"9\": 281.1206422, \"10\": 217.1806584, \"11\": 112.7793901, \"12\": 46.0}, \"flower_month\": 8}, \"Dfb\": {\"trends\": {\"1\": 19.80289442, \"2\": 14.48316617, \"3\": 15.08327344, \"4\": 22.60873961, \"5\": 58.08951973, \"6\": 122.3166861, \"7\": 161.8885373, \"8\": 195.1685452, \"9\": 155.9467265, \"10\": 95.74668733, \"11\": 67.45557753, \"12\": 20.0}, \"flower_month\": 8}, \"BSk\": {\"trends\": {\"1\": 31.0, \"2\": 14.0, \"3\": 28.0, \"4\": 66.0, \"5\": 210.0, \"6\": 219.0, \"7\": 180.0, \"8\": 156.0, \"9\": 124.0, \"10\": 75.0, \"11\": 39.0, \"12\": 20.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 305.5740646, \"2\": 288.8319807, \"3\": 241.2228489, \"4\": 309.1976305, \"5\": 689.0256549, \"6\": 1214.616442, \"7\": 1600.199305, \"8\": 1699.357948, \"9\": 1353.533434, \"10\": 973.7853645, \"11\": 664.3621706, \"12\": 351.0}, \"flower_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "The oil extracted from the seeds of jimson weed can be used to make soap, paint, etc.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Jimsonweed is a large annual weed that is prone to settling in the forgotten corners of gardens, vegetable fields, and near open compost or manure heaps. The plant is also toxic. Despite its bad reputation, jimsonweed is not overly invasive or problematic to control. The key is to remove it before it grows its prickly seed pods.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Terror, darkness, power, caution",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The whole jimsonweed plant is poisonous. However, in Chinese medicine it is used as an anesthetic or as a painkiller. It can also purify air, but it is not good to place indoors because of its hallucinogenic effect.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Jimsonweed",
+                "values": [
+                    "In America, the plant is called jimsonweed or on rare occasions Jamestown weed which is derived from the town of Jamestown, Virginia. This was where the English soldiers consumed the plant while attempting to suppress Bacon's Rebellion."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed is highly toxic to humans, <strong>cats</strong>, and <strong>dogs</strong>. Symptoms include confusion, delirium, coma, and death. Ingesting any part of the plant (leaves, stems, flowers, seeds) can be fatal. Prevent access and seek immediate medical or veterinary attention if ingestion is suspected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Datura_stramonium.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   The jimsonweed can be found scattered about the Americas, Europe, Asia, and Africa. It is considered an invasive weed in over 100 countries such as Kenya, Belgium, France, and the United States. It survives in dry to moist soils in USDA zones 6 to 9. It is considered an invasive crop in Kenya due to its infestation of crops such as soybean, cotton, and maize. Jimsonweed has been used in religious practices but is toxic to both people and livestock. If necessary, the plants can be pulled by hand, tilled, or a herbicide can be used to control its spread.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of jimsonweed is early spring, before the plant has had a chance to flower and disseminate its seeds. Here are a few methods for controlling or removing jimsonweed from your garden:\n  </div> \n  <ol> \n   <li>Hand pulling: Make sure to put on gloves and then manually pull the plants out of the ground. Remember to grab them from the base near the soil to ensure root removal.</li> \n   <li>Tilling: Use a rototiller or garden hoe to churn the soil, exposing the plant and its roots to natural elements which can help in killing it.</li> \n   <li>Smothering: Cover the area with a thick layer of newspaper or a tarp, then top with mulch. This will block sunlight and moisture, essential elements for its growth.</li> \n   <li>Planting cover crops: Plant crops like rye or winter wheat that can compete with jimsonweed for resources, hindering its spread.</li> \n   <li>Homemade solutions: A mixture of vinegar, salt, and dish soap, sprayed directly on the plant can help kill jimsonweed over time.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Stem color varies from green to purple, emitting an unpleasant smell.",
+            "Leaves display jagged edges in a single, alternating pattern.",
+            "Large tubular flowers with five lobes, white or lavender.",
+            "Egg-shaped fruit capsule, 2-4 inches (5-10 cm) with glossy black seeds.",
+            "Fruit texture may be either spiny or smooth, aiding in identification."
+        ],
+        "title": "Quickly Identify Jimsonweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Datura-stramonium.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed is drought-tolerant, thriving with minimal moisture. Water weekly to avoid over-saturation. As an outdoor plant in warmer climates, it benefits from consistent soil moisture during the growing season to support robust flowering cycles.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed is propagated by sowing in Spring. Although moderately difficult, vibrant green leaf emergence indicates success. Key factors include ensuring adequate moisture and good seed-to-soil contact for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Jimsonweed requires excellent drainage in pots to thrive successfully.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Datura_stramonium.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What effect does jimsonweed have on humans?",
+            "link": "/ask/Datura_stramonium-0.html"
+        },
+        {
+            "q": "What kind of soil is suitable for planting jimsonweed?",
+            "link": "/ask/Datura_stramonium-1.html"
+        },
+        {
+            "q": "Is jimsonweed invasive?",
+            "link": "/ask/Datura_stramonium-2.html"
+        },
+        {
+            "q": "Where is jimsonweed native?",
+            "link": "/ask/Datura_stramonium-3.html"
+        },
+        {
+            "q": "How do I get rid of jimsonweed?",
+            "link": "/ask/Datura_stramonium-4.html"
+        },
+        {
+            "q": "Is jimsonweed annual or perennial?",
+            "link": "/ask/Datura_stramonium-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Prunus pensylvanica",
+                "link": "/wiki/Prunus_pensylvanica.html",
+                "imageUrl": "/wiki-image/1080/153712945375739917.jpeg",
+                "displayName": "Pin cherry"
+            },
+            {
+                "scientificName": "Phaseolus vulgaris",
+                "link": "/wiki/Phaseolus_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/153923896989450273.jpeg",
+                "displayName": "Common bean"
+            },
+            {
+                "scientificName": "Nerium oleander",
+                "link": "/wiki/Nerium_oleander.html",
+                "imageUrl": "/wiki-image/1080/154122221399310354.jpeg",
+                "displayName": "Oleander"
+            },
+            {
+                "scientificName": "Zantedeschia aethiopica",
+                "link": "/wiki/Zantedeschia_aethiopica.html",
+                "imageUrl": "/wiki-image/1080/154110285685194784.jpeg",
+                "displayName": "Calla lily"
+            },
+            {
+                "scientificName": "Euphorbia peplus",
+                "link": "/wiki/Euphorbia_peplus.html",
+                "imageUrl": "/wiki-image/1080/154146204496691231.jpeg",
+                "displayName": "Petty spurge"
+            },
+            {
+                "scientificName": "Cynodon dactylon",
+                "link": "/wiki/Cynodon_dactylon.html",
+                "imageUrl": "/wiki-image/1080/153814100445495332.jpeg",
+                "displayName": "Bermuda grass"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Datura_stramonium.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Datura_stramonium.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Datura_stramonium.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Datura_stramonium.html",
+            "values": [
+                "Care Jimsonweed",
+                "Care Jimsonweed",
+                "Grow Jimsonweed",
+                "Maintain Jimsonweed",
+                "Jimsonweed Care",
+                "Jimsonweed Grow",
+                "Jimsonweed Maintain",
+                "Jimsonweed Cares",
+                "Growth Jimsonweed",
+                "Maintains Jimsonweed",
+                "Jimsonweed Growth",
+                "Jimsonweed Maintains",
+                "Jimsonweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Datura_stramonium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Datura_stramonium.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Datura_stramonium.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Datura_stramonium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Datura_stramonium.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Datura_stramonium.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Datura_stramonium.html"
+        }
+    ]
+}

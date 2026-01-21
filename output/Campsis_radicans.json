@@ -1,0 +1,926 @@
+{
+    "title": "Trumpet creeper (Campsis radicans) - PictureThis",
+    "displayName": "Trumpet creeper",
+    "otherCommonName": "Cow itch vine, Trumpet vine",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154098032143499298.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/33043787",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153669106644549652.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/54926616",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154170247723614246.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/49847048",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154186877836984361.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/30073862",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153902310483820554.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Exhibiting rapid growth in Spring and Summer, trumpet creeper showcases robust expansion in leaf production and vine length. Its quick proliferation, possibly adding several meters in these seasons, fosters a dense coverage ideal for wall-climbing or trellising. Heightened growth speed also accelerates flower formation, yielding vibrant, trumpet-shaped blooms.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The trumpet creeper is a flowering plant that climbs as it grows. It gets its nickname from its bright flowers, which are shaped like long trumpet bells. The shape matches them well with the hummingbirds that love to visit for the nectar. The trumpet creeper is originally native to eastern North America.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The trumpet creeper is a flowering plant that climbs as it grows. It gets its nickname from its bright flowers, which are shaped like long trumpet bells. The shape matches them well with the hummingbirds that love to visit for the nectar. The trumpet creeper is originally native to eastern North America.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Trumpet creeper (<i>Campsis radicans</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Trumpet vine",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Campsis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Bignonia",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Bignoniaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m to 12 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.2 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 8 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800788348141570.jpeg",
+        "habitat": "Low woods, thickets",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Trumpet creeper is native to the eastern United States, where it largely grows in woodland areas and on riverbanks. This ornamental garden plant has been naturalized in a further range in the Americas, and is sometimes also found in Europe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 148.4736822, \"2\": 141.6396465, \"3\": 93.16875516, \"4\": 47.94594862, \"5\": 40.60246119, \"6\": 18.0, \"7\": 11.81795272, \"8\": 17.60718827, \"9\": 45.63222633, \"10\": 71.13445695, \"11\": 150.5459686, \"12\": 165.9755587}, \"flower_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 49.82248207, \"2\": 35.28838356, \"3\": 21.83816407, \"4\": 13.75026197, \"5\": 14.18503923, \"6\": 6.0, \"7\": 9.090070287, \"8\": 5.079549393, \"9\": 15.23202007, \"10\": 20.22762127, \"11\": 23.19163359, \"12\": 54.209419}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 334.7904222, \"2\": 262.6011122, \"3\": 179.0533157, \"4\": 112.8111814, \"5\": 101.6151113, \"6\": 49.0, \"7\": 47.58497721, \"8\": 50.70913952, \"9\": 107.3699851, \"10\": 169.000798, \"11\": 286.2655543, \"12\": 392.3048496}, \"flower_month\": 12}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 0.835727773, \"2\": 2.991038637, \"3\": 5.868788193, \"4\": 19.40694269, \"5\": 30.76903174, \"6\": 37.17926801, \"7\": 43.19961043, \"8\": 43.08658107, \"9\": 32.71996786, \"10\": 25.4536712, \"11\": 10.20551378, \"12\": 6.0}, \"flower_month\": 7}, \"BSk\": {\"trends\": {\"1\": 13.39148076, \"2\": 18.40209694, \"3\": 31.75841481, \"4\": 75.77407142, \"5\": 150.8674486, \"6\": 190.0200356, \"7\": 227.9626644, \"8\": 228.4475726, \"9\": 164.3672006, \"10\": 96.66000889, \"11\": 38.55427989, \"12\": 13.0}, \"flower_month\": 8}, \"Csa\": {\"trends\": {\"1\": 13.08182516, \"2\": 19.37240501, \"3\": 34.97281953, \"4\": 91.87396481, \"5\": 163.9581663, \"6\": 255.5339359, \"7\": 262.5836303, \"8\": 242.7125244, \"9\": 181.6346853, \"10\": 99.55451283, \"11\": 65.05401196, \"12\": 38.0}, \"flower_month\": 7}, \"Csb\": {\"trends\": {\"1\": 0.730430119, \"2\": 10.60289, \"3\": 21.89502231, \"4\": 30.96577691, \"5\": 63.23596379, \"6\": 91.65462226, \"7\": 107.9815478, \"8\": 101.098614, \"9\": 78.4868063, \"10\": 45.29885284, \"11\": 21.93768305, \"12\": 11.0}, \"flower_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 63.60559573, \"2\": 137.7324064, \"3\": 396.7036021, \"4\": 654.2300087, \"5\": 863.3672842, \"6\": 1116.7329, \"7\": 1129.380079, \"8\": 1063.689534, \"9\": 878.0003102, \"10\": 627.1198039, \"11\": 242.772841, \"12\": 127.0}, \"flower_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 28.44959328, \"2\": 28.49023276, \"3\": 22.04987553, \"4\": 56.00445571, \"5\": 164.0898551, \"6\": 290.7031924, \"7\": 411.8105295, \"8\": 356.6531695, \"9\": 227.266015, \"10\": 123.2014263, \"11\": 44.8578051, \"12\": 24.0}, \"flower_month\": 7}, \"Dfa\": {\"trends\": {\"1\": 44.39317088, \"2\": 43.7267099, \"3\": 125.2980363, \"4\": 228.1160537, \"5\": 492.4698259, \"6\": 664.37859, \"7\": 760.0633923, \"8\": 676.2607909, \"9\": 515.2262805, \"10\": 316.986572, \"11\": 118.4589277, \"12\": 47.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 19.80289442, \"2\": 13.03484955, \"3\": 23.3105135, \"4\": 48.83487755, \"5\": 135.7700147, \"6\": 211.3589744, \"7\": 322.4849199, \"8\": 278.0784911, \"9\": 186.0692331, \"10\": 103.5450601, \"11\": 36.13691654, \"12\": 21.0}, \"flower_month\": 7}, \"BWh\": {\"trends\": {\"1\": 31.0, \"2\": 46.0, \"3\": 105.0, \"4\": 247.0, \"5\": 264.0, \"6\": 156.0, \"7\": 98.0, \"8\": 104.0, \"9\": 114.0, \"10\": 117.0, \"11\": 102.0, \"12\": 40.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 245.9105269, \"2\": 374.5583677, \"3\": 930.863094, \"4\": 1647.206234, \"5\": 2669.497059, \"6\": 3548.054981, \"7\": 4013.586836, \"8\": 3582.625191, \"9\": 2725.444019, \"10\": 1734.910644, \"11\": 741.5562917, \"12\": 375.0}, \"flower_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Trumpet creeper is a popular plant in Mediterranean gardens and can be planted for erosion control or as a climbing plant on fences, walls, and trellises. The trumpet creeper is prized for its long-lasting trumpet flowers. It looks particularly wonderful when accompanied by Purple dome New England asters, African lilies, English lavender, and Alexander yellow loosestrife.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Vitality, patience, a fresh start",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It took genetic study to determine the proper classification of trumpet creeper (Campsis radicans). Before such study, the plant was at various times classified as a type of jasmine, honeysuckle, bellflower, dogbane, and bigonia.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Trumpet creeper",
+                "values": [
+                    "With its strong climbing capability, it is often seen climbing the walls enveloping the whole area or planted along the hedges and arches. Different from most evergreen climbing plants, it actually grows beautiful flowers that look like a trumpet. Hence, it is called the trumpet creeper."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Trumpet creeper is toxic to cats and dogs</strong>. <strong>Ingestion</strong> causes gastrointestinal upset, vomiting, diarrhea. <strong>Contact</strong> with sap causes skin irritation. Symptoms: stomach pain or indigestion. <strong>Cat owners:</strong> monitor pets; symptoms may include physical discomfort. <strong>Dog owners:</strong> prevent access; seek immediate veterinary care if ingested.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Campsis_radicans.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Opposite compound leaves with 7-11 elliptic leaflets up to 4 inches long.",
+            "Red trumpet-shaped flowers in clusters of 4-12, attracting hummingbirds.",
+            "Elongated bean-like seed capsules that split open, releasing 2-winged seeds for wind dispersal.",
+            "Trunk with pale brown scaly bark, developing furrowed ridges and grooves over time.",
+            "Vigorous growth habit with multiple woody stems and small aerial rootlets for adherence."
+        ],
+        "title": "Quickly Identify Trumpet creeper",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Campsis-radicans.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from woodlands and riverbanks, trumpet creeper thrives in humid environments. As a drought-tolerant species, it requires weekly watering. Primarily grown outdoors, trumpet creeper flourishes with consistently moist soil during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For trumpet creeper, use a balanced fertilizer (10-10-10 NPK) bi-monthly during growing seasons, applying 2 pounds per 100 square feet. Water after application to distribute nutrients, and avoid over-fertilization. Adjust based on soil tests; young plants may need more frequent feeding.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Trumpet creeper is a vigorous climber known for its trumpet-shaped blooms. Prune in early spring to remove dead or weak stems, control size, and promote flowering. This process enhances air circulation, reduces disease risk, and stimulates growth. Use clean, sharp tools for effective pruning.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Trumpet creeper can be propagated via cuttings from healthy semi-hardwood stems with multiple leaf nodes. Cut at a 45-degree angle, dip in rooting hormone, and plant in well-draining mix, keeping moist and shaded until rooted. This produces a genetically identical new plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot trumpet creeper every 2-3 years in early spring using a spacious container to support growth. After repotting, provide moderate water and indirect light. Ensure sturdy support, like a trellis, for its climbing habits.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Campsis_radicans.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is trumpet creeper poisonous?",
+            "link": "/ask/Campsis_radicans-0.html"
+        },
+        {
+            "q": "Is trumpet creeper invasive?",
+            "link": "/ask/Campsis_radicans-1.html"
+        },
+        {
+            "q": "Is trumpet creeper a perennial?",
+            "link": "/ask/Campsis_radicans-2.html"
+        },
+        {
+            "q": "How do you control a trumpet creeper?",
+            "link": "/ask/Campsis_radicans-3.html"
+        },
+        {
+            "q": "Is trumpet creeper fast growing?",
+            "link": "/ask/Campsis_radicans-4.html"
+        },
+        {
+            "q": "How do you look after trumpet creeper?",
+            "link": "/ask/Campsis_radicans-5.html"
+        },
+        {
+            "q": "Does trumpet creeper die in winter?",
+            "link": "/ask/Campsis_radicans-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Campsis-radicans-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Campsis-radicans-Underwatering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Campsis-radicans-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Campsis-radicans-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Campsis-radicans-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Campsis-radicans-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Campsis-radicans-Wilting.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Campsis-radicans-Black-mold.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Campsis-radicans-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Campsis-radicans-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Campsis-radicans-Black-spot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Campsis-radicans-Spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Campsis-radicans-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Campsis-radicans-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Campsis-radicans-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Campsis-radicans-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Campsis-radicans-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Campsis-radicans-Wounds.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Campsis-radicans-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Campsis-radicans-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Campsis-radicans-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Campsis-radicans-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Buddleja davidii",
+                "link": "/wiki/Buddleja_davidii.html",
+                "imageUrl": "/wiki-image/1080/347096875799052288.jpeg",
+                "displayName": "Butterfly bush"
+            },
+            {
+                "scientificName": "Zamioculcas zamiifolia",
+                "link": "/wiki/Zamioculcas_zamiifolia.html",
+                "imageUrl": "/wiki-image/1080/348133526285484032.jpeg",
+                "displayName": "Zanzibar gem"
+            },
+            {
+                "scientificName": "Pandanus tectorius",
+                "link": "/wiki/Pandanus_tectorius.html",
+                "imageUrl": "/wiki-image/1080/153395422738513937.jpeg",
+                "displayName": "Screw pine"
+            },
+            {
+                "scientificName": "Callisia repens",
+                "link": "/wiki/Callisia_repens.html",
+                "imageUrl": "/wiki-image/1080/157145397339357189.jpeg",
+                "displayName": "Turtle vine"
+            },
+            {
+                "scientificName": "Albuca bracteata",
+                "link": "/wiki/Albuca_bracteata.html",
+                "imageUrl": "/wiki-image/1080/153423215471886338.jpeg",
+                "displayName": "Pregnant onion"
+            },
+            {
+                "scientificName": "Nigella damascena",
+                "link": "/wiki/Nigella_damascena.html",
+                "imageUrl": "/wiki-image/1080/154119077483249701.jpeg",
+                "displayName": "Love-in-a-mist"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Campsis_radicans.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Campsis_radicans.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Campsis_radicans.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Campsis_radicans.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Campsis_radicans.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Campsis_radicans.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Campsis_radicans.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Campsis_radicans.html",
+            "values": [
+                "Care Trumpet creeper",
+                "Care Trumpet creeper",
+                "Grow Trumpet creeper",
+                "Maintain Trumpet creeper",
+                "Trumpet creeper Care",
+                "Trumpet creeper Grow",
+                "Trumpet creeper Maintain",
+                "Trumpet creeper Cares",
+                "Growth Trumpet creeper",
+                "Maintains Trumpet creeper",
+                "Trumpet creeper Growth",
+                "Trumpet creeper Maintains",
+                "Trumpet creeper Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campsis-radicans-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Campsis_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Campsis_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Campsis_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Campsis_radicans.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Campsis_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Campsis_radicans.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Campsis_radicans.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Campsis_radicans.html"
+        }
+    ]
+}

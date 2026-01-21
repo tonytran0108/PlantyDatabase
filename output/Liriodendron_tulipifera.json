@@ -1,0 +1,982 @@
+{
+    "title": "Tulip poplar (Liriodendron tulipifera) - PictureThis",
+    "displayName": "Tulip poplar",
+    "otherCommonName": "Tulipwood, Whitewood, Yellow-Poplar",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154165059403120646.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3532831",
+                "authorLink": "https://www.inaturalist.org/people/mmcmasters",
+                "author": "mmcmasters",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153658171657814046.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16795225",
+                "authorLink": "https://www.inaturalist.org/people/megan_whatton",
+                "author": "megan_whatton",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881037510803461.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8885706",
+                "authorLink": "https://www.inaturalist.org/people/jhubley",
+                "author": "jhubley",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918734438760466.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1128821",
+                "authorLink": "https://www.inaturalist.org/people/kueda",
+                "author": "kueda",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153891268122902558.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "During the active growing seasons of Spring and Summer, the tulip poplar, exhibits a rapid growth rate, quickly establishing a dominance in height and extensive leaf coverage. In these warmer months, tulip poplar can accrue a significant amount of growth which makes it a standout in many arboreal settings. This accelerated development often results in the production of an abundant flowering display, demonstrating the plant's robust energetics. Such swift growth could, in certain contexts, potentially outcompete neighboring flora, underscoring tulip poplar's ecological significance.",
+    "cultivars": [
+        {
+            "displayName": "Tulip poplar 'Aureomarginatum'",
+            "link": "/wiki/Liriodendron_tulipifera__Aureomarginatum_.html"
+        },
+        {
+            "displayName": "Tulip poplar 'Fastigiatum'",
+            "link": "/wiki/Liriodendron_tulipifera__Fastigiatum_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The tulip poplar is not a poplar at all but is a member of the magnolia family. It gets its name from the tulip-shaped flowers that are green and yellow. It is the tallest Eastern hardwood and was prized by Native Americans as a favorite tree to use to make dugout canoes.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The tulip poplar is not a poplar at all but is a member of the magnolia family. It gets its name from the tulip-shaped flowers that are green and yellow. It is the tallest Eastern hardwood and was prized by Native Americans as a favorite tree to use to make dugout canoes.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Tulip poplar (<i>Liriodendron tulipifera</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Tulip Trees",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Liriodendron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Magnolia",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Magnoliaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Magnolias, nutmegs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Magnoliales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Early summer, Mid summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m to 40 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802506335059969.jpeg",
+        "habitat": "Mountain slopes, streams, rich woodlands, bluffs, low mountains, hills",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Spot tulip poplar in forests of its native range, from southern Ontario to the north-central and eastern USA, especially on sloped ground alongside water sources. It is sometimes planted as an ornamental, but has not escaped to become established outside its native range anywhere other than Hawaii.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 108.0, \"2\": 104.0, \"3\": 126.0, \"4\": 84.0, \"5\": 71.0, \"6\": 41.0, \"7\": 24.0, \"8\": 46.0, \"9\": 88.0, \"10\": 167.0, \"11\": 148.0, \"12\": 153.0}, \"flower_month\": 10, \"fall_foliage_month\": 3}}",
+            "north": "{\"Dfb\": {\"trends\": {\"1\": 71.0, \"2\": 83.0, \"3\": 132.0, \"4\": 500.0, \"5\": 914.0, \"6\": 686.0, \"7\": 466.0, \"8\": 422.0, \"9\": 536.0, \"10\": 604.0, \"11\": 164.0, \"12\": 57.0}, \"flower_month\": 5, \"fall_foliage_month\": 10}, \"BSk\": {\"trends\": {\"1\": 17.0, \"2\": 25.0, \"3\": 37.0, \"4\": 128.0, \"5\": 234.0, \"6\": 136.0, \"7\": 108.0, \"8\": 80.0, \"9\": 116.0, \"10\": 77.0, \"11\": 45.0, \"12\": 17.0}, \"flower_month\": 5, \"fall_foliage_month\": 9}, \"Csa\": {\"trends\": {\"1\": 34.0, \"2\": 33.0, \"3\": 90.0, \"4\": 220.0, \"5\": 279.0, \"6\": 180.0, \"7\": 127.0, \"8\": 118.0, \"9\": 125.0, \"10\": 120.0, \"11\": 51.0, \"12\": 34.0}, \"flower_month\": 5, \"fall_foliage_month\": 9}, \"Csb\": {\"trends\": {\"1\": 21.0, \"2\": 27.0, \"3\": 83.0, \"4\": 199.0, \"5\": 362.0, \"6\": 247.0, \"7\": 177.0, \"8\": 185.0, \"9\": 142.0, \"10\": 167.0, \"11\": 65.0, \"12\": 13.0}, \"flower_month\": 5, \"fall_foliage_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 73.0, \"2\": 85.0, \"3\": 174.0, \"4\": 497.0, \"5\": 975.0, \"6\": 798.0, \"7\": 462.0, \"8\": 472.0, \"9\": 484.0, \"10\": 588.0, \"11\": 227.0, \"12\": 89.0}, \"flower_month\": 5, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "Tulip trees can be planted as a shelter forest, and they have strong resistance to harmful gases.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It can be used as fine wood.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The tulip poplar is often planted in recreational play areas. It is also well suited to a range of garden types such as butterfly, children's, native, and pollinator gardens. It is prized as a shade tree due to its rapid growth and attractive ornamental flowers. The tulip poplar does well when planted next to trees of similar green foliage such as the Santa Cruz coast redwood or festive fall trees such as the Chinese pistachio.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Commitment, nobility, sweetness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that scientists came to a rainforest for exploration and recorded important scientific data under a tree. Scientists took the leaves from this tree to remind future generations of their discoveries. The leaves of this tree are like geese's feet. These are the leaves of the tulip poplar.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Tulip poplar",
+                "values": [
+                    "If you happen to see it in blossom, you can't help but wonder how tulips grow on trees and why their flowers grow upward and are cup-shaped. Since these flowers are often mistaken for tulips, the tree has been called the tulip poplar."
+                ]
+            },
+            {
+                "key": "Fiddle tree",
+                "values": [
+                    "If you look at the leaf of this tree, you will find its peculiar shape quite fascinating. With its arched base and sides cut in, you can not help but think of the shape of a fiddle, and so it is called the fiddle tree."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Tall pyramidal shape, reaching 90-200 feet (27-61 meters) with 4-lobed waxy leaves.",
+            "Distinctive cup-shaped, fragrant yellow flowers with tulip-like orange center, blooming in late spring.",
+            "Oblong fruit aggregate of winged samaras, 2-3 inches long (5-7.6 cm), maturing to brown.",
+            "Alternate, palmately veined leaves, bright green with paler undersides, turning golden yellow in fall.",
+            "Distinct stem with stipule scars, oval flattened buds, free of branches up to 80 feet (24 meters)."
+        ],
+        "title": "Quickly Identify Tulip poplar",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Liriodendron-tulipifera.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tulip poplar originates from deciduous forests and thrives in moderately moist soil, requiring watering every 1-2 weeks. It adapts to drought by slowing growth, making it suitable for regions with variable rainfall patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of tulip poplar, use balanced fertilizers in spring and fall, switching to high nitrogen for leafy growth. Fertilize biannually, following package instructions, and water thoroughly afterward. Reduce frequency as tulip poplar matures to avoid overnutrition, applying evenly around the drip line while wearing gloves.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tulip poplar thrives with early spring pruning, focusing on eliminating dead or diseased wood, enhancing light access, and shaping for structure. This annual practice boosts growth and flower yield. Always utilize sharp, sterile tools for clean cuts to maintain plant health and appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tulip poplar can be propagated through hardwood cuttings, layering, or sowing seeds, ideally in autumn or winter. Success is indicated by new growth and healthy root development. Note that cuttings from the upper parts may have lower success rates.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Liriodendron_tulipifera.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Are tulip poplar trees strong?",
+            "link": "/ask/Liriodendron_tulipifera-0.html"
+        },
+        {
+            "q": "Is a tulip tree the same as a tulip poplar?",
+            "link": "/ask/Liriodendron_tulipifera-1.html"
+        },
+        {
+            "q": "How tall does a tulip poplar get?",
+            "link": "/ask/Liriodendron_tulipifera-2.html"
+        },
+        {
+            "q": "What is tulip poplar used for?",
+            "link": "/ask/Liriodendron_tulipifera-3.html"
+        },
+        {
+            "q": "How fast do tulip poplar trees grow?",
+            "link": "/ask/Liriodendron_tulipifera-4.html"
+        },
+        {
+            "q": "Are tulip poplar trees messy?",
+            "link": "/ask/Liriodendron_tulipifera-5.html"
+        },
+        {
+            "q": "How do you care for a tulip poplar?",
+            "link": "/ask/Liriodendron_tulipifera-6.html"
+        },
+        {
+            "q": "Are tulip poplar dangerous?",
+            "link": "/ask/Liriodendron_tulipifera-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Liriodendron-tulipifera-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Liriodendron-tulipifera-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Liriodendron-tulipifera-Wounds.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Liriodendron-tulipifera-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Liriodendron-tulipifera-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Liriodendron-tulipifera-Spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Liriodendron-tulipifera-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Liriodendron-tulipifera-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Liriodendron-tulipifera-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Liriodendron-tulipifera-Scars.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Liriodendron-tulipifera-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Liriodendron-tulipifera-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Liriodendron-tulipifera-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Liriodendron-tulipifera-Underwatering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Liriodendron-tulipifera-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Liriodendron-tulipifera-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Liriodendron-tulipifera-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Liriodendron-tulipifera-Black-mold.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Liriodendron-tulipifera-Wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Liriodendron-tulipifera-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Liriodendron-tulipifera-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Liriodendron-tulipifera-Aphid.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Liriodendron-tulipifera-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Liriodendron-tulipifera-Branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Quercus acutissima",
+                "link": "/wiki/Quercus_acutissima.html",
+                "imageUrl": "/wiki-image/1080/153908877488816132.jpeg",
+                "displayName": "Sawtooth oak"
+            },
+            {
+                "scientificName": "Ardisia crenata",
+                "link": "/wiki/Ardisia_crenata.html",
+                "imageUrl": "/wiki-image/1080/153467148692357139.jpeg",
+                "displayName": "Christmas berry"
+            },
+            {
+                "scientificName": "Echinocactus grusonii",
+                "link": "/wiki/Echinocactus_grusonii.html",
+                "imageUrl": "/wiki-image/1080/202701866300342272.jpeg",
+                "displayName": "Golden barrel cactus"
+            },
+            {
+                "scientificName": "Quercus michauxii",
+                "link": "/wiki/Quercus_michauxii.html",
+                "imageUrl": "/wiki-image/1080/153989687298490401.jpeg",
+                "displayName": "Swamp chestnut oak"
+            },
+            {
+                "scientificName": "Pelargonium zonale",
+                "link": "/wiki/Pelargonium_zonale.html",
+                "imageUrl": "/wiki-image/1080/154141355478614027.jpeg",
+                "displayName": "Horseshoe geranium"
+            },
+            {
+                "scientificName": "Digitalis purpurea",
+                "link": "/wiki/Digitalis_purpurea.html",
+                "imageUrl": "/wiki-image/1080/153664794497384469.jpeg",
+                "displayName": "Common foxglove"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Liriodendron_tulipifera.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Liriodendron_tulipifera.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Liriodendron_tulipifera.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Liriodendron_tulipifera.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Liriodendron_tulipifera.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Liriodendron_tulipifera.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Liriodendron_tulipifera.html",
+            "values": [
+                "Care Tulip poplar",
+                "Care Tulip poplar",
+                "Grow Tulip poplar",
+                "Maintain Tulip poplar",
+                "Tulip poplar Care",
+                "Tulip poplar Grow",
+                "Tulip poplar Maintain",
+                "Tulip poplar Cares",
+                "Growth Tulip poplar",
+                "Maintains Tulip poplar",
+                "Tulip poplar Growth",
+                "Tulip poplar Maintains",
+                "Tulip poplar Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriodendron-tulipifera-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Liriodendron_tulipifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Liriodendron_tulipifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Liriodendron_tulipifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Liriodendron_tulipifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Liriodendron_tulipifera.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Liriodendron_tulipifera.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Liriodendron_tulipifera.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Liriodendron_tulipifera.html"
+        }
+    ]
+}

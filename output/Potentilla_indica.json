@@ -1,0 +1,534 @@
+{
+    "title": "Mock strawberry (Potentilla indica) - PictureThis",
+    "displayName": "Mock strawberry",
+    "otherCommonName": "False strawberry",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "seven75",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/352288894259527680.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/113500",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153658124413173787.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13077396",
+                "authorLink": "https://www.inaturalist.org/people/coatlicue",
+                "author": "coatlicue",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153928784662233094.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35104332",
+                "authorLink": "https://www.inaturalist.org/people/supertiger",
+                "author": "supertiger",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153946106265337876.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28361782",
+                "authorLink": "https://www.inaturalist.org/people/tototzin",
+                "author": "tototzin",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153858772400341022.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Often confused with true strawberries, the mock strawberry leaves, growth, and fruit is similar in appearance. While the mock strawberry is edible, it generally lacks flavor compared to true strawberries.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Often confused with true strawberries, the mock strawberry leaves, growth, and fruit is similar in appearance. While the mock strawberry is edible, it generally lacks flavor compared to true strawberries.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Mock strawberry (<i>Potentilla indica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Cinquefoils",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Potentilla.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   80 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251765455277326339.png",
+        "habitat": "Woods, Grassy slopes, Ravines in low mountains",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The mock strawberry is native from Afghanistan to eastern Russia and Malesia, where it grows in woodlands, grasslands, and mountain regions. The species has been introduced to all other continents. It tends to naturalize easily, showing weediness by spreading rapidly in waste and urban areas. It is considered potentially invasive in Kentucky and West Virginia (USA) and several European countries such as Belgium and Switzerland.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 21.12177906, \"2\": 13.52738197, \"3\": 16.1394694, \"4\": 11.00398821, \"5\": 15.12640711, \"6\": 23.0, \"7\": 21.81775887, \"8\": 23.47625103, \"9\": 32.59444738, \"10\": 40.95620249, \"11\": 64.42578567, \"12\": 21.09858797}, \"flower_month\": 11, \"fruit_month\": 11}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 3.34787019, \"2\": 10.73455655, \"3\": 12.97174689, \"4\": 37.28944839, \"5\": 43.48273106, \"6\": 50.29942118, \"7\": 43.50247008, \"8\": 28.7470841, \"9\": 22.71115887, \"10\": 15.03600138, \"11\": 8.966111602, \"12\": 6.0}, \"flower_month\": 6, \"fruit_month\": 6}, \"Csa\": {\"trends\": {\"1\": 10.46546013, \"2\": 20.11749751, \"3\": 32.50414991, \"4\": 84.70460917, \"5\": 95.45509682, \"6\": 58.22641521, \"7\": 36.3463217, \"8\": 31.21704494, \"9\": 22.59137877, \"10\": 28.7601926, \"11\": 17.34773652, \"12\": 11.0}, \"flower_month\": 5, \"fruit_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 21.52942194, \"2\": 29.78524334, \"3\": 92.67838309, \"4\": 200.5440081, \"5\": 163.0454359, \"6\": 223.0278502, \"7\": 115.2707849, \"8\": 129.0022103, \"9\": 140.7054482, \"10\": 54.24918772, \"11\": 24.39635014, \"12\": 18.0}, \"flower_month\": 6, \"fruit_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 9.901447208, \"2\": 31.86296557, \"3\": 72.67395384, \"4\": 156.0003033, \"5\": 118.7987629, \"6\": 161.3142802, \"7\": 100.2342939, \"8\": 86.08938336, \"9\": 82.83689297, \"10\": 51.12266563, \"11\": 23.2882351, \"12\": 9.0}, \"flower_month\": 6, \"fruit_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The creeping, low-growing habit of mock strawberry makes it a great plant for use as ground cover, in courtyards, or as an ornamental in hanging baskets. This summer bloomer has few pests, although slugs and snails are known to eat its fruit.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In Native American strawberry mythology, the mock strawberry were symbols of blessing by gods and grateful thanksgiving. Many tribes held annual Strawberry Dances or Strawberry Festivals in the spring season, symbolizing new life. It was considered good luck by multiple Native American indigenous peoples to have strawberries in the home.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Mock strawberry||False strawberry",
+                "values": [
+                    "It has foliage and produces an aggregate accessory fruit similar to that of a true strawberry. It has yellow flowers unlike the white or slightly pink flowers of true strawberries. Hence, it is called mock strawberry or false strawberry."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from India, mock strawberry was introduced to the Americas and Europe as an ornamental, but is now considered an invasive weed in several parts of the US and Canada. Mock strawberry spreads with the help of wildlife, its rapidly growing runners, and creating a network of sprouts, many of which are difficult to spot. It also grows year-round, making removal strenuous. The plant can take over forest floors and choke out native forage species if left unchecked. It can also cover entire lawns as a groundcover when allowed to spread as it thrives in moist environments. Manually pulling entire roots early in the season is the best way of controlling the spread of mock strawberry.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   For the optimal removal of mock strawberry, late spring and early summer are usually the best seasons. At this time, the plant is in its peak growth phase but has not yet started bearing fruit. Therefore, eradicating it before development of fruit can prevent it from further spreading. Here are some organic and interesting methods which you can adopt to control or remove this plant:\n  </div> \n  <ol> \n   <li>Hand Pulling: You simply need to grip the plant as close to the ground as possible and gently but firmly pull it out. Make sure you get the entire root system, as leaving fragments behind can allow the plant to grow back.</li> \n   <li>Cultivation: Dig into the soil with a hoe or a shovel disrupting the plant's roots. Be careful not to chop up the plants too much as small pieces can lead to new plants.</li> \n   <li>Smothering: Cover the mock strawberry plants with a thick layer of newspapers or cardboard, then pile several inches of mulch on top. This blocks sunlight and effectively smother and kill the plants, without the use of any chemicals.</li> \n   <li>Solarization: A technique that consists of covering the soil where the mock strawberry is growing with a clear plastic tarp during the hottest part of the year. The heat from the sun is trapped under the tarp, raising the soil temperature enough to kill the weed seeds and roots.</li> \n   <li>Planting Competitors: Plant species that are more aggressive or that can out-compete mock strawberry. They'll limit the weed's ability to spread by taking up space and resources it would otherwise use.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Yellow solitary flowers with 5 obovate petals and 5 green sepals, blooming late spring to early summer.",
+            "Bright red drupes with bumpy texture, lacking juiciness, and distinct from strawberries.",
+            "Trailing growth with runners rooting at nodes, fostering lateral spread in disturbed soils.",
+            "Compound leaves with trifoliate pattern, toothed margins, and new plantlets at leaf tip ends.",
+            "Stems over 12 inches long, green to reddish-green, hairiness, and flat growth habit."
+        ],
+        "title": "Quickly Identify Mock strawberry",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Potentilla-indica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mock strawberry prefers a well-hydrated environment and displays moderate drought tolerance. Requiring weekly watering, it flourishes outdoors, particularly in the rainy season, thanks to its deciduous nature, which optimizes water absorption and transpiration from its humid regional origins.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to propagate mock strawberry is Spring, utilizing sowing for success. The propagation difficulty is moderate, with vigorous growth and vibrant foliage as signs of success. Maintaining adequate moisture is crucial for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot mock strawberry every 2-3 years during spring growth. Use a shallow, wide pot with fresh, well-draining soil for its fibrous roots. Light watering and partial sun are recommended after repotting, ensuring minimal after-care is needed.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Potentilla_indica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of mock strawberry?",
+            "link": "/ask/Potentilla_indica-0.html"
+        },
+        {
+            "q": "Is mock strawberry invasive?",
+            "link": "/ask/Potentilla_indica-1.html"
+        },
+        {
+            "q": "Do birds eat mock strawberry?",
+            "link": "/ask/Potentilla_indica-2.html"
+        },
+        {
+            "q": "How do you grow Potentilla indica?",
+            "link": "/ask/Potentilla_indica-3.html"
+        },
+        {
+            "q": "Why does my Potentilla not flower?",
+            "link": "/ask/Potentilla_indica-4.html"
+        },
+        {
+            "q": "Can Potentilla be divided?",
+            "link": "/ask/Potentilla_indica-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alcea rosea",
+                "link": "/wiki/Alcea_rosea.html",
+                "imageUrl": "/wiki-image/1080/201161738272440320.jpeg",
+                "displayName": "Common hollyhock"
+            },
+            {
+                "scientificName": "Syzygium cumini",
+                "link": "/wiki/Syzygium_cumini.html",
+                "imageUrl": "/wiki-image/1080/154078850819555351.jpeg",
+                "displayName": "Java plum"
+            },
+            {
+                "scientificName": "Ficus religiosa",
+                "link": "/wiki/Ficus_religiosa.html",
+                "imageUrl": "/wiki-image/1080/153966103633068064.jpeg",
+                "displayName": "Sacred fig"
+            },
+            {
+                "scientificName": "Peltophorum pterocarpum",
+                "link": "/wiki/Peltophorum_pterocarpum.html",
+                "imageUrl": "/wiki-image/1080/154171832566546436.jpeg",
+                "displayName": "Yellow poinciana"
+            },
+            {
+                "scientificName": "Leptospermum scoparium",
+                "link": "/wiki/Leptospermum_scoparium.html",
+                "imageUrl": "/wiki-image/1080/201216881357619200.jpeg",
+                "displayName": "Broom tea-tree"
+            },
+            {
+                "scientificName": "Malus sylvestris",
+                "link": "/wiki/Malus_sylvestris.html",
+                "imageUrl": "/wiki-image/1080/154505126323683329.jpeg",
+                "displayName": "European crab apple"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Potentilla_indica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Potentilla_indica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Potentilla_indica.html",
+            "values": [
+                "Care Mock strawberry",
+                "Care Mock strawberry",
+                "Grow Mock strawberry",
+                "Maintain Mock strawberry",
+                "Mock strawberry Care",
+                "Mock strawberry Grow",
+                "Mock strawberry Maintain",
+                "Mock strawberry Cares",
+                "Growth Mock strawberry",
+                "Maintains Mock strawberry",
+                "Mock strawberry Growth",
+                "Mock strawberry Maintains",
+                "Mock strawberry Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Potentilla_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Potentilla_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Potentilla_indica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Potentilla_indica.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Potentilla_indica.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Potentilla_indica.html"
+        }
+    ]
+}

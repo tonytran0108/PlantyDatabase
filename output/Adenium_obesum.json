@@ -1,0 +1,964 @@
+{
+    "title": "Desert rose (Adenium obesum) - PictureThis",
+    "displayName": "Desert rose",
+    "otherCommonName": "Impala lily, Mock azalea",
+    "mainImage": {
+        "copyright": {
+            "width": 846,
+            "height": 846,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153778641195499523.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 4000,
+                "height": 2664,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/32907326@N00",
+                "author": "goatling",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154181766825902104.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1200,
+                "height": 1169,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/20664893@N00",
+                "author": "Wendy Cutler",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154175792526393369.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3024,
+                "height": 3024,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/131967103@N02",
+                "author": "Ryan McMinds",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154220202488233992.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1550,
+                "height": 1080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/20664893@N00",
+                "author": "Wendy Cutler",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153872026669416459.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Desert rose is widely cultivated as a houseplant or as bonsai for its beautiful flowers. As a succulent plant originating from the Sahara and tropical Africa and Arabia, it requires a minimum temperature of 10 Ã¢ÂÂ to survive. Its sap was used to poisoning arrows in Africa.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Desert rose is widely cultivated as a houseplant or as bonsai for its beautiful flowers. As a succulent plant originating from the Sahara and tropical Africa and Arabia, it requires a minimum temperature of 10 Ã¢ÂÂ to survive. Its sap was used to poisoning arrows in Africa.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Desert rose (<i>Adenium obesum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Adenium",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Adenium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Dogbane",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apocynaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gentians, dogbanes, madders, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Gentianales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Succulent, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid spring, Early summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 6 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/226861315041984538.png",
+        "habitat": "Rocky or sandy soils, Dry bushland, Woodland, Grassland",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Semi-arid, tropical conditions are where desert rose naturally resides, such as desert. Desert rose's native range is from West Africa to the Arabian Peninsula and Tanzania. It hasn't been introduced to any other area of the world, so it only grows in its original ecosystem.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "7472",
+                "7885",
+                "8192",
+                "8691",
+                "7821",
+                "7021",
+                "9173",
+                "9665",
+                "10062",
+                "8119",
+                "6348",
+                "7766"
+            ],
+            "north": [
+                "15488",
+                "22222",
+                "31652",
+                "34582",
+                "30870",
+                "21249",
+                "21038",
+                "18241",
+                "18018",
+                "15922",
+                "11336",
+                "14238"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Desert rose is a herbaceous shrub commonly found in arid tropical and subtropical gardens. It is prized for its beautiful flowers and unusual grey-green branches. Its uninhibited branch formation provides unusual aesthetics, so it is suitable as an accent plant. Desert rose is appropriate for drought-tolerant and Rock gardens. Suggested companion plants include cacti to create textural contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Unswerving devotion to love, wealth, good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The formation of the desert rose lasts for centuries, and it can not only be treasured for life, but also passed on to future generations as a witness of family happiness. Desert rose are full of aesthetic feelings. They can strengthen appreciation of beauty and encourage the imagination, which is beneficial to artistic creators. It is also a gift for young men and women to show love and affection to each other.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Desert rose",
+                "values": [
+                    "You can't imagine such delicate flowers bloom in the tropical regions or in desert areas like Sahara and Arabia. With regard to its geographical locations, it's called desert rose."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Desert rose is extremely toxic to cats</strong>; a brief lick can cause instant poisoning and death. For dogs, it is mildly to severely poisonous depending on the amount consumed, with symptoms ranging from stomach discomfort to death. <strong>Glycosides in the sap interfere with heart and brain function</strong>, causing severe toxicity in humans and other animals as well.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Adenium_obesum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Fleshy, glossy, dark green leaves in a spiraling arrangement, 2-4 inches (5-10 cm) long.",
+            "Smooth, thick, swollen stems with gray-green color, reaching up to 3 feet (90 cm).",
+            "Showy, tubular flowers, 2 inches (5 cm) across, pink to red in color.",
+            "Bell-shaped blooms with white throat, five petals, and protruding stamens.",
+            "Twin elongated follicles with brown-grey hue, hairy texture, and small oblong seeds."
+        ],
+        "title": "Quickly Identify Desert rose",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Adenium-obesum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Succulent & Cactus Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Adapted to arid areas, desert rose thrives on minimal moisture, requiring watering every three weeks. With strong drought tolerance, it prefers dry climates and ample sunlight, making it suitable for warm environments where rainfall is infrequent.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For desert rose, use balanced succulent/cacti fertilizer during active growth in spring and summer, applying monthly, then quarterly in fall, and stop in winter. Apply at half-strength to prevent root burn. Adjust care according to seasonal changes for optimal well-being.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Desert rose blooms on new growth, so spring and summer pruning promotes flowering. Prune fallen branches in fall/winter if necessary, ensuring the plant is well-watered beforehand. Pruning can shape the plant or train branches, while removing crossing, weak, or dead branches ensures a balanced structure.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Indigenous to arid Africa, desert rose is a succulent with vibrant blooms and a bulbous caudex. Propagate via healthy stem cuttings, allowing them to dry for a few days to callus. Use well-draining soil, keeping it lightly moist until roots develop for successful propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot the stout desert rose every 2 years in spring to support growth. Use a slightly larger pot for its caudex and tuberous roots. Ensure bright light, avoid overwatering, and use a succulent soil mix for optimal drainage to help desert rose thrive.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Adenium_obesum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How big does a desert rose get?",
+            "link": "/ask/Adenium_obesum-0.html"
+        },
+        {
+            "q": "How fast does desert rose grow?",
+            "link": "/ask/Adenium_obesum-1.html"
+        },
+        {
+            "q": "How often does a desert rose bloom?",
+            "link": "/ask/Adenium_obesum-2.html"
+        },
+        {
+            "q": "Does a desert rose need full sun?",
+            "link": "/ask/Adenium_obesum-3.html"
+        },
+        {
+            "q": "Why are the leaves on my desert rose turning yellow?",
+            "link": "/ask/Adenium_obesum-4.html"
+        },
+        {
+            "q": "Can you trim a desert rose plant?",
+            "link": "/ask/Adenium_obesum-5.html"
+        },
+        {
+            "q": "Can you grow desert rose indoors?",
+            "link": "/ask/Adenium_obesum-6.html"
+        },
+        {
+            "q": "What is the best fertilizer for desert rose?",
+            "link": "/ask/Adenium_obesum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Adenium-obesum-Wilting.html"
+            },
+            {
+                "diseaseName": "Mealybugs",
+                "link": "/disease/Adenium-obesum-Mealybugs.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Adenium-obesum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Adenium-obesum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Adenium-obesum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Etiolated stem",
+                "link": "/disease/Adenium-obesum-Etiolated-stem.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Adenium-obesum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Adenium-obesum-White-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Adenium-obesum-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Adenium-obesum-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Adenium-obesum-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Adenium-obesum-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Wrinkled and twisted stem",
+                "link": "/disease/Adenium-obesum-Wrinkled-and-twisted-stem.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Adenium-obesum-Mealybug.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Adenium-obesum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Adenium-obesum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Adenium-obesum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Adenium-obesum-Scars.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Plumeria pudica",
+                "link": "/wiki/Plumeria_pudica.html",
+                "imageUrl": "/wiki-image/1080/154128015310192672.jpeg",
+                "displayName": "Bridal bouquet"
+            },
+            {
+                "scientificName": "Dracaena reflexa var. angustifolia",
+                "link": "/wiki/Dracaena_reflexa_var._angustifolia.html",
+                "imageUrl": "/wiki-image/1080/153714491563966470.jpeg",
+                "displayName": "Madagascar dragon tree"
+            },
+            {
+                "scientificName": "Hypericum perforatum",
+                "link": "/wiki/Hypericum_perforatum.html",
+                "imageUrl": "/wiki-image/1080/154211354855604233.jpeg",
+                "displayName": "Common St. John's wort"
+            },
+            {
+                "scientificName": "Polyscias fruticosa",
+                "link": "/wiki/Polyscias_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/347123526071123968.jpeg",
+                "displayName": "Ming aralia"
+            },
+            {
+                "scientificName": "Melothria pendula",
+                "link": "/wiki/Melothria_pendula.html",
+                "imageUrl": "/wiki-image/1080/153749624396447751.jpeg",
+                "displayName": "Creeping cucumber"
+            },
+            {
+                "scientificName": "Plumeria rubra",
+                "link": "/wiki/Plumeria_rubra.html",
+                "imageUrl": "/wiki-image/1080/154018648262967327.jpeg",
+                "displayName": "Red frangipani"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Adenium_obesum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Adenium_obesum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Adenium_obesum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Adenium_obesum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Adenium_obesum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Adenium_obesum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Adenium_obesum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Adenium_obesum.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Adenium_obesum.html",
+            "values": [
+                "Care Desert rose",
+                "Care Desert rose",
+                "Grow Desert rose",
+                "Maintain Desert rose",
+                "Desert rose Care",
+                "Desert rose Grow",
+                "Desert rose Maintain",
+                "Desert rose Cares",
+                "Growth Desert rose",
+                "Maintains Desert rose",
+                "Desert rose Growth",
+                "Desert rose Maintains",
+                "Desert rose Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Wrinkled-and-twisted-stem.html",
+            "values": [
+                "Wrinkled and twisted stem"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Adenium-obesum-Etiolated-stem.html",
+            "values": [
+                "Etiolated stem"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Adenium_obesum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Adenium_obesum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Adenium_obesum.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Adenium_obesum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Adenium_obesum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Adenium_obesum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "How to arrange succulents together?",
+            "link": "/succulent-arrangements/Adenium_obesum.html",
+            "lmsicon": "/wiki-image/1080/545508842865000448.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Adenium_obesum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Adenium_obesum.html"
+        }
+    ]
+}

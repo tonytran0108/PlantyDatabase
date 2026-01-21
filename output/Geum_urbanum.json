@@ -1,0 +1,687 @@
+{
+    "title": "Wood avens (Geum urbanum) - PictureThis",
+    "displayName": "Wood avens",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1380,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154117887777308706.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1089,
+                "height": 575,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Geum_urbanum_bgiu.jpg",
+                "authorLink": "",
+                "author": "Bogdan ",
+                "licenseLink": "",
+                "license": "PUBLIC-DOMAIN"
+            },
+            "imageUrl": "/wiki-image/1080/154169586298650644.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4371,
+                "height": 3278,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Geum_urbanum_2017-04-23_8585.jpg",
+                "authorLink": "",
+                "author": "Salicyna",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154145929618784282.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3735,
+                "height": 2801,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Geum_urbanum_2017-04-23_8556.jpg",
+                "authorLink": "",
+                "author": "Salicyna",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154146599633682463.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3333,
+                "height": 2500,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Geum_urbanum_(20026013355).jpg",
+                "authorLink": "",
+                "author": "Donald Hobern",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154158165980610589.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Wood avens (Geum urbanum) is genetically related to the more commonly recognizable rose. This perennial plant is native to Europe and the Middle East. In folklore, the wood avens is considered to have spiritual properties and is seen as capable of driving away evil energy.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Wood avens (Geum urbanum) is genetically related to the more commonly recognizable rose. This perennial plant is native to Europe and the Middle East. In folklore, the wood avens is considered to have spiritual properties and is seen as capable of driving away evil energy.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Wood avens (<i>Geum urbanum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Avens",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Geum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251772065231994881.png",
+        "habitat": "Woods, scrub, hedge banks, walls.",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Wood avens is a plant native to parts of Europe, the Mediterranean, western Asia, and the Caucasus region. It has since been introduced to several other temperate regions, including North America and Oceania, where it continues to spread across compatible climates.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "50",
+                "55",
+                "112",
+                "203",
+                "163",
+                "89",
+                "111",
+                "89",
+                "115",
+                "99",
+                "41",
+                "47"
+            ],
+            "north": [
+                "3138",
+                "5293",
+                "24922",
+                "87505",
+                "46987",
+                "20302",
+                "14511",
+                "11554",
+                "8533",
+                "3528",
+                "955",
+                "1605"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Wood avens is surrounded by folklore tales that claim the plant has special powers. Many believe that its strong clove-like scent can drive away evil spirits and protect against predators like ferocious dogs and poisonous snakes. Christians regarded the plant as sacred because the leaves grow in threes and the five petals of the flower are reminiscent of The Trinity and The Five Wounds of Christ.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wood avens thrives in moisture-rich woodland environments, preferring evenly moist soil and tolerating moderate drought. Weekly watering is recommended. In indoor settings, higher humidity is beneficial. For container gardening, use a potting mix that retains moisture without becoming waterlogged to support root health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal vigor of wood avens, use balanced NPK ratio fertilizers monthly in growing seasons (spring and summer) at half-strength, reducing to quarterly in autumn and winter. Proper feeding enhances growth, flowering, and resilience. Avoid over-fertilizing to protect root health; follow instructions closely.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune wood avens in early to late spring to enhance growth and flowering. Remove dead stems and trim overgrown areas to maintain shape, improve air circulation, and reduce disease risk. Consistent pruning promotes vigor and fullness; consult horticultural guides for effective techniques.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wood avens is a perennial herb that thrives in woodland areas. To propagate, collect seeds post-flowering and sow them in well-drained, fertile soil. Maintain consistent moisture without waterlogging. Cover lightly for protection and transplant seedlings when robust, ensuring ample space for growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Geum_urbanum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is wood avens good for?",
+            "link": "/ask/Geum_urbanum-0.html"
+        },
+        {
+            "q": "Is wood avens annual or perennial?",
+            "link": "/ask/Geum_urbanum-1.html"
+        },
+        {
+            "q": "How tall is wood avens?",
+            "link": "/ask/Geum_urbanum-2.html"
+        },
+        {
+            "q": "Is wood avens edible?",
+            "link": "/ask/Geum_urbanum-3.html"
+        },
+        {
+            "q": "Is wood avens tolerant to cold?",
+            "link": "/ask/Geum_urbanum-4.html"
+        },
+        {
+            "q": "Where does wood avens grow?",
+            "link": "/ask/Geum_urbanum-5.html"
+        },
+        {
+            "q": "When does wood avens bloom?",
+            "link": "/ask/Geum_urbanum-6.html"
+        },
+        {
+            "q": "How does wood avens spread?",
+            "link": "/ask/Geum_urbanum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Geum-urbanum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Geum-urbanum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Geum-urbanum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Geum-urbanum-Leaf-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alysicarpus vaginalis",
+                "link": "/wiki/Alysicarpus_vaginalis.html",
+                "imageUrl": "/wiki-image/1080/157397662243487753.jpeg",
+                "displayName": "White Moneywort"
+            },
+            {
+                "scientificName": "Senna septemtrionalis",
+                "link": "/wiki/Senna_septemtrionalis.html",
+                "imageUrl": "/wiki-image/1080/154203009734148122.jpeg",
+                "displayName": "Arsenic bush"
+            },
+            {
+                "scientificName": "Parentucellia latifolia",
+                "link": "/wiki/Parentucellia_latifolia.html",
+                "imageUrl": "/wiki-image/1080/154136927367331867.jpeg",
+                "displayName": "Broadleaf glandweed"
+            },
+            {
+                "scientificName": "Fallopia dumetorum",
+                "link": "/wiki/Fallopia_dumetorum.html",
+                "imageUrl": "/wiki-image/1080/153850358559408145.jpeg",
+                "displayName": "Copse Bindweed"
+            },
+            {
+                "scientificName": "Mentha villosa",
+                "link": "/wiki/Mentha_villosa.html",
+                "imageUrl": "/wiki-image/1080/351486495584387072.jpeg",
+                "displayName": "Mint"
+            },
+            {
+                "scientificName": "Salix bicolor",
+                "link": "/wiki/Salix_bicolor.html",
+                "imageUrl": "/wiki-image/1080/218282504413773824.jpeg",
+                "displayName": "Willow"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Geum_urbanum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Geum_urbanum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Geum_urbanum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Geum_urbanum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Geum_urbanum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Geum_urbanum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Geum_urbanum.html",
+            "values": [
+                "Care Wood avens",
+                "Care Wood avens",
+                "Grow Wood avens",
+                "Maintain Wood avens",
+                "Wood avens Care",
+                "Wood avens Grow",
+                "Wood avens Maintain",
+                "Wood avens Cares",
+                "Growth Wood avens",
+                "Maintains Wood avens",
+                "Wood avens Growth",
+                "Wood avens Maintains",
+                "Wood avens Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Geum-urbanum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Geum-urbanum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Geum-urbanum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Geum-urbanum-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Geum_urbanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Geum_urbanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Geum_urbanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Geum_urbanum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Geum_urbanum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Geum_urbanum.html"
+        }
+    ]
+}

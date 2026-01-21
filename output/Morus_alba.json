@@ -1,0 +1,926 @@
+{
+    "title": "Mulberry (Morus alba) - PictureThis",
+    "displayName": "Mulberry",
+    "otherCommonName": "Common mulberry",
+    "mainImage": {
+        "copyright": {
+            "width": 787,
+            "height": 787,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154088810848714775.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/morus_alba",
+                "authorLink": "",
+                "author": "Andre Abrahami",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153662591179161630.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3500,
+                "height": 2625,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:20160906Morus_alba1.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+                "author": "AnRo0002",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154165785252593670.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2500,
+                "height": 1875,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:20190610Morus_alba1.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+                "author": "AnRo0002",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154143395588079633.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/34384836",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154200716221612034.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "White mulberry 'Pendula'",
+            "link": "/wiki/Morus_alba__Pendula_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   A unique and easy-to-grow edible landscaping plant, the mulberry is prized for its tasty fruits as well as its exquisite ornamental appeal. Originally native to China, this plant was valued for its role in silk production: silkworms will only eat the leaves of mulberry trees, making them crucial for the product's creation. Ultimately, the trees were sold around the world and are used today in different countries that produce silk.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "A unique and easy-to-grow edible landscaping plant, the mulberry is prized for its tasty fruits as well as its exquisite ornamental appeal. Originally native to China, this plant was valued for its role in silk production: silkworms will only eat the leaves of mulberry trees, making them crucial for the product's creation. Ultimately, the trees were sold around the world and are used today in different countries that produce silk.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Mulberry (<i>Morus alba</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mulberries",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Morus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mulberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Moraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 20 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 3.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802957306626051.jpeg",
+        "habitat": "Disturbed areas, woodland margins, fencerows, dry to moist thickets",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Mulberry is native to China, growing in a variety of habitats but preferring disturbed areas with moist conditions and ample sun. It has been spread globally by cultivation and is listed as invasive in several countries throughout the Americas, Asia, and Europe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 354.1004137, \"2\": 374.7880535, \"3\": 345.5313676, \"4\": 252.3057296, \"5\": 195.0510391, \"6\": 101.0, \"7\": 108.1797211, \"8\": 124.7175836, \"9\": 193.196179, \"10\": 156.8191437, \"11\": 301.0919371, \"12\": 298.1933767}, \"fruit_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 20.71825987, \"2\": 43.94402481, \"3\": 41.18053796, \"4\": 26.77682594, \"5\": 12.60892376, \"6\": 8.0, \"7\": 16.36212652, \"8\": 34.83119584, \"9\": 37.81742914, \"10\": 39.98483274, \"11\": 36.13580118, \"12\": 31.49309104}, \"fruit_month\": 2}, \"Csa\": {\"trends\": {\"1\": 47.15291159, \"2\": 59.65193692, \"3\": 59.92026565, \"4\": 44.04169817, \"5\": 31.74798985, \"6\": 13.0, \"7\": 14.73360359, \"8\": 19.82597984, \"9\": 20.99669464, \"10\": 29.07144191, \"11\": 63.14105052, \"12\": 53.02077705}, \"fruit_month\": 11}, \"Default\": {\"trends\": {\"1\": 778.4050603, \"2\": 857.4903631, \"3\": 831.3189658, \"4\": 557.3707997, \"5\": 405.6136524, \"6\": 251.0, \"7\": 262.6690742, \"8\": 417.3752253, \"9\": 638.180349, \"10\": 593.3667725, \"11\": 768.5129113, \"12\": 765.5657744}, \"fruit_month\": 2}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 137.0095034, \"2\": 195.1365889, \"3\": 373.4095749, \"4\": 466.399647, \"5\": 458.7334381, \"6\": 413.7200551, \"7\": 402.6900101, \"8\": 401.7533345, \"9\": 419.1509736, \"10\": 320.2428906, \"11\": 241.9690592, \"12\": 226.0}, \"fruit_month\": 4}, \"Cfb\": {\"trends\": {\"1\": 56.89918656, \"2\": 60.86549726, \"3\": 75.45191783, \"4\": 163.2077043, \"5\": 226.5229117, \"6\": 304.2382609, \"7\": 292.6973851, \"8\": 274.9517697, \"9\": 275.3552188, \"10\": 242.8538403, \"11\": 131.4254992, \"12\": 84.0}, \"fruit_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 44.55651244, \"2\": 47.79444836, \"3\": 69.93154049, \"4\": 238.9743776, \"5\": 504.0120094, \"6\": 633.5445328, \"7\": 622.8186145, \"8\": 615.5880054, \"9\": 543.1464459, \"10\": 373.8886478, \"11\": 109.2137922, \"12\": 34.0}, \"fruit_month\": 6}, \"Default\": {\"trends\": {\"1\": 1367.0, \"2\": 2759.0, \"3\": 8969.0, \"4\": 36283.0, \"5\": 77138.0, \"6\": 65865.0, \"7\": 47651.0, \"8\": 38720.0, \"9\": 27875.0, \"10\": 14944.0, \"11\": 3267.0, \"12\": 1433.0}, \"fruit_month\": 5}, \"BWk\": {\"trends\": {\"1\": 21.0, \"2\": 24.0, \"3\": 118.0, \"4\": 506.0, \"5\": 990.0, \"6\": 801.0, \"7\": 498.0, \"8\": 584.0, \"9\": 401.0, \"10\": 221.0, \"11\": 54.0, \"12\": 24.0}, \"fruit_month\": 5}, \"Csa\": {\"trends\": {\"1\": 80.0, \"2\": 77.0, \"3\": 457.0, \"4\": 1313.0, \"5\": 2248.0, \"6\": 1826.0, \"7\": 1433.0, \"8\": 1426.0, \"9\": 1218.0, \"10\": 783.0, \"11\": 293.0, \"12\": 160.0}, \"fruit_month\": 5}, \"Csb\": {\"trends\": {\"1\": 27.0, \"2\": 43.0, \"3\": 215.0, \"4\": 610.0, \"5\": 1141.0, \"6\": 983.0, \"7\": 665.0, \"8\": 567.0, \"9\": 433.0, \"10\": 280.0, \"11\": 102.0, \"12\": 36.0}, \"fruit_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 310.0, \"2\": 1370.0, \"3\": 4745.0, \"4\": 12103.0, \"5\": 16647.0, \"6\": 11306.0, \"7\": 8230.0, \"8\": 7132.0, \"9\": 6479.0, \"10\": 3759.0, \"11\": 924.0, \"12\": 303.0}, \"fruit_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can resist smoke, dust and toxic gases.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "The mulberry tree is an integral part of the silk industry. Dead branches can be used as firewood, and healthy wood can also be used in medicine and paper-making.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Often used in extract-form in skincare products, due to its soothing, brightening and anti-aging properties.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Mulberry is a deciduous woody tree commonly found in gardens. It is prized for its abundant yellow foliage in autumn. Its deep root system makes it suitable for erosion control whilst its far-reaching branches see it planted as a shade-providing ornamental. Mulberry is often used in Japanese and cottage style gardens. Plant shade-loving begonias or snowdrops for color contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Happiness, patience, star-crossed love, wisdom, nurturing, a bridge between heaven and earth",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The mulberry tree has a full crown and dense branches, and is beautiful when its leaves turn yellow in the autumn. It is a pioneer tree species in urban greening for its ability to absorb dust, smoke and toxic gases. It can be planted as a shade tree, street tree, in industrial and mining areas, and around the countryside, with this being a good greening and economic tree species. Mulberry leaves can be used to raise silkworms, while the fruit can be used for food and wine.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "White mulberry",
+                "values": [
+                    "Morus alba is a plant with a history of over 4000 years. Before the fruit has ripened, the berries look like a cute and attractive cluster of milky-white grapes. Moreover, the male catkin is covered with a thick, white silk. Hence the common name mulberry is given based on its special appearance."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Mulberry is toxic to cats and dogs.</strong> Pets can develop poisoning symptoms from ingesting the plant's fruits or contacting its sap/juice. Key indicators include physical discomfort and illness. <strong>Immediate veterinary care is imperative</strong> if poisoning is suspected to ensure the animal's health recovery.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Morus_alba.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Milky sap from twigs",
+            "Fruit stains surfaces",
+            "Glossy, toothed leaves",
+            "Distinctive bark changes with age",
+            "Fleshy, sweet-tasting drupes"
+        ],
+        "title": "Quickly Identify Mulberry",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Morus-alba.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from areas with distinct seasons, mulberry requires moderate moisture and can endure short droughts. Water once every 1-2 weeks, allowing soil to dry slightly. Its water needs decrease during dormancy in colder months, making it easier to care for indoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth and fruiting, mulberry requires balanced fertilizers applied monthly in early spring, adjusted for size and age. Over-fertilization should be avoided, with no feeding during dormancy in winter. Utilize slow-release fertilizers and water mulberry after application to enhance nutrient absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mulberry thrives with pruning in late winter, focusing on dead wood removal, thinning branches for air circulation, and shaping for aesthetics. This practice boosts fruit production and ensures a robust growth cycle by retaining sufficient buds, while minimizing stress during the dormant season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mulberry, a hardy member of the Moraceae family, thrives when propagated from healthy semi-wooden cuttings in well-draining soil. Ensure adequate moisture, light, humidity, and air circulation to foster optimal root development and prevent rot for vigorous growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, use a high-quality potting medium for mulberry and ensure regular feeding during the growing season. This will help maintain the plant's health and promote vigorous development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Morus_alba.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is mulberry used for?",
+            "link": "/ask/Morus_alba-0.html"
+        },
+        {
+            "q": "How do you take care of a mulberry plant?",
+            "link": "/ask/Morus_alba-1.html"
+        },
+        {
+            "q": "Can dogs eat mulberry?",
+            "link": "/ask/Morus_alba-2.html"
+        },
+        {
+            "q": "How often does the mulberry need to be watered?",
+            "link": "/ask/Morus_alba-3.html"
+        },
+        {
+            "q": "How long does mulberry live?",
+            "link": "/ask/Morus_alba-4.html"
+        },
+        {
+            "q": "Does mulberry have economic significance?",
+            "link": "/ask/Morus_alba-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Morus-alba-Underwatering.html"
+            },
+            {
+                "diseaseName": "Fruit withering",
+                "link": "/disease/Morus-alba-Fruit-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Morus-alba-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Morus-alba-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Morus-alba-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Morus-alba-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf rolling",
+                "link": "/disease/Morus-alba-Leaf-rolling.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Morus-alba-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Morus-alba-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Morus-alba-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Morus-alba-Spots.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Morus-alba-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Morus-alba-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Morus-alba-Wilting.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Morus-alba-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Morus-alba-Wounds.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Morus-alba-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Morus-alba-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Morus-alba-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Morus-alba-Crown-gall.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Eucalyptus globulus",
+                "link": "/wiki/Eucalyptus_globulus.html",
+                "imageUrl": "/wiki-image/1080/153709822934515745.jpeg",
+                "displayName": "Tasmanian blue gum"
+            },
+            {
+                "scientificName": "Erigeron annuus",
+                "link": "/wiki/Erigeron_annuus.html",
+                "imageUrl": "/wiki-image/1080/154210216689270785.jpeg",
+                "displayName": "Annual fleabane"
+            },
+            {
+                "scientificName": "Cirsium vulgare",
+                "link": "/wiki/Cirsium_vulgare.html",
+                "imageUrl": "/wiki-image/1080/201173914504757248.jpeg",
+                "displayName": "Bull thistle"
+            },
+            {
+                "scientificName": "Spathodea campanulata",
+                "link": "/wiki/Spathodea_campanulata.html",
+                "imageUrl": "/wiki-image/1080/153981483910955046.jpeg",
+                "displayName": "African tulip tree"
+            },
+            {
+                "scientificName": "Acacia auriculiformis",
+                "link": "/wiki/Acacia_auriculiformis.html",
+                "imageUrl": "/wiki-image/1080/153884434829934601.jpeg",
+                "displayName": "Earleaf acacia"
+            },
+            {
+                "scientificName": "Alternanthera sessilis",
+                "link": "/wiki/Alternanthera_sessilis.html",
+                "imageUrl": "/wiki-image/1080/154148433584717862.jpeg",
+                "displayName": "Sessile Joyweed"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Morus_alba.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Morus_alba.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Morus_alba.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Morus_alba.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Morus_alba.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Morus_alba.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Morus_alba.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Morus_alba.html",
+            "values": [
+                "Care Mulberry",
+                "Care Mulberry",
+                "Grow Mulberry",
+                "Maintain Mulberry",
+                "Mulberry Care",
+                "Mulberry Grow",
+                "Mulberry Maintain",
+                "Mulberry Cares",
+                "Growth Mulberry",
+                "Maintains Mulberry",
+                "Mulberry Growth",
+                "Mulberry Maintains",
+                "Mulberry Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Leaf-rolling.html",
+            "values": [
+                "Leaf rolling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Fruit-withering.html",
+            "values": [
+                "Fruit withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Morus-alba-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Morus_alba.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Morus_alba.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Morus_alba.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Morus_alba.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Morus_alba.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Morus_alba.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Morus_alba.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Morus_alba.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Morus_alba.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Morus_alba.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Morus_alba.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Morus_alba.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Morus_alba.html"
+        }
+    ]
+}

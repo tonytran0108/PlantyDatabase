@@ -1,0 +1,860 @@
+{
+    "title": "Elephant Ear (Alocasia mortfontanensis) - PictureThis",
+    "displayName": "Elephant Ear",
+    "otherCommonName": "African mask",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "NancyAyumi",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347100741269618688.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "NancyAyumi",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/347100741269618688.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Elephant Ear (Alocasia mortfontanensis) is a hybrid species between Alocasia longiloba and Alocasia sanderiana. The Alocasia is known for its large leaves and wide variety of cultivars within the species. Elephant Ear is native to tropical Asia and Australia.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Elephant Ear (Alocasia mortfontanensis) is a hybrid species between Alocasia longiloba and Alocasia sanderiana. The Alocasia is known for its large leaves and wide variety of cultivars within the species. Elephant Ear is native to tropical Asia and Australia.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Elephant Ear (<i>Alocasia mortfontanensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Elephant's-ears",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Alocasia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 61 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 8 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {},
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Elephant Ear is most often used as a houseplant in non-tropical climates, as it requires heat and humidity to thrive. In warmer areas, it can be used outside in beds or containers. It is the perfect plant for a foyer or large room, where the full foliage can show to full advantage. Its striking, variegated leaves are a key decorative feature. Philodendron, calathea, and monstera are good companion plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Happiness and purity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Alocasia mortfontanensis has a compact plant shape and a beautiful leaf shape. The leaves are full of unique metallic tubes, and the veins are clear and very poetic. The Israeli Carmel Company is famous around the world for its production of Alocasia mortfontanensis.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The sap of elephant Ear is toxic to humans topically and when ingested, causing mouth, gastrointestinal, and skin irritation, or respiratory issues. <strong>Dogs and cats are also at risk</strong> if they consume any part of the plant, showing symptoms like vomiting, diarrhea, and oral irritation. <strong>Immediate veterinary care is essential</strong> if ingestion occurs.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Alocasia_mortfontanensis.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from humid climates, elephant Ear prefers consistent moisture and high humidity for optimal growth. Water weekly to maintain foliage, and mist regularly to mimic its native environment. This evergreen is often grown indoors for its ornamental leaves, thriving best in tropical-like conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For elephant Ear, use a high-nitrogen fertilizer every two weeks during the growing season, reducing to monthly in winter. Apply half-strength as per pot instructions, ensuring to water before fertilizing. Proper application prevents root burn, promoting healthy growth and foliage without over-fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Elephant Ear thrives with regular pruning, particularly in early spring. Key techniques include removing dead leaves and thinning overcrowded areas to enhance air circulation and promote healthy growth. Ensure tools are sterilized to prevent infections and follow guidelines from reputable horticultural sources for best results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For elephant Ear, Spring is the ideal time for propagation using tubers, which is moderately difficult. Success is indicated by new shoots emerging. Maintain a warm, moist environment for optimum propagation results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot elephant Ear annually in spring, using a pot 2-3 inches larger, favoring shallow, broad containers. Provide indirect light and consistent moisture, avoiding overwatering. Ensure pots have drainage holes for optimal growth, helping elephant Ear thrive and showcase its striking foliage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Alocasia_mortfontanensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is my Alocasia mortfontanensis leaves are yellow?",
+            "link": "/ask/Alocasia_mortfontanensis-0.html"
+        },
+        {
+            "q": "Do Alocasia mortfontanensis like to be root bound?",
+            "link": "/ask/Alocasia_mortfontanensis-1.html"
+        },
+        {
+            "q": "How big is Alocasia mortfontanensis?",
+            "link": "/ask/Alocasia_mortfontanensis-2.html"
+        },
+        {
+            "q": "How do you take care of a Alocasia mortfontanensis?",
+            "link": "/ask/Alocasia_mortfontanensis-3.html"
+        },
+        {
+            "q": "How much water do I give my Alocasia mortfontanensis?",
+            "link": "/ask/Alocasia_mortfontanensis-4.html"
+        },
+        {
+            "q": "Is alocasia an indoor plant?",
+            "link": "/ask/Alocasia_mortfontanensis-5.html"
+        },
+        {
+            "q": "Should I mist my elephant Ear?",
+            "link": "/ask/Alocasia_mortfontanensis-6.html"
+        },
+        {
+            "q": "Why is my elephant Ear dying?",
+            "link": "/ask/Alocasia_mortfontanensis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Alocasia-mortfontanensis-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Alocasia-mortfontanensis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Alocasia-mortfontanensis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Alocasia-mortfontanensis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Alocasia-mortfontanensis-Scars.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Alocasia-mortfontanensis-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Alocasia-mortfontanensis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Alocasia-mortfontanensis-Notch.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Alocasia-mortfontanensis-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Alocasia-mortfontanensis-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Alocasia-mortfontanensis-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Alocasia-mortfontanensis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Alocasia-mortfontanensis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Alocasia-mortfontanensis-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Alocasia-mortfontanensis-Wounds.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Alocasia-mortfontanensis-Mushrooms.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Alocasia-mortfontanensis-White-blotch.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Alocasia-mortfontanensis-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Quercus acutissima",
+                "link": "/wiki/Quercus_acutissima.html",
+                "imageUrl": "/wiki-image/1080/153908877488816132.jpeg",
+                "displayName": "Sawtooth oak"
+            },
+            {
+                "scientificName": "Ardisia crenata",
+                "link": "/wiki/Ardisia_crenata.html",
+                "imageUrl": "/wiki-image/1080/153467148692357139.jpeg",
+                "displayName": "Christmas berry"
+            },
+            {
+                "scientificName": "Echinocactus grusonii",
+                "link": "/wiki/Echinocactus_grusonii.html",
+                "imageUrl": "/wiki-image/1080/202701866300342272.jpeg",
+                "displayName": "Golden barrel cactus"
+            },
+            {
+                "scientificName": "Quercus michauxii",
+                "link": "/wiki/Quercus_michauxii.html",
+                "imageUrl": "/wiki-image/1080/153989687298490401.jpeg",
+                "displayName": "Swamp chestnut oak"
+            },
+            {
+                "scientificName": "Pelargonium zonale",
+                "link": "/wiki/Pelargonium_zonale.html",
+                "imageUrl": "/wiki-image/1080/154141355478614027.jpeg",
+                "displayName": "Horseshoe geranium"
+            },
+            {
+                "scientificName": "Digitalis purpurea",
+                "link": "/wiki/Digitalis_purpurea.html",
+                "imageUrl": "/wiki-image/1080/153664794497384469.jpeg",
+                "displayName": "Common foxglove"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Alocasia_mortfontanensis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Alocasia_mortfontanensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Alocasia_mortfontanensis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Alocasia_mortfontanensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Alocasia_mortfontanensis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Alocasia_mortfontanensis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Alocasia_mortfontanensis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Alocasia_mortfontanensis.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Alocasia_mortfontanensis.html",
+            "values": [
+                "Care Elephant Ear",
+                "Care Elephant Ear",
+                "Grow Elephant Ear",
+                "Maintain Elephant Ear",
+                "Elephant Ear Care",
+                "Elephant Ear Grow",
+                "Elephant Ear Maintain",
+                "Elephant Ear Cares",
+                "Growth Elephant Ear",
+                "Maintains Elephant Ear",
+                "Elephant Ear Growth",
+                "Elephant Ear Maintains",
+                "Elephant Ear Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Alocasia-mortfontanensis-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Alocasia_mortfontanensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Alocasia_mortfontanensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Alocasia_mortfontanensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Alocasia_mortfontanensis.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Alocasia_mortfontanensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Alocasia_mortfontanensis.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Alocasia_mortfontanensis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Alocasia_mortfontanensis.html"
+        }
+    ]
+}

@@ -1,0 +1,819 @@
+{
+    "title": "Zebra plant (Haworthiopsis fasciata) - PictureThis",
+    "displayName": "Zebra plant",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154206673341251610.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1620,
+                "height": 1080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/35034346289@N01",
+                "author": "stephen boisvert",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154169173981790210.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2198,
+                "height": 3272,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/47439717@N05",
+                "author": "Maja Dumat",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154144834402123780.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1910,
+                "height": 2866,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/47439717@N05",
+                "author": "Maja Dumat",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153940196390338606.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1929,
+                "height": 2174,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:1_Haworthia_fasciata_-_small_plant_in_cultivation_-_CT.jpg",
+                "authorLink": "https://commons.wikimedia.org/w/index.php?title=User:S_Molteno&action=edit&redlink=1",
+                "author": "S Molteno",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/153975470956740631.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The zebra plant is a stunning little succulent native to South Africa. It is very similar to Haworthiopsis attenuata, but rarer in cultivation. Because of this, H. attenuata plants are often mislabeled as zebra plant. You can easily differentiate the two by looking at the leaves - if they have a smooth upper surface, then it's zebra plant.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The zebra plant is a stunning little succulent native to South Africa. It is very similar to Haworthiopsis attenuata, but rarer in cultivation. Because of this, H. attenuata plants are often mislabeled as zebra plant. You can easily differentiate the two by looking at the leaves - if they have a smooth upper surface, then it's zebra plant.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Zebra plant (<i>Haworthiopsis fasciata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Haworthiopsis",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Haworthiopsis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Asphodel",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asphodelaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Succulent, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Early spring, Mid spring, Mid winter, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 18 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Summer dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801166305263621.jpeg",
+        "habitat": "Amongst stones, spaces in grassy areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The zebra plant is native to the southeastern part of the African continent, where it thrives in its natural habitat. Beyond its indigenous regions, it has been introduced and cultivated in various temperate and tropical areas around the globe. The species is adaptable and commonly integrated into horticultural collections outside its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2002",
+                "2031",
+                "1966",
+                "1994",
+                "1715",
+                "1576",
+                "2114",
+                "2852",
+                "3264",
+                "2754",
+                "1861",
+                "2289"
+            ],
+            "north": [
+                "10333",
+                "12401",
+                "15540",
+                "18023",
+                "18133",
+                "13631",
+                "13016",
+                "10476",
+                "9021",
+                "7207",
+                "6601",
+                "9146"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Zebra plant is an ornamental used in xeriscaping and rockeries for its unusual aesthetic; the white stripes upon the succulentÃ¢ÂÂs pointed leaves give it a zebraÃ¢ÂÂlike appearance. This is often used as an indoor plant in cooler climates.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Smooth, cheerful, social",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Zebra plant",
+                "values": [
+                    "How can a succulent plant be described as a zebra? This is because its green succulent leaves have white coronal bands on the outside and zebra-like stripes in between the green and white leaves. Hence, it is known as the famous zebra plant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Linear leaves in a rosette with white spots on the underside.",
+            "Delicate lavender flowers arranged in a linear pattern on strawlike stalks.",
+            "Ovoid capsule fruit with distinct winged seeds for dispersal.",
+            "Leaves are stiff, opaque, and adorned with white spots, measuring 2-3 inches (5-8 cm).",
+            "Smooth upper leaf surfaces with no markings, unique among related species."
+        ],
+        "title": "Quickly Identify Zebra plant",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Haworthiopsis-fasciata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Succulent & Cactus Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Zebra plant, originating from South Africa, thrives in low humidity and drought conditions. Water every two weeks to prevent overhydration, especially during its dormant winter period. Monitor soil moisture closely to avoid root rot, making it a suitable indoor decorative plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For zebra plant, use a balanced fertilizer tailored for succulents and cacti, applying quarterly during the growing season at half-strength. Avoid fertilization in winter to respect its dormancy. Regularly flush the soil to prevent salt buildup, promoting the overall health and vitality of zebra plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Zebra plant propagates effectively through cuttings in spring or autumn. The process is moderately easy, with new root development signaling success. Use well-draining soil and avoid overwatering to ensure healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot zebra plant every two years in spring using a slightly larger pot with good drainage to support its compact growth. After repotting, place it in bright, indirect light and withhold water for a week to help the roots settle, ensuring zebra plant's health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Haworthiopsis_fasciata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you water zebra plant?",
+            "link": "/ask/Haworthiopsis_fasciata-0.html"
+        },
+        {
+            "q": "How do you care for a zebra plant?",
+            "link": "/ask/Haworthiopsis_fasciata-1.html"
+        },
+        {
+            "q": "Is a zebra plant a succulent?",
+            "link": "/ask/Haworthiopsis_fasciata-2.html"
+        },
+        {
+            "q": "Why is my zebra plant leaves turning brown?",
+            "link": "/ask/Haworthiopsis_fasciata-3.html"
+        },
+        {
+            "q": "How do I get my zebra plant to bloom?",
+            "link": "/ask/Haworthiopsis_fasciata-4.html"
+        },
+        {
+            "q": "How big does a zebra plant get?",
+            "link": "/ask/Haworthiopsis_fasciata-5.html"
+        },
+        {
+            "q": "When should I repot my zebra plant?",
+            "link": "/ask/Haworthiopsis_fasciata-6.html"
+        },
+        {
+            "q": "Why is my zebra plant turning yellow?",
+            "link": "/ask/Haworthiopsis_fasciata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Soft Rot",
+                "link": "/disease/Haworthiopsis-fasciata-Soft-Rot.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Haworthiopsis-fasciata-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "leaf discolorations",
+                "link": "/disease/Haworthiopsis-fasciata-leaf-discolorations.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Haworthiopsis-fasciata-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Haworthiopsis-fasciata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf wrinkling",
+                "link": "/disease/Haworthiopsis-fasciata-Leaf-wrinkling.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Haworthiopsis-fasciata-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Haworthiopsis-fasciata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Haworthiopsis-fasciata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Etiolated stem",
+                "link": "/disease/Haworthiopsis-fasciata-Etiolated-stem.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Haworthiopsis-fasciata-Black-mold.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Haworthiopsis-fasciata-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Haworthiopsis-fasciata-Leaf-tip-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lilium bulbiferum",
+                "link": "/wiki/Lilium_bulbiferum.html",
+                "imageUrl": "/wiki-image/1080/221935795006504960.jpeg",
+                "displayName": "Orange lily"
+            },
+            {
+                "scientificName": "Opuntia microdasys",
+                "link": "/wiki/Opuntia_microdasys.html",
+                "imageUrl": "/wiki-image/1080/154126546431377426.jpeg",
+                "displayName": "Angel's-wings"
+            },
+            {
+                "scientificName": "Alocasia sanderiana",
+                "link": "/wiki/Alocasia_sanderiana.html",
+                "imageUrl": "/wiki-image/1080/222004243900334080.jpeg",
+                "displayName": "Kris plant"
+            },
+            {
+                "scientificName": "Parodia lenninghausii",
+                "link": "/wiki/Parodia_lenninghausii.html",
+                "imageUrl": "/wiki-image/1080/153815058223202319.jpeg",
+                "displayName": "Lemon ball cactus"
+            },
+            {
+                "scientificName": "Geranium macrorrhizum",
+                "link": "/wiki/Geranium_macrorrhizum.html",
+                "imageUrl": "/wiki-image/1080/200469715961708544.jpeg",
+                "displayName": "Bigroot geranium"
+            },
+            {
+                "scientificName": "Jatropha multifida",
+                "link": "/wiki/Jatropha_multifida.html",
+                "imageUrl": "/wiki-image/1080/209414298889158656.jpeg",
+                "displayName": "Coral plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Haworthiopsis_fasciata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Haworthiopsis_fasciata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Haworthiopsis_fasciata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Haworthiopsis_fasciata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Haworthiopsis_fasciata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Haworthiopsis_fasciata.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Haworthiopsis_fasciata.html",
+            "values": [
+                "Care Zebra plant",
+                "Care Zebra plant",
+                "Grow Zebra plant",
+                "Maintain Zebra plant",
+                "Zebra plant Care",
+                "Zebra plant Grow",
+                "Zebra plant Maintain",
+                "Zebra plant Cares",
+                "Growth Zebra plant",
+                "Maintains Zebra plant",
+                "Zebra plant Growth",
+                "Zebra plant Maintains",
+                "Zebra plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-leaf-discolorations.html",
+            "values": [
+                "leaf discolorations"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Etiolated-stem.html",
+            "values": [
+                "Etiolated stem"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Leaf-wrinkling.html",
+            "values": [
+                "Leaf wrinkling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Haworthiopsis-fasciata-Soft-Rot.html",
+            "values": [
+                "Soft Rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Haworthiopsis_fasciata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Haworthiopsis_fasciata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Haworthiopsis_fasciata.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Haworthiopsis_fasciata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Haworthiopsis_fasciata.html"
+        },
+        {
+            "title": "How to arrange succulents together?",
+            "link": "/succulent-arrangements/Haworthiopsis_fasciata.html",
+            "lmsicon": "/wiki-image/1080/545508842865000448.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Haworthiopsis_fasciata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Haworthiopsis_fasciata.html"
+        }
+    ]
+}

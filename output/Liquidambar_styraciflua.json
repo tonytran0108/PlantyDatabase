@@ -1,0 +1,964 @@
+{
+    "title": "Sweetgum (Liquidambar styraciflua) - PictureThis",
+    "displayName": "Sweetgum",
+    "otherCommonName": "Redgum, American storax",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154172781754318865.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7767157",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656591109849120.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11540957",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153886668212928529.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 477,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3838932",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153921461742993414.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27658455",
+                "authorLink": "https://www.inaturalist.org/people/krossbow",
+                "author": "krossbow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153947871496896532.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "In the active growing seasons of Spring and Summer, sweetgum exhibits a rapid growth rate, greatly influencing its morphology. This velocity facilitates quick canopy development and robust leaf production. However, in other seasons, its growth drastically decelerates. This pattern showcases sweetgum's phenomenal adaptation to seasonal variations, providing fascinating insights into its dynamic growth rhythm.",
+    "cultivars": [
+        {
+            "displayName": "Sweetgum 'Worplesdon'",
+            "link": "/wiki/Liquidambar_styraciflua__Worplesdon_.html"
+        },
+        {
+            "displayName": "Sweetgum 'Slender Silhouette'",
+            "link": "/wiki/Liquidambar_styraciflua__Slender_Silhouette_.html"
+        },
+        {
+            "displayName": "Sweetgum 'Lane Roberts'",
+            "link": "/wiki/Liquidambar_styraciflua__Lane_Roberts_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Sweetgum (Liquidambar styraciflua) is a medium-to-large tree native to warm temperate regions of North and Central America. It puts on a brilliant autumn display - the leathery star-shaped foliage turns orange, red, and burgundy, with multicolored individual leaves. Decorative foliage and an elegant straight trunk earned sweetgum a prominent place in parks and treelines around the world.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Sweetgum (Liquidambar styraciflua) is a medium-to-large tree native to warm temperate regions of North and Central America. It puts on a brilliant autumn display - the leathery star-shaped foliage turns orange, red, and burgundy, with multicolored individual leaves. Decorative foliage and an elegant straight trunk earned sweetgum a prominent place in parks and treelines around the world.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Sweetgum (<i>Liquidambar styraciflua</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Sweetgum",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Liquidambar.html"
+            },
+            {
+                "type": "Family",
+                "name": "Sweet gums",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Altingiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Saxifrages, stonecrops and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Saxifragales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 46 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805383963148288.jpeg",
+        "habitat": "Swampy woods, rich bottom lands",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Sweetgum is native to North America, from as far south as Nicaragua to the warmer regions of the eastern United States. It is found in moist forest areas, swamps, and wetlands. This plant is cultivated throughout its native range, and has been introduced in some parts of Europe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 170.2166901, \"2\": 157.5542136, \"3\": 135.7182654, \"4\": 152.4838366, \"5\": 192.662659, \"6\": 179.0, \"7\": 71.81678961, \"8\": 84.36777713, \"9\": 127.4146579, \"10\": 170.2915788, \"11\": 184.0736734, \"12\": 168.7887038}, \"fall_foliage_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 70.04745004, \"2\": 75.23749702, \"3\": 79.2413382, \"4\": 96.97553177, \"5\": 119.7847757, \"6\": 58.0, \"7\": 40.90531629, \"8\": 27.57469671, \"9\": 40.96888157, \"10\": 62.56450299, \"11\": 74.42896362, \"12\": 68.14898389}, \"fall_foliage_month\": 5}, \"Csa\": {\"trends\": {\"1\": 72.6263236, \"2\": 60.84497566, \"3\": 72.33617655, \"4\": 120.5731737, \"5\": 112.6297735, \"6\": 53.0, \"7\": 34.99230854, \"8\": 27.90323088, \"9\": 49.53066428, \"10\": 72.90933049, \"11\": 69.981331, \"12\": 82.41272954}, \"fall_foliage_month\": 4}, \"Default\": {\"trends\": {\"1\": 469.9542572, \"2\": 435.1189949, \"3\": 437.1007413, \"4\": 523.1096261, \"5\": 561.4234897, \"6\": 364.0, \"7\": 195.0984065, \"8\": 205.9571205, \"9\": 327.4784546, \"10\": 458.5389299, \"11\": 502.7997557, \"12\": 496.6655571}, \"fall_foliage_month\": 5}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 12.11648669, \"2\": 25.95853705, \"3\": 38.62857671, \"4\": 43.89021622, \"5\": 33.50577207, \"6\": 29.77770688, \"7\": 22.80861385, \"8\": 30.65587693, \"9\": 39.49691866, \"10\": 20.5012005, \"11\": 17.66197512, \"12\": 22.0}, \"fall_foliage_month\": 9}, \"BSk\": {\"trends\": {\"1\": 59.42469587, \"2\": 69.00786352, \"3\": 59.93841667, \"4\": 77.92538575, \"5\": 59.7887552, \"6\": 43.86380501, \"7\": 43.74550064, \"8\": 67.28040959, \"9\": 70.44308599, \"10\": 92.36400849, \"11\": 138.9747298, \"12\": 84.0}, \"fall_foliage_month\": 11}, \"Csa\": {\"trends\": {\"1\": 77.61882927, \"2\": 98.35221004, \"3\": 117.6732516, \"4\": 147.6356197, \"5\": 146.6639488, \"6\": 128.0429225, \"7\": 142.4182401, \"8\": 163.4992729, \"9\": 166.7243753, \"10\": 201.3213482, \"11\": 248.0726323, \"12\": 125.0}, \"fall_foliage_month\": 11}, \"Csb\": {\"trends\": {\"1\": 78.15602272, \"2\": 65.60538189, \"3\": 78.82208031, \"4\": 69.58192223, \"5\": 58.36251546, \"6\": 70.11504328, \"7\": 81.28065596, \"8\": 104.727795, \"9\": 127.8793654, \"10\": 173.7234356, \"11\": 227.5018983, \"12\": 105.0}, \"fall_foliage_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 834.3071648, \"2\": 1132.634624, \"3\": 1436.233198, \"4\": 1441.43607, \"5\": 1272.248203, \"6\": 1218.932237, \"7\": 1295.621848, \"8\": 1527.715169, \"9\": 1679.76069, \"10\": 1800.723462, \"11\": 1770.409492, \"12\": 1043.0}, \"fall_foliage_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 149.9370457, \"2\": 134.033595, \"3\": 156.0717752, \"4\": 155.4447104, \"5\": 144.1298444, \"6\": 159.7138077, \"7\": 181.9470232, \"8\": 204.6329178, \"9\": 313.8265819, \"10\": 732.1105333, \"11\": 785.4050788, \"12\": 248.0}, \"fall_foliage_month\": 11}, \"Dfa\": {\"trends\": {\"1\": 458.2009423, \"2\": 743.3540683, \"3\": 836.3731664, \"4\": 633.6417244, \"5\": 390.5252171, \"6\": 368.6534447, \"7\": 395.1513053, \"8\": 481.7942795, \"9\": 661.3605453, \"10\": 1023.851675, \"11\": 996.3531727, \"12\": 597.0}, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 64.35940685, \"2\": 107.899588, \"3\": 149.0044588, \"4\": 135.6524376, \"5\": 88.15938877, \"6\": 70.54172318, \"7\": 66.45367553, \"8\": 86.57852758, \"9\": 142.4543538, \"10\": 251.2808989, \"11\": 273.0344805, \"12\": 116.0}, \"fall_foliage_month\": 11}, \"Default\": {\"trends\": {\"1\": 1883.432757, \"2\": 2869.855662, \"3\": 3666.73854, \"4\": 3638.512886, \"5\": 2660.086376, \"6\": 2407.421785, \"7\": 2526.337073, \"8\": 3013.467994, \"9\": 3783.44286, \"10\": 4998.501107, \"11\": 4808.208292, \"12\": 2512.0}, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "American sweetgum can be planted as a shelter forest.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "American sweetgum can be used to make furniture and other things.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Sweetgum is widely planted in residential areas, courtyards, parks and other places. This tall tree is a common choice for gardens and landscapes as a specimen or accent tree due its tidy pyramidal shape and its relatively quick rate of growth. It grows well alongside Redbud and Atlas cedar trees, and try Mountain fleece and Sneezeweed underneath.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Fortitude, purification, healing, a powerful protector",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Those who can catch them will get good luck and blessings. Those who see the falling of American sweetgum leaves with their beloved ones will get good blessings.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Sweetgum",
+                "values": [
+                    "Liquidambar styraciflua is a tree that is capable of secreting clear natural resins. Sometimes, the natural resins secreted are laced with a red or yellow color. When its trunk is damaged, the resin emits a fragrant scent that is sweet and pleasant. Hence, it is known as the sweetgum."
+                ]
+            },
+            {
+                "key": "Star-leaved gum",
+                "values": [
+                    "If you examine the leaves carefully, you will discover that they are actually shaped like a pentagram. When all the leaves turn red, the beauty of the tree is more spectacular than a starry night. So the shape of its leaves is the reason why it is called the star-leaved gum."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Star-shaped leaves with 5-7 pointed lobes",
+            "Globose, spiky green fruits turning brown",
+            "Corky scales on trunk, deeply furrowed bark",
+            "Alternate, simple leaves with serrate venation",
+            "Gum balls persisting on branches through winter"
+        ],
+        "title": "Quickly Identify Sweetgum",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Liquidambar-styraciflua.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from moist forests, sweetgum thrives in humid conditions and shows moderate drought tolerance. Water every 1-2 weeks, keeping soil evenly damp. As a deciduous tree, sweetgum requires more frequent watering during the growing season to support foliage development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal health, sweetgum requires balanced fertilizers in spring and high nitrogen in fall, applied every 3-4 months per manufacturer's instructions. Avoid overfeeding, and always water after application to enhance nutrient absorption. Following these guidelines maximizes sweetgum's growth and aesthetic appeal.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sweetgum thrives with early spring pruning to encourage healthy growth and enhance its striking autumn foliage. Remove dead or diseased wood and thin crowded branches for better air circulation. Minimal pruning is advisable to avoid stressing the plant and maintain its structural integrity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of sweetgum is effective through semi-hardwood cuttings treated with rooting hormone in a well-draining medium. Optimal times for collection are during growth phases, with a humid environment aiding root establishment. Avoid damage to emerging roots to ensure successful transfer to permanent locations.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot sweetgum every 2-3 years to ensure healthy growth and provide fresh soil, which aids in nutrient uptake and root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Liquidambar_styraciflua.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does a sweetgum tree grow?",
+            "link": "/ask/Liquidambar_styraciflua-0.html"
+        },
+        {
+            "q": "What is the lifespan of a sweetgum tree?",
+            "link": "/ask/Liquidambar_styraciflua-1.html"
+        },
+        {
+            "q": "Do sweetgum trees have deep roots?",
+            "link": "/ask/Liquidambar_styraciflua-2.html"
+        },
+        {
+            "q": "Where do sweetgum trees grow?",
+            "link": "/ask/Liquidambar_styraciflua-3.html"
+        },
+        {
+            "q": "What animal eats sweetgum balls?",
+            "link": "/ask/Liquidambar_styraciflua-4.html"
+        },
+        {
+            "q": "Is a sweetgum tree a hardwood?",
+            "link": "/ask/Liquidambar_styraciflua-5.html"
+        },
+        {
+            "q": "How do sweetgum trees reproduce?",
+            "link": "/ask/Liquidambar_styraciflua-6.html"
+        },
+        {
+            "q": "Can you prune a sweetgum?",
+            "link": "/ask/Liquidambar_styraciflua-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Liquidambar-styraciflua-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Liquidambar-styraciflua-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Liquidambar-styraciflua-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Liquidambar-styraciflua-Scars.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Liquidambar-styraciflua-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Iron deficiency",
+                "link": "/disease/Liquidambar-styraciflua-Iron-deficiency.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Liquidambar-styraciflua-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Liquidambar-styraciflua-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Liquidambar-styraciflua-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Liquidambar-styraciflua-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Liquidambar-styraciflua-Wounds.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Liquidambar-styraciflua-Wilting.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Liquidambar-styraciflua-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Liquidambar-styraciflua-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Liquidambar-styraciflua-Spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Liquidambar-styraciflua-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Liquidambar-styraciflua-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Liquidambar-styraciflua-Black-mold.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Liquidambar-styraciflua-Aphid.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Liquidambar-styraciflua-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Liquidambar-styraciflua-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Liquidambar-styraciflua-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Liquidambar-styraciflua-Leaf-rot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Clusia rosea",
+                "link": "/wiki/Clusia_rosea.html",
+                "imageUrl": "/wiki-image/1080/154231382288105481.jpeg",
+                "displayName": "Autograph tree"
+            },
+            {
+                "scientificName": "Hydrocotyle vulgaris",
+                "link": "/wiki/Hydrocotyle_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/157555047025082369.jpeg",
+                "displayName": "Pennywort"
+            },
+            {
+                "scientificName": "Daphne gnidium",
+                "link": "/wiki/Daphne_gnidium.html",
+                "imageUrl": "/wiki-image/1080/157560944015179781.jpeg",
+                "displayName": "Flax-leaved daphne"
+            },
+            {
+                "scientificName": "Dietes grandiflora",
+                "link": "/wiki/Dietes_grandiflora.html",
+                "imageUrl": "/wiki-image/1080/154095721451094038.jpeg",
+                "displayName": "Wild iris"
+            },
+            {
+                "scientificName": "Buxus microphylla",
+                "link": "/wiki/Buxus_microphylla.html",
+                "imageUrl": "/wiki-image/1080/154496437604843520.jpeg",
+                "displayName": "Japanese box"
+            },
+            {
+                "scientificName": "Limonium perezii",
+                "link": "/wiki/Limonium_perezii.html",
+                "imageUrl": "/wiki-image/1080/201217482653040640.jpeg",
+                "displayName": "Perez's sea lavender"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Liquidambar_styraciflua.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Liquidambar_styraciflua.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Liquidambar_styraciflua.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Liquidambar_styraciflua.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Liquidambar_styraciflua.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Liquidambar_styraciflua.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Liquidambar_styraciflua.html",
+            "values": [
+                "Care Sweetgum",
+                "Care Sweetgum",
+                "Grow Sweetgum",
+                "Maintain Sweetgum",
+                "Sweetgum Care",
+                "Sweetgum Grow",
+                "Sweetgum Maintain",
+                "Sweetgum Cares",
+                "Growth Sweetgum",
+                "Maintains Sweetgum",
+                "Sweetgum Growth",
+                "Sweetgum Maintains",
+                "Sweetgum Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liquidambar-styraciflua-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Liquidambar_styraciflua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Liquidambar_styraciflua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Liquidambar_styraciflua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Liquidambar_styraciflua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Liquidambar_styraciflua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Liquidambar_styraciflua.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Liquidambar_styraciflua.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Liquidambar_styraciflua.html"
+        }
+    ]
+}

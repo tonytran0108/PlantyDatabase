@@ -1,0 +1,990 @@
+{
+    "title": "Common St. John's wort (Hypericum perforatum) - PictureThis",
+    "displayName": "Common St. John's wort",
+    "otherCommonName": "Triptonweed",
+    "mainImage": {
+        "copyright": {
+            "width": 1563,
+            "height": 1564,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154211354855604233.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4382131",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152500742396051456.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8760388",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152363307737546756.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/6671037",
+                "authorLink": "https://www.inaturalist.org/people/1515879",
+                "author": "Judy Gallagher",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/154234732362596388.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19514625",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153943125558034480.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common St. John's wort (*Hypericum perforatum*) is a plant species that is native to Europe and Central Asia. Common St. John's wort is considered poisonous to livestock and can cause problems for humans if consumed. This dense, fast-growing plant has been introduced to North America and Australia, where it is often viewed as an invasive species.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common St. John's wort (*Hypericum perforatum*) is a plant species that is native to Europe and Central Asia. Common St. John's wort is considered poisonous to livestock and can cause problems for humans if consumed. This dense, fast-growing plant has been introduced to North America and Australia, where it is often viewed as an invasive species.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common St. John's wort (<i>Hypericum perforatum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "St. John's worts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Hypericum.html"
+            },
+            {
+                "type": "Family",
+                "name": "St. John's wort",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Hypericaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm to 3.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802325946433540.jpeg",
+        "habitat": "Open woods, hedgebanks, grassland, dry sunny places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common St. John's wort is native to a broad region across Europe, parts of North Africa, and western and central Asia. It has been introduced to both North and South America, along with areas in Eastern Asia and the sub-Antarctic region. In several major regions, particularly the Americas and Oceania, common St. John's wort is sometimes thought to be invasive and may have an impact on local ecosystems.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 58.91756912, \"2\": 28.89462076, \"3\": 15.79882197, \"4\": 20.89095951, \"5\": 21.16981485, \"6\": 20.0, \"7\": 19.98569043, \"8\": 12.48224973, \"9\": 22.81612184, \"10\": 26.09571146, \"11\": 60.18916784, \"12\": 98.26665164}, \"flower_month\": 12}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 10.88057812, \"2\": 3.833770196, \"3\": 8.498730722, \"4\": 20.79603853, \"5\": 32.17134494, \"6\": 70.45306132, \"7\": 46.66186735, \"8\": 32.11110458, \"9\": 14.62752605, \"10\": 15.03600138, \"11\": 6.276278122, \"12\": 10.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 16.57031187, \"2\": 8.196017503, \"3\": 11.5204582, \"4\": 31.86380282, \"5\": 82.87748407, \"6\": 117.2806941, \"7\": 63.42062256, \"8\": 23.4127837, \"9\": 26.20599937, \"10\": 17.69858006, \"11\": 10.40864191, \"12\": 21.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 7.304301189, \"2\": 3.976083751, \"3\": 16.05634969, \"4\": 47.54157514, \"5\": 81.30338202, \"6\": 142.0126724, \"7\": 121.9209839, \"8\": 50.03085255, \"9\": 35.18374076, \"10\": 31.75589684, \"11\": 16.25013559, \"12\": 9.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 20.65116745, \"2\": 20.68508668, \"3\": 30.37586482, \"4\": 47.77400529, \"5\": 79.71152465, \"6\": 168.5916068, \"7\": 156.4002559, \"8\": 80.79886941, \"9\": 43.26172772, \"10\": 34.62086968, \"11\": 24.42997142, \"12\": 18.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 41.52102803, \"2\": 35.61279095, \"3\": 59.60356979, \"4\": 136.7765585, \"5\": 179.0598631, \"6\": 391.3138679, \"7\": 304.9025271, \"8\": 196.791607, \"9\": 115.0578728, \"10\": 91.26031579, \"11\": 66.1062391, \"12\": 52.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 13.4764983, \"2\": 18.00511584, \"3\": 24.9192173, \"4\": 91.97619153, \"5\": 125.8389462, \"6\": 209.6911492, \"7\": 216.1402361, \"8\": 103.1791742, \"9\": 67.1296706, \"10\": 55.69693305, \"11\": 41.37948844, \"12\": 23.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 53.63283904, \"2\": 28.24217403, \"3\": 55.30533594, \"4\": 143.3394091, \"5\": 173.9268561, \"6\": 400.6237487, \"7\": 369.5562734, \"8\": 225.0063429, \"9\": 136.8063838, \"10\": 94.01371561, \"11\": 51.39472574, \"12\": 57.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 170.1217088, \"2\": 131.2273154, \"3\": 227.6115283, \"4\": 602.381041, \"5\": 948.4331758, \"6\": 1904.89408, \"7\": 1645.039788, \"8\": 894.3040236, \"9\": 520.5609327, \"10\": 384.7663858, \"11\": 233.2247916, \"12\": 206.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common St. John's wort is an attractive garden ornamental with ornate, star-shaped flowers. It is often viewed as a weedy plant, but is grown in prairie and meadow landscapes where it is useful in attracting pollinators. Common St. John's wort is also grown in herb gardens, wildlife gardens, as borders and woodland margins.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Animosity, superstition",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common St. John's wort is an herb often considered to be an invasive species. It was used in folk medicine and as an antibiotic during the Crusades. In more recent times, this herb has been used in the pharmaceutical industry for treating depression. However, it interacts badly with many prescription medications and should not be taken without a doctorÃ¢ÂÂs assistance. It is potentially poisonous to livestock and causes photosensitivity in both people and animals.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common St. John's wort",
+                "values": [
+                    "Common St. John's wort is named as such because of its blossoms and it is harvested during the summer solstice in late June, around St John's Feast Day on 24 June. The herb would be hung on house and stall doors on St John's Feast day with the belief that it wards off evil spirits to safeguard against harm and sickness to man and livestock."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common St. John's wort</strong> can cause allergic reactions and severe or life-threatening side effects in <strong>humans</strong> taking certain prescription drugs. The plant is dangerous to cats and mildly toxic to dogs, with symptoms like dermatitis, gastrointestinal distress, and photosensitivity. Prompt veterinary treatment is recommended for pets exposed to common St. John's wort, as contact or ingestion can lead to serious health issues.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Hypericum_perforatum.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   The native range of common St. John's wort includes Eurasia and northern Africa. It has spread to parts of the Americas, Oceania, and southern Africa and is listed as noxious in areas of the United States and Canada. It is cultivated in farms and gardens for several uses. However, common St. John's wort is toxic to some livestock, depletes soil moisture, competes with native species, and may increase the risk of fire. It spreads voraciously as individual plants can produce up to 100,000 seeds annually, seeds can remain viable for up to 10 years, and plants can also spread laterally through rhizomes. Hand pulling, tilling, mowing, and burning are typically not effective means of control and may even stimulate reproduction. It is resistant to some herbicides but is susceptible to several species of leaf-feeding beetles.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove common St. John's wort is during spring or fall. Ideally, the plant should be removed before it matures and starts to flower or fruit to avoid propagation. Here are a few effective ways to control the spread of common St. John's wort:\n  </div> \n  <ol> \n   <li>Hand Pulling: Start by thoroughly watering the area around the plant. Wait for the soil to loosen up, then gently pull out the plant, making sure you remove the entire root system.</li> \n   <li>Smothering: Once you've pulled common St. John's wort from its ground, immediately cover the area with a layer of heavy-duty garden fabric or plastic sheeting. This should help prevent any remaining seeds from sprouting.</li> \n   <li>Hot Water: If common St. John's wort has overrun a large patch of land, consider this method. Boil some water and carefully pour it over the plant. The hot water will kill it and make it easier to remove.</li> \n   <li>Mulching: Cover the soil around common St. John's wort with a thick layer of mulch. This will block sunlight and make it difficult for the plant to photosynthesize and grow.</li> \n   <li>Vinegar Spray: Fill up a spray bottle with a mixture of vinegar and a little detergent. Spray the solution directly onto common St. John's wort. The acetic acid in the vinegar will cause the plant to wilt and die.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Yellow flowers with black dots, clusters of showy stamens.",
+            "Perforated leaves with translucent and black dots.",
+            "3-celled seed capsule with flattened black seeds.",
+            "New stems ridged, maturing to smooth, woody brown.",
+            "Rhizomatous root system for rapid natural propagation."
+        ],
+        "title": "Quickly Identify Common St. John's wort",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Hypericum-perforatum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common St. John's wort thrives in temperate regions, preferring moderate soil moisture without waterlogging. Weekly watering maintains optimal hydration. It is resilient and performs better outdoors, benefiting from natural rainfall patterns that align with its growth cycles.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, common St. John's wort requires balanced nutrition via bimonthly fertilization during the growing season. Use controlled-release pellets or liquid solutions, applying quarterly in winter. Always water common St. John's wort before fertilizing to avoid root burn, enhancing flowering and overall resilience.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common St. John's wort requires minimal pruning; trim 1/5-1/4 of branch length by late spring to encourage growth. Winter is ideal for overall pruning. As perennials, they can be cut back flat to regenerate, but consider replacing old plants with new seedlings due to their short lifespan.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common St. John's wort propagates well through stem cuttings by planting a healthy, non-flowering shoot in moist, well-draining soil. Ensure the cutting has two leaf sets, dip in rooting hormone, and maintain consistent watering. Once rooted, common St. John's wort can thrive in diverse environments with proper care.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Hypericum_perforatum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of common St. John's wort?",
+            "link": "/ask/Hypericum_perforatum-0.html"
+        },
+        {
+            "q": "Is common St. John's wort plant poisonous?",
+            "link": "/ask/Hypericum_perforatum-1.html"
+        },
+        {
+            "q": "What is common St. John's wort good for?",
+            "link": "/ask/Hypericum_perforatum-2.html"
+        },
+        {
+            "q": "What part of common St. John's wort plant is used?",
+            "link": "/ask/Hypericum_perforatum-3.html"
+        },
+        {
+            "q": "How long does it take for common St. John's wort to work?",
+            "link": "/ask/Hypericum_perforatum-4.html"
+        },
+        {
+            "q": "Can you eat common St. John's wort berries?",
+            "link": "/ask/Hypericum_perforatum-5.html"
+        },
+        {
+            "q": "Is common St. John's wort poisonous to dogs?",
+            "link": "/ask/Hypericum_perforatum-6.html"
+        },
+        {
+            "q": "What is the half life of common St. John's wort?",
+            "link": "/ask/Hypericum_perforatum-7.html"
+        },
+        {
+            "q": "Is common St. John's wort a weed?",
+            "link": "/ask/Hypericum_perforatum-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Hypericum-perforatum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Hypericum-perforatum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Hypericum-perforatum-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Hypericum-perforatum-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Hypericum-perforatum-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Hypericum-perforatum-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Hypericum-perforatum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Hypericum-perforatum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Hypericum-perforatum-Wounds.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Hypericum-perforatum-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Hypericum-perforatum-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Hypericum-perforatum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Hypericum-perforatum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Hypericum-perforatum-Underwatering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Hypericum-perforatum-Spots.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Hypericum-perforatum-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Hypericum-perforatum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Hypericum-perforatum-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Hypericum-perforatum-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Hypericum-perforatum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Hypericum-perforatum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Hypericum-perforatum-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Hypericum-perforatum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Hypericum-perforatum-Notch.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Hypericum-perforatum-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Witches broom",
+                "link": "/disease/Hypericum-perforatum-Witches--broom.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Hypericum-perforatum-Branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lycoris radiata",
+                "link": "/wiki/Lycoris_radiata.html",
+                "imageUrl": "/wiki-image/1080/153893488620994601.jpeg",
+                "displayName": "Red Spider lily"
+            },
+            {
+                "scientificName": "Rhamnus cathartica",
+                "link": "/wiki/Rhamnus_cathartica.html",
+                "imageUrl": "/wiki-image/1080/153744302931968020.jpeg",
+                "displayName": "Common buckthorn"
+            },
+            {
+                "scientificName": "Kalanchoe blossfeldiana",
+                "link": "/wiki/Kalanchoe_blossfeldiana.html",
+                "imageUrl": "/wiki-image/1080/153754456234655761.jpeg",
+                "displayName": "Florist kalanchoe"
+            },
+            {
+                "scientificName": "Datura metel",
+                "link": "/wiki/Datura_metel.html",
+                "imageUrl": "/wiki-image/1080/153971326313300010.jpeg",
+                "displayName": "Devil's trumpet"
+            },
+            {
+                "scientificName": "Euphorbia milii",
+                "link": "/wiki/Euphorbia_milii.html",
+                "imageUrl": "/wiki-image/1080/153464563122044932.jpeg",
+                "displayName": "Crown of thorns"
+            },
+            {
+                "scientificName": "Caesalpinia pulcherrima",
+                "link": "/wiki/Caesalpinia_pulcherrima.html",
+                "imageUrl": "/wiki-image/1080/153987685843730478.jpeg",
+                "displayName": "Peacock flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Hypericum_perforatum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Hypericum_perforatum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Hypericum_perforatum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Hypericum_perforatum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Hypericum_perforatum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Hypericum_perforatum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Hypericum_perforatum.html",
+            "values": [
+                "Care Common St. John's wort",
+                "Care Common St. John's wort",
+                "Grow Common St. John's wort",
+                "Maintain Common St. John's wort",
+                "Common St. John's wort Care",
+                "Common St. John's wort Grow",
+                "Common St. John's wort Maintain",
+                "Common St. John's wort Cares",
+                "Growth Common St. John's wort",
+                "Maintains Common St. John's wort",
+                "Common St. John's wort Growth",
+                "Common St. John's wort Maintains",
+                "Common St. John's wort Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-perforatum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Hypericum_perforatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Hypericum_perforatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Hypericum_perforatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Hypericum_perforatum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Hypericum_perforatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Hypericum_perforatum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Hypericum_perforatum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Hypericum_perforatum.html"
+        }
+    ]
+}

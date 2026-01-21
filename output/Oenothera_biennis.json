@@ -1,0 +1,832 @@
+{
+    "title": "Common evening-primrose (Oenothera biennis) - PictureThis",
+    "displayName": "Common evening-primrose",
+    "otherCommonName": "King's cure-all, German rampion",
+    "mainImage": {
+        "copyright": {
+            "width": 1369,
+            "height": 1369,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154249846352510976.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/12548917",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152516268702826500.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9770702",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656419311157277.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 690,
+                "copyrightType": "CC",
+                "referral": "https://pixabay.com/zh/photos/imperial-grove-oenothera-biennis-5477344/",
+                "authorLink": "https://pixabay.com/zh/users/elstef-3091248/",
+                "author": "Elstef",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154156946209898537.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/6769532",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153877206399975437.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a rapid growth rate, common evening-primrose witnesses swift expansion during Spring, Summer, and Fall. Its fast-paced development includes accelerated leaf production, height increase, and profuse flowering that enhances its year-round beauty. The rapid growth speed permits common evening-primrose to adapt well to harsh conditions and thrive horticulturally. Particularly in Summer, the plant can burst into full blossom quickly, creating a spectacular nightly display.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common evening-primrose is an herbaceous perennial plant recognized by its yellow flowers, which open in the evening and close again at sunrise. It is often cultivated as a decorative plant, especially in drought-prone areas. Native Americans cooked Oenothera biennis roots as a food source, but it is said that consumption of this plant could cause headaches and diarrhea.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common evening-primrose is an herbaceous perennial plant recognized by its yellow flowers, which open in the evening and close again at sunrise. It is often cultivated as a decorative plant, especially in drought-prone areas. Native Americans cooked Oenothera biennis roots as a food source, but it is said that consumption of this plant could cause headaches and diarrhea.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common evening-primrose (<i>Oenothera biennis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Evening Primrose",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Oenothera.html"
+            },
+            {
+                "type": "Family",
+                "name": "Evening primrose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Onagraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Myrtle order",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Myrtales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial, Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806371805626373.jpeg",
+        "habitat": "Dunes, roadsides, railway banks, waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common evening-primrose is native to eastern Canada through central Mexico. It has been widely introduced across Europe and Russia, Scandanavia and Asia. It is also present in parts of Africa and South America. It prefers disturbed areas including dunes, cultivated fields, prairies, and other grassy places.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 42.97516806, \"2\": 48.44098186, \"3\": 39.87321737, \"4\": 34.2611736, \"5\": 30.48453338, \"6\": 32.0, \"7\": 25.69588769, \"8\": 41.34745223, \"9\": 34.89524516, \"10\": 44.1141789, \"11\": 59.45515359, \"12\": 61.70231614}, \"flower_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 18.64074876, \"2\": 18.79756131, \"3\": 20.23401637, \"4\": 22.209507, \"5\": 47.30226645, \"6\": 35.47982096, \"7\": 23.59511778, \"8\": 19.36160648, \"9\": 16.92725086, \"10\": 8.483255379, \"11\": 5.298592537, \"12\": 10.0}, \"flower_month\": 5}, \"BSk\": {\"trends\": {\"1\": 17.5763185, \"2\": 9.967802508, \"3\": 38.46793906, \"4\": 67.1688141, \"5\": 111.2041467, \"6\": 125.4945155, \"7\": 123.9455851, \"8\": 105.8137351, \"9\": 82.76100267, \"10\": 34.90500321, \"11\": 9.862722763, \"12\": 15.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 27.90789367, \"2\": 19.37240501, \"3\": 28.38970056, \"4\": 48.06123593, \"5\": 67.38006835, \"6\": 67.33291616, \"7\": 62.30798006, \"8\": 55.41025476, \"9\": 32.07975785, \"10\": 33.73791824, \"11\": 13.01080239, \"12\": 14.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 12.41731202, \"2\": 19.21773813, \"3\": 44.51987869, \"4\": 66.48534454, \"5\": 113.5156869, \"6\": 134.1395849, \"7\": 116.6200716, \"8\": 116.3930197, \"9\": 69.01426071, \"10\": 43.43085891, \"11\": 15.43762881, \"12\": 10.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 158.600966, \"2\": 288.5821849, \"3\": 325.8265842, \"4\": 498.2798322, \"5\": 576.2751208, \"6\": 605.5497203, \"7\": 671.8827321, \"8\": 621.080466, \"9\": 413.1140393, \"10\": 271.2698523, \"11\": 129.0207866, \"12\": 96.0}, \"flower_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 54.59246278, \"2\": 115.9034469, \"3\": 163.65142, \"4\": 292.0364357, \"5\": 464.9986205, \"6\": 575.8419678, \"7\": 586.7508972, \"8\": 591.3866031, \"9\": 536.818001, \"10\": 228.1507895, \"11\": 95.22446346, \"12\": 48.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 92.75001773, \"2\": 245.6412233, \"3\": 548.9247303, \"4\": 906.1730936, \"5\": 1026.634928, \"6\": 1116.034781, \"7\": 1154.321556, \"8\": 1177.116986, \"9\": 791.2576697, \"10\": 519.2150336, \"11\": 163.0838662, \"12\": 89.0}, \"flower_month\": 8}, \"Dfb\": {\"trends\": {\"1\": 39.60578883, \"2\": 66.62256438, \"3\": 174.1432479, \"4\": 410.3486239, \"5\": 599.0054593, \"6\": 762.6491959, \"7\": 761.0791783, \"8\": 661.0784182, \"9\": 427.6768375, \"10\": 203.1909337, \"11\": 57.01602387, \"12\": 40.0}, \"flower_month\": 6}, \"Dfc\": {\"trends\": {\"1\": 0.77110734, \"2\": 0.696493581, \"3\": 1.50746475, \"4\": 3.586581154, \"5\": 7.226640159, \"6\": 7.865453514, \"7\": 10.86877076, \"8\": 5.262078533, \"9\": 3.002395308, \"10\": 2.621142198, \"11\": 0.0, \"12\": 0.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 449.0890607, \"2\": 894.1921595, \"3\": 1538.835415, \"4\": 3081.094847, \"5\": 4272.995599, \"6\": 4842.06382, \"7\": 4844.226493, \"8\": 4474.525172, \"9\": 2971.472817, \"10\": 1593.961518, \"11\": 530.5042796, \"12\": 348.0}, \"flower_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The upright growth and unusual leaves of common evening-primrose (Oenothera biennis) make for a diverting garden feature plant. The plant really comes into its own in summer and fall when its bright yellow flowers bloom, attracting butterflies, bees, and hummingbirds. Common evening-primrose is suitable for beds and borders in cottage and informal gardens and is particularly attractive in combination with poppy, sage, and garden catchfly.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "an unruly heart, inconstancy, infidelity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that common evening-primrose was a drug used by ancient Indians thousands of years ago. This medicine comes from a beautiful flower, which blooms only at night. When evening comes, the flower will unfold slowly and wither at daybreak. It will only blossom for one night. This is the common evening-primrose.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common evening-primrose",
+                "values": [
+                    "This plant and primroses both have similar golden flowers, but it has a unique characteristic which it never blooms during day time. It will only slowly bloom during the evening and shuts right after the sun rises which makes it looks like it is specially designed to make the surrounding more beautiful during night time. As it's the most common species of the genus, it is called common evening-primrose."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common evening-primrose originated from eastern and central North America, but it is naturalized in temperate and subtropical regions around the world such as Europe and Japan. One of its alternative names is 'Weedy evening primrose', which should tell us something about its spreading habits. A mature plant produces many tiny seeds that spread easily in the environment. Common evening-primrose prefers sunny locations and loamy soils with sufficient nitrogen levels, and it can spread invasively in such locations, although it rarely outcompetes native vegetation.\n  </div> \n  <div>\n   Although common evening-primrose spreads easily, when you mechanically remove an undesired plant, it doesn't come back in the same spot.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to control common evening-primrose is before it sets seed, typically in the late spring or early summer. Controlling it in this stage prevents further spreading.\n  </div> \n  <ol> \n   <li>Hand pulling: Pull common evening-primrose plants from their roots when soil is moist, ideally after rain, to get the entire root system.</li> \n   <li>Mulching: Apply a thick layer of organic material like straw or wood chips around desired plants to suppress common evening-primrose growth.</li> \n   <li>Mowing: Regularly mow the area where common evening-primrose grows to keep it from flowering and setting seeds.</li> \n   <li>Dense planting: Grow competitive plants that can shade out common evening-primrose, like tall perennials or thick groundcovers.</li> \n   <li>Boiling water: Carefully pour boiling water over common evening-primrose shoots to kill the plant without using chemicals.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Sturdy plant, 3-5 feet tall (90-150 cm), with lance-shaped leaves in rosette and on stem.",
+            "Striking yellow flowers, 1-2 inches (2.5-5 cm) wide, closing by morning, with cross-shaped petals.",
+            "Hairy, reddish-green upright stem, 3-5 feet tall (90-150 cm), with spirally arranged leaves.",
+            "Elliptic to lance-shaped leaves, 4-8 inches long (10-20 cm), light green, wavy-toothed margin.",
+            "Distinctive evening blooming pattern, lemon-yellow bowl-shaped flowers, closure in daytime heat."
+        ],
+        "title": "Quickly Identify Common evening-primrose",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Oenothera-biennis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common evening-primrose thrives in well-drained soils with moderate moisture and prefers consistent hydration, tolerating brief dry spells. Weekly watering maintains optimal balance. As an outdoor herbaceous plant, it benefits from seasonal rain, ensuring adequate moisture without risk of over-saturation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, common evening-primrose requires balanced fertilizers. Start fertilizing in early spring with high nitrogen monthly, then switch to a balanced feed during flowering, applying every other month. Water the soil before fertilizing, and adjust frequency with seasonal growth changes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common evening-primrose is a biennial with tall stems and yellow flowers. Prune in early spring to foster growth and blooms, removing dead stems and spent flowers. Thinning overcrowded stems improves air circulation, reducing disease risk and enhancing the plant's health and appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal propagation season for common evening-primrose is Spring, primarily via sowing. It has moderate difficulty. Key indicators of success are healthy roots and shoots, requiring well-draining soil and sufficient sunlight for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Oenothera_biennis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Should you cut back common evening-primrose?",
+            "link": "/ask/Oenothera_biennis-0.html"
+        },
+        {
+            "q": "Where does common evening-primrose grow?",
+            "link": "/ask/Oenothera_biennis-1.html"
+        },
+        {
+            "q": "Does common evening-primrose like sun or shade?",
+            "link": "/ask/Oenothera_biennis-2.html"
+        },
+        {
+            "q": "How is common evening-primrose used?",
+            "link": "/ask/Oenothera_biennis-3.html"
+        },
+        {
+            "q": "How do I get rid of common evening-primrose?",
+            "link": "/ask/Oenothera_biennis-4.html"
+        },
+        {
+            "q": "How do you keep common evening-primrose blooming?",
+            "link": "/ask/Oenothera_biennis-5.html"
+        },
+        {
+            "q": "Why does common evening-primrose flower at night?",
+            "link": "/ask/Oenothera_biennis-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Oenothera-biennis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Oenothera-biennis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Oenothera-biennis-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Oenothera-biennis-Spots.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Oenothera-biennis-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Oenothera-biennis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Oenothera-biennis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Oenothera-biennis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Oenothera-biennis-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Oenothera-biennis-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Oenothera-biennis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Oenothera-biennis-Wounds.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Oenothera-biennis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Oenothera-biennis-Notch.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Oenothera-biennis-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Oenothera-biennis-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Oenothera-biennis-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Oenothera-biennis-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Oenothera-biennis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Oenothera-biennis-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Elephantopus tomentosus",
+                "link": "/wiki/Elephantopus_tomentosus.html",
+                "imageUrl": "/wiki-image/1080/153712558828683271.jpeg",
+                "displayName": "Common Elephant's-Foot"
+            },
+            {
+                "scientificName": "Setaria faberi",
+                "link": "/wiki/Setaria_faberi.html",
+                "imageUrl": "/wiki-image/1080/154152780091621390.jpeg",
+                "displayName": "Japanese bristlegrass"
+            },
+            {
+                "scientificName": "Senna alata",
+                "link": "/wiki/Senna_alata.html",
+                "imageUrl": "/wiki-image/1080/153727161717489696.jpeg",
+                "displayName": "Emperor's candlesticks"
+            },
+            {
+                "scientificName": "Clematis tangutica",
+                "link": "/wiki/Clematis_tangutica.html",
+                "imageUrl": "/wiki-image/1080/365303710318460928.jpeg",
+                "displayName": "Orange-peel clematis"
+            },
+            {
+                "scientificName": "Pilea pumila",
+                "link": "/wiki/Pilea_pumila.html",
+                "imageUrl": "/wiki-image/1080/154207472205168671.jpeg",
+                "displayName": "Clearweed"
+            },
+            {
+                "scientificName": "Pteris vittata",
+                "link": "/wiki/Pteris_vittata.html",
+                "imageUrl": "/wiki-image/1080/153992139724816420.jpeg",
+                "displayName": "Chinese ladder brake fern"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Oenothera_biennis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Oenothera_biennis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Oenothera_biennis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Oenothera_biennis.html",
+            "values": [
+                "Care Common evening-primrose",
+                "Care Common evening-primrose",
+                "Grow Common evening-primrose",
+                "Maintain Common evening-primrose",
+                "Common evening-primrose Care",
+                "Common evening-primrose Grow",
+                "Common evening-primrose Maintain",
+                "Common evening-primrose Cares",
+                "Growth Common evening-primrose",
+                "Maintains Common evening-primrose",
+                "Common evening-primrose Growth",
+                "Common evening-primrose Maintains",
+                "Common evening-primrose Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Oenothera-biennis-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Oenothera_biennis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Oenothera_biennis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Oenothera_biennis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Oenothera_biennis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Oenothera_biennis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Oenothera_biennis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Oenothera_biennis.html"
+        }
+    ]
+}

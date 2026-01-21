@@ -1,0 +1,1078 @@
+{
+    "title": "Peach (Prunus persica) - PictureThis",
+    "displayName": "Peach",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153759262303059980.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6657017",
+                "authorLink": "https://www.inaturalist.org/people/bcal003",
+                "author": "bcal003",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153837778600198157.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32790357",
+                "authorLink": "https://www.inaturalist.org/people/joef80",
+                "author": "joef80",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153688876379013139.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/73105960",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153757080459673601.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21147454",
+                "authorLink": "https://www.inaturalist.org/people/adriananelly",
+                "author": "adriananelly",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153739947835129866.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Peach 'Golden Jubilee'",
+            "link": "/wiki/Prunus_persica__Golden_Jubilee_.html"
+        },
+        {
+            "displayName": "Peach 'Peregrine'",
+            "link": "/wiki/Prunus_persica__Peregrine_.html"
+        },
+        {
+            "displayName": "Peach 'Bonanza'",
+            "link": "/wiki/Prunus_persica__Bonanza_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Peach is native to Northwest China. China, Spain, and Italy are the top three producers of peaches world-wide. The peach is also the state fruit of Georgia. Peach production in the US in 2017 was valued at $599 million. The fruit has a yellow or white flesh, a sweet aroma, and a skin that is either velvety (peaches) or smooth (nectarines).\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Peach is native to Northwest China. China, Spain, and Italy are the top three producers of peaches world-wide. The peach is also the state fruit of Georgia. Peach production in the US in 2017 was valued at $599 million. The fruit has a yellow or white flesh, a sweet aroma, and a skin that is either velvety (peaches) or smooth (nectarines).",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Peach (<i>Prunus persica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Prunus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Prunus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Early spring, Mid spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 8 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 3.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801179190165506.jpeg",
+        "habitat": "Roadsides, fencerows, abandoned farms, streamsides, canyons",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Peach is a cultivar native to north-central China. Its original habitat is unknown because it has been cultivated for so long. The introduction of this widely popular fruit crop has occurred worldwide, and it now grows in many areas from North America to New Zealand.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 66.72407498, \"2\": 49.78590078, \"3\": 46.28746646, \"4\": 36.98159416, \"5\": 32.05332291, \"6\": 17.0, \"7\": 25.2024672, \"8\": 67.2181295, \"9\": 130.2757901, \"10\": 104.9978685, \"11\": 81.58372828, \"12\": 87.20501764}, \"flower_month\": 9, \"fruit_month\": 12}, \"Csb\": {\"trends\": {\"1\": 51.02690838, \"2\": 59.36316591, \"3\": 61.42141106, \"4\": 40.57788451, \"5\": 28.09219625, \"6\": 26.0, \"7\": 42.34680026, \"8\": 79.85268113, \"9\": 145.8755668, \"10\": 170.0276677, \"11\": 85.47983635, \"12\": 92.29383075}, \"flower_month\": 10, \"fruit_month\": 12}, \"BWk\": {\"trends\": {\"1\": 154.0, \"2\": 79.0, \"3\": 89.0, \"4\": 49.0, \"5\": 47.0, \"6\": 28.0, \"7\": 15.0, \"8\": 46.0, \"9\": 210.0, \"10\": 271.0, \"11\": 188.0, \"12\": 141.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Cfb\": {\"trends\": {\"1\": 609.0, \"2\": 332.0, \"3\": 323.0, \"4\": 200.0, \"5\": 113.0, \"6\": 70.0, \"7\": 115.0, \"8\": 341.0, \"9\": 886.0, \"10\": 1066.0, \"11\": 658.0, \"12\": 669.0}, \"flower_month\": 10, \"fruit_month\": 12}, \"Csa\": {\"trends\": {\"1\": 355.0, \"2\": 284.0, \"3\": 291.0, \"4\": 178.0, \"5\": 138.0, \"6\": 47.0, \"7\": 131.0, \"8\": 254.0, \"9\": 734.0, \"10\": 821.0, \"11\": 539.0, \"12\": 346.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Dfa\": {\"trends\": {\"1\": 20.0, \"2\": 10.0, \"3\": 12.0, \"4\": 14.0, \"5\": 11.0, \"6\": 1.0, \"7\": 7.0, \"8\": 12.0, \"9\": 61.0, \"10\": 93.0, \"11\": 26.0, \"12\": 18.0}, \"flower_month\": 10, \"fruit_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 91.33966892, \"2\": 219.304882, \"3\": 410.1986955, \"4\": 341.0745718, \"5\": 331.6085971, \"6\": 331.9897533, \"7\": 289.4334447, \"8\": 281.5500276, \"9\": 191.0361168, \"10\": 163.302666, \"11\": 125.4000234, \"12\": 105.0}, \"flower_month\": 3, \"fruit_month\": 6}, \"BWk\": {\"trends\": {\"1\": 12.53591659, \"2\": 28.41486705, \"3\": 76.68549906, \"4\": 79.56846502, \"5\": 66.80591328, \"6\": 51.73455591, \"7\": 66.56989148, \"8\": 71.4254062, \"9\": 41.92245882, \"10\": 32.79607636, \"11\": 15.30827068, \"12\": 13.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"BSk\": {\"trends\": {\"1\": 114.664554, \"2\": 161.7851023, \"3\": 462.9571736, \"4\": 473.5281876, \"5\": 350.3591675, \"6\": 322.9663172, \"7\": 323.4736742, \"8\": 329.368187, \"9\": 282.5422138, \"10\": 219.6330202, \"11\": 113.8696174, \"12\": 78.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 107.3732275, \"2\": 203.4429519, \"3\": 309.0847316, \"4\": 291.0783029, \"5\": 201.5943507, \"6\": 174.8419617, \"7\": 179.4456994, \"8\": 170.8307349, \"9\": 131.6007226, \"10\": 122.3536025, \"11\": 87.75073218, \"12\": 58.0}, \"flower_month\": 3, \"fruit_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 37.13042703, \"2\": 118.7619626, \"3\": 293.4382287, \"4\": 421.8790811, \"5\": 287.3722711, \"6\": 201.9090454, \"7\": 200.0994008, \"8\": 217.1800353, \"9\": 203.9544713, \"10\": 180.2290585, \"11\": 65.04644976, \"12\": 43.0}, \"flower_month\": 4, \"fruit_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Oils can be extracted from the peach kernels; peach wood can be used for sculptures.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Peach blossoms can moisturize skin and prevent wrinkles.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Peach is a fruit-bearing deciduous tree commonly found in orchards or gardens. It is prized for its rich foliage, which turns golden in autumn, and beautiful springtime blossoms. Its low-lying branches provide shade. Peaches can be a feature of a greenhouse or grow outdoors in milder climates or sheltered areas. Plant with shade-loving ground cover blooms such as daffodils or snowdrops for color contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Longevity, health, good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Peach trees have been cultivated for their fruit since the Stone Age, and may have been domesticated in China as long ago as 6000 BCE. Peaches have long held significance in Chinese literature and mythology, having been mentioned in ancient writings, and were held to have magical powers. To this day, China leads the world in peach production.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Peach",
+                "values": [
+                    "The ancient Romans called the plant \"Persian apple\", and then later changed Persian into peche, from old French. Gradually, it has become known as the peach."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   While peach fruit is edible, the <strong>twigs, leaves, and seeds contain cyanogenic glucosides</strong>, posing a severe threat to humans and animals. Ingestion can lead to difficulty breathing, shock, and potentially death. <strong>Veterinary care is advised</strong> for pets exhibiting symptoms. Avoid accidental ingestion as the cyanide in older, wilting parts is especially potent.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Prunus_persica.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Lanceolate leaves with serrated margins, 3-6 inches (7.6-15.2 cm) long",
+            "Pink flowers with five petals, 1-1.5 inches (2.5-3.8 cm) wide",
+            "Fruits measuring 2.5-3 inches (6.4-7.6 cm), yellow to deep red",
+            "Alternate leaves with toothed margins, 2-6 inches (5-15 cm) long",
+            "Stems with reddish young growth, 0.5 inches (1.2 cm) thick, regular branching pattern"
+        ],
+        "title": "Quickly Identify Peach",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Prunus-persica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peach, originating from a temperate climate, thrives with moderate water availability. Watering should be done every 1-2 weeks, maintaining even moisture without waterlogging. Its needs increase during active growth in spring and summer, while reducing in the dormant winter months.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth and fruit production in peach, use balanced fertilizers in spring, applying 1 pound per year per tree (up to 12 pounds for mature trees). Avoid late-season applications to prevent frost damage. A slow-release formula reduces root burn risk, benefiting all gardeners.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peach benefits from late winter pruning to encourage growth and improve fruit quality. Key techniques involve removing damaged branches, thinning crowds for air circulation, and shaping for sunlight access. Regular pruning promotes healthy growth, enhances fruit quality, and prevents disease, ensuring productive trees.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peach thrives in well-drained, fertile soils and sunny locations. Propagation involves semi-hardwood cuttings from healthy branches, ideally treated with rooting hormone. A humid, stable environment and consistent moisture levels are essential for successful rooting, which may take several weeks before new growth appears.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repotting 'peach' every 2-3 years during late winter is ideal for growth. Use a large container for root expansion, ensure consistent watering without overwatering, and apply a balanced slow-release fertilizer. 'peach' thrives in sunny spots and well-drained soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Prunus_persica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does peach grow best?",
+            "link": "/ask/Prunus_persica-0.html"
+        },
+        {
+            "q": "What is the difference between a peach and a nectarine?",
+            "link": "/ask/Prunus_persica-1.html"
+        },
+        {
+            "q": "How much water does a peach tree need?",
+            "link": "/ask/Prunus_persica-2.html"
+        },
+        {
+            "q": "When to prune peach trees?",
+            "link": "/ask/Prunus_persica-3.html"
+        },
+        {
+            "q": "What does peach taste like?",
+            "link": "/ask/Prunus_persica-4.html"
+        },
+        {
+            "q": "What is in a peach?",
+            "link": "/ask/Prunus_persica-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Shot hole disease",
+                "link": "/disease/Prunus-persica-Shot-hole-disease.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Prunus-persica-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Leaf curl",
+                "link": "/disease/Prunus-persica-Leaf-curl.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Prunus-persica-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Prunus-persica-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Prunus-persica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Prunus-persica-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Prunus-persica-Aphid.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Prunus-persica-Black-mold.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Prunus-persica-Spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Prunus-persica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Prunus-persica-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Prunus-persica-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Prunus-persica-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Prunus-persica-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Prunus-persica-Leaf-edges-turning-downwards.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Prunus-persica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Prunus-persica-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Prunus-persica-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Prunus-persica-Wounds.html"
+            },
+            {
+                "diseaseName": "Fruit damage",
+                "link": "/disease/Prunus-persica-Fruit-damage.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Prunus-persica-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Prunus-persica-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Stem withering",
+                "link": "/disease/Prunus-persica-Stem-withering.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Prunus-persica-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Prunus-persica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Prunus-persica-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Prunus-persica-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Prunus-persica-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Prunus-persica-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Prunus-persica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Prunus-persica-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Prunus-persica-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Prunus-persica-Spider-mite.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Prunus_persica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Prunus_persica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Prunus_persica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Prunus_persica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Prunus_persica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Prunus_persica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Prunus_persica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Prunus_persica.html",
+            "values": [
+                "Care Peach",
+                "Care Peach",
+                "Grow Peach",
+                "Maintain Peach",
+                "Peach Care",
+                "Peach Grow",
+                "Peach Maintain",
+                "Peach Cares",
+                "Growth Peach",
+                "Maintains Peach",
+                "Peach Growth",
+                "Peach Maintains",
+                "Peach Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Stem-withering.html",
+            "values": [
+                "Stem withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Shot-hole-disease.html",
+            "values": [
+                "Shot hole disease"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Fruit-damage.html",
+            "values": [
+                "Fruit damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-persica-Leaf-curl.html",
+            "values": [
+                "Leaf curl"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Prunus_persica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Prunus_persica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Prunus_persica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Prunus_persica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Prunus_persica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Prunus_persica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Prunus_persica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Prunus_persica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Prunus_persica.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Prunus_persica.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Prunus_persica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Prunus_persica.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Prunus_persica.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Prunus_persica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Prunus_persica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Prunus_persica.html"
+        }
+    ]
+}

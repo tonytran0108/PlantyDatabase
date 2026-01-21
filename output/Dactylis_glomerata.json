@@ -1,0 +1,714 @@
+{
+    "title": "Orchard grass (Dactylis glomerata) - PictureThis",
+    "displayName": "Orchard grass",
+    "otherCommonName": "Ascherson's orchard grass, Cat grass",
+    "mainImage": {
+        "copyright": {
+            "width": 765,
+            "height": 766,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153764076961398820.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20684442",
+                "authorLink": "https://www.inaturalist.org/people/jperalta",
+                "author": "jperalta",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153927702330474497.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/18982532",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918798863269915.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29136573",
+                "authorLink": "https://www.inaturalist.org/people/space_coyote",
+                "author": "space_coyote",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153851612689858577.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/14686177",
+                "authorLink": "https://www.inaturalist.org/users/231709",
+                "author": "William Terry Hunefeld",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153989854802214931.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Orchard grass (Dactylis glomerata) is native to Eurasia and was introduced to North America around the 18th century as a forage grass. Now it is widely naturalized in the U.S., Australia, and New Zealand. It is also called \"cat grass\" because our feline friends love to chew on it.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Orchard grass (Dactylis glomerata) is native to Eurasia and was introduced to North America around the 18th century as a forage grass. Now it is widely naturalized in the U.S., Australia, and New Zealand. It is also called \"cat grass\" because our feline friends love to chew on it.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Orchard grass (<i>Dactylis glomerata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Cock's-foot",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Dactylis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Grass",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1.4 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 20 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806504949612546.jpeg",
+        "habitat": "Meadows, waste places, roads, downs",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Orchard grass is native from the Mediterranean through much of Eurasia, growing in meadows, grasslands, and pastures. It has been widely introduced globally as a fodder plant. It is listed as invasive in some coastal areas of the US and across Australian habitats.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "376",
+                "358",
+                "429",
+                "387",
+                "387",
+                "353",
+                "580",
+                "869",
+                "817",
+                "699",
+                "598",
+                "450"
+            ],
+            "north": [
+                "3208",
+                "7571",
+                "20996",
+                "52091",
+                "52400",
+                "19446",
+                "12742",
+                "10295",
+                "7613",
+                "4264",
+                "1889",
+                "2112"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Psychic powers, Protection. It symbolizes food, concealment and hardiness.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Orchard grass",
+                "values": [
+                    "Orchardgrass is a relatively shade-tolerant cool-season perennial that can provide high yield and forage quality under good care and maintenance. It is well known as a desirable grass for horses, both for hay and pasture. Orchard in Old High German means that \"to cultivate a field\", so it is known as orchard grass."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Orchard grass is native to Eurasia but has spread throughout most temperate countries globally. It is considered invasive in the eastern United States and is frequently considered a weed. It has been cultivated in some areas, where it has been used for livestock, groundcover, and erosion control. However, its rapid growth and tolerance of a variety of soil conditions can allow it to outcompete native species. In contexts where it considered a nuisance, orchard grass can be controlled by plowing and herbicides. Grazing alone is typically ineffective.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing orchard grass is late Spring or early Summer when the plant is actively growing but before it gets the opportunity to seed. This helps prevent its spread across the garden. Here are a few methods of organic removal or control of orchard grass.\n  </div> \n  <ol> \n   <li>Hand-pulling: Make sure to remove the entire root system to prevent regrowth. Do so while the soil is wet as it makes the process easier.</li> \n   <li>Mowing: Regularly mow the garden to prevent orchard grass from setting seed, thereby controlling its spread.</li> \n   <li>Mulching: Using organic mulch blocks light and prevents orchard grass from growing. Apply a thick layer of mulch around the plants and replenish it periodically.</li> \n   <li>Solarization: This process involves covering the soil with clear plastic to trap the sun's heat, which kills orchard grass. First, moisten the area, then cover it with clear plastic and leave it for 4-6 weeks during a hot period.</li> \n   <li>Biologic control: Some gardeners use geese as they are excellent grazers of orchard grass. These birds can be an eco-friendly solution, but they should be monitored to make sure they don't harm other plants in the garden.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Erect stems with dense tufts and pyramid-shaped inflorescences.",
+            "Flat, rough-textured leaves with white midrib and bluish tint.",
+            "Spike-like panicles with small, single-seeded caryopsis fruits.",
+            "Geniculate stem bending at the base, smooth and green, up to 5 feet tall.",
+            "Inconspicuous greenish flowers in pyramidal clusters lacking showy petals."
+        ],
+        "title": "Quickly Identify Orchard grass",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Dactylis-glomerata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Orchard grass thrives in moderate moisture, preferring consistent watering of twice a week. It adapts to varying soil moisture levels, benefiting from outdoor dew and rainfall. Resilient and adaptable, orchard grass suits regions with fluctuating weather patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Orchard grass propagates best in Spring or Autumn via division, showcasing moderate difficulty. Success is indicated by new growth and healthy root establishment. Careful separation and replanting are essential, along with maintaining adequate soil moisture.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Dactylis_glomerata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "When should I plant orchard grass seeds?",
+            "link": "/ask/Dactylis_glomerata-0.html"
+        },
+        {
+            "q": "Can you broadcast orchard grass?",
+            "link": "/ask/Dactylis_glomerata-1.html"
+        },
+        {
+            "q": "What is orchard grass good for?",
+            "link": "/ask/Dactylis_glomerata-2.html"
+        },
+        {
+            "q": "How much does orchard grass cost?",
+            "link": "/ask/Dactylis_glomerata-3.html"
+        },
+        {
+            "q": "How long will orchard grass last?",
+            "link": "/ask/Dactylis_glomerata-4.html"
+        },
+        {
+            "q": "Is timothy or orchard grass better for horses?",
+            "link": "/ask/Dactylis_glomerata-5.html"
+        },
+        {
+            "q": "Is orchard grass a weed?",
+            "link": "/ask/Dactylis_glomerata-6.html"
+        },
+        {
+            "q": "Is orchard grass poisonous to pets?",
+            "link": "/ask/Dactylis_glomerata-7.html"
+        },
+        {
+            "q": "Is orchard grass annual or perennial?",
+            "link": "/ask/Dactylis_glomerata-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Dactylis-glomerata-White-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Dactylis-glomerata-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Dactylis-glomerata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Dactylis-glomerata-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Dactylis-glomerata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Dactylis-glomerata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Rust mold",
+                "link": "/disease/Dactylis-glomerata-Rust-mold.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Dactylis-glomerata-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Dactylis-glomerata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Dactylis-glomerata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Dactylis-glomerata-Whole-leaf-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Phaseolus vulgaris",
+                "link": "/wiki/Phaseolus_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/153923896989450273.jpeg",
+                "displayName": "Common bean"
+            },
+            {
+                "scientificName": "Nerium oleander",
+                "link": "/wiki/Nerium_oleander.html",
+                "imageUrl": "/wiki-image/1080/154122221399310354.jpeg",
+                "displayName": "Oleander"
+            },
+            {
+                "scientificName": "Zantedeschia aethiopica",
+                "link": "/wiki/Zantedeschia_aethiopica.html",
+                "imageUrl": "/wiki-image/1080/154110285685194784.jpeg",
+                "displayName": "Calla lily"
+            },
+            {
+                "scientificName": "Euphorbia peplus",
+                "link": "/wiki/Euphorbia_peplus.html",
+                "imageUrl": "/wiki-image/1080/154146204496691231.jpeg",
+                "displayName": "Petty spurge"
+            },
+            {
+                "scientificName": "Cynodon dactylon",
+                "link": "/wiki/Cynodon_dactylon.html",
+                "imageUrl": "/wiki-image/1080/153814100445495332.jpeg",
+                "displayName": "Bermuda grass"
+            },
+            {
+                "scientificName": "Agave americana",
+                "link": "/wiki/Agave_americana.html",
+                "imageUrl": "/wiki-image/1080/154158934779756565.jpeg",
+                "displayName": "Century plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Dactylis_glomerata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Dactylis_glomerata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Dactylis_glomerata.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Dactylis_glomerata.html",
+            "values": [
+                "Care Orchard grass",
+                "Care Orchard grass",
+                "Grow Orchard grass",
+                "Maintain Orchard grass",
+                "Orchard grass Care",
+                "Orchard grass Grow",
+                "Orchard grass Maintain",
+                "Orchard grass Cares",
+                "Growth Orchard grass",
+                "Maintains Orchard grass",
+                "Orchard grass Growth",
+                "Orchard grass Maintains",
+                "Orchard grass Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dactylis-glomerata-Rust-mold.html",
+            "values": [
+                "Rust mold"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Dactylis_glomerata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Dactylis_glomerata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Dactylis_glomerata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Dactylis_glomerata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Dactylis_glomerata.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Dactylis_glomerata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Dactylis_glomerata.html"
+        }
+    ]
+}

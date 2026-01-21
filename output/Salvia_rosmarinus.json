@@ -1,0 +1,943 @@
+{
+    "title": "Rosemary (Salvia rosmarinus) - PictureThis",
+    "displayName": "Rosemary",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 2121,
+            "height": 1414,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/rosemary-twig-on-wooden-board-gm480509697-36412472",
+            "authorLink": "",
+            "author": "TKphotography64",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317763168290045952.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3486545",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153740192648265742.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 378,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7938458",
+                "authorLink": "https://www.inaturalist.org/people/dloarie",
+                "author": "dloarie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152435385878708225.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 330,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/14325408",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153773388450496512.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5182919",
+                "authorLink": "https://www.inaturalist.org/people/jordi_m_r",
+                "author": "jordi_m_r",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153976351425036326.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Rosemary is a herb with pale flowers and evergreen leaves. It gives off a distinctive scent and is used in cooking as well as in the making of scented perfumes, soaps, and candles. Rosemary is native to the Mediterranean region where evidence of its use by humans dates back at least 7000 years.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Rosemary is a herb with pale flowers and evergreen leaves. It gives off a distinctive scent and is used in cooking as well as in the making of scented perfumes, soaps, and candles. Rosemary is native to the Mediterranean region where evidence of its use by humans dates back at least 7000 years.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Rosemary (<i>Salvia rosmarinus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Sages",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Salvia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "All year round",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   61 cm to 1.8 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Winter",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803378213421061.jpeg",
+        "habitat": "Dry scrub and rocky places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The rosemary plant is native to the Mediterranean region, growing in rocky soil or along the edges of evergreen forests. It is widely cultivated around the world in temperate climates. In the southern United States, it is often grown in herb gardens or as an ornamental plant.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 31.33130477, \"2\": 33.67869759, \"3\": 42.63319279, \"4\": 36.25646486, \"5\": 43.23471462, \"6\": 44.0, \"7\": 39.20383787, \"8\": 33.60906475, \"9\": 28.83967873, \"10\": 26.12850183, \"11\": 32.00592417, \"12\": 31.76754214}, \"flower_month\": 6}, \"BWk\": {\"trends\": {\"1\": 42.6473439, \"2\": 33.76592433, \"3\": 42.32093723, \"4\": 33.14326161, \"5\": 54.75605327, \"6\": 49.0, \"7\": 47.44714843, \"8\": 48.64254726, \"9\": 30.38992731, \"10\": 32.44255285, \"11\": 31.00401184, \"12\": 34.0711735}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 503.1953248, \"2\": 503.6960464, \"3\": 519.3974697, \"4\": 572.2073868, \"5\": 547.7351628, \"6\": 507.0, \"7\": 564.5345107, \"8\": 530.4165467, \"9\": 510.8438844, \"10\": 469.3796364, \"11\": 456.8971535, \"12\": 502.1463938}, \"flower_month\": 4}, \"Cfb\": {\"trends\": {\"1\": 172.6521656, \"2\": 159.1306353, \"3\": 204.6547947, \"4\": 177.3060096, \"5\": 183.6174523, \"6\": 202.0, \"7\": 239.9778556, \"8\": 239.4644714, \"9\": 219.5511859, \"10\": 187.2230992, \"11\": 155.330011, \"12\": 184.3120246}, \"flower_month\": 7}, \"Csa\": {\"trends\": {\"1\": 141.4587348, \"2\": 140.1820518, \"3\": 176.5218637, \"4\": 184.8307333, \"5\": 158.7399493, \"6\": 184.0, \"7\": 192.4576969, \"8\": 190.9168429, \"9\": 152.3606303, \"10\": 147.2030154, \"11\": 145.7505916, \"12\": 131.9756298}, \"flower_month\": 7}, \"Csb\": {\"trends\": {\"1\": 57.46719779, \"2\": 71.11212582, \"3\": 70.27494779, \"4\": 63.86027726, \"5\": 83.47395456, \"6\": 75.0, \"7\": 90.60245637, \"8\": 93.80751861, \"9\": 68.11810608, \"10\": 77.19919173, \"11\": 54.24681922, \"12\": 74.04363823}, \"flower_month\": 8}, \"Default\": {\"trends\": {\"1\": 1574.138817, \"2\": 1552.660945, \"3\": 1741.632042, \"4\": 1681.304421, \"5\": 1635.156499, \"6\": 1652.0, \"7\": 1759.692457, \"8\": 1762.337634, \"9\": 1660.208395, \"10\": 1550.209526, \"11\": 1492.250954, \"12\": 1626.351172}, \"flower_month\": 8}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 583.449402, \"2\": 631.0933478, \"3\": 650.4944432, \"4\": 574.6105776, \"5\": 527.3613349, \"6\": 559.3599224, \"7\": 622.3380389, \"8\": 589.6119363, \"9\": 625.3293643, \"10\": 585.7123838, \"11\": 586.3534945, \"12\": 601.0}, \"flower_month\": 3}, \"Csb\": {\"trends\": {\"1\": 224.2420465, \"2\": 229.9501769, \"3\": 257.2665121, \"4\": 212.7531025, \"5\": 178.6534842, \"6\": 172.6137294, \"7\": 188.4768834, \"8\": 218.5285425, \"9\": 218.8834641, \"10\": 241.9052142, \"11\": 299.0024948, \"12\": 241.0}, \"flower_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 1029.254185, \"2\": 900.0535277, \"3\": 943.9884144, \"4\": 822.1997598, \"5\": 773.8551623, \"6\": 854.5207325, \"7\": 916.3246287, \"8\": 878.403773, \"9\": 876.9364972, \"10\": 1054.402689, \"11\": 1139.047418, \"12\": 1254.0}, \"flower_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 575.143129, \"2\": 634.5551842, \"3\": 778.2917004, \"4\": 784.9865459, \"5\": 681.6575734, \"6\": 634.9451001, \"7\": 619.5239635, \"8\": 665.2466921, \"9\": 669.3304738, \"10\": 620.0631456, \"11\": 599.6780261, \"12\": 606.0}, \"flower_month\": 4}, \"BWk\": {\"trends\": {\"1\": 50.0, \"2\": 63.0, \"3\": 146.0, \"4\": 257.0, \"5\": 242.0, \"6\": 200.0, \"7\": 173.0, \"8\": 140.0, \"9\": 147.0, \"10\": 108.0, \"11\": 79.0, \"12\": 52.0}, \"flower_month\": 4}, \"BSk\": {\"trends\": {\"1\": 438.0, \"2\": 480.0, \"3\": 971.0, \"4\": 1448.0, \"5\": 1698.0, \"6\": 1367.0, \"7\": 973.0, \"8\": 896.0, \"9\": 813.0, \"10\": 722.0, \"11\": 417.0, \"12\": 372.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 927.0, \"2\": 805.0, \"3\": 1331.0, \"4\": 2533.0, \"5\": 4424.0, \"6\": 3591.0, \"7\": 2562.0, \"8\": 2051.0, \"9\": 1736.0, \"10\": 1594.0, \"11\": 1101.0, \"12\": 984.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 424.0, \"2\": 498.0, \"3\": 922.0, \"4\": 1779.0, \"5\": 2958.0, \"6\": 2279.0, \"7\": 1624.0, \"8\": 1393.0, \"9\": 1152.0, \"10\": 943.0, \"11\": 559.0, \"12\": 452.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 6842.0, \"2\": 7888.0, \"3\": 14329.0, \"4\": 22070.0, \"5\": 28667.0, \"6\": 22540.0, \"7\": 16754.0, \"8\": 14669.0, \"9\": 12486.0, \"10\": 10780.0, \"11\": 7175.0, \"12\": 6104.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Rosemary (Salvia rosmarinus) is one of the world's best-known and most grown herbs. This plant is very aromatic, making it a good choice for patios and containers in a cottage or informal garden. It also makes a good bed and border plant, attracting bees. This is a fast-growing herb that is easy to care for and grows well with other herbs like sage and vegetables like broad bean and squashes.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Commitment, Intellect, Fidelity, Healing Balm, Constancy, Well-Being",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The name is derived from the Latin Ã¢ÂÂros marinusÃ¢ÂÂ meaning Ã¢ÂÂdew of the sea.Ã¢ÂÂ The plant is originally native to the Mediterranean where it grows best by the sea; its leaves glistening in dewy sea spray on a sunny morning likely inspired its lovely name. Rosemary has many culinary uses and is used in folk medicines.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Rosemary",
+                "values": [
+                    "The naming of this plant comes from the combination of rose and Mary in which Mary refers to the flower symbolizing the Virgin Mary. After the mid-nineteenth century when flower names became common, it then also referred to as herb rosemary."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Oppositely arranged needle-like leaves release a strong aroma when bruised.",
+            "Flowers are tiny, 2-lipped, and display colors ranging from pale blue to pink.",
+            "Fruit is a schizocarp divided into 4 chambers, each containing a single nutlet.",
+            "Stem starts soft and green, becoming woody with denser branching as it matures.",
+            "Overall plant reaches 4-5 feet (1.2-1.5 meters) with erect growth, exhibiting a rounded form."
+        ],
+        "title": "Quickly Identify Rosemary",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Salvia-rosmarinus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Rosemary thrives in the Mediterranean climate, preferring well-drained soil and full sun. It can withstand dry periods but requires weekly watering for optimal growth. As an evergreen, consistent moisture is key for vibrant foliage, making it ideal for outdoor planting with rainfall support.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To maintain rosemary's health, use balanced fertilizers (5-5-5) semi-annually in spring and mid-summer. Apply high nitrogen during growth for foliage strength, but reduce in colder seasons. Opt for slow-release fertilizers, and always water rosemary post-feeding for optimal nutrient absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Rosemary is an evergreen shrub with aromatic, needle-like leaves and blue flowers. Prune in late spring after flowering, trimming one-third of new growth to promote dense growth. Proper pruning timing and technique enhance the plant's health and ornamental value.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Rosemary propagates best in Spring and Summer through cuttings, which present a moderate difficulty. Successful propagation is indicated by new growth and bud formation. Maintaining consistent humidity is essential for optimal root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot rosemary every 2-3 years in early spring, using a container one size larger. After repotting, provide bright, indirect light and water sparingly to prevent root rot. Ensure the pot has good drainage for optimal growth and recovery, avoiding compacted soils.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Salvia_rosmarinus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is the use of rosemary?",
+            "link": "/ask/Salvia_rosmarinus-0.html"
+        },
+        {
+            "q": "Can you eat rosemary?",
+            "link": "/ask/Salvia_rosmarinus-1.html"
+        },
+        {
+            "q": "Where does rosemary grow best?",
+            "link": "/ask/Salvia_rosmarinus-2.html"
+        },
+        {
+            "q": "Can you drink rosemary tea everyday?",
+            "link": "/ask/Salvia_rosmarinus-3.html"
+        },
+        {
+            "q": "Does rosemary need a lot of water?",
+            "link": "/ask/Salvia_rosmarinus-4.html"
+        },
+        {
+            "q": "What is the best time to plant rosemary ?",
+            "link": "/ask/Salvia_rosmarinus-5.html"
+        },
+        {
+            "q": "Why do my rosemary plants keep dying?",
+            "link": "/ask/Salvia_rosmarinus-6.html"
+        },
+        {
+            "q": "Is rosemary bad for high blood pressure?",
+            "link": "/ask/Salvia_rosmarinus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Salvia-rosmarinus-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Salvia-rosmarinus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Salvia-rosmarinus-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Salvia-rosmarinus-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Salvia-rosmarinus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf mites",
+                "link": "/disease/Salvia-rosmarinus-Leaf-mites.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Salvia-rosmarinus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Salvia-rosmarinus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Salvia-rosmarinus-White-blotch.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Salvia-rosmarinus-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Salvia-rosmarinus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Salvia-rosmarinus-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Salvia-rosmarinus-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Salvia-rosmarinus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Salvia-rosmarinus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Salvia-rosmarinus-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Salvia-rosmarinus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Salvia-rosmarinus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Salvia-rosmarinus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Salvia-rosmarinus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Salvia-rosmarinus-Scars.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Salvia-rosmarinus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Salvia-rosmarinus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Salvia-rosmarinus-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Yucca filamentosa",
+                "link": "/wiki/Yucca_filamentosa.html",
+                "imageUrl": "/wiki-image/1080/348133586415026176.jpeg",
+                "displayName": "Adam's needle"
+            },
+            {
+                "scientificName": "Acalypha hispida",
+                "link": "/wiki/Acalypha_hispida.html",
+                "imageUrl": "/wiki-image/1080/153720581827592197.jpeg",
+                "displayName": "Red hot cat's tail"
+            },
+            {
+                "scientificName": "Podranea ricasoliana",
+                "link": "/wiki/Podranea_ricasoliana.html",
+                "imageUrl": "/wiki-image/1080/154190116242325527.jpeg",
+                "displayName": "Pink trumpet vine"
+            },
+            {
+                "scientificName": "Hibiscus schizopetalus",
+                "link": "/wiki/Hibiscus_schizopetalus.html",
+                "imageUrl": "/wiki-image/1080/393494690238824448.jpeg",
+                "displayName": "Spider hibiscus"
+            },
+            {
+                "scientificName": "Ocimum basilicum",
+                "link": "/wiki/Ocimum_basilicum.html",
+                "imageUrl": "/wiki-image/1080/154124016695640087.jpeg",
+                "displayName": "Sweet basil"
+            },
+            {
+                "scientificName": "Kalanchoe gastonis-bonnieri",
+                "link": "/wiki/Kalanchoe_gastonis-bonnieri.html",
+                "imageUrl": "/wiki-image/1080/154032001316290594.jpeg",
+                "displayName": "Donkey ears"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Salvia_rosmarinus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Salvia_rosmarinus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Salvia_rosmarinus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Salvia_rosmarinus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Salvia_rosmarinus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Salvia_rosmarinus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Salvia_rosmarinus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Salvia_rosmarinus.html",
+            "values": [
+                "Care Rosemary",
+                "Care Rosemary",
+                "Grow Rosemary",
+                "Maintain Rosemary",
+                "Rosemary Care",
+                "Rosemary Grow",
+                "Rosemary Maintain",
+                "Rosemary Cares",
+                "Growth Rosemary",
+                "Maintains Rosemary",
+                "Rosemary Growth",
+                "Rosemary Maintains",
+                "Rosemary Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salvia-rosmarinus-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Salvia_rosmarinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Salvia_rosmarinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Salvia_rosmarinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Salvia_rosmarinus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Salvia_rosmarinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Salvia_rosmarinus.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Salvia_rosmarinus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Salvia_rosmarinus.html"
+        }
+    ]
+}

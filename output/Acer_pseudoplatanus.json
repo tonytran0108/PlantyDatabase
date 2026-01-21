@@ -1,0 +1,914 @@
+{
+    "title": "Sycamore (Acer pseudoplatanus) - PictureThis",
+    "displayName": "Sycamore",
+    "otherCommonName": "Great maple, Plane maple, Lock-and-key-tree",
+    "mainImage": {
+        "copyright": {
+            "width": 6016,
+            "height": 4016,
+            "copyrightType": "Authorized",
+            "referral": "",
+            "authorLink": "",
+            "author": "janstudio",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/157430179440885766.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10515612",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153670184681340966.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.flickr.com/photos/33037982@N04/5874189213/",
+                "authorLink": "",
+                "author": "Leonora (Ellie) Enking",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154143593156575264.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 1280,
+                "copyrightType": "CC",
+                "referral": "https://pixabay.com/ja/photos/%E5%B1%B1%E3%82%82%E3%81%BF%E3%81%98-%E3%82%B7%E3%82%AB%E3%83%A2%E3%82%A2-%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB-10562/",
+                "authorLink": "",
+                "author": "Hans",
+                "licenseLink": "",
+                "license": "PUBLIC-DOMAIN"
+            },
+            "imageUrl": "/wiki-image/1080/154147514461716480.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 799,
+                "height": 532,
+                "copyrightType": "CC",
+                "referral": "https://www.flickr.com/photos/nestmaker/4714839323/",
+                "authorLink": "",
+                "author": "Megan Hansen",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154162946279211008.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Sycamore 'Worley'",
+            "link": "/wiki/Acer_pseudoplatanus__Worley_.html"
+        },
+        {
+            "displayName": "Tricolor sycamore maple",
+            "link": "/wiki/Acer_pseudoplatanus__Leopoldii_.html"
+        },
+        {
+            "displayName": "Sycamore 'Atropurpureum'",
+            "link": "/wiki/Acer_pseudoplatanus__Atropurpureum_.html"
+        },
+        {
+            "displayName": "Sycamore 'Brilliantissimum'",
+            "link": "/wiki/Acer_pseudoplatanus__Brilliantissimum_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Sycamore (Acer pseudoplatanus) is a tree native to Europe and Asia. Sycamore is tolerant of wind and coastal exposure. This species is known as the sycamore maple in the United States. Sycamore wood is commercially used to make musical instruments, furniture, joinery, wood flooring and kitchen utensils.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Sycamore (Acer pseudoplatanus) is a tree native to Europe and Asia. Sycamore is tolerant of wind and coastal exposure. This species is known as the sycamore maple in the United States. Sycamore wood is commercially used to make musical instruments, furniture, joinery, wood flooring and kitchen utensils.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Sycamore (<i>Acer pseudoplatanus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Maples",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Acer.html"
+            },
+            {
+                "type": "Family",
+                "name": "Soapberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Sapindaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 m to 35 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   8 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801952284278789.jpeg",
+        "habitat": "Woodland, hedgerows",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Sycamore is a tree species native to various regions across the European continent, from temperate zones to parts of the Mediterranean basin. It is widely cultivated for ornamental purposes and thrives across diverse climates. Sycamore has been introduced to several continents, including parts of North and South America, Asia, and Oceania. While sycamore is generally considered to have a low threat of invasion, it is sometimes thought to be potentially challenging to local ecosystems in certain areas where it is not native, such as Ireland and New Zealand. However, the impacts are often subdued due to controlled cultivation practices.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 26.09160943, \"2\": 21.48466549, \"3\": 22.00836736, \"4\": 18.86397978, \"5\": 13.53415373, \"6\": 35.0, \"7\": 20.90868558, \"8\": 25.67714956, \"9\": 92.44970529, \"10\": 49.0396635, \"11\": 34.84251674, \"12\": 36.57088582}, \"fall_foliage_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 40.44993594, \"2\": 45.94148048, \"3\": 46.17211832, \"4\": 36.18489991, \"5\": 25.21784752, \"6\": 24.0, \"7\": 27.27021086, \"8\": 41.36204506, \"9\": 96.64454114, \"10\": 104.9013847, \"11\": 90.06983278, \"12\": 66.08386316}, \"fall_foliage_month\": 3}, \"Default\": {\"trends\": {\"1\": 117.1419904, \"2\": 113.0289577, \"3\": 120.371977, \"4\": 91.92022184, \"5\": 80.44529641, \"6\": 98.0, \"7\": 74.23256444, \"8\": 112.3402476, \"9\": 312.7150816, \"10\": 287.6741525, \"11\": 210.6620874, \"12\": 175.9658646}, \"fall_foliage_month\": 3}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 16.73935095, \"2\": 16.10183482, \"3\": 25.94349378, \"4\": 38.72365795, \"5\": 24.53248678, \"6\": 18.29069861, \"7\": 11.66546684, \"8\": 15.59682222, \"9\": 36.18388024, \"10\": 33.29400306, \"11\": 35.86444641, \"12\": 26.0}, \"fall_foliage_month\": 9}, \"Csa\": {\"trends\": {\"1\": 17.44243354, \"2\": 17.88222001, \"3\": 32.09270498, \"4\": 37.9710317, \"5\": 32.79163326, \"6\": 16.83322904, \"7\": 16.68963752, \"8\": 30.43661881, \"9\": 18.97675817, \"10\": 27.65403134, \"11\": 32.09331257, \"12\": 24.0}, \"fall_foliage_month\": 11}, \"Csb\": {\"trends\": {\"1\": 2.191290357, \"2\": 4.638764376, \"3\": 11.67734523, \"4\": 16.21149497, \"5\": 8.439386145, \"6\": 8.170185128, \"7\": 4.908252172, \"8\": 5.184544306, \"9\": 3.721357195, \"10\": 6.537978761, \"11\": 17.06264237, \"12\": 7.0}, \"fall_foliage_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 20.65116745, \"2\": 21.6941153, \"3\": 56.33814244, \"4\": 78.50760105, \"5\": 75.92196036, \"6\": 54.08359067, \"7\": 43.35585326, \"8\": 60.03128852, \"9\": 63.82877861, \"10\": 75.37708335, \"11\": 92.37582945, \"12\": 40.0}, \"fall_foliage_month\": 11}, \"Cfb\": {\"trends\": {\"1\": 296.0295517, \"2\": 370.3730259, \"3\": 1617.565088, \"4\": 2110.425331, \"5\": 1506.980805, \"6\": 956.9293396, \"7\": 757.1708419, \"8\": 879.4915393, \"9\": 1114.957096, \"10\": 1636.094661, \"11\": 1254.444585, \"12\": 500.0}, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 128.7188137, \"2\": 137.5900786, \"3\": 248.6454773, \"4\": 464.3835115, \"5\": 378.2652844, \"6\": 223.7370503, \"7\": 135.8608477, \"8\": 175.8473484, \"9\": 436.7763447, \"10\": 973.0636188, \"11\": 588.6302182, \"12\": 241.0}, \"fall_foliage_month\": 10}, \"Default\": {\"trends\": {\"1\": 549.8720635, \"2\": 601.4035763, \"3\": 2256.832578, \"4\": 3109.427698, \"5\": 2478.41928, \"6\": 1581.042893, \"7\": 1118.830656, \"8\": 1438.218769, \"9\": 1874.844454, \"10\": 2908.003019, \"11\": 2145.832326, \"12\": 879.0}, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Sycamore is an ornamental tree, often utilized in hedgerows as a sturdy windbreaker and shade tree. When used as a shelterbelt or barrier, it protects other vegitation and prevents soil erosion, benefiting its enviroment. This is a practical street tree and useful in landscape designs.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Divination, Love, Reserve, Retirement, Draws together",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The sycamore is an extremely cold-hardy tree and is able to cope with wind, atmospheric pollution, and salt spray (which makes it useful for planting along roads treated with salt in winter). Its range has spread from northern Europe as far as TromsÃÂ¸ in Norway, ReykjavÃÂ­k in Iceland and Torshavn on the Faroe Islands.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Sycamore",
+                "values": [
+                    "The name sycamore comes from two Greek words meaning Ã¢ÂÂfig mulberry.Ã¢ÂÂ Acer is the genus encompassing all maples. Pseudoplatanus translates as false plane tree, used because the leaves and bark are similar to those of the plane tree."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Sycamore poses mild toxicity to humans, cats, and dogs</strong>. <strong>All parts of the plant are toxic</strong> and can cause symptoms such as gastrointestinal distress and hypoglycemia in humans, and vomiting, diarrhea, and lethargy in pets. Hypoglycin A and Pyrogallol contribute to its toxic effects. Immediate medical or veterinary care is advised for suspected poisoning. Monitor pets for unusual behavior if exposure is suspected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Acer_pseudoplatanus.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Leaves are broad, 5-lobed, and serrated, resembling an outstretched hand, reaching up to 6 inches (15 cm).",
+            "Fruit consists of 2-inch (5 cm) winged samaras with twin wings forming a 60-degree angle for wind dispersal.",
+            "Trunk bark showcases flaking layers, revealing vibrant orange inner bark, transitioning from smooth to rugged textures.",
+            "Stem is robust, gray-brown, slightly four-sided, with distinct leaf scars not meeting, supporting a widespread canopy.",
+            "Flowers are modest, yellow-green, fragrant-less, cluster in panicles up to 5 inches (12.7 cm) long during spring."
+        ],
+        "title": "Quickly Identify Sycamore",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Acer-pseudoplatanus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sycamore thrives in temperate climates with moderate moisture and tolerates short dry spells. Water every two weeks to avoid over-saturation. Primarily cultivated outdoors, sycamore is a deciduous tree whose water needs decrease during dormancy in colder months.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For sycamore, using a balanced nutrition and high nitrogen fertilizer promotes sturdy growth, ideally applied in spring and repeated semi-annually. Avoid fertilizing near dormancy. Apply gloves, and distribute fertilizer at the drip line to enhance vigor and leaf quality without overloading nutrients.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sycamore is a fast-growing deciduous tree with broad, maple-like leaves. Prune in early spring to remove dead or crowded branches for better air circulation and health. Use sharp, clean tools to minimize damage and promote healing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sycamore propagates well by sowing fresh seeds, following cold stratification to break dormancy. Use well-drained soil with adequate moisture and ensure optimal conditions for seedlings. Note that sycamore may have a slower germination rate than other species, requiring patience.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Acer_pseudoplatanus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What does the name sycamore mean?",
+            "link": "/ask/Acer_pseudoplatanus-0.html"
+        },
+        {
+            "q": "What is sycamore used for?",
+            "link": "/ask/Acer_pseudoplatanus-1.html"
+        },
+        {
+            "q": "What is the spiritual meaning of sycamore tree?",
+            "link": "/ask/Acer_pseudoplatanus-2.html"
+        },
+        {
+            "q": "What is special about a sycamore tree?",
+            "link": "/ask/Acer_pseudoplatanus-3.html"
+        },
+        {
+            "q": "Are sycamore trees bad?",
+            "link": "/ask/Acer_pseudoplatanus-4.html"
+        },
+        {
+            "q": "Can you eat sycamore tree fruit?",
+            "link": "/ask/Acer_pseudoplatanus-5.html"
+        },
+        {
+            "q": "Is the sycamore an evergreen?",
+            "link": "/ask/Acer_pseudoplatanus-6.html"
+        },
+        {
+            "q": "Where is sycamore native?",
+            "link": "/ask/Acer_pseudoplatanus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Acer-pseudoplatanus-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Acer-pseudoplatanus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Acer-pseudoplatanus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Acer-pseudoplatanus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Acer-pseudoplatanus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Acer-pseudoplatanus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Acer-pseudoplatanus-Wounds.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Acer-pseudoplatanus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Acer-pseudoplatanus-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Acer-pseudoplatanus-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Acer-pseudoplatanus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Acer-pseudoplatanus-Spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Acer-pseudoplatanus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Acer-pseudoplatanus-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Acer-pseudoplatanus-Scars.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Acer-pseudoplatanus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Acer-pseudoplatanus-Aphid.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Carpobrotus chilensis",
+                "link": "/wiki/Carpobrotus_chilensis.html",
+                "imageUrl": "/wiki-image/1080/154134002494603295.jpeg",
+                "displayName": "Sea fig"
+            },
+            {
+                "scientificName": "Verbesina alternifolia",
+                "link": "/wiki/Verbesina_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/153777142251913216.jpeg",
+                "displayName": "Wingstem"
+            },
+            {
+                "scientificName": "Thespesia populnea",
+                "link": "/wiki/Thespesia_populnea.html",
+                "imageUrl": "/wiki-image/1080/153990060960645148.jpeg",
+                "displayName": "Portia Tree"
+            },
+            {
+                "scientificName": "Phyllanthus urinaria",
+                "link": "/wiki/Phyllanthus_urinaria.html",
+                "imageUrl": "/wiki-image/1080/153982368674218025.jpeg",
+                "displayName": "Chamber bitter"
+            },
+            {
+                "scientificName": "Corynocarpus laevigatus",
+                "link": "/wiki/Corynocarpus_laevigatus.html",
+                "imageUrl": "/wiki-image/1080/152551642053476354.jpeg",
+                "displayName": "New Zealand laurel"
+            },
+            {
+                "scientificName": "Pilea microphylla",
+                "link": "/wiki/Pilea_microphylla.html",
+                "imageUrl": "/wiki-image/1080/154077016868519947.jpeg",
+                "displayName": "Artillery plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Acer_pseudoplatanus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Acer_pseudoplatanus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Acer_pseudoplatanus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Acer_pseudoplatanus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Acer_pseudoplatanus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Acer_pseudoplatanus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Acer_pseudoplatanus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Acer_pseudoplatanus.html",
+            "values": [
+                "Care Sycamore",
+                "Care Sycamore",
+                "Grow Sycamore",
+                "Maintain Sycamore",
+                "Sycamore Care",
+                "Sycamore Grow",
+                "Sycamore Maintain",
+                "Sycamore Cares",
+                "Growth Sycamore",
+                "Maintains Sycamore",
+                "Sycamore Growth",
+                "Sycamore Maintains",
+                "Sycamore Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-pseudoplatanus-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Acer_pseudoplatanus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Acer_pseudoplatanus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Acer_pseudoplatanus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Acer_pseudoplatanus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Acer_pseudoplatanus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Acer_pseudoplatanus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Acer_pseudoplatanus.html"
+        }
+    ]
+}

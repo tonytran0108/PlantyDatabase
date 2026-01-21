@@ -1,0 +1,936 @@
+{
+    "title": "Sugarberry (Celtis laevigata) - PictureThis",
+    "displayName": "Sugarberry",
+    "otherCommonName": "Netleaf hackberry, Southern hackberry",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201171728366403584.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16708815",
+                "authorLink": "https://www.inaturalist.org/people/madisong",
+                "author": "madisong",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153880354611003407.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16474855",
+                "authorLink": "https://www.inaturalist.org/people/madisong",
+                "author": "madisong",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153926065947934768.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23303443",
+                "authorLink": "https://www.inaturalist.org/people/madisong",
+                "author": "madisong",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153944688926130210.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9671339",
+                "authorLink": "https://www.inaturalist.org/people/kenkneidel",
+                "author": "kenkneidel",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153857363651067904.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a moderate rate, sugarberry actively develops during Spring and Summer. This tempo provides a balanced surge in height and leaf production. Approaching warmer seasons, gradual unfolding of its signature branching pattern and increased trunk thickness can be witnessed, reflecting its moderate growth rhythm.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Celtis laevigata, commonly known as sugarberry, is a deciduous medium-sized tree native to North America. It is often found near water - on floodplains, along rivers and streams. There are many species of birds, small mammals, and insects that use sugarberry's fruits and leaves as a source of food, which makes it a very important part of the ecosystem.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Celtis laevigata, commonly known as sugarberry, is a deciduous medium-sized tree native to North America. It is often found near water - on floodplains, along rivers and streams. There are many species of birds, small mammals, and insects that use sugarberry's fruits and leaves as a source of food, which makes it a very important part of the ecosystem.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Sugarberry (<i>Celtis laevigata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Hackberries",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Celtis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Hemp",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Cannabaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   18 m to 24 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 18 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801548557352960.jpeg",
+        "habitat": "Streams, flood plains, rocky slopes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Sugarberry is native to the southern and eastern parts of the United States, south into Mexico, and in Bermuda. It has also been introduced into Iraq and Tajikistan. It thrives in moist ecosystems along streams and in floodplains in warmer and more humid climates and is used in the United States to make hackberry lumber.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "12",
+                "24",
+                "28",
+                "24",
+                "13",
+                "13",
+                "10",
+                "35",
+                "27",
+                "28",
+                "8",
+                "15"
+            ],
+            "north": [
+                "6661",
+                "14696",
+                "39597",
+                "42065",
+                "33165",
+                "20711",
+                "16172",
+                "18855",
+                "17314",
+                "8568",
+                "4567",
+                "5460"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The sugarberry tree contains a lot of sweet nectar and delicious sweet fruits, making it perfect as a specimen or shade tree in butterfly or wildlife gardens. It also provides ornamental value to the garden, even during winter, due to its textured bark and red berries. This tree can thrive even in sandy soils and is resistant to deer.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Deductive ability, optimism, impulsiveness, nobility, resilience, pride, the dedication needed to achieve one's goals",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Sugarberry is somewhat hated in Texas within the United States, and often referred to as a 'trash tree.' Some Texas hate sugarberry because its wood is considered brittle and weak. In addition, people think less of this tree because it is susceptible to parasites and unattractive deformities. Two common deformities called Nipple Leaf Gall and Witches Broom. Despite this, many companies still use sugarberry to make furniture, and it is common throughout Texas.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Sugarberry",
+                "values": [
+                    "According to statistics, about 70 types of celtis plants are called sugarberry. However, if someone is selling sugarberry, it must be referring to Celtis laevigata because its sweet berries are loved by at least a dozen types of birds or animals."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive warty bark texture lasting into winter months.",
+            "Ovate to oblong-lanceolate leaves, 2-4 inches long, glossy to dull green.",
+            "Small greenish flowers in April and May, up to 0.2 inches across.",
+            "Deep purple drupe fruit, 0.25-0.5 inches in diameter, sweet flesh.",
+            "Slender twigs with smooth texture, small lenticels, and alternate branching."
+        ],
+        "title": "Quickly Identify Sugarberry",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Celtis-laevigata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sugarberry thrives in warm North American regions, requiring well-draining soil and moderate drought tolerance. Water every 1-2 weeks, allowing soil to dry slightly. Best suited for outdoor growth, it benefits from rainwater, mimicking its natural habitat's precipitation patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sugarberry thrives with a balanced fertilizer (10-10-10) in spring and a high-nitrogen option for leaf growth. Fertilize twice a year, using 1-2 cups per inch of trunk diameter, ensuring proper watering afterward. Reduce frequency as sugarberry matures to prevent over-fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sugarberry thrives with early spring pruning, focusing on dead or damaged branches and crossing limbs to enhance growth, air circulation, and light access. Minimal pruning is recommended to retain natural shape, preventing disease and promoting vigorous regrowth for longevity and visual appeal.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sugarberry propagates easily in autumn and winter through methods like hardwood cuttings, layering, and seed sowing. Success entails healthy root and shoot growth, requiring proper moisture levels and consistent care for effective propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Celtis_laevigata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Does the sugarberry drop its leaves?",
+            "link": "/ask/Celtis_laevigata-0.html"
+        },
+        {
+            "q": "Where is sugarberry's native territory?",
+            "link": "/ask/Celtis_laevigata-1.html"
+        },
+        {
+            "q": "What is sugarberry good for?",
+            "link": "/ask/Celtis_laevigata-2.html"
+        },
+        {
+            "q": "How do you take care of a sugarberry tree?",
+            "link": "/ask/Celtis_laevigata-3.html"
+        },
+        {
+            "q": "Why is it called sugarberry?",
+            "link": "/ask/Celtis_laevigata-4.html"
+        },
+        {
+            "q": "Is sugarberry tolerant to cold?",
+            "link": "/ask/Celtis_laevigata-5.html"
+        },
+        {
+            "q": "When does sugarberry bloom?",
+            "link": "/ask/Celtis_laevigata-6.html"
+        },
+        {
+            "q": "Does sugarberry grow quickly?",
+            "link": "/ask/Celtis_laevigata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Celtis-laevigata-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Celtis-laevigata-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Celtis-laevigata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Celtis-laevigata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Celtis-laevigata-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Celtis-laevigata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Celtis-laevigata-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Celtis-laevigata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Celtis-laevigata-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Celtis-laevigata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Celtis-laevigata-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Celtis-laevigata-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Celtis-laevigata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Celtis-laevigata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Celtis-laevigata-Spots.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Celtis-laevigata-Scars.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Celtis-laevigata-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Celtis-laevigata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Celtis-laevigata-Gall.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Celtis-laevigata-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Celtis-laevigata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Celtis-laevigata-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Celtis-laevigata-Canker-and-gummosis.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Celtis australis",
+                "link": "/wiki/Celtis_australis.html",
+                "imageUrl": "/wiki-image/1080/154511804997828608.jpeg",
+                "displayName": "European nettle tree"
+            },
+            {
+                "scientificName": "Musa acuminata",
+                "link": "/wiki/Musa_acuminata.html",
+                "imageUrl": "/wiki-image/1080/317769975813210112.jpeg",
+                "displayName": "Edible banana"
+            },
+            {
+                "scientificName": "Sapindus saponaria",
+                "link": "/wiki/Sapindus_saponaria.html",
+                "imageUrl": "/wiki-image/1080/154213360605331469.jpeg",
+                "displayName": "Wingleaf soapberry"
+            },
+            {
+                "scientificName": "Pseuderanthemum carruthersii",
+                "link": "/wiki/Pseuderanthemum_carruthersii.html",
+                "imageUrl": "/wiki-image/1080/154123174882050050.jpeg",
+                "displayName": "Carruthers' falseface"
+            },
+            {
+                "scientificName": "Adiantum peruvianum",
+                "link": "/wiki/Adiantum_peruvianum.html",
+                "imageUrl": "/wiki-image/1080/154045427384057867.jpeg",
+                "displayName": "Silver-dollar maidenhair fern"
+            },
+            {
+                "scientificName": "Solanum laciniatum",
+                "link": "/wiki/Solanum_laciniatum.html",
+                "imageUrl": "/wiki-image/1080/221569202367791104.jpeg",
+                "displayName": "Kangaroo apple"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Celtis_laevigata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Celtis_laevigata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Celtis_laevigata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Celtis_laevigata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Celtis_laevigata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Celtis_laevigata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Celtis_laevigata.html",
+            "values": [
+                "Care Sugarberry",
+                "Care Sugarberry",
+                "Grow Sugarberry",
+                "Maintain Sugarberry",
+                "Sugarberry Care",
+                "Sugarberry Grow",
+                "Sugarberry Maintain",
+                "Sugarberry Cares",
+                "Growth Sugarberry",
+                "Maintains Sugarberry",
+                "Sugarberry Growth",
+                "Sugarberry Maintains",
+                "Sugarberry Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Celtis-laevigata-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Celtis_laevigata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Celtis_laevigata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Celtis_laevigata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Celtis_laevigata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Celtis_laevigata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Celtis_laevigata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Celtis_laevigata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Celtis_laevigata.html"
+        }
+    ]
+}

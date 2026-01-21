@@ -1,0 +1,765 @@
+{
+    "title": "Parsley (Petroselinum crispum) - PictureThis",
+    "displayName": "Parsley",
+    "otherCommonName": "Curly leaf parsley, Flat leaf parsley",
+    "mainImage": {
+        "copyright": {
+            "width": 2125,
+            "height": 1410,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/parsley-in-garden-gm525175869-51856478",
+            "authorLink": "",
+            "author": "LianeM",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317759152495624192.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1280,
+                "height": 960,
+                "copyrightType": "CC",
+                "referral": "https://www.needpix.com/photo/984781/parsley-peterle-kitchen-herb-greenhouse-petroselinum-crispum-simple-herb-parsley-beterli-gartenaeppich-petersilge",
+                "authorLink": "",
+                "author": "anaterate (pixabay.com)",
+                "licenseLink": "",
+                "license": "PUBLIC-DOMAIN"
+            },
+            "imageUrl": "/wiki-image/1080/153373561354977288.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2125,
+                "height": 1410,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/parsley-in-garden-gm525175869-51856478",
+                "authorLink": "",
+                "author": "LianeM",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/317759152495624192.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/183693876",
+                "authorLink": "https://www.inaturalist.org/people/vitor_jorge",
+                "author": "VÃÂ­tor Jorge",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349647055580758026.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2121,
+                "height": 1414,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/green-parsley-stems-and-leaves-in-the-garden-gm1425252468-469772532",
+                "authorLink": "",
+                "author": "Green Parsley Stems And Leaves In The Garden Stock Photo - Download Image Now - Agricultural Cooperative, Agricultural Field, Agricultural Machinery",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/621006950521995264.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Parsley 'Curlina'",
+            "link": "/wiki/Petroselinum_crispum__Curlina_.html"
+        },
+        {
+            "displayName": "Parsley 'Moss Curled'",
+            "link": "/wiki/Petroselinum_crispum__Moss_Curled_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Parsley (Petroselinum crispum) is one of the world's most popular herbs and is used extensively in the cuisines of the USA, Europe, and The Middle East. It is a nutritious ingredient that adds flavor to the famous parsley sauce and texture and aroma to soups and stews. It is also used raw as a garnish. In the garden, parsley attracts swallowtail butterflies and bees to its flowers, and birds feed on its seeds.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Parsley (Petroselinum crispum) is one of the world's most popular herbs and is used extensively in the cuisines of the USA, Europe, and The Middle East. It is a nutritious ingredient that adds flavor to the famous parsley sauce and texture and aroma to soups and stews. It is also used raw as a garnish. In the garden, parsley attracts swallowtail butterflies and bees to its flowers, and birds feed on its seeds.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Parsley (<i>Petroselinum crispum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Parsley",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Petroselinum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Umbellifers",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Carrots, ivies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Apiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Biennial, Annual, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806526424449026.jpeg",
+        "habitat": "Disturbed areas, meadows, fields",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Parsley is native to the Mediterranean region. It has been introduced and become naturalized in various parts of Europe and Asia, as well as in select areas across the Americas and Africa. Parsley is also widely cultivated beyond its native range, which has facilitated its spread to temperate regions across the globe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1911",
+                "1969",
+                "2248",
+                "2216",
+                "2317",
+                "2421",
+                "3253",
+                "4379",
+                "4881",
+                "4182",
+                "2448",
+                "2422"
+            ],
+            "north": [
+                "8005",
+                "13402",
+                "30015",
+                "51660",
+                "50053",
+                "32659",
+                "23787",
+                "16939",
+                "13626",
+                "9473",
+                "5502",
+                "6440"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "You can grow parsley in shady, well-drained herb gardens or pots within reach of the kitchen, as this plant is often cultivated for its edible properties. In ornamental gardens, its bright green leaves and summer blooms make a wonderful accent when planted in garden beds. It also draws in swallowtail butterflies, making it perfect for pollinator gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Spring and rebirth",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Parsley is safe in moderate amounts</strong> but contains furanocoumarins that can cause photosensitization, dermatitis, and digestive issues. <strong>Parsley is moderately poisonous to cats</strong> and mildly toxic to dogs; ingestion can lead to sunburn, dermatitis, and eye damage. Severe effects usually occur with large quantities. Leaves and stems cause the most reactions, with seeds being particularly dangerous. Avoid physical contact for safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Petroselinum_crispum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Curly bright green leaves in a rosette arrangement.",
+            "Bushy growth with multi-branched stems emerging from a central point.",
+            "Small clusters of yellowish-green flowers on tall stalks.",
+            "Lush and compact appearance with crisp leaf texture.",
+            "Leaves slightly serrated, reaching up to 10 inches (25 cm) in height."
+        ],
+        "title": "Quickly Identify Parsley",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Petroselinum-crispum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating in the Mediterranean, parsley prefers consistently moist soil, thriving with watering twice weekly. It dislikes drought and waterlogging, with critical watering needs during its growing season for optimal leaf production. Proper moisture levels are essential for avoiding over and under-watering stress.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize parsley every 4-6 weeks with high nitrogen fertilizers during active growth and use a balanced liquid fertilizer at half-strength. Early spring compost bolsters growth, while late fall and winter require reduced fertilization. Container-grown parsley needs regular feeding, but avoid over-fertilization to maintain flavor.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Parsley features aromatic leaves ideal for culinary use. Pruning techniques, such as harvesting and pinching back, are best done in early to late spring to encourage dense growth and reduce leggy appearance. Regular pruning improves air circulation, lowers disease risk, and enhances overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Parsley propagation is best done by sowing in Spring, exhibiting moderate difficulty. Successful growth is indicated by emerging seedlings. For optimal results, provide adequate sunlight, well-drained soil, and consistent moisture.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Petroselinum_crispum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the benefits of parsley?",
+            "link": "/ask/Petroselinum_crispum-0.html"
+        },
+        {
+            "q": "What is parsley used for?",
+            "link": "/ask/Petroselinum_crispum-1.html"
+        },
+        {
+            "q": "What happens when you eat too much parsley?",
+            "link": "/ask/Petroselinum_crispum-2.html"
+        },
+        {
+            "q": "Is parsley poisonous to pets?",
+            "link": "/ask/Petroselinum_crispum-3.html"
+        },
+        {
+            "q": "Is parsley annual or perennial?",
+            "link": "/ask/Petroselinum_crispum-4.html"
+        },
+        {
+            "q": "How can I preserve parsley?",
+            "link": "/ask/Petroselinum_crispum-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Petroselinum-crispum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Petroselinum-crispum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Petroselinum-crispum-Thrips.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Petroselinum-crispum-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Petroselinum-crispum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Petroselinum-crispum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Petroselinum-crispum-Spots.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Petroselinum-crispum-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Petroselinum-crispum-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Petroselinum-crispum-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Petroselinum-crispum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Petroselinum-crispum-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Petroselinum-crispum-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            },
+            {
+                "scientificName": "Convallaria majalis",
+                "link": "/wiki/Convallaria_majalis.html",
+                "imageUrl": "/wiki-image/1080/201175374793637888.jpeg",
+                "displayName": "Lily of the valley"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Petroselinum_crispum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Petroselinum_crispum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Petroselinum_crispum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Petroselinum_crispum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Petroselinum_crispum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Petroselinum_crispum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Petroselinum_crispum.html",
+            "values": [
+                "Care Parsley",
+                "Care Parsley",
+                "Grow Parsley",
+                "Maintain Parsley",
+                "Parsley Care",
+                "Parsley Grow",
+                "Parsley Maintain",
+                "Parsley Cares",
+                "Growth Parsley",
+                "Maintains Parsley",
+                "Parsley Growth",
+                "Parsley Maintains",
+                "Parsley Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Thrips.html",
+            "values": [
+                "Thrips"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Petroselinum-crispum-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Petroselinum_crispum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Petroselinum_crispum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Petroselinum_crispum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Petroselinum_crispum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Petroselinum_crispum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Petroselinum_crispum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Petroselinum_crispum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Petroselinum_crispum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Petroselinum_crispum.html"
+        }
+    ]
+}

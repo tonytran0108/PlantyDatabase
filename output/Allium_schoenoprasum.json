@@ -1,0 +1,909 @@
+{
+    "title": "Chives (Allium schoenoprasum) - PictureThis",
+    "displayName": "Chives",
+    "otherCommonName": "Giant chives, Rush leek, Onion grass, Seithes",
+    "mainImage": {
+        "copyright": {
+            "width": 2040,
+            "height": 3386,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/chives-onion-plant-blossoming-gm1325033137-410179641",
+            "authorLink": "",
+            "author": "romiri",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317765234169315328.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7790979",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153691844201414702.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/38797368",
+                "authorLink": "https://www.inaturalist.org/people/kai_pirinha",
+                "author": "kai_pirinha",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153837482247454741.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/158870728",
+                "authorLink": "https://www.inaturalist.org/people/veronika_kotlyarova",
+                "author": "Veronika_Kotlyarova",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422702611040927755.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/66671955",
+                "authorLink": "https://www.inaturalist.org/people/przyrodnik-beskidzki",
+                "author": "Adam ÃÂliÃÂ¼",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422702641105698825.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Chives 'Black Isle Blush'",
+            "link": "/wiki/Allium_schoenoprasum__Black_Isle_Blush_.html"
+        },
+        {
+            "displayName": "Chives 'Pink Perfection'",
+            "link": "/wiki/Allium_schoenoprasum__Pink_Perfection_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Chives (Allium schoenoprasum) is a herbaceous plant native to Europe, Asia, and North America. Slightly spicy to the taste, chives are commonly used to flavor foods throughout the globe (especially in Europe). In gardens, the growing plants can act as pest repellents.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Chives (Allium schoenoprasum) is a herbaceous plant native to Europe, Asia, and North America. Slightly spicy to the taste, chives are commonly used to flavor foods throughout the globe (especially in Europe). In gardens, the growing plants can act as pest repellents.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Chives (<i>Allium schoenoprasum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Onions",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Allium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaryllis",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaryllidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall, Late winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803751875575812.jpeg",
+        "habitat": "Rocky pastures, damp meadows",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The chives plant is native to thin soil habitats in much of the temperate Northern Hemisphere and is therefore widespread. It has also been introduced to some Caribbean Islands, South America and parts of Europe. This vegetable is also widely grown in temperate climates as a commercial crop and in home vegetable gardens.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 119.2759288, \"2\": 101.853229, \"3\": 92.43514292, \"4\": 110.8258812, \"5\": 121.8073836, \"6\": 142.0, \"7\": 110.9069409, \"8\": 125.4512164, \"9\": 150.5270843, \"10\": 165.4415022, \"11\": 143.9719088, \"12\": 118.1520927}, \"flower_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 63.14136342, \"2\": 58.59203308, \"3\": 54.90738395, \"4\": 55.72474587, \"5\": 48.07152184, \"6\": 54.0, \"7\": 59.99446389, \"8\": 55.14939341, \"9\": 72.48340586, \"10\": 89.84827121, \"11\": 90.06983278, \"12\": 67.6327037}, \"flower_month\": 11}, \"Csa\": {\"trends\": {\"1\": 42.27502418, \"2\": 29.22944909, \"3\": 37.78755492, \"4\": 32.48977733, \"5\": 34.77160794, \"6\": 45.0, \"7\": 38.67570943, \"8\": 46.99491517, \"9\": 51.68417142, \"10\": 66.44901007, \"11\": 69.45515558, \"12\": 46.10502352}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 415.8887232, \"2\": 370.5310191, \"3\": 373.9054534, \"4\": 350.1324814, \"5\": 365.8144005, \"6\": 438.0, \"7\": 374.0179208, \"8\": 406.4532568, \"9\": 481.1517458, \"10\": 579.6975903, \"11\": 557.8508238, \"12\": 438.0102689}, \"flower_month\": 10}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 5.850094409, \"2\": 9.720875569, \"3\": 11.34632384, \"4\": 11.64416561, \"5\": 12.33155747, \"6\": 8.385111508, \"7\": 6.845839904, \"8\": 4.048403591, \"9\": 6.134993973, \"10\": 3.915949416, \"11\": 5.102756892, \"12\": 5.0}, \"flower_month\": 5}, \"BSk\": {\"trends\": {\"1\": 39.33747473, \"2\": 47.53875042, \"3\": 77.83048135, \"4\": 107.0876467, \"5\": 138.5277547, \"6\": 99.92140909, \"7\": 62.70188425, \"8\": 44.64972637, \"9\": 39.2633594, \"10\": 45.6450042, \"11\": 54.69328077, \"12\": 40.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 60.17639573, \"2\": 67.05832503, \"3\": 91.34077571, \"4\": 100.3709789, \"5\": 102.1931037, \"6\": 73.4039168, \"7\": 53.40684005, \"8\": 40.19194536, \"9\": 41.56813694, \"10\": 44.24645015, \"11\": 56.3801437, \"12\": 74.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 47.47795773, \"2\": 57.65321439, \"3\": 77.36241216, \"4\": 100.7298508, \"5\": 121.1230209, \"6\": 86.1583159, \"7\": 53.40178363, \"8\": 40.43944559, \"9\": 41.94984475, \"10\": 28.48690746, \"11\": 39.00032541, \"12\": 28.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 203.2074877, \"2\": 209.3734383, \"3\": 240.9299363, \"4\": 281.9274898, \"5\": 272.1952555, \"6\": 188.3600916, \"7\": 113.8423632, \"8\": 98.97050269, \"9\": 76.94913865, \"10\": 107.3685199, \"11\": 159.5582509, \"12\": 201.0}, \"flower_month\": 4}, \"Cfb\": {\"trends\": {\"1\": 176.8488231, \"2\": 236.9869361, \"3\": 408.2672266, \"4\": 527.1442498, \"5\": 643.2461576, \"6\": 386.6517888, \"7\": 281.3963278, \"8\": 289.1167183, \"9\": 205.5368192, \"10\": 148.551514, \"11\": 154.2478912, \"12\": 145.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 145.0705405, \"2\": 169.1194809, \"3\": 256.9136206, \"4\": 361.4878225, \"5\": 435.3014254, \"6\": 259.0826869, \"7\": 163.5724809, \"8\": 128.5367679, \"9\": 114.3870199, \"10\": 101.6749382, \"11\": 163.8952287, \"12\": 171.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 153.4724317, \"2\": 164.383936, \"3\": 248.1884084, \"4\": 365.1311446, \"5\": 500.7088799, \"6\": 341.5284183, \"7\": 193.2694397, \"8\": 155.5478631, \"9\": 119.5486978, \"10\": 110.4769469, \"11\": 107.607707, \"12\": 139.0}, \"flower_month\": 5}, \"Dfc\": {\"trends\": {\"1\": 7.711073398, \"2\": 4.178961487, \"3\": 7.034835499, \"4\": 5.379871732, \"5\": 14.60703862, \"6\": 11.73370934, \"7\": 10.86877076, \"8\": 4.823571989, \"9\": 3.002395308, \"10\": 2.096913758, \"11\": 2.678703021, \"12\": 4.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 1017.505197, \"2\": 1161.92226, \"3\": 1637.895582, \"4\": 2270.323637, \"5\": 2929.040967, \"6\": 1911.350165, \"7\": 1207.542099, \"8\": 1032.235995, \"9\": 817.9707451, \"10\": 740.3538297, \"11\": 888.5536076, \"12\": 996.0}, \"flower_month\": 5}, \"BWh\": {\"trends\": {\"1\": 59.0, \"2\": 60.0, \"3\": 70.0, \"4\": 94.0, \"5\": 96.0, \"6\": 65.0, \"7\": 41.0, \"8\": 28.0, \"9\": 58.0, \"10\": 67.0, \"11\": 34.0, \"12\": 54.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Chives is a common perennial herb that has pretty flowers and tastes delicious, so it offers two main points of garden appeal. The purple flower brushes bloom in summer and are great attractors of bees. Perhaps the best use of this plant is as a border plant in vegetable gardens, but it can also be grown on garden patios and containers in cottage and informal gardens. Grow chives with iris, catmint, and peonies.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Patience, good luck, prosperity, unity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Chives has been cultivated for thousands of years and is used for both culinary and ornamental purposes. The leaves are used for flavoring all kinds of dishes, and the pretty purple blossoms are also edible. Some farmers will plant chives around garden borders and in between rocks to ward off insects and other pests.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Chives",
+                "values": [
+                    "The name Ã¢ÂÂchivesÃ¢ÂÂ is derived from the Latin word cepa, meaning onion. Later, it becomes cive in French and it was referred to as \"little onion\" in European languages. The plant is related to onion, leek, and garlic and used as spices or vegetables, depending on the region."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>All parts</strong> of the chives plant contain sulfides, causing digestive upset in sensitive humans and gastrointestinal distress in dogs. Cats may face vomiting and blood disorders upon contact. <strong>Immediate veterinary consultation</strong> is advised if chives is ingested by pets. Sulfides' spicy taste usually deters dogs but may be eaten through table scraps. Chives includes all plant parts as toxic. Chives.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Allium_schoenoprasum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Tubular, hollow leaves emit an onion-like fragrance.",
+            "Spherical, pale purple to pink flowers on slender stalks.",
+            "Clustered star-shaped pale purple blossoms with six delicate petals.",
+            "Small, 3-valved dry capsule with seeds, blends with foliage.",
+            "Smooth, cylindrical, hollow stem exhibits vibrant green color."
+        ],
+        "title": "Quickly Identify Chives",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Allium-schoenoprasum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chives thrives in moisture-rich environments and requires consistent hydration, preferring evenly moist soil. Weekly watering is optimal for growth, especially during the active growing season. Outdoor cultivation allows chives to benefit from natural rainfall, enhancing its vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize chives with high nitrogen fertilizer for optimal leaf growth. Use a balanced liquid feed every 4-6 weeks during the growing season, lowering application in winter. Incorporate phosphorus for blooms, and apply diluted solutions to avoid root burn. Seasonal adjustments improve growth stages and harvest yield.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune chives in early to late spring to promote healthy growth. Use sharp scissors to snip leaves evenly from the base and remove dead foliage. Regular pruning prevents flowering, extends the harvesting period, and encourages robust growth. Ensure adequate hydration post-pruning for recovery.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chives is propagated in Spring using tubers, a straightforward method. Successful propagation is indicated by new shoots and root growth. Proper planting depth is essential for promoting healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chives requires excellent drainage in pots to thrive effectively, preventing waterlogged conditions that can lead to root rot and other issues.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Allium_schoenoprasum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where do chives grow best?",
+            "link": "/ask/Allium_schoenoprasum-0.html"
+        },
+        {
+            "q": "What is the difference between chives and green onions?",
+            "link": "/ask/Allium_schoenoprasum-1.html"
+        },
+        {
+            "q": "Are chives an herb?",
+            "link": "/ask/Allium_schoenoprasum-2.html"
+        },
+        {
+            "q": "Where do chives come from?",
+            "link": "/ask/Allium_schoenoprasum-3.html"
+        },
+        {
+            "q": "Are chives expensive?",
+            "link": "/ask/Allium_schoenoprasum-4.html"
+        },
+        {
+            "q": "Are chives good for you?",
+            "link": "/ask/Allium_schoenoprasum-5.html"
+        },
+        {
+            "q": "Should I let chives flower?",
+            "link": "/ask/Allium_schoenoprasum-6.html"
+        },
+        {
+            "q": "Can I substitute chives for green onions?",
+            "link": "/ask/Allium_schoenoprasum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Allium-schoenoprasum-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Allium-schoenoprasum-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Allium-schoenoprasum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Allium-schoenoprasum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Allium-schoenoprasum-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Allium-schoenoprasum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Allium-schoenoprasum-Thrips.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Allium-schoenoprasum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Allium-schoenoprasum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Allium-schoenoprasum-Spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Allium-schoenoprasum-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Allium-schoenoprasum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Allium-schoenoprasum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Allium-schoenoprasum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Allium-schoenoprasum-Flower-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Allium_schoenoprasum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Allium_schoenoprasum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Allium_schoenoprasum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Allium_schoenoprasum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Allium_schoenoprasum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Allium_schoenoprasum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Allium_schoenoprasum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Allium_schoenoprasum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Allium_schoenoprasum.html",
+            "values": [
+                "Care Chives",
+                "Care Chives",
+                "Grow Chives",
+                "Maintain Chives",
+                "Chives Care",
+                "Chives Grow",
+                "Chives Maintain",
+                "Chives Cares",
+                "Growth Chives",
+                "Maintains Chives",
+                "Chives Growth",
+                "Chives Maintains",
+                "Chives Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-schoenoprasum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Allium_schoenoprasum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Allium_schoenoprasum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Allium_schoenoprasum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Allium_schoenoprasum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Allium_schoenoprasum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Allium_schoenoprasum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Allium_schoenoprasum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Allium_schoenoprasum.html"
+        }
+    ]
+}

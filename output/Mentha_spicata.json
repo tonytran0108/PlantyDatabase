@@ -1,0 +1,980 @@
+{
+    "title": "Spearmint (Mentha spicata) - PictureThis",
+    "displayName": "Spearmint",
+    "otherCommonName": "Common mint, Menthol mint",
+    "mainImage": {
+        "copyright": {
+            "width": 2121,
+            "height": 1414,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/spearmint-labiatae-mentha-spicata-l-gm517852002-89694643",
+            "authorLink": "",
+            "author": "tc397",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317753689297223680.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 331,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1186003",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153918854697844737.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 331,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1809053",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153716845206044721.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21754202",
+                "authorLink": "https://www.inaturalist.org/people/juan_carlos_caicedo_hdz",
+                "author": "juan_carlos_caicedo_hdz",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152352089282969601.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/169811640",
+                "authorLink": "https://www.inaturalist.org/people/carrnico21",
+                "author": "Nicole Carroll Maupin",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422720581184094214.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Spearmint is a member of the mint family and is a common flavor in breath mints and gum. The leaves of spearmint are edible and can be added to salads, smoothies, certain desserts, and even as a flavoring agent for water.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Spearmint is a member of the mint family and is a common flavor in breath mints and gum. The leaves of spearmint are edible and can be added to salads, smoothies, certain desserts, and even as a flavoring agent for water.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Spearmint (<i>Mentha spicata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mints",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Mentha.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1.3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 mm to 3 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802356011204610.jpeg",
+        "habitat": "Damp soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Spearmint is native throughout much of Europe and Asia, including China. It has been introduced to most of North America, parts of South America, Africa, and Australia as well as a culinary herb, but easily escapes garden boundaries. Known as a weed even within its native range, spearmint is considered invasive in Alaska, Kentucky, and West Virginia (USA). It occurs in disturbed sites.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 49.31779455, \"2\": 32.21440639, \"3\": 30.45228057, \"4\": 28.28004259, \"5\": 35.78045348, \"6\": 16.0, \"7\": 14.93479538, \"8\": 38.41035971, \"9\": 44.75122562, \"10\": 50.80542022, \"11\": 53.34320695, \"12\": 51.7001176}, \"flower_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 613.1528217, \"2\": 583.2688815, \"3\": 492.9874289, \"4\": 472.3854938, \"5\": 391.6943315, \"6\": 423.0, \"7\": 403.628539, \"8\": 425.5070499, \"9\": 649.5184423, \"10\": 701.1055189, \"11\": 722.4891679, \"12\": 687.813968}, \"flower_month\": 11}, \"Cfb\": {\"trends\": {\"1\": 303.3745195, \"2\": 278.9779757, \"3\": 209.6463751, \"4\": 172.9638216, \"5\": 148.9429119, \"6\": 144.0, \"7\": 123.6249559, \"8\": 165.4481802, \"9\": 210.6220706, \"10\": 259.6662079, \"11\": 292.3224513, \"12\": 311.3169491}, \"flower_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 537.7856017, \"2\": 680.2926951, \"3\": 714.3220931, \"4\": 845.0188616, \"5\": 871.6428057, \"6\": 852.1492713, \"7\": 769.2008395, \"8\": 737.3545135, \"9\": 617.4416265, \"10\": 642.6065949, \"11\": 491.0029084, \"12\": 493.0}, \"flower_month\": 5}, \"BWk\": {\"trends\": {\"1\": 11.70018882, \"2\": 26.91934773, \"3\": 29.73519351, \"4\": 43.22455417, \"5\": 45.49506639, \"6\": 47.30468568, \"7\": 42.96354698, \"8\": 39.32734916, \"9\": 35.10579885, \"10\": 36.71202577, \"11\": 22.11194653, \"12\": 9.0}, \"flower_month\": 6}, \"BSk\": {\"trends\": {\"1\": 112.1536514, \"2\": 140.3159892, \"3\": 288.9568446, \"4\": 411.8571768, \"5\": 403.6842735, \"6\": 415.4359602, \"7\": 415.5822561, \"8\": 403.0708175, \"9\": 352.21543, \"10\": 299.6460275, \"11\": 167.666287, \"12\": 101.0}, \"flower_month\": 7}, \"Csa\": {\"trends\": {\"1\": 165.7031187, \"2\": 190.7436801, \"3\": 424.6111736, \"4\": 609.9262924, \"5\": 662.7952723, \"6\": 686.5749812, \"7\": 621.5962773, \"8\": 558.0046783, \"9\": 478.4854023, \"10\": 399.3242126, \"11\": 235.0618299, \"12\": 170.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 56.24311915, \"2\": 76.87095252, \"3\": 155.0897414, \"4\": 207.2885537, \"5\": 277.3110969, \"6\": 281.7971125, \"7\": 283.1079853, \"8\": 245.4881729, \"9\": 203.3214249, \"10\": 171.8554417, \"11\": 91.81326608, \"12\": 60.0}, \"flower_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 340.3312395, \"2\": 604.9126568, \"3\": 933.6035033, \"4\": 1201.348872, \"5\": 1368.94743, \"6\": 1501.099384, \"7\": 1364.512437, \"8\": 1099.383813, \"9\": 892.5390875, \"10\": 689.7879604, \"11\": 421.4170071, \"12\": 339.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 168.3908359, \"2\": 225.3318409, \"3\": 429.2835142, \"4\": 775.190387, \"5\": 993.2426236, \"6\": 1173.189656, \"7\": 1188.871232, \"8\": 1112.201409, \"9\": 798.6369995, \"10\": 559.7299368, \"11\": 280.9515162, \"12\": 179.0}, \"flower_month\": 7}, \"Dfa\": {\"trends\": {\"1\": 164.8889204, \"2\": 201.2714735, \"3\": 456.9693087, \"4\": 738.5776256, \"5\": 912.7773834, \"6\": 1037.222291, \"7\": 956.4269244, \"8\": 806.0217185, \"9\": 600.0471639, \"10\": 565.5668437, \"11\": 274.2405312, \"12\": 121.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 80.86181886, \"2\": 94.86473841, \"3\": 201.1103125, \"4\": 492.8705234, \"5\": 683.8617185, \"6\": 792.3299587, \"7\": 756.2797462, \"8\": 663.5241393, \"9\": 522.4372227, \"10\": 380.3872917, \"11\": 134.9111551, \"12\": 74.0}, \"flower_month\": 6}, \"Dfc\": {\"trends\": {\"1\": 3.855536699, \"2\": 1.392987162, \"3\": 4.522394249, \"4\": 4.662555501, \"5\": 8.456706569, \"6\": 9.154872122, \"7\": 12.07641196, \"8\": 8.331624344, \"9\": 8.706946395, \"10\": 9.960340352, \"11\": 2.678703021, \"12\": 0.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 2413.14822, \"2\": 2901.508482, \"3\": 4437.668617, \"4\": 6049.063603, \"5\": 6989.2733, \"6\": 7746.778646, \"7\": 7249.37307, \"8\": 6471.683956, \"9\": 5117.098967, \"10\": 4367.939228, \"11\": 2754.351941, \"12\": 2203.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Aromatic oil contained in spearmint can be used as a spice in candy, chewing gum and toothpaste.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Spearmint (Mentha spicata) is a feature of many herb gardens where it is grown as a culinary herb. The plant's white flowers are of secondary interest but are nevertheless attractive to look at and inviting to bees. The plant is vigorous and very hardy, and extremely easy to grow, particularly with herbs and vegetables like tomatoes, sage, and thyme. It also makes a great addition to cottage, informal, and wildlife gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Hope to meet you again, warm feelings",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Spearmint is famous as a flavoring for toothpastes, chewing gum, and other breath-freshening products. And this isn't a recent phenomenon: There is evidence of spearmint being used in toothpaste products as early as the 14th century.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Spearmint",
+                "values": [
+                    "The plant dates back at least to the first century A.D. and is also recorded in the Bible. During the American Revolution, it became an important cash crop in Connecticut. The name 'spear' mint derives from the pointed leaf tips and it is also a mint plant. So, it is called Spearmint."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Spearmint is toxic to both cats and dogs</strong>. <strong>Consumption of spearmint leaves</strong> can lead to poisoning. Pet owners should monitor for symptoms and seek immediate veterinary care if ingestion is suspected to ensure the well-being of their pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Mentha_spicata.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Square stems up to 30 inches (76 cm) tall emit minty aroma when crushed.",
+            "Lilac or pink flowers on slender spikes, each approximately 0.25 inches (0.6 cm) long.",
+            "Distinctive small ovate nutlets, under an inch long, with delicately hairy apex.",
+            "Light green lanceolate leaves, 1-3 inches (2.5-7.5 cm) long, emitting strong minty fragrance.",
+            "Densely arranged white to pink tubular flowers on 4-10 cm (1.6-3.9 inches) long spikes."
+        ],
+        "title": "Quickly Identify Spearmint",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Mentha-spicata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, spearmint thrives in moist environments and can tolerate moderate drought. Watering twice a week maintains optimal hydration. Grown outdoors, it benefits from mulching to retain soil moisture and regulate temperature during the active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For spearmint, use balanced fertilizers high in nitrogen monthly during the growing season and less in winter. Apply no more than a quarter cup per square yard, watering beforehand to prevent root burn. Adjust based on spearmint's health to avoid over-fertilization, supporting optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Spearmint, valued for its aromatic leaves and quick growth, thrives with consistent pruning. Techniques involve cutting back tops for bushiness and removing damaged stems. Optimal pruning occurs from early to late spring, using clean tools to minimize stress and enhance foliage health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Spearmint can be propagated by taking healthy stem cuttings, which should be placed in a suitable growth medium. Maintaining proper humidity and temperature is crucial for root development. Once rooted, transplant spearmint to a permanent location with well-drained soil and adequate sunlight.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Refresh spearmint's home every 2-3 years in spring for optimal growth. Use a slightly larger pot for root spread. Water moderately post-repotting, avoid fertilization for a month, and provide bright, indirect light. Ensure a well-drained pot for health and aroma.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Mentha_spicata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the benefits of spearmint?",
+            "link": "/ask/Mentha_spicata-0.html"
+        },
+        {
+            "q": "What is difference between mint and spearmint?",
+            "link": "/ask/Mentha_spicata-1.html"
+        },
+        {
+            "q": "Can I drink spearmint tea everyday?",
+            "link": "/ask/Mentha_spicata-2.html"
+        },
+        {
+            "q": "What are the side effects of spearmint tea?",
+            "link": "/ask/Mentha_spicata-3.html"
+        },
+        {
+            "q": "Does spearmint tea increase breast size?",
+            "link": "/ask/Mentha_spicata-4.html"
+        },
+        {
+            "q": "Is spearmint a perennial?",
+            "link": "/ask/Mentha_spicata-5.html"
+        },
+        {
+            "q": "Does spearmint tea reduce hair growth on head?",
+            "link": "/ask/Mentha_spicata-6.html"
+        },
+        {
+            "q": "Can I eat spearmint leaves?",
+            "link": "/ask/Mentha_spicata-7.html"
+        },
+        {
+            "q": "Does spearmint help you sleep??",
+            "link": "/ask/Mentha_spicata-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Mentha-spicata-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Mentha-spicata-Wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Mentha-spicata-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Mentha-spicata-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Mentha-spicata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Mentha-spicata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Mentha-spicata-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Mentha-spicata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Mentha-spicata-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Mentha-spicata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Mentha-spicata-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Mentha-spicata-Spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Mentha-spicata-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Mentha-spicata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Mentha-spicata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Mentha-spicata-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Mentha-spicata-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Mentha-spicata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Mentha-spicata-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Mentha-spicata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Mentha-spicata-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Mentha-spicata-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Mentha-spicata-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Mentha-spicata-Mealybug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Mentha-spicata-Yellow-edges.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Ligustrum lucidum",
+                "link": "/wiki/Ligustrum_lucidum.html",
+                "imageUrl": "/wiki-image/1080/347094556516712448.jpeg",
+                "displayName": "Glossy privet"
+            },
+            {
+                "scientificName": "Catharanthus roseus",
+                "link": "/wiki/Catharanthus_roseus.html",
+                "imageUrl": "/wiki-image/1080/202698610715131904.jpeg",
+                "displayName": "Madagascar periwinkle"
+            },
+            {
+                "scientificName": "Pyracantha coccinea",
+                "link": "/wiki/Pyracantha_coccinea.html",
+                "imageUrl": "/wiki-image/1080/202645151257198592.jpeg",
+                "displayName": "Scarlet firethorn"
+            },
+            {
+                "scientificName": "Phytolacca americana",
+                "link": "/wiki/Phytolacca_americana.html",
+                "imageUrl": "/wiki-image/1080/154075307471536171.jpeg",
+                "displayName": "Pokeweed"
+            },
+            {
+                "scientificName": "Amaranthus retroflexus",
+                "link": "/wiki/Amaranthus_retroflexus.html",
+                "imageUrl": "/wiki-image/1080/154242222785560616.jpeg",
+                "displayName": "Redroot amaranth"
+            },
+            {
+                "scientificName": "Euonymus japonicus",
+                "link": "/wiki/Euonymus_japonicus.html",
+                "imageUrl": "/wiki-image/1080/347101342565040128.jpeg",
+                "displayName": "Evergreen spindle"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Mentha_spicata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Mentha_spicata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Mentha_spicata.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Mentha_spicata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Mentha_spicata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Mentha_spicata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Mentha_spicata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Mentha_spicata.html",
+            "values": [
+                "Care Spearmint",
+                "Care Spearmint",
+                "Grow Spearmint",
+                "Maintain Spearmint",
+                "Spearmint Care",
+                "Spearmint Grow",
+                "Spearmint Maintain",
+                "Spearmint Cares",
+                "Growth Spearmint",
+                "Maintains Spearmint",
+                "Spearmint Growth",
+                "Spearmint Maintains",
+                "Spearmint Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Thrips.html",
+            "values": [
+                "Thrips"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-spicata-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Mentha_spicata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Mentha_spicata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Mentha_spicata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Mentha_spicata.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Mentha_spicata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Mentha_spicata.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Mentha_spicata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Mentha_spicata.html"
+        }
+    ]
+}

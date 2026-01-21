@@ -1,0 +1,987 @@
+{
+    "title": "Pineapple (Ananas comosus) - PictureThis",
+    "displayName": "Pineapple",
+    "otherCommonName": "Pina ",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "9comeback",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317755128111267840.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 2592,
+                "height": 3562,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/61218143@N04",
+                "author": "Babij",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/152517076156678146.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1440,
+                "height": 1080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/97499887@N06",
+                "author": "Forest and Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154142558069456906.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1440,
+                "height": 1080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/97499887@N06",
+                "author": "Forest and Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154192246546104345.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2736,
+                "height": 3648,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/97499887@N06",
+                "author": "Forest and Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154185434727972882.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Pineapple 'Corona'",
+            "link": "/wiki/Ananas_comosus__Corona_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Pineapple is a short plant that is native to the tropics. Its fruit has a high nutritional value. Peeling off the prickly fruit skin reveals a sweet, aromatic, golden-yellow pulp that is very popular.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Pineapple is a short plant that is native to the tropics. Its fruit has a high nutritional value. Peeling off the prickly fruit skin reveals a sweet, aromatic, golden-yellow pulp that is very popular.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Pineapple (<i>Ananas comosus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Pineapples",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ananas.html"
+            },
+            {
+                "type": "Family",
+                "name": "Bromeliad",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Bromeliaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer, Early fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid spring, Late spring",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288811163114569728.jpeg",
+        "habitat": "Sandy loam,",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Because it has been cultivated and modified for thousands of years, the exact origins of pineapple are unknown, but it is considered native to most of South America. It grows naturally along rivers and drainage areas but is most commonly grown in tropical and subtropical croplands. It has been introduced in Central America, central Africa, East Asia, and Australia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 242.9004592, \"2\": 244.2886039, \"3\": 209.8131022, \"4\": 210.6477743, \"5\": 222.9154732, \"6\": 243.0, \"7\": 232.7227613, \"8\": 228.8934475, \"9\": 202.0855737, \"10\": 201.0087306, \"11\": 153.8329984, \"12\": 202.5464446}, \"fruit_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 57.2218606, \"2\": 49.93639183, \"3\": 51.16369868, \"4\": 44.86927589, \"5\": 62.25656107, \"6\": 51.0, \"7\": 49.99538658, \"8\": 45.71594454, \"9\": 40.4436395, \"10\": 51.74507766, \"11\": 44.22590592, \"12\": 32.00937122}, \"fruit_month\": 5}, \"Default\": {\"trends\": {\"1\": 769.3941379, \"2\": 805.6500141, \"3\": 780.1608756, \"4\": 725.3341142, \"5\": 801.9125863, \"6\": 895.0, \"7\": 835.5921998, \"8\": 840.2114349, \"9\": 732.8001484, \"10\": 687.1870685, \"11\": 618.0399917, \"12\": 711.4810281}, \"fruit_month\": 6}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 121.1648669, \"2\": 127.1073194, \"3\": 107.301602, \"4\": 114.2203217, \"5\": 107.4155634, \"6\": 121.6451004, \"7\": 121.9081085, \"8\": 121.8167741, \"9\": 126.5513516, \"10\": 103.9198784, \"11\": 103.3225545, \"12\": 98.0}, \"fruit_month\": 2}, \"Csa\": {\"trends\": {\"1\": 131.6903733, \"2\": 92.39147004, \"3\": 77.76309283, \"4\": 67.97611269, \"5\": 67.15546812, \"6\": 80.85469031, \"7\": 94.20373176, \"8\": 115.8932793, \"9\": 104.3721699, \"10\": 120.5715767, \"11\": 110.1581269, \"12\": 134.0}, \"fruit_month\": 12}, \"Csb\": {\"trends\": {\"1\": 56.97354927, \"2\": 62.95465939, \"3\": 43.06021054, \"4\": 32.42298994, \"5\": 22.46540819, \"6\": 26.44169005, \"7\": 31.02015372, \"8\": 40.43944559, \"9\": 44.65628634, \"10\": 62.11079823, \"11\": 69.87558304, \"12\": 87.0}, \"fruit_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 649.2727045, \"2\": 492.9104801, \"3\": 388.9149188, \"4\": 286.4918852, \"5\": 292.3191486, \"6\": 364.9709894, \"7\": 436.4843877, \"8\": 471.8134784, \"9\": 471.9783574, \"10\": 568.3957971, \"11\": 589.3730606, \"12\": 746.0}, \"fruit_month\": 12}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Pineapples can be eaten fresh or processed into other foods.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Fresh pineapple cannot only help to lose weight but also nourish skin.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "A tropical fruit that is usually grown in edible gardens, the pineapple is typically kept in outdoor containers. The fruit it produces is prized among gardeners. In addition, it is considered easy to grow in the right climates. Companion plants of the pineapple include Gardenia, Bromeliad, and Chinese evergreen.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Perfection, wealth",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Pineapples grow from sprouts and develop into brilliant blooms. They grow without distraction and take their roots deep even in a small area. This belief of pursuing perfection always accompanies the Pineapples.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Pineapple",
+                "values": [
+                    "The word \"pineapple\" in English was first recorded to describe the reproductive organs of conifer trees which are now termed as pine cones. When European explorers encountered this tropical fruit in America, they called them \"pineapples\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Long sword-shaped leaves up to 30 inches (76 cm) long with needle-like tips.",
+            "Unique hexagonal-patterned fruit skin, reaching up to 12 inches (30 cm) long and 6 inches (15 cm) wide.",
+            "Erect flower cluster on 20-inch (50 cm) stalk, each flower with 3 sepals, 3 petals, and 6 stamens.",
+            "Basal leaves 1.6-3.3 feet (50-100 cm) long, rigid, with spiny margins, forming a rosette pattern.",
+            "Thick stem, 1 inch (2.5 cm) in diameter, rough texture, often concealed by clustered leaves."
+        ],
+        "title": "Quickly Identify Pineapple",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ananas-comosus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from tropical regions, pineapple thrives in high humidity and warmth. It prefers regular hydration without waterlogging, requiring weekly watering to mimic natural conditions. As an evergreen, proper watering during its active growth phase enhances its health and foliage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, pineapple requires high phosphorus fertilization during flowering and balanced N-P-K formulas otherwise, applied quarterly. Increased frequency is needed during warmer months. Use slow-release or diluted fertilizers to prevent root damage. Monitor for signs of over or under-fertilization and adjust as necessary.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The tropical plant pineapple thrives with careful pruning, ideally in early summer. Focus on removing dead leaves and suckers to boost growth and fruit yield. This practice enhances air circulation, reducing disease risks. Always sterilize tools to prevent infections during pruning.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pineapple is propagated effectively by division in Spring and Autumn. Successful propagation is indicated by new growth and root development at the base. Proper root separation and sufficient watering are crucial for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot pineapple every 2-3 years during spring or early summer in a slightly larger container with good drainage. Post-repotting, provide bright, indirect light and resume regular watering after one week to help pineapple establish in its new environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ananas_comosus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is pineapple edible?",
+            "link": "/ask/Ananas_comosus-0.html"
+        },
+        {
+            "q": "Is pineapple acidic or alkaline?",
+            "link": "/ask/Ananas_comosus-1.html"
+        },
+        {
+            "q": "What does pineapple mean?",
+            "link": "/ask/Ananas_comosus-2.html"
+        },
+        {
+            "q": "What are the side effects of eating pineapple?",
+            "link": "/ask/Ananas_comosus-3.html"
+        },
+        {
+            "q": "Is pineapple good for weight loss?",
+            "link": "/ask/Ananas_comosus-4.html"
+        },
+        {
+            "q": "Can I eat pineapple everyday?",
+            "link": "/ask/Ananas_comosus-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ananas-comosus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Ananas-comosus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Ananas-comosus-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Soft Rot",
+                "link": "/disease/Ananas-comosus-Soft-Rot.html"
+            },
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Ananas-comosus-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ananas-comosus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Ananas-comosus-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Ananas-comosus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Ananas-comosus-Underwatering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Ananas-comosus-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Ananas-comosus-Spots.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Ananas-comosus-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Ananas-comosus-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Ananas-comosus-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Ananas-comosus-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Ananas-comosus-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Ananas-comosus-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Ananas-comosus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Ananas-comosus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ananas-comosus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Ananas-comosus-Notch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Ananas-comosus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ananas-comosus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Ananas-comosus-Scars.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Philodendron xanadu",
+                "link": "/wiki/Philodendron_xanadu.html",
+                "imageUrl": "/wiki-image/1080/153821565098655778.jpeg",
+                "displayName": "Xanadu"
+            },
+            {
+                "scientificName": "Solanum americanum",
+                "link": "/wiki/Solanum_americanum.html",
+                "imageUrl": "/wiki-image/1080/153937112603820054.jpeg",
+                "displayName": "American black nightshade"
+            },
+            {
+                "scientificName": "Sansevieria cylindrica",
+                "link": "/wiki/Sansevieria_cylindrica.html",
+                "imageUrl": "/wiki-image/1080/202656094833868800.jpeg",
+                "displayName": "Cylindrical snake plant"
+            },
+            {
+                "scientificName": "Cordyline australis",
+                "link": "/wiki/Cordyline_australis.html",
+                "imageUrl": "/wiki-image/1080/153412362089529354.jpeg",
+                "displayName": "Cabbage tree"
+            },
+            {
+                "scientificName": "Cestrum nocturnum",
+                "link": "/wiki/Cestrum_nocturnum.html",
+                "imageUrl": "/wiki-image/1080/154067542170664975.jpeg",
+                "displayName": "Night-blooming jasmine"
+            },
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Ananas_comosus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ananas_comosus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ananas_comosus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Ananas_comosus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Ananas_comosus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Ananas_comosus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Ananas_comosus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Ananas_comosus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ananas_comosus.html",
+            "values": [
+                "Care Pineapple",
+                "Care Pineapple",
+                "Grow Pineapple",
+                "Maintain Pineapple",
+                "Pineapple Care",
+                "Pineapple Grow",
+                "Pineapple Maintain",
+                "Pineapple Cares",
+                "Growth Pineapple",
+                "Maintains Pineapple",
+                "Pineapple Growth",
+                "Pineapple Maintains",
+                "Pineapple Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Soft-Rot.html",
+            "values": [
+                "Soft Rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ananas-comosus-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ananas_comosus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ananas_comosus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Ananas_comosus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Ananas_comosus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Ananas_comosus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ananas_comosus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Ananas_comosus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ananas_comosus.html"
+        }
+    ]
+}

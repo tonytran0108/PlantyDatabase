@@ -1,0 +1,882 @@
+{
+    "title": "Common chicory (Cichorium intybus) - PictureThis",
+    "displayName": "Common chicory",
+    "otherCommonName": "Wild succory, Blue dandelion",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "barmalini",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/380132858002079744.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25171466",
+                "authorLink": "https://www.inaturalist.org/people/ryanhodnett",
+                "author": "ryanhodnett",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152527568761782272.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20683274",
+                "authorLink": "https://www.inaturalist.org/people/isaaclarkin",
+                "author": "isaaclarkin",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152512918628335620.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4065782",
+                "authorLink": "https://www.inaturalist.org/people/fabienpiednoir",
+                "author": "fabienpiednoir",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152498109581099013.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9361636",
+                "authorLink": "https://www.inaturalist.org/people/dagendresen",
+                "author": "dagendresen",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665898303979542.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common chicory is used in a variety of culinary applications around the world, most commonly with coffee. It is occasionally also added during the beer-brewing process to inject a coffee-like flavor. The leaves can be boiled or eaten raw in salad or with pasta. Common chicory is also a simple livestock fodder. In European folklore, the small blue flowers could be used to magically open locked doors.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common chicory is used in a variety of culinary applications around the world, most commonly with coffee. It is occasionally also added during the beer-brewing process to inject a coffee-like flavor. The leaves can be boiled or eaten raw in salad or with pasta. Common chicory is also a simple livestock fodder. In European folklore, the small blue flowers could be used to magically open locked doors.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common chicory (<i>Cichorium intybus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Cichorium",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cichorium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid summer, Late summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early spring, Mid summer, Late summer, Fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1.4 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804911516745732.jpeg",
+        "habitat": "Grassy meadows, Arable land",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The common chicory is native to Europe, North Africa, and Western Asia, but it has been introduced throughout all continents except Antarctica. It naturally occurs in disturbed sites and grasslands. Though it's cultivated as a forage crop or ornamental around the world, it is considered a noxious weed in Colorado and New Mexico (USA) and potentially invasive in Alaska, Kentucky, and West Virginia (USA).\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 144.0, \"2\": 94.0, \"3\": 81.0, \"4\": 106.0, \"5\": 58.0, \"6\": 61.0, \"7\": 64.0, \"8\": 71.0, \"9\": 104.0, \"10\": 111.0, \"11\": 108.0, \"12\": 127.0}, \"flower_month\": 1}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 35.98960454, \"2\": 44.47173427, \"3\": 73.35746518, \"4\": 87.00871292, \"5\": 86.67165988, \"6\": 93.31643459, \"7\": 114.2243628, \"8\": 73.09099042, \"9\": 83.53087246, \"10\": 68.19900627, \"11\": 69.03905934, \"12\": 43.0}, \"flower_month\": 7}, \"Csb\": {\"trends\": {\"1\": 54.0518288, \"2\": 33.13403126, \"3\": 45.24971277, \"4\": 66.30319291, \"5\": 67.63395376, \"6\": 81.40475364, \"7\": 94.82743196, \"8\": 57.80766901, \"9\": 54.12883193, \"10\": 46.69984829, \"11\": 42.25035253, \"12\": 39.0}, \"flower_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 74.58406886, \"2\": 101.0108252, \"3\": 167.7857716, \"4\": 296.1027658, \"5\": 388.5239285, \"6\": 554.6370273, \"7\": 507.4174746, \"8\": 335.4057467, \"9\": 318.4573941, \"10\": 249.9518649, \"11\": 161.3307026, \"12\": 56.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 192.6346522, \"2\": 207.0588322, \"3\": 256.2116708, \"4\": 340.6013002, \"5\": 306.7923384, \"6\": 428.654356, \"7\": 513.939121, \"8\": 341.8903145, \"9\": 313.8372687, \"10\": 211.5735846, \"11\": 272.6178062, \"12\": 178.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 76.73621586, \"2\": 72.41583084, \"3\": 139.4060121, \"4\": 256.1570197, \"5\": 300.2430863, \"6\": 443.2149777, \"7\": 470.1597544, \"8\": 331.6397836, \"9\": 297.7735281, \"10\": 192.7931034, \"11\": 158.1993902, \"12\": 112.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 975.5794675, \"2\": 1210.060924, \"3\": 1467.754074, \"4\": 2028.467855, \"5\": 2087.125811, \"6\": 2782.398187, \"7\": 2894.029037, \"8\": 1890.779878, \"9\": 1758.205802, \"10\": 1297.226517, \"11\": 1462.582232, \"12\": 1039.0}, \"flower_month\": 7}, \"BWh\": {\"trends\": {\"1\": 82.0, \"2\": 67.0, \"3\": 79.0, \"4\": 114.0, \"5\": 131.0, \"6\": 77.0, \"7\": 32.0, \"8\": 27.0, \"9\": 38.0, \"10\": 35.0, \"11\": 99.0, \"12\": 111.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common chicory (Cichorium intybus) is a wildflower that is not only grown as an herb but also sometimes for its attractive blue daisy-like flowers, which attract bees and other pollinators. Chickory is also grown in herb gardens for its leaves and root. It grows well with vegetables such as onions, beets, and radishes.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Caution, frugality",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common chicory is one of the earliest plants recorded in literature. More than 2,000 years ago, Horace, an ancient Roman poet, wrote in an article about his diet that 'olives, chicory and winter anemones are my food.' ('Me pascunt olivae, me cichorea, me malvae')",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common chicory",
+                "values": [
+                    "It has been suggested that the name Succory came from the latin succurrere which is referred to as \"to run under\", because of the depth to which the root penetrates. It may however be a mixed up of words with Chicory, a word of Egyptian origin, which in various forms is the name of the plant in practically every European language. As it is the most common plant in Cichorium genus, this plant is called the common chicory."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Ingestion of common chicory may cause <strong>gastrointestinal difficulties</strong> like bloating and abdominal pain, with over-consumption potentially impairing the retina. <strong>Avoid if pregnant, diabetic, or have gallstones</strong> due to risks like menstruation, low blood sugar, and excess bile. Handling may trigger contact dermatitis.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Cichorium_intybus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   A blue-flowered weed found across Eurasia, common chicory is an herb that can grow over 1 meter tall. Common chicory isn't considered strictly invasive, but it does freely self-sow, enabling it to take over a lawn or garden. Though it does produce flowers, the blooms only last a short amount of time before leaving behind unattractive stems and scraggly leaves. Common chicory is also problematic for farmers, as it spreads prolifically in pastures and croplands. To keep from spreading, hand removal of the entire taproot is the most efficient. Herbicides typically only kill the top of the plant, but it can simply regrow from the root.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to remove or restrict common chicory is early spring or fall before it sets seed. To prevent common chicory from becoming a weed and to manage its growth in cultivation, consider the following methods:\n  </div> \n  <ol> \n   <li>Hand pulling: Remove common chicory plants by hand, ensuring that you take out the root system to prevent regrowth.</li> \n   <li>Mulching: Apply a thick layer of organic mulch around the plants to suppress the growth of common chicory seedlings.</li> \n   <li>Mowing: Regularly mow the area where common chicory grows to prevent the plants from flowering and setting seed.</li> \n   <li>Cultivation: If growing common chicory on purpose, till the soil around the plants to disrupt the growth of unwanted seedlings.</li> \n   <li>Barrier installation: For intentional cultivation, use garden edging or barriers to confine common chicory to a designated area and prevent spreading.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Robust biennial with upright growth habit, reaching 2-4 feet (60-120 cm) tall.",
+            "Distinctive blue flowers with ligulate heads and toothed rays, blooming from mid-summer to frost.",
+            "Fruit is a small achene with brown color, oblong shape, and ring of bristles on one end.",
+            "Alternate lance-shaped leaves up to 8 inches (20 cm) long, sessile or clasping stem.",
+            "Sturdy stem exuding milky sap, covered in fine hairs, reaching up to 5 feet (150 cm)."
+        ],
+        "title": "Quickly Identify Common chicory",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cichorium-intybus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common chicory thrives in moderate moisture conditions, ideally with consistent soil moisture and weekly watering. As an herbaceous perennial, it efficiently uses water, aided by a deep taproot system that accesses deeper water sources, reducing dependence on rainfall compared to shallow-rooted plants.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize common chicory in spring with balanced nutrition, repeating bi-monthly. Use a light liquid formulation to meet moderate feeding needs, avoiding excess. Apply slow-release granules for extended nourishment. Water common chicory after fertilization to prevent root burn, and reduce applications in fall.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common chicory, valued for its blue flowers and medicinal roots, requires early to late spring pruning to encourage growth and health. Removing dead stems fosters vitality, while avoiding major pruning during flowering maintains blooms. These practices enhance common chicory's appearance, benefiting avid gardeners.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common chicory propagates easily by sowing seeds in spring, with successful seedling emergence indicating progress. Ensuring proper soil preparation and moisture control is vital for healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot common chicory every 2-3 years in spring, using a deep container for its taproot. After repotting, provide ample sunlight and generous watering to aid recovery. Consistent care enhances growth for this resilient perennial.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cichorium_intybus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does common chicory grow?",
+            "link": "/ask/Cichorium_intybus-0.html"
+        },
+        {
+            "q": "Is common chicory easy to grow?",
+            "link": "/ask/Cichorium_intybus-1.html"
+        },
+        {
+            "q": "How do I get rid of common chicory?",
+            "link": "/ask/Cichorium_intybus-2.html"
+        },
+        {
+            "q": "Does common chicory need full sun?",
+            "link": "/ask/Cichorium_intybus-3.html"
+        },
+        {
+            "q": "Does common chicory come back every year?",
+            "link": "/ask/Cichorium_intybus-4.html"
+        },
+        {
+            "q": "Does common chicory bloom all summer?",
+            "link": "/ask/Cichorium_intybus-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Cichorium-intybus-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Cichorium-intybus-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Cichorium-intybus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Cichorium-intybus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Cichorium-intybus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Cichorium-intybus-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Cichorium-intybus-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Cichorium-intybus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Cichorium-intybus-Aphid.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Cichorium-intybus-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Cichorium-intybus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Cichorium-intybus-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Cichorium-intybus-Dodder.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Cichorium-intybus-Wilting.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Cichorium-intybus-Scale-insect.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Canavalia ensiformis",
+                "link": "/wiki/Canavalia_ensiformis.html",
+                "imageUrl": "/wiki-image/1080/153792874717118483.jpeg",
+                "displayName": "Chickasaw"
+            },
+            {
+                "scientificName": "Rubus occidentalis",
+                "link": "/wiki/Rubus_occidentalis.html",
+                "imageUrl": "/wiki-image/1080/202653968825057280.jpeg",
+                "displayName": "Black raspberry"
+            },
+            {
+                "scientificName": "Morella cerifera",
+                "link": "/wiki/Morella_cerifera.html",
+                "imageUrl": "/wiki-image/1080/153464889539559430.jpeg",
+                "displayName": "Wax myrtle"
+            },
+            {
+                "scientificName": "Manilkara zapota",
+                "link": "/wiki/Manilkara_zapota.html",
+                "imageUrl": "/wiki-image/1080/393495862764896256.jpeg",
+                "displayName": "Sapodilla"
+            },
+            {
+                "scientificName": "Syagrus romanzoffiana",
+                "link": "/wiki/Syagrus_romanzoffiana.html",
+                "imageUrl": "/wiki-image/1080/153963131515699222.jpeg",
+                "displayName": "Queen palm"
+            },
+            {
+                "scientificName": "Lolium perenne",
+                "link": "/wiki/Lolium_perenne.html",
+                "imageUrl": "/wiki-image/1080/352288585021882368.jpeg",
+                "displayName": "Perennial ryegrass"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Cichorium_intybus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cichorium_intybus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Cichorium_intybus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cichorium_intybus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Cichorium_intybus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Cichorium_intybus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Cichorium_intybus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cichorium_intybus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cichorium_intybus.html",
+            "values": [
+                "Care Common chicory",
+                "Care Common chicory",
+                "Grow Common chicory",
+                "Maintain Common chicory",
+                "Common chicory Care",
+                "Common chicory Grow",
+                "Common chicory Maintain",
+                "Common chicory Cares",
+                "Growth Common chicory",
+                "Maintains Common chicory",
+                "Common chicory Growth",
+                "Common chicory Maintains",
+                "Common chicory Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cichorium-intybus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cichorium-intybus-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cichorium-intybus-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cichorium-intybus-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cichorium-intybus-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cichorium_intybus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cichorium_intybus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Cichorium_intybus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Cichorium_intybus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cichorium_intybus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cichorium_intybus.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Cichorium_intybus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cichorium_intybus.html"
+        }
+    ]
+}

@@ -1,0 +1,987 @@
+{
+    "title": "African violet (Saintpaulia ionantha) - PictureThis",
+    "displayName": "African violet",
+    "otherCommonName": "Usambara violet",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Pilat666",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348126615683104768.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29185340",
+                "authorLink": "https://www.inaturalist.org/people/psubhashish",
+                "author": "psubhashish",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152356908236275714.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Pilat666",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/348126615683104768.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157683028460568577.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "African violet 'Granger 's Wonderland'",
+            "link": "/wiki/Saintpaulia_ionantha__Granger__s_Wonderland_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   As its name indicates, the african violet originated in the coastal region of Tanzania, Africa. It is a well-loved plant in many households, and its compact shape and beautiful blue, pink, purple or white flowers add cheer to any room. The african violet is known to bloom nearly year-round but can be sensitive to cold, so keep at 55 degrees or above.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "As its name indicates, the african violet originated in the coastal region of Tanzania, Africa. It is a well-loved plant in many households, and its compact shape and beautiful blue, pink, purple or white flowers add cheer to any room. The african violet is known to bloom nearly year-round but can be sensitive to cold, so keep at 55 degrees or above.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "African violet (<i>Saintpaulia ionantha</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "African violets",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Saintpaulia.html"
+            },
+            {
+                "type": "Family",
+                "name": "African violet",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Gesneriaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 20 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Violet",
+                        "name": "violet"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {},
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can purify indoor air, improve indoor air quality, beautify the environment, improve one's mood and relieve pressure.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "African violet is a popular plant with evergreen foliage and delicate flowers that vary in color. This plant is used frequently as a houseplant and can also be grown outdoors in a location with filtered light. It is loved for its flowers which bloom throughout the year. Its mat-forming growth habit makes it perfect for a shaded place in the garden.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Eternal love, loyalty, devotion, faithfulness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The original seed was discovered in 1892 by German Baron Paul in an African colony. He sent it back to Germany to be planted by his father. It first appeared at the German Flower Show in 1893, and was described as the most interesting plant.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "African violet",
+                "values": [
+                    "This plant is one of the traditional gifts for Mother's Day in many parts of the world. The large succulent leaves matched with purple flowers are lovely to look at. Although it is not a plant from Viola genus, it has similar-looking flowers than any other Viola plant. As it is also originated from South Africa, it is called African violet."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   African violet thrives in consistently moist, well-drained soil and prefers high humidity while being moderately drought-tolerant. Water weekly, allowing topsoil to dry slightly. For vibrant blooms indoors, maintain ambient humidity with misting or a pebble tray.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For african violet, use high phosphorus fertilizer every 4-6 weeks during active growth to enhance blooms and strengthen roots, ensuring to water beforehand to prevent root damage. In winter, reduce feeding to every 8-10 weeks. Proper fertilization promotes robust growth and vibrant flowers.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To promote healthier growth in african violet, regular pruning is essential. Remove spent blooms and dead leaves in early spring or late winter. Consistent pruning encourages vigor and prevents disease. Use sanitized tools and avoid heavy pruning to prevent plant stress.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   African violet is a sought-after houseplant known for its attractive foliage and blooms. Propagation involves taking leaf cuttings and inserting the stem base into moist, suitable potting soil. Consistent humidity, indirect light, and careful watering support rooting, while rooting hormone can enhance success, though it's not required.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   African violet is a small, rosette-forming houseplant that requires repotting every 2-3 years during the growing season to avoid root crowding. Use shallow pots, maintain moist soil, avoid water on leaves, and provide bright, indirect light for optimal recovery and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Saintpaulia_ionantha.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How often do you water an african violet?",
+            "link": "/ask/Saintpaulia_ionantha-0.html"
+        },
+        {
+            "q": "How long do african violets live for?",
+            "link": "/ask/Saintpaulia_ionantha-1.html"
+        },
+        {
+            "q": "Should you deadhead african violet?",
+            "link": "/ask/Saintpaulia_ionantha-2.html"
+        },
+        {
+            "q": "How big does the african violet get?",
+            "link": "/ask/Saintpaulia_ionantha-3.html"
+        },
+        {
+            "q": "Is african violet an annual or perennial?",
+            "link": "/ask/Saintpaulia_ionantha-4.html"
+        },
+        {
+            "q": "Can you plant african violet in the ground?",
+            "link": "/ask/Saintpaulia_ionantha-5.html"
+        },
+        {
+            "q": "Does african violet need special soil?",
+            "link": "/ask/Saintpaulia_ionantha-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Saintpaulia-ionantha-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Saintpaulia-ionantha-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Saintpaulia-ionantha-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Saintpaulia-ionantha-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Saintpaulia-ionantha-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Saintpaulia-ionantha-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Saintpaulia-ionantha-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Saintpaulia-ionantha-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Saintpaulia-ionantha-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Saintpaulia-ionantha-White-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Saintpaulia-ionantha-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Saintpaulia-ionantha-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Saintpaulia-ionantha-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Saintpaulia-ionantha-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Saintpaulia-ionantha-Mealybug.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Saintpaulia-ionantha-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Saintpaulia-ionantha-Scars.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Saintpaulia-ionantha-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Saintpaulia-ionantha-Spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Saintpaulia-ionantha-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Saintpaulia-ionantha-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Saintpaulia-ionantha-Notch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Saintpaulia-ionantha-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Saintpaulia-ionantha-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Saintpaulia-ionantha-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Symphyotrichum lanceolatum",
+                "link": "/wiki/Symphyotrichum_lanceolatum.html",
+                "imageUrl": "/wiki-image/1080/202658598799802368.jpeg",
+                "displayName": "White-panicle aster"
+            },
+            {
+                "scientificName": "Jasminum polyanthum",
+                "link": "/wiki/Jasminum_polyanthum.html",
+                "imageUrl": "/wiki-image/1080/153420260534386703.jpeg",
+                "displayName": "Pink jasmine"
+            },
+            {
+                "scientificName": "Farfugium japonicum",
+                "link": "/wiki/Farfugium_japonicum.html",
+                "imageUrl": "/wiki-image/1080/352288224244629504.jpeg",
+                "displayName": "Leopard plant"
+            },
+            {
+                "scientificName": "Crossostephium chinense",
+                "link": "/wiki/Crossostephium_chinense.html",
+                "imageUrl": "/wiki-image/1080/152375157552316417.jpeg",
+                "displayName": "Chinese wormwood"
+            },
+            {
+                "scientificName": "Syzygium buxifolium",
+                "link": "/wiki/Syzygium_buxifolium.html",
+                "imageUrl": "/wiki-image/1080/157368413516201996.jpeg",
+                "displayName": "Fish scale bush"
+            },
+            {
+                "scientificName": "Dypsis lutescens",
+                "link": "/wiki/Dypsis_lutescens.html",
+                "imageUrl": "/wiki-image/1080/348116458085449728.jpeg",
+                "displayName": "Yellow butterfly palm"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Saintpaulia_ionantha.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Saintpaulia_ionantha.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Saintpaulia_ionantha.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Saintpaulia_ionantha.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Saintpaulia_ionantha.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Saintpaulia_ionantha.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Saintpaulia_ionantha.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Saintpaulia_ionantha.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Saintpaulia_ionantha.html",
+            "values": [
+                "Care African violet",
+                "Care African violet",
+                "Grow African violet",
+                "Maintain African violet",
+                "African violet Care",
+                "African violet Grow",
+                "African violet Maintain",
+                "African violet Cares",
+                "Growth African violet",
+                "Maintains African violet",
+                "African violet Growth",
+                "African violet Maintains",
+                "African violet Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Saintpaulia-ionantha-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Saintpaulia_ionantha.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Saintpaulia_ionantha.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Saintpaulia_ionantha.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Saintpaulia_ionantha.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Saintpaulia_ionantha.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Saintpaulia_ionantha.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Saintpaulia_ionantha.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Saintpaulia_ionantha.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Saintpaulia_ionantha.html"
+        }
+    ]
+}

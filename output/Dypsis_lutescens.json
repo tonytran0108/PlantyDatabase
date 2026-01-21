@@ -1,0 +1,908 @@
+{
+    "title": "Yellow butterfly palm (Dypsis lutescens) - PictureThis",
+    "displayName": "Yellow butterfly palm",
+    "otherCommonName": "Golden cane palm, Yellow palm",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Supersmario",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348116458085449728.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 5184,
+                "height": 3888,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "maple",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157449154606399491.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Supersmario",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/348116458085449728.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Yellow butterfly palm (Dypsis lutescens)&nbsp;is a flowering plant that originated in Madagascar. Other common names for yellow butterfly palm are golden cane palm and yellow palm. In tropical regions it's grown as an outdoor plant for ornamental horticulture. In temperate regions its grown indoors as a houseplant.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Yellow butterfly palm (Dypsis lutescens)&nbsp;is a flowering plant that originated in Madagascar. Other common names for yellow butterfly palm are golden cane palm and yellow palm. In tropical regions it's grown as an outdoor plant for ornamental horticulture. In temperate regions its grown indoors as a houseplant.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Yellow butterfly palm (<i>Dypsis lutescens</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Butterfly palms",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Dypsis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Palm",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Arecaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Palms, bullanocks, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Arecales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Palm",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m to 9 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 41 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802325946433536.jpeg",
+        "habitat": "Gardens",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Yellow butterfly palm is native to Madagascar, where it grows in white-sand forests near the ocean. It has been introduced in a few tropical Asian and Central American countries as well as Florida.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3738",
+                "3767",
+                "3695",
+                "3535",
+                "3372",
+                "3204",
+                "4239",
+                "5278",
+                "4852",
+                "4144",
+                "2819",
+                "3993"
+            ],
+            "north": [
+                "27997",
+                "29409",
+                "37230",
+                "44257",
+                "41453",
+                "32851",
+                "32584",
+                "28093",
+                "25798",
+                "22377",
+                "14862",
+                "23255"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can purify air and effectively remove toxic gases such as formaldehyde.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Yellow butterfly palm is a perennial tree commonly found in tropical and subtropical gardens. It is prized for its yellow hues. Its long-arching fronds provide privacy, so it is suitable for screen cover or as an informal hedge. Yellow butterfly palm is appropriate for rock gardens. Suggested companion plants include Viburnum suspensum to create textural contrast, or Jataropha for color contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Soft, beautiful and moving",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Legend has it that yellow butterfly palm leaves once grew very straight and dense. During a war, a general could not find a hiding place, but could only hide among yellow butterfly palms. He prayed that the yellow butterfly palm could help him. Unexpectedly, it opened its leaves around him to help him easily escape.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Yellow butterfly palm",
+                "values": [
+                    "Although it looks like an evergreen palm plant, it grows yellow conical flowers during the summer. As a foliage-viewing plant, the leaves curve upwards in multiple stems creating a butterfly look. Hence, it is called a yellow butterfly palm."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 41 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Madagascar, yellow butterfly palm flourishes in humid conditions similar to its tropical rainforest habitat. It requires watering every 1-2 weeks, avoiding waterlogging. Indoor cultivation is favored, with misting recommended during the growing season to sustain desired humidity levels.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For yellow butterfly palm, apply balanced slow-release fertilizer quarterly for robust growth; high-nitrogen fertilizer supports foliage in spring and summer. Reduce fertilization in winter. Water yellow butterfly palm before feeding to prevent root burn, and use fertilizers sparingly to avoid harming roots.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Yellow butterfly palm thrives with early spring pruning by removing dead or crowded fronds to enhance airflow and aesthetics. Trim near the stem without harming the trunk. Regular pruning supports healthy growth and deters pests, ensuring the plant remains vigorous and visually appealing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal propagation time for yellow butterfly palm is Spring through sowing, with moderate difficulty. Signs of success include new shoots and healthy roots. Use well-draining soil and ensure warmth and humidity for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot 'yellow butterfly palm' every 1-2 years to support its dense canopy, ideally in spring with a container 2-3 inches larger. After repotting, keep soil evenly moist and provide partial shade. Avoid compacting the soil to allow root respiration during acclimatization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Dypsis_lutescens.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a yellow butterfly palm tree?",
+            "link": "/ask/Dypsis_lutescens-0.html"
+        },
+        {
+            "q": "What is yellow butterfly palm good for?",
+            "link": "/ask/Dypsis_lutescens-1.html"
+        },
+        {
+            "q": "Why is my yellow butterfly palm dying?",
+            "link": "/ask/Dypsis_lutescens-2.html"
+        },
+        {
+            "q": "How big does yellow butterfly palm trees get?",
+            "link": "/ask/Dypsis_lutescens-3.html"
+        },
+        {
+            "q": "Why do yellow butterfly palm turn brown?",
+            "link": "/ask/Dypsis_lutescens-4.html"
+        },
+        {
+            "q": "Is yellow butterfly palm toxic to dogs?",
+            "link": "/ask/Dypsis_lutescens-5.html"
+        },
+        {
+            "q": "How often should you water yellow butterfly palm?",
+            "link": "/ask/Dypsis_lutescens-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Mealybugs",
+                "link": "/disease/Dypsis-lutescens-Mealybugs.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Dypsis-lutescens-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Dypsis-lutescens-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Dypsis-lutescens-Scars.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Dypsis-lutescens-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Dypsis-lutescens-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Dypsis-lutescens-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Dypsis-lutescens-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Dypsis-lutescens-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Dypsis-lutescens-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Dypsis-lutescens-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Dypsis-lutescens-Mealybug.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Dypsis-lutescens-Black-mold.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Dypsis-lutescens-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Dypsis-lutescens-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Dypsis-lutescens-Spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Dypsis-lutescens-Wounds.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Festuca glauca",
+                "link": "/wiki/Festuca_glauca.html",
+                "imageUrl": "/wiki-image/1080/153961881680216085.jpeg",
+                "displayName": "Blue fescue"
+            },
+            {
+                "scientificName": "Argyranthemum frutescens",
+                "link": "/wiki/Argyranthemum_frutescens.html",
+                "imageUrl": "/wiki-image/1080/154047063766597666.jpeg",
+                "displayName": "Marguerite daisy"
+            },
+            {
+                "scientificName": "Westringia fruticosa",
+                "link": "/wiki/Westringia_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/154149872398762011.jpeg",
+                "displayName": "Coastal rosemary"
+            },
+            {
+                "scientificName": "Leucobryum glaucum",
+                "link": "/wiki/Leucobryum_glaucum.html",
+                "imageUrl": "/wiki-image/1080/153872649439674386.jpeg",
+                "displayName": "Pincushion moss"
+            },
+            {
+                "scientificName": "Angelonia salicariifolia",
+                "link": "/wiki/Angelonia_salicariifolia.html",
+                "imageUrl": "/wiki-image/1080/221955873978646528.jpeg",
+                "displayName": "Willowleaf angelon"
+            },
+            {
+                "scientificName": "Ravenala madagascariensis",
+                "link": "/wiki/Ravenala_madagascariensis.html",
+                "imageUrl": "/wiki-image/1080/352289147662598144.jpeg",
+                "displayName": "Traveller's palm"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Dypsis_lutescens.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Dypsis_lutescens.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Dypsis_lutescens.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Dypsis_lutescens.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Dypsis_lutescens.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Dypsis_lutescens.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Dypsis_lutescens.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Dypsis_lutescens.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Dypsis_lutescens.html",
+            "values": [
+                "Care Yellow butterfly palm",
+                "Care Yellow butterfly palm",
+                "Grow Yellow butterfly palm",
+                "Maintain Yellow butterfly palm",
+                "Yellow butterfly palm Care",
+                "Yellow butterfly palm Grow",
+                "Yellow butterfly palm Maintain",
+                "Yellow butterfly palm Cares",
+                "Growth Yellow butterfly palm",
+                "Maintains Yellow butterfly palm",
+                "Yellow butterfly palm Growth",
+                "Yellow butterfly palm Maintains",
+                "Yellow butterfly palm Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dypsis-lutescens-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Dypsis_lutescens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Dypsis_lutescens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Dypsis_lutescens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Dypsis_lutescens.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Dypsis_lutescens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Dypsis_lutescens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Dypsis_lutescens.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Dypsis_lutescens.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Dypsis_lutescens.html"
+        }
+    ]
+}

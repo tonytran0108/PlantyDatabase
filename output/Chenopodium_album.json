@@ -1,0 +1,663 @@
+{
+    "title": "Lambsquarters (Chenopodium album) - PictureThis",
+    "displayName": "Lambsquarters",
+    "otherCommonName": "Fat-Hen, Wild Spinach , Baconweed, Bacon weed, Fat hen",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154100901181653029.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/38735710",
+                "authorLink": "https://www.inaturalist.org/people/scoutsadie",
+                "author": "scoutsadie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884718297776155.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2250,
+                "height": 3000,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:20120903Chenopodium_album4.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+                "author": "AnRo0002",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/153926203386888207.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22051983",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153923716600823843.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20609384",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153947038273241117.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Lambsquarters has many other names, including pigweed, goosefoot, and bacon weed. This plant seems to appear out of nowhere and is considered by many to be a pesky weed. However, the greens of this plant are edible, can be prepared similar to spinach, and are packed with nutrients.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Lambsquarters has many other names, including pigweed, goosefoot, and bacon weed. This plant seems to appear out of nowhere and is considered by many to be a pesky weed. However, the greens of this plant are edible, can be prepared similar to spinach, and are packed with nutrients.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Lambsquarters (<i>Chenopodium album</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Goosefoots",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Chenopodium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaranth",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaranthaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/279086021421236225.jpeg",
+        "habitat": "Cultivated ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Lambsquarters's native region is substantial, covering Eurasia and the Indian subcontinent in areas of pasture, agriculture, wasteland, and disturbed ground. It has spread to many areas worldwide, including North and South America, South Africa, and Australia. It's considered a common weed in cultivated soil, and listed as a major problem for crops in 47 countries around the globe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1449",
+                "1305",
+                "1006",
+                "832",
+                "753",
+                "570",
+                "796",
+                "1284",
+                "2287",
+                "3023",
+                "1641",
+                "1773"
+            ],
+            "north": [
+                "3965",
+                "6968",
+                "25461",
+                "106725",
+                "213239",
+                "145260",
+                "93101",
+                "48999",
+                "19140",
+                "6340",
+                "4246",
+                "3925"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Ripe lamb's quarters can be used as fodder.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Lambsquarters is an herbaceous plant that can be grown indoors or outdoors. This plant is known to be weedy. If planting in your garden, take care to observe what plants are nearby as it can take much-needed nutrients from the soil and contaminate crop seeds.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Toughness, persistence, abundance, healing",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "There is archaeological evidence of lambsquarters (Chenopodium album) being part of human diets during the Iron Age. To this day, the plant is extensively cultivated in northern India as a food crop called bathua.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Lambsquarters",
+                "values": [
+                    "The name, Lambsquarters is believed to be related to the British harvest festival Lammas quarter. To celebrate this festival, the British people will offer lamb as sacrifices and vegetables made by Chenopodium album. Thus, it is called Lambsquarters."
+                ]
+            },
+            {
+                "key": "White goosefoot",
+                "values": [
+                    "You can't imagine that such a small plant can produce more than 50,000 seeds. If you spot it in the garden, you must remove it with no sign of mercy. How do you identify it? Its leaves are shaped like goose feet, and the surface is covered with a layer of white fur. The layer of fur on the back of the leaves is more compact. Looking from a distance, the plant looks like it's covered with a layer of white frost, which is why it's called white goosefoot."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The raw leaves and stems of lambsquarters contain high amounts of oxalic acid, causing illness if consumed. <strong>Lambsquarters is toxic to cats and dogs,</strong> with all parts posing risks. Symptoms in pets may include gastrointestinal upset and lethargy. Immediate veterinary care is crucial in cases of suspected ingestion to ensure their health and safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Chenopodium_album.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Lambsquarters is one of the most serious agricultural weeds in the temperate and subtemperate regions of the world, but also in winter-sown crops in the tropics and the subtropics. For the following countries, South Africa, Mexico, India, Pakistan, and New Zealand, lambsquarters is considered one of the six most concerning weeds. Despite its weed-status in some parts, it is actually grown intentionally as a leafy vegetable in India and the Himalayas.\n  </div> \n  <div>\n   The spread of lambsquarters is particularly concerning. The weed grows quickly and has prolific seed production Ã¢ÂÂ an average plant can produce between 3,000 and 20,000 seeds, but as many as 70,000 seeds were recorded from a single plant.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove lambsquarters is spring or early summer, before it flowers or sets seed. Here are some methods to control lambsquarters:\n  </div> \n  <ol> \n   <li>Hand pulling: Dampen the soil to make it easier to pull out the roots. Remember to wear gardening gloves to protect your hands.</li> \n   <li>Hoeing: Use a hoe to chop off the plants at the ground level. Do it early in the morning on a sunny day so that the sunlight will dry out the severed weeds.</li> \n   <li>Covering: This method involves placing a layer of newspapers, cardboard, or a weed barrier over the garden area. This will block the sunlight and kill the weeds.</li> \n   <li>Mulching: Organic mulch like straw or grass clippings can prevent weed seeds from germinating. Apply around 2-3 inches of mulch evenly around your plants.</li> \n   <li>Vinegar spray: Mix a cup of vinegar with a cup of water. Spray it on the weed leaves on a sunny day. Vinegar acts as a natural herbicide but be careful not to overspray it on your desirable plants.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Diamond-shaped leaves with white mealy coating on underside, 2-4 inches (5-10 cm) long.",
+            "Erect growth up to 3 feet (90 cm) with grooved stem occasionally reddish.",
+            "Tiny flowers lacking petals, green clusters with 5 stamens and yellow anthers.",
+            "Fruit with small spherical seeds, colors range from black to green and brown.",
+            "Stem angular, smooth texture with varying colors like light green, red, purple."
+        ],
+        "title": "Quickly Identify Lambsquarters",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Chenopodium-album.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lambsquarters thrives in diverse habitats, showing adaptability to water needs. It is drought-tolerant but prefers consistent moisture, requiring weekly watering for optimal health. Grown outdoors, lambsquarters is resilient in various soil types, with adequate hydration promoting stronger foliage and stem growth during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lambsquarters propagates easily by sowing in Spring. Look for rapid germination and seedlings as signs of success. For optimal growth, maintain proper planting depth and consistent moisture.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Chenopodium_album.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is lambsquarters poisonous?",
+            "link": "/ask/Chenopodium_album-0.html"
+        },
+        {
+            "q": "How do I get rid of lambsquarters?",
+            "link": "/ask/Chenopodium_album-1.html"
+        },
+        {
+            "q": "Where does lambsquarters grow?",
+            "link": "/ask/Chenopodium_album-2.html"
+        },
+        {
+            "q": "Is lambsquarters the same as pigweed?",
+            "link": "/ask/Chenopodium_album-3.html"
+        },
+        {
+            "q": "Can goats eat lambsquarters?",
+            "link": "/ask/Chenopodium_album-4.html"
+        },
+        {
+            "q": "Why does lambsquarters spread so quickly?",
+            "link": "/ask/Chenopodium_album-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Plumeria pudica",
+                "link": "/wiki/Plumeria_pudica.html",
+                "imageUrl": "/wiki-image/1080/154128015310192672.jpeg",
+                "displayName": "Bridal bouquet"
+            },
+            {
+                "scientificName": "Dracaena reflexa var. angustifolia",
+                "link": "/wiki/Dracaena_reflexa_var._angustifolia.html",
+                "imageUrl": "/wiki-image/1080/153714491563966470.jpeg",
+                "displayName": "Madagascar dragon tree"
+            },
+            {
+                "scientificName": "Hypericum perforatum",
+                "link": "/wiki/Hypericum_perforatum.html",
+                "imageUrl": "/wiki-image/1080/154211354855604233.jpeg",
+                "displayName": "Common St. John's wort"
+            },
+            {
+                "scientificName": "Polyscias fruticosa",
+                "link": "/wiki/Polyscias_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/347123526071123968.jpeg",
+                "displayName": "Ming aralia"
+            },
+            {
+                "scientificName": "Melothria pendula",
+                "link": "/wiki/Melothria_pendula.html",
+                "imageUrl": "/wiki-image/1080/153749624396447751.jpeg",
+                "displayName": "Creeping cucumber"
+            },
+            {
+                "scientificName": "Plumeria rubra",
+                "link": "/wiki/Plumeria_rubra.html",
+                "imageUrl": "/wiki-image/1080/154018648262967327.jpeg",
+                "displayName": "Red frangipani"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Chenopodium_album.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Chenopodium_album.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Chenopodium_album.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Chenopodium_album.html",
+            "values": [
+                "Care Lambsquarters",
+                "Care Lambsquarters",
+                "Grow Lambsquarters",
+                "Maintain Lambsquarters",
+                "Lambsquarters Care",
+                "Lambsquarters Grow",
+                "Lambsquarters Maintain",
+                "Lambsquarters Cares",
+                "Growth Lambsquarters",
+                "Maintains Lambsquarters",
+                "Lambsquarters Growth",
+                "Lambsquarters Maintains",
+                "Lambsquarters Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Chenopodium_album.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Chenopodium_album.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Chenopodium_album.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Chenopodium_album.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Chenopodium_album.html"
+        }
+    ]
+}

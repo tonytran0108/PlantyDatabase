@@ -1,0 +1,577 @@
+{
+    "title": "American black nightshade (Solanum americanum) - PictureThis",
+    "displayName": "American black nightshade",
+    "otherCommonName": "Glossy nightshade, Caribnettle",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153937112603820054.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16498117",
+                "authorLink": "https://www.inaturalist.org/people/adriananelly",
+                "author": "adriananelly",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153667045060247579.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 329,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8239610",
+                "authorLink": "https://www.inaturalist.org/people/portioid",
+                "author": "portioid",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153789211110014982.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1600,
+                "height": 1200,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Starr_010520-0074_Solanum_americanum.jpg",
+                "authorLink": "http://www.hear.org/starr/",
+                "author": "Forest & Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153420891894579211.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2272,
+                "height": 1704,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157316513131397122.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   American black nightshade (*Solanum americanum*) is a flowering herb with unknown native origins, and it is poisonous. Its berries should not be consumed, as berry consumption has resulted in death in children.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "American black nightshade (*Solanum americanum*) is a flowering herb with unknown native origins, and it is poisonous. Its berries should not be consumed, as berry consumption has resulted in death in children.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "American black nightshade (<i>Solanum americanum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nightshades",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Solanum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nightshade",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Solanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251755104406142976.png",
+        "habitat": "Rocky or dry open woods, thickets, shores, openings, cultivated or waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   American black nightshade is a climbing woodland shrub native to most parts of the Americas. It is also a widespread introduced species growing through large parts of Africa, Asia, Europe and Oceania. Despite its wide distribution, this species isn't classed as invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2150",
+                "1793",
+                "1870",
+                "1845",
+                "1855",
+                "1975",
+                "2283",
+                "2972",
+                "3158",
+                "3052",
+                "2263",
+                "2472"
+            ],
+            "north": [
+                "4944",
+                "6512",
+                "11027",
+                "16776",
+                "21123",
+                "33489",
+                "35826",
+                "25300",
+                "12415",
+                "6608",
+                "3882",
+                "4232"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "A toxic flowering herb with prolific seed production, american black nightshade is a common weed in cultivated fields, gardens, lawns, pastures, and disturbed sites. It is especially concerning in vegetable gardens where it competes for space and nutrients (with great success), and in pasture fields because all plant parts are toxic to cattle. To make control trickier, american black nightshade is resistant to certain herbicides, which makes hand-pulling the only option in many cases.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Truth, Silence, melancholy, death, the underworld",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "American black nightshade, or Solanum americanum, is easily confused with other plants in its species. While some may question whether american black nightshade is edible or not, most experts agree that this plant is toxic and should not be eaten. It is important to note that the unripe berries of this particular plant are extremely toxic and have been known to cause death.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "American black nightshade",
+                "values": [
+                    "Most of the plants from the Solanum genus are called black nightshade. This plant is one of the most widespread and morphologically variable species belonging to the Solanum genus. As it is also originated from America, it is called the American black nightshade."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>American black nightshade is extremely toxic to humans, dogs, and cats.</strong> All parts contain harmful solanine alkaloids, especially green, unripe fruits. Ingesting causes severe symptoms, including nausea, abdominal pain, and vomiting, and can be fatal. <strong>Immediate veterinary care is crucial</strong> for pets showing symptoms. Topical contact usually has no effect, but ingestion can result in substantial health issues.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Solanum_americanum.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   The american black nightshade is a weed native to North and South America. It is considered invasive in 48 countries around the world including Japan, South Africa, China, Madagascar, and Turkey. It prefers to root in disturbed tropical and warm areas. The immature berries are poisonous to children and house pets and all parts are dangerous to livestock if it gets mixed in with hay. It is considered a weed in East Africa for invading commercial crops. Despite this, american black nightshade has been used in multiple regions in Africa, Brazil, and the Pacific Islands as a minor crop. When necessary, this weed can be controlled with herbicides to reduce seed production.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of american black nightshade is in the spring, before the plant has had a chance to produce and drop its seeds.\n  </div> \n  <ol> \n   <li>Hoeing: This traditional method involves using a hoe to cut the plants at their base, just below soil level. This disturbs the roots, preventing the plant from taking in nutrients and water, causing it to perish.</li> \n   <li>Sheet Mulching: Lay down a thick layer of newspaper or cardboard over the area where the american black nightshade is growing. Wet the material to help it stay in place, and then cover it with a thick layer of organic mulch. This blocks sunlight and smothers the plants underneath, causing them to die.</li> \n   <li>Hand Pulling: This is a simple and effective way to get rid of small populations of american black nightshade. Ensure you pull out the entire root system to prevent regrowth. Be sure to wear gloves to protect your hands.</li> \n   <li>Vinegar spray: In a spray bottle, mix equal parts of water and white vinegar. Spray the vinegar solution liberally onto the american black nightshade. Be careful not to spray nearby plants you wish to keep as vinegar is non-selective and can harm them.</li> \n   <li>Solarization: Cover the area infested with american black nightshade with a clear plastic tarp during the hottest part of summer. The sunÃ¢ÂÂs rays will heat the soil and kill the plants.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Upright growth reaching 4 feet (1.2 meters), with green angular stem varying in texture.",
+            "Ovate or lanceolate leaves, toxic to livestock, green to dark green with slight hairiness.",
+            "Clusters of star-shaped white flowers with yellow central cone, 0.4 inches (1 cm) diameter.",
+            "Small berries start green with white speckles, ripening to lustrous black or purplish-black.",
+            "Distinctive angular, many-branched stem, without prickles, may show slight purplish hue."
+        ],
+        "title": "Quickly Identify American black nightshade",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Solanum-americanum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   American black nightshade prefers consistent moisture, avoiding waterlogging, and should be watered weekly. It has moderate drought tolerance, thriving in environments that mimic its native moist habitats, making it suitable for regions with regular rainfall.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Solanum_americanum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is american black nightshade poisonous?",
+            "link": "/ask/Solanum_americanum-0.html"
+        },
+        {
+            "q": "Can american black nightshade be grown in pots?",
+            "link": "/ask/Solanum_americanum-1.html"
+        },
+        {
+            "q": "What happens if you touch american black nightshade?",
+            "link": "/ask/Solanum_americanum-2.html"
+        },
+        {
+            "q": "Is american black nightshade invasive?",
+            "link": "/ask/Solanum_americanum-3.html"
+        },
+        {
+            "q": "How do I get rid of american black nightshade?",
+            "link": "/ask/Solanum_americanum-4.html"
+        },
+        {
+            "q": "Is american black nightshade annual or perennial?",
+            "link": "/ask/Solanum_americanum-5.html"
+        },
+        {
+            "q": "How tall is american black nightshade?",
+            "link": "/ask/Solanum_americanum-6.html"
+        },
+        {
+            "q": "How did american black nightshade get its name?",
+            "link": "/ask/Solanum_americanum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Cassia fistula",
+                "link": "/wiki/Cassia_fistula.html",
+                "imageUrl": "/wiki-image/1080/154069088358891559.jpeg",
+                "displayName": "Golden shower tree"
+            },
+            {
+                "scientificName": "Hippeastrum striatum",
+                "link": "/wiki/Hippeastrum_striatum.html",
+                "imageUrl": "/wiki-image/1080/153844444389441561.jpeg",
+                "displayName": "Striped barbados lily"
+            },
+            {
+                "scientificName": "Philodendron hederaceum",
+                "link": "/wiki/Philodendron_hederaceum.html",
+                "imageUrl": "/wiki-image/1080/201221120490340352.jpeg",
+                "displayName": "Heartleaf philodendron"
+            },
+            {
+                "scientificName": "Caladium bicolor",
+                "link": "/wiki/Caladium_bicolor.html",
+                "imageUrl": "/wiki-image/1080/154122277233885212.jpeg",
+                "displayName": "Heart of jesus"
+            },
+            {
+                "scientificName": "Acacia dealbata",
+                "link": "/wiki/Acacia_dealbata.html",
+                "imageUrl": "/wiki-image/1080/152552840349351938.jpeg",
+                "displayName": "Silver wattle"
+            },
+            {
+                "scientificName": "Delonix regia",
+                "link": "/wiki/Delonix_regia.html",
+                "imageUrl": "/wiki-image/1080/153410137296470041.jpeg",
+                "displayName": "Royal poinciana"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "toxicity",
+            "link": "/toxic/Solanum_americanum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Solanum_americanum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Solanum_americanum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Solanum_americanum.html",
+            "values": [
+                "Care American black nightshade",
+                "Care American black nightshade",
+                "Grow American black nightshade",
+                "Maintain American black nightshade",
+                "American black nightshade Care",
+                "American black nightshade Grow",
+                "American black nightshade Maintain",
+                "American black nightshade Cares",
+                "Growth American black nightshade",
+                "Maintains American black nightshade",
+                "American black nightshade Growth",
+                "American black nightshade Maintains",
+                "American black nightshade Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Solanum_americanum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Solanum_americanum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Solanum_americanum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Solanum_americanum.html"
+        }
+    ]
+}

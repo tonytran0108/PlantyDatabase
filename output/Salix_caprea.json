@@ -1,0 +1,974 @@
+{
+    "title": "Goat willow (Salix caprea) - PictureThis",
+    "displayName": "Goat willow",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1944,
+            "height": 1944,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+            "license": "CC-BY-SA-2.5"
+        },
+        "imageUrl": "/wiki-image/1080/202654995322241024.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 332,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35282308",
+                "authorLink": "https://www.inaturalist.org/people/janems",
+                "author": "janems",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152502335828918273.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/39541519",
+                "authorLink": "https://www.inaturalist.org/people/convallaria1128",
+                "author": "convallaria1128",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654310482214950.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 319,
+                "height": 213,
+                "copyrightType": "CC",
+                "referral": "https://www.flickr.com/photos/jesusdf/39426067715",
+                "authorLink": "",
+                "author": "Jesus Dieguez Fernandez",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154181702401392657.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/14041383",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153886960270704652.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Goat willow 'Kilmarnock'",
+            "link": "/wiki/Salix_caprea__Kilmarnock_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Goat willow (Salix caprea) is a small deciduous tree or large shrub also known as pussy willow. Goat willow is native to Europe and western and central Asia. This species is not considered a good source of timber, as its wood is brittle. Salix caprea means \"goat.\" This species is susceptible to disease mediated by insects and microbes.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Goat willow (Salix caprea) is a small deciduous tree or large shrub also known as pussy willow. Goat willow is native to Europe and western and central Asia. This species is not considered a good source of timber, as its wood is brittle. Salix caprea means \"goat.\" This species is susceptible to disease mediated by insects and microbes.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Goat willow (<i>Salix caprea</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Willows",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Salix.html"
+            },
+            {
+                "type": "Family",
+                "name": "Willow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Salicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803021731135488.jpeg",
+        "habitat": "Woodland garden canopy, secondary, ground cover, hedge",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Goat willow, originating in a broad range of temperate regions across the Northern Hemisphere, is native to Europe, Asia, and regions in the northeast of North America. It has been introduced and is now found in parts of South America and South Africa. The species is also widely cultivated beyond its natural range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 19.40814042, \"2\": 13.59746859, \"3\": 26.33136996, \"4\": 30.91862007, \"5\": 39.79925191, \"6\": 33.0, \"7\": 40.9230804, \"8\": 66.31195169, \"9\": 42.27693164, \"10\": 32.93030256, \"11\": 22.02042726, \"12\": 10.66459785}, \"flower_month\": 8}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 10.04361057, \"2\": 21.46911309, \"3\": 52.7815908, \"4\": 31.31357525, \"5\": 15.42461744, \"6\": 20.15364014, \"7\": 22.84487256, \"8\": 18.34920262, \"9\": 16.93713543, \"10\": 10.20300094, \"11\": 8.966111602, \"12\": 5.0}, \"flower_month\": 3}, \"Csa\": {\"trends\": {\"1\": 10.46546013, \"2\": 20.11749751, \"3\": 34.97281953, \"4\": 27.61529578, \"5\": 16.84501709, \"6\": 19.31682021, \"7\": 26.33253919, \"8\": 15.60852247, \"9\": 20.78406847, \"10\": 13.82701567, \"11\": 15.61296287, \"12\": 19.0}, \"flower_month\": 3}, \"Csb\": {\"trends\": {\"1\": 2.191290357, \"2\": 15.24165438, \"3\": 16.42126673, \"4\": 14.02567542, \"5\": 12.24305314, \"6\": 14.55778441, \"7\": 10.4054946, \"8\": 11.66522469, \"9\": 7.78101959, \"10\": 10.27396662, \"11\": 1.625013559, \"12\": 2.0}, \"flower_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 212.9874956, \"2\": 477.2113987, \"3\": 990.8662816, \"4\": 1514.892802, \"5\": 1344.515602, \"6\": 1351.100611, \"7\": 1345.277866, \"8\": 1358.570336, \"9\": 1062.593296, \"10\": 681.9173596, \"11\": 476.9092963, \"12\": 183.0}, \"flower_month\": 4}, \"Dfa\": {\"trends\": {\"1\": 13.4764983, \"2\": 29.57983317, \"3\": 93.35932114, \"4\": 77.25496799, \"5\": 65.79500941, \"6\": 59.82260251, \"7\": 58.18178729, \"8\": 64.53070386, \"9\": 43.62216862, \"10\": 29.90439359, \"11\": 17.84997541, \"12\": 16.0}, \"flower_month\": 3}, \"Dfb\": {\"trends\": {\"1\": 105.6154369, \"2\": 221.5924424, \"3\": 581.3916308, \"4\": 615.6359795, \"5\": 404.8042218, \"6\": 381.9900859, \"7\": 390.7845308, \"8\": 450.2572578, \"9\": 477.8810151, \"10\": 486.5318094, \"11\": 277.0496934, \"12\": 109.0}, \"flower_month\": 4}, \"Default\": {\"trends\": {\"1\": 503.9150142, \"2\": 882.3223521, \"3\": 1941.503651, \"4\": 2541.333512, \"5\": 2316.119096, \"6\": 2328.901831, \"7\": 2205.667021, \"8\": 2430.487548, \"9\": 1895.096825, \"10\": 1378.828642, \"11\": 896.7657481, \"12\": 409.0}, \"flower_month\": 4}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The silky, grey-colored catkins that are produced in the spring by goat willow have long been admired, with this tree planted for ornamental purposes in parks, woodland areas, and wildlife gardens. This tree will flourish in moist ground, tolerating saturated soil, so planting alongside ponds and streams is not an issue. It is prized for being low maintenance and is excellent as a windbreaker or screen.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Sadness and mourning",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In northern latitudes, where palms do not grow, some churchgoers carry branches of goat willow on Palm Sunday. Goat willow has long been used in pagan rituals, too. The male catkins are silver at first, then become golden when they are ripe with pollen. Druids recognize this transformation, which they call Ã¢ÂÂsunshine fire.Ã¢ÂÂ",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Goat willow",
+                "values": [
+                    "Goat willow is so called because in Northern Europe, its leaves were used as goat fodder. Its other common name, pussy willow, comes from the fact that the male catkins are soft and furry and resemble catsÃ¢ÂÂ paws."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Oval to round leaves with soft texture, dark green color, 2-4 inches (5-10 cm) long.",
+            "Showy male catkins in early spring, 1-2 inches (2.5-5 cm) long, densely packed with yellow stamens.",
+            "Prominent catkins are silver or yellow depending on the gender, appearing before leaves.",
+            "Upper leaf surface glossy and smooth, lower surface gray and pubescent.",
+            "Fine serrated leaf edges, visible veins, oval shape with pointed tip and rounded base."
+        ],
+        "title": "Quickly Identify Goat willow",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Salix-caprea.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Goat willow prefers moist, humid environments and requires consistent moisture with occasional drought tolerance. Water every three weeks, considering natural rainfall, which affects dormancy and water uptake in this deciduous species.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For best growth, goat willow requires balanced NPK fertilizers applied in early spring and optionally late summer. Seasonal changes affect frequency, with less needed during dormancy. Water thoroughly after fertilization to enhance nutrient absorption and avoid root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Goat willow is a versatile deciduous shrub with smooth grey bark and attractive catkins. Prune in late spring to promote healthy growth, remove dead branches, and improve air circulation. Regular maintenance enhances structure and flowering. Consult reputable sources for detailed care guidance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Goat willow is a deciduous shrub from Europe and Asia, known for its resilience. Propagation through hardwood cuttings from healthy branches, with at least two buds, encourages robust growth. Planting cuttings in moist soil and maintaining moisture are crucial for successful root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Salix_caprea.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does goat willow grow?",
+            "link": "/ask/Salix_caprea-0.html"
+        },
+        {
+            "q": "What is a goat willow tree?",
+            "link": "/ask/Salix_caprea-1.html"
+        },
+        {
+            "q": "How big does a goat willow grow?",
+            "link": "/ask/Salix_caprea-2.html"
+        },
+        {
+            "q": "Is goat willow good to burn?",
+            "link": "/ask/Salix_caprea-3.html"
+        },
+        {
+            "q": "Can you coppice goat willow?",
+            "link": "/ask/Salix_caprea-4.html"
+        },
+        {
+            "q": "How do you plant goat willow?",
+            "link": "/ask/Salix_caprea-5.html"
+        },
+        {
+            "q": "Is the goat willow an evergreen?",
+            "link": "/ask/Salix_caprea-6.html"
+        },
+        {
+            "q": "Where is goat willow native?",
+            "link": "/ask/Salix_caprea-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Salix-caprea-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Salix-caprea-Whitefly.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Salix-caprea-Black-mold.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Salix-caprea-Aphid.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Salix-caprea-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Salix-caprea-Dodder.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Salix-caprea-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Salix-caprea-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Salix-caprea-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Salix-caprea-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Flower rot",
+                "link": "/disease/Salix-caprea-Flower-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Salix-caprea-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Salix-caprea-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Salix-caprea-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Salix-caprea-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Salix-caprea-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Salix-caprea-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Salix-caprea-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Salix-caprea-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Salix-caprea-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Salix-caprea-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Salix-caprea-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Salix-caprea-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Salix-caprea-Moss.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Salix-caprea-Notch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Salix-caprea-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Salix-caprea-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Salix-caprea-Thrips.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Salix-caprea-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Salix-caprea-Spots.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Salix-caprea-Lichen.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Salix-caprea-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Stem blackening",
+                "link": "/disease/Salix-caprea-Stem-blackening.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Salix-caprea-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Salix-caprea-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Salix-caprea-Weevil.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Rhexia mariana",
+                "link": "/wiki/Rhexia_mariana.html",
+                "imageUrl": "/wiki-image/1080/153722626232025097.jpeg",
+                "displayName": "Pale Meadow Beauty"
+            },
+            {
+                "scientificName": "Senecio angulatus",
+                "link": "/wiki/Senecio_angulatus.html",
+                "imageUrl": "/wiki-image/1080/221576168804745216.jpeg",
+                "displayName": "Creeping groundsel"
+            },
+            {
+                "scientificName": "Jatropha curcas",
+                "link": "/wiki/Jatropha_curcas.html",
+                "imageUrl": "/wiki-image/1080/157527842702229513.jpeg",
+                "displayName": "Barbados nut"
+            },
+            {
+                "scientificName": "Heterotheca subaxillaris",
+                "link": "/wiki/Heterotheca_subaxillaris.html",
+                "imageUrl": "/wiki-image/1080/153748181287436332.jpeg",
+                "displayName": "Camphorweed"
+            },
+            {
+                "scientificName": "Euphorbia hyssopifolia",
+                "link": "/wiki/Euphorbia_hyssopifolia.html",
+                "imageUrl": "/wiki-image/1080/153856302794145807.jpeg",
+                "displayName": "Hyssop-leaf sandmat"
+            },
+            {
+                "scientificName": "Praxelis clematidea",
+                "link": "/wiki/Praxelis_clematidea.html",
+                "imageUrl": "/wiki-image/1080/153816114785157128.jpeg",
+                "displayName": "Pussyfoot"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Salix_caprea.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Salix_caprea.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Salix_caprea.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Salix_caprea.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Salix_caprea.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Salix_caprea.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Salix_caprea.html",
+            "values": [
+                "Care Goat willow",
+                "Care Goat willow",
+                "Grow Goat willow",
+                "Maintain Goat willow",
+                "Goat willow Care",
+                "Goat willow Grow",
+                "Goat willow Maintain",
+                "Goat willow Cares",
+                "Growth Goat willow",
+                "Maintains Goat willow",
+                "Goat willow Growth",
+                "Goat willow Maintains",
+                "Goat willow Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Flower-rot.html",
+            "values": [
+                "Flower rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-caprea-Stem-blackening.html",
+            "values": [
+                "Stem blackening"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Salix_caprea.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Salix_caprea.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Salix_caprea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Salix_caprea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Salix_caprea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Salix_caprea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Salix_caprea.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Salix_caprea.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Salix_caprea.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Salix_caprea.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Salix_caprea.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Salix_caprea.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Salix_caprea.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Salix_caprea.html"
+        }
+    ]
+}

@@ -1,0 +1,1053 @@
+{
+    "title": "Cucumber (Cucumis sativus) - PictureThis",
+    "displayName": "Cucumber",
+    "otherCommonName": "Immature Cucumber, Common cucumber",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Fordvika",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317732991849824256.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 3072,
+                "height": 2304,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cucumis_sativus01.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:apple2000",
+                "author": "apple2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153893991132168230.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3072,
+                "height": 2304,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cucumis_sativus02.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:apple2000",
+                "author": "apple2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153410425059278888.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 664,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/212347899",
+                "authorLink": "https://www.inaturalist.org/people/agnesabah",
+                "author": "Agnes",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349646596019257348.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 749,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/217811653",
+                "authorLink": "https://www.inaturalist.org/people/urgamal",
+                "author": "Urgamal Magsar",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349646621789061121.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Cucumber 'Crystal Lemon'",
+            "link": "/wiki/Cucumis_sativus__Crystal_Lemon_.html"
+        },
+        {
+            "displayName": "Cucumber 'Burpless Tasty Green'",
+            "link": "/wiki/Cucumis_sativus__Burpless_Tasty_Green_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Cucumber (Cucumis sativus) is a creeping vine native to South Asia. It has a long history of cultivation - mentions of its use are found in various ancient scripts, including the Bible, Epic of Gilgamesh and Pliny the Elder's \"<em>Natural History</em>\". Today, cucumber is one of the most widely cultivated vegetable species in the world.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Cucumber (Cucumis sativus) is a creeping vine native to South Asia. It has a long history of cultivation - mentions of its use are found in various ancient scripts, including the Bible, Epic of Gilgamesh and Pliny the Elder's \"Natural History\". Today, cucumber is one of the most widely cultivated vegetable species in the world.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cucumber (<i>Cucumis sativus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Melon",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cucumis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Gourd",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Cucurbitaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Cucurbitales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Cucurbitales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804877157007365.jpeg",
+        "habitat": "Vegetable garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cucumber's native region reaches from the Himalayas through southern China. It also naturally occurs in Northern Thailand and has been internationally introduced, now found growing in the Americas, Central Asia, and a handful of other regions around the world. While the original habitat for this highly cultivated crop is unknown, cucumber grows best in damp soils that have good drainage in humid climates.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BWk\": {\"trends\": {\"1\": 25.29086673, \"2\": 24.84662356, \"3\": 26.30760963, \"4\": 10.54558324, \"5\": 8.052360775, \"6\": 21.0, \"7\": 14.82723388, \"8\": 26.38239851, \"9\": 34.25773624, \"10\": 74.99707024, \"11\": 28.97096189, \"12\": 40.62332225}, \"flower_month\": 10, \"fruit_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 544.1964253, \"2\": 445.6078767, \"3\": 393.9497758, \"4\": 274.313706, \"5\": 212.5658262, \"6\": 197.0, \"7\": 210.9050024, \"8\": 330.8684129, \"9\": 629.9617739, \"10\": 761.4620278, \"11\": 610.072746, \"12\": 523.2449818}, \"flower_month\": 10, \"fruit_month\": 1}, \"Csb\": {\"trends\": {\"1\": 69.85236973, \"2\": 75.44069001, \"3\": 65.29483338, \"4\": 30.59971619, \"5\": 24.07902535, \"6\": 17.0, \"7\": 14.77213963, \"8\": 38.76343744, \"9\": 37.27217125, \"10\": 76.25196238, \"11\": 71.23319696, \"12\": 62.57208865}, \"flower_month\": 10, \"fruit_month\": 2}, \"Dfa\": {\"trends\": {\"1\": 15.47495682, \"2\": 4.085106383, \"3\": 1.264197531, \"4\": 8.615384615, \"5\": 3.535911602, \"6\": 0.0, \"7\": 2.0, \"8\": 4.376068376, \"9\": 18.84662577, \"10\": 33.52380952, \"11\": 15.48164147, \"12\": 14.36472946}, \"flower_month\": 10, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 2303.0, \"2\": 1760.0, \"3\": 1615.0, \"4\": 1101.0, \"5\": 793.0, \"6\": 661.0, \"7\": 776.0, \"8\": 1344.0, \"9\": 2881.0, \"10\": 4169.0, \"11\": 2731.0, \"12\": 2251.0}, \"flower_month\": 10, \"fruit_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 309.4364294, \"2\": 402.8048853, \"3\": 714.9352451, \"4\": 763.5840026, \"5\": 854.3971877, \"6\": 857.8513854, \"7\": 612.6865583, \"8\": 573.587592, \"9\": 626.3082817, \"10\": 694.9200031, \"11\": 499.833896, \"12\": 382.0}, \"flower_month\": 6, \"fruit_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "An absolute essential in veggie gardens, the cucumber is one of the most commonly grown garden vegetables around the world. Its ease of care makes it widely valued by gardeners. Cucumber plants will benefit from being grown with corn or sunflowers, which act as natural trellises. You can also plant them with marigolds to help repel bugs.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Resurrection, redemption",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that no one dared to eat cucumbers because they were covered in small thorns, until a hungry child accidentally broke a cucumber and found that there were no thorns in the pulp. He could not help biting into it and found that the cucumber tasted fresh. This was the first person to eat cucumbers.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Garden cucumber",
+                "values": [
+                    "Cucumis in latin means Ã¢ÂÂcucumberÃ¢ÂÂ and it was derived from the Greek word, kykyon. As this is plant is commonly planted in gardens, it is then called garden cucumber."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Large, hairy, triangular leaves with 3-5 lobes and serrated margins.",
+            "Yellow, 5-petaled flowers with bell-shaped, 5-lobed corolla that are wrinkled and hairy.",
+            "Long, cylindrical fruit with hard exterior rind, bumpy surface, and pale green flesh.",
+            "Vining stem with tendrils for climbing, covered in stiff, bristly hairs.",
+            "Male and female flowers grow separately, with male flowers in clusters and female flowers solitary."
+        ],
+        "title": "Quickly Identify Cucumber",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cucumis-sativus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating in the Himalayan foothills, cucumber thrives in moist, tropical-like conditions. It requires watering twice a week, with adequate hydration during the growing season to support its growth and fruit production, particularly when grown outdoors for optimal rainfall utilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize cucumber with high-phosphorus fertilizer at planting to ensure strong roots, then switch to balanced nutrition during growth. Apply monthly, following label instructions. Adjust fertilization according to growth stages and use water-soluble fertilizers to prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cucumber grows quickly and benefits from strategic pruning. Remove lateral vines past the fifth leaf node and cut back crowded growth in early to late spring. This promotes air circulation, reduces disease risk, and enhances fruit yield. Use clean tools to prevent infections.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cucumber propagation occurs mainly through seed sowing in Spring. Successful propagation requires careful seed handling and soil preparation. Indicators of success include germination and robust seedling growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cucumis_sativus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the benefits of eating cucumber ?",
+            "link": "/ask/Cucumis_sativus-0.html"
+        },
+        {
+            "q": "Is a cucumber a fruit or a vegetable?",
+            "link": "/ask/Cucumis_sativus-1.html"
+        },
+        {
+            "q": "Why we should not eat cucumber at night?",
+            "link": "/ask/Cucumis_sativus-2.html"
+        },
+        {
+            "q": "Is okay to eat cucumber every day?",
+            "link": "/ask/Cucumis_sativus-3.html"
+        },
+        {
+            "q": "Is cucumber good for hair?",
+            "link": "/ask/Cucumis_sativus-4.html"
+        },
+        {
+            "q": "What happens if you eat too much cucumber?",
+            "link": "/ask/Cucumis_sativus-5.html"
+        },
+        {
+            "q": "Does cucumber cause gas?",
+            "link": "/ask/Cucumis_sativus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Cucumis-sativus-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Cucumis-sativus-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Cucumis-sativus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Cucumis-sativus-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Cucumis-sativus-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Cucumis-sativus-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Cucumis-sativus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Angular leaf spot",
+                "link": "/disease/Cucumis-sativus-Angular-leaf-spot.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Cucumis-sativus-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Root rot",
+                "link": "/disease/Cucumis-sativus-Root-rot.html"
+            },
+            {
+                "diseaseName": "Yellow spots",
+                "link": "/disease/Cucumis-sativus-Yellow-spots.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Cucumis-sativus-Aphid.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Cucumis-sativus-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Cucumis-sativus-Spots.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Cucumis-sativus-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Cucumis-sativus-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Cucumis-sativus-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Cucumis-sativus-Scars.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Cucumis-sativus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Cucumis-sativus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Cucumis-sativus-Wounds.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Cucumis-sativus-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Cucumis-sativus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Cucumis-sativus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Cucumis-sativus-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Snail and slug",
+                "link": "/disease/Cucumis-sativus-Snail-and-slug.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Cucumis-sativus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Cucumis-sativus-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Cucumis-sativus-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Cucumis-sativus-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Interveinal spots (angular spots)",
+                "link": "/disease/Cucumis-sativus-Interveinal-spots-(angular-spots).html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Cucumis-sativus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Cucumis-sativus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow blotch",
+                "link": "/disease/Cucumis-sativus-Yellow-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Cucumis-sativus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Cucumis-sativus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Cucumis-sativus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Cucumis-sativus-Leaf-malformation.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lomandra longifolia",
+                "link": "/wiki/Lomandra_longifolia.html",
+                "imageUrl": "/wiki-image/1080/153785843855654951.jpeg",
+                "displayName": "Spiny-head mat-rush"
+            },
+            {
+                "scientificName": "Pachira aquatica",
+                "link": "/wiki/Pachira_aquatica.html",
+                "imageUrl": "/wiki-image/1080/201220068223352832.jpeg",
+                "displayName": "Money tree"
+            },
+            {
+                "scientificName": "Kalanchoe tetraphylla",
+                "link": "/wiki/Kalanchoe_tetraphylla.html",
+                "imageUrl": "/wiki-image/1080/154180791868325930.jpeg",
+                "displayName": "Paddle plant"
+            },
+            {
+                "scientificName": "Calamagrostis epigejos",
+                "link": "/wiki/Calamagrostis_epigejos.html",
+                "imageUrl": "/wiki-image/1080/221564434954092544.jpeg",
+                "displayName": "Bush-grass"
+            },
+            {
+                "scientificName": "Peperomia caperata",
+                "link": "/wiki/Peperomia_caperata.html",
+                "imageUrl": "/wiki-image/1080/154184098993143841.jpeg",
+                "displayName": "Emerald ripple peperomia"
+            },
+            {
+                "scientificName": "Guizotia abyssinica",
+                "link": "/wiki/Guizotia_abyssinica.html",
+                "imageUrl": "/wiki-image/1080/153851380761624621.jpeg",
+                "displayName": "Niger"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Cucumis_sativus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cucumis_sativus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cucumis_sativus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Cucumis_sativus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Cucumis_sativus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Cucumis_sativus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cucumis_sativus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cucumis_sativus.html",
+            "values": [
+                "Care Cucumber",
+                "Care Cucumber",
+                "Grow Cucumber",
+                "Maintain Cucumber",
+                "Cucumber Care",
+                "Cucumber Grow",
+                "Cucumber Maintain",
+                "Cucumber Cares",
+                "Growth Cucumber",
+                "Maintains Cucumber",
+                "Cucumber Growth",
+                "Cucumber Maintains",
+                "Cucumber Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Yellow-spots.html",
+            "values": [
+                "Yellow spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Yellow-blotch.html",
+            "values": [
+                "Yellow blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Interveinal-spots-(angular-spots).html",
+            "values": [
+                "Interveinal spots (angular spots)"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Root-rot.html",
+            "values": [
+                "Root rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Angular-leaf-spot.html",
+            "values": [
+                "Angular leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cucumis-sativus-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cucumis_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cucumis_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Cucumis_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Cucumis_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cucumis_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cucumis_sativus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Cucumis_sativus.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cucumis_sativus.html"
+        }
+    ]
+}

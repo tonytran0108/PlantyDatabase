@@ -1,0 +1,713 @@
+{
+    "title": "Durian (Durio zibethinus) - PictureThis",
+    "displayName": "Durian",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1316,
+            "height": 1316,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Jiri Anderle",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/224655510032842752.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1316,
+                "height": 1316,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Jiri Anderle",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/224655510032842752.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4000,
+                "height": 3000,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "maple",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157271566298644483.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Durian (Durio zibethinus) is a tropical plant from Southeast Asia. It bears large, spiny, edible fruit which has become a major export crop of the region. The fruit is best known for its pungent smell, which provokes opposing reactions, ranging from near-addiction to revulsion. In some areas, it has even been banned from public transport and hotels.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Durian (Durio zibethinus) is a tropical plant from Southeast Asia. It bears large, spiny, edible fruit which has become a major export crop of the region. The fruit is best known for its pungent smell, which provokes opposing reactions, ranging from near-addiction to revulsion. In some areas, it has even been banned from public transport and hotels.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Durian (<i>Durio zibethinus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Durians",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Durio.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mallow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Malvaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mallows, rock-roses, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malvales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early winter, Mid winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 40 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251767907703652356.png",
+        "habitat": "Dense lowland humid forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Durian is indigenous to the biologically diverse regions of Southeast Asia, where its presence is part of the natural flora. Beyond its native range, this species has been introduced to various tropical areas in South and East Asia. It thrives in these locales, adapting to their climates and ecosystems, and becoming a part of the local vegetation.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "819",
+                "943",
+                "749",
+                "842",
+                "957",
+                "883",
+                "900",
+                "1001",
+                "928",
+                "891",
+                "639",
+                "918"
+            ],
+            "north": [
+                "13249",
+                "14134",
+                "17157",
+                "29112",
+                "49043",
+                "31600",
+                "24239",
+                "18616",
+                "15588",
+                "12438",
+                "10654",
+                "12953"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Durian causes moderate toxicity</strong> in humans due to cyclopropene fatty acids in its seeds. <strong>Raw seed ingestion</strong> leads to symptoms like abdominal pain, nausea, vomiting, and diarrhea. Severity varies based on quantity consumed and sensitivity. Consumption of the fruit flesh is safe, but avoid raw seeds to prevent poisoning. Caution is advised to avoid accidental ingestion of the toxic seeds.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Durio_zibethinus.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 2-3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Southeast Asia, durian flourishes in humid environments resembling tropical rainforests. It prefers consistent humidity and requires watering every 2-3 weeks. Primarily grown outdoors, durian benefits from natural rainfall that supports its growth cycles and developmental phases.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, durian requires high phosphorus fertilizers for flowering and fruiting, alternated with balanced nutrients every 2-3 months. Adjust amounts based on seasonal needs, and incorporate fertilizers into topsoil. Novice gardeners should wear gloves to prevent over-fertilization, which can affect durian's health and fruit quality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Durian thrives with pruning during early to late spring, promoting healthier growth and fruit yield. Focus on removing dead branches and shaping the canopy for better airflow and light. Always use clean, sharp tools to avoid disease and respect the natural structure to prevent over-pruning.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Durian is a tropical fruit tree favored for its large size and strong aroma. It thrives in warm climates and requires grafting for propagation, connecting a mature scion to rootstock. Successful growth depends on optimal scion selection and careful grafting techniques.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Durio_zibethinus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is durian banned in some places?",
+            "link": "/ask/Durio_zibethinus-0.html"
+        },
+        {
+            "q": "What does durian taste like?",
+            "link": "/ask/Durio_zibethinus-1.html"
+        },
+        {
+            "q": "What should one not eat after durian?",
+            "link": "/ask/Durio_zibethinus-2.html"
+        },
+        {
+            "q": "What happens if you eat too much durian?",
+            "link": "/ask/Durio_zibethinus-3.html"
+        },
+        {
+            "q": "Why is durian smelly?",
+            "link": "/ask/Durio_zibethinus-4.html"
+        },
+        {
+            "q": "How do you know when durian is bad?",
+            "link": "/ask/Durio_zibethinus-5.html"
+        },
+        {
+            "q": "How long can durian last after opening?",
+            "link": "/ask/Durio_zibethinus-6.html"
+        },
+        {
+            "q": "What animal eats durian?",
+            "link": "/ask/Durio_zibethinus-7.html"
+        },
+        {
+            "q": "How long can durian be kept in the freezer?",
+            "link": "/ask/Durio_zibethinus-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Durio-zibethinus-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Durio-zibethinus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Durio-zibethinus-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Durio-zibethinus-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Durio-zibethinus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Durio-zibethinus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Durio-zibethinus-Yellow-edges.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Kalanchoe gastonis-bonnieri",
+                "link": "/wiki/Kalanchoe_gastonis-bonnieri.html",
+                "imageUrl": "/wiki-image/1080/154032001316290594.jpeg",
+                "displayName": "Donkey ears"
+            },
+            {
+                "scientificName": "Hypoestes phyllostachya",
+                "link": "/wiki/Hypoestes_phyllostachya.html",
+                "imageUrl": "/wiki-image/1080/347095333905793024.jpeg",
+                "displayName": "Polka dot plant"
+            },
+            {
+                "scientificName": "Araucaria cunninghamii",
+                "link": "/wiki/Araucaria_cunninghamii.html",
+                "imageUrl": "/wiki-image/1080/154095949084360744.jpeg",
+                "displayName": "Hoop Pine"
+            },
+            {
+                "scientificName": "Hylotelephium erythrostictum",
+                "link": "/wiki/Hylotelephium_erythrostictum.html",
+                "imageUrl": "/wiki-image/1080/153464314013941775.jpeg",
+                "displayName": "Garden stonecrop"
+            },
+            {
+                "scientificName": "Salvia nemorosa",
+                "link": "/wiki/Salvia_nemorosa.html",
+                "imageUrl": "/wiki-image/1080/154129638807830536.jpeg",
+                "displayName": "Woodland sage"
+            },
+            {
+                "scientificName": "Trachelospermum jasminoides",
+                "link": "/wiki/Trachelospermum_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/153716123651538960.jpeg",
+                "displayName": "Star jasmine"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Durio_zibethinus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Durio_zibethinus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Durio_zibethinus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Durio_zibethinus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Durio_zibethinus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Durio_zibethinus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Durio_zibethinus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Durio_zibethinus.html",
+            "values": [
+                "Care Durian",
+                "Care Durian",
+                "Grow Durian",
+                "Maintain Durian",
+                "Durian Care",
+                "Durian Grow",
+                "Durian Maintain",
+                "Durian Cares",
+                "Growth Durian",
+                "Maintains Durian",
+                "Durian Growth",
+                "Durian Maintains",
+                "Durian Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Durio-zibethinus-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Durio_zibethinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Durio_zibethinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Durio_zibethinus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Durio_zibethinus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Durio_zibethinus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Durio_zibethinus.html"
+        }
+    ]
+}

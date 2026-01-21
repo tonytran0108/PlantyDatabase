@@ -1,0 +1,615 @@
+{
+    "title": "Garlic mustard (Alliaria petiolata) - PictureThis",
+    "displayName": "Garlic mustard",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154102559039029256.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/9530249",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152481311964004354.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16916283",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660542479761424.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17126989",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153667264103579659.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 358,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20781782",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153669325687881761.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Alliaria petiolata, colloquially known as garlic mustard is a herbaceous biennial plant known for the garlic aroma and smell of its crushed leaves. It can be found in partially shaded and moist places like woodland edges, trails, hedges, and roadsides. Leaves of garlic mustard are used in European cuisine as a spice herb for salads and sauces.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Alliaria petiolata, colloquially known as garlic mustard is a herbaceous biennial plant known for the garlic aroma and smell of its crushed leaves. It can be found in partially shaded and moist places like woodland edges, trails, hedges, and roadsides. Leaves of garlic mustard are used in European cuisine as a spice herb for salads and sauces.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Garlic mustard (<i>Alliaria petiolata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Alliaria",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Alliaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cruciferae",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Brassicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mustards, capers, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Brassicales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial, Annual, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 mm to 3.5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736180780236802.png",
+        "habitat": "Damp hedgerows, Edges of woods, Shady places, Basic soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic mustard is native to regions spanning parts of Europe and Asia, where it grows in a variety of habitats. In certain areas outside its native range, such as in some parts of the Southern Hemisphere, garlic mustard is thought to be invasive and may have an impact on local ecosystems. Its ability to spread beyond its native territory highlights the adaptability of garlic mustard, though it also raises ecological concerns where it competes with native species.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "12",
+                "20",
+                "88",
+                "162",
+                "62",
+                "31",
+                "30",
+                "49",
+                "61",
+                "40",
+                "9",
+                "19"
+            ],
+            "north": [
+                "1776",
+                "8161",
+                "90265",
+                "149211",
+                "52597",
+                "16229",
+                "9016",
+                "6430",
+                "5439",
+                "3025",
+                "967",
+                "1069"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Healing, Purification",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In its native habitats across Europe, Asia, and Northern Africa, many herbivores and insects feed on the flavorful Alliaria petiolata. But in North America, where the plant has been introduced and declared an invasive species soon after, garlic mustard is toxic or unpalatable to many native herbivores, including the butterflies of the Lepidoptera genus. With no natural enemies in North America, garlic mustard causes great damage to the environment.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Garlic mustard",
+                "values": [
+                    "This plant produces a dense amount of crisscross-shaped white flowers with wrinkled leaves. The genus name, Allaria comes from allium and it is worth knowing the fact that crushed leaves have a garlic-like odor. In fact, all of the parts in the plant emit garlic-like odor. When it is consumed as spices, it gives a mixture of garlic and mustard taste. Thus, it is called garlic mustard."
+                ]
+            },
+            {
+                "key": "Jack-by-the-hedge",
+                "values": [
+                    "This unique name is actually derived from his growing habits because it often grows near hedges. Hence, it is called Jack-by-the-Hedge."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic mustard contains precursors to hydrogen cyanide, which is highly poisonous. It affects the heart, lungs, and nervous system, causing symptoms like nausea, vomiting, difficulty breathing, and potentially death. <strong>Garlic mustard is mildly toxic to cats and dogs</strong>, causing gastrointestinal upset if consumed in large quantities. <strong>Immediate veterinary care is essential</strong> if pets ingest garlic mustard.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Alliaria_petiolata.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic mustard is a biennial flavorful herb which is edible and widely used in various dishes. However, it spreads rapidly in gardens and forest understories, and is considered a weed in some countries.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of garlic mustard is in early spring, before the plant has a chance to set seed. Here are a few organic or interesting methods to remove or control this plant:\n  </div> \n  <ol> \n   <li>Hand pulling: Uproot the plant by grasping it at the base near the soil level and pull upward gently to extract the entire root system. No tools are needed, just a pair of gardening gloves to protect your hands.</li> \n   <li>Smothering: Lay cardboard or any non-see through material over the area covered by garlic mustard. Keep the material in place for an entire growing season to suffocate the plant.</li> \n   <li>Plant competition: Planting native ground cover plants in the area can help outcompete garlic mustard for resources.</li> \n   <li>Biological control: Certain insects such as the Garlic Mustard Root Weevils can be introduced into the area. They feed specifically on the seeds of garlic mustard thereby limiting its spread.</li> \n   <li>Solarizing: Cover the area with a clear plastic sheet during the hottest months of the year. The heat trapped under the plastic will kill garlic mustard by baking the soil.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Distinct round to heart-shaped leaves with coarse, toothed edges emit a garlic odor when crushed.",
+            "Clusters of small, cruciform white flowers with four petals in elongated racemes from spring to early summer.",
+            "Distinctive four-sided pods, 1 1/2 to 2 inches (3.8 to 5 cm) long, containing glossy black seeds.",
+            "Smooth, green stems up to 3 feet (90 cm) tall, occasionally with fine hairs on 2nd-year plants.",
+            "Herbaceous biennial with a low rosette in the 1st year, tall stems up to 3.3 feet (1 meter) in 2nd year."
+        ],
+        "title": "Quickly Identify Garlic mustard",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Alliaria-petiolata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from woodlands, garlic mustard thrives in moist, well-drained soil, requiring consistent moisture without waterlogging. For optimal growth, it needs weekly watering. As an herbaceous biennial, its growth cycle aligns with water availability, peaking during ample rainfall.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to propagate garlic mustard is Spring via sowing. It has easy propagation difficulty, with success indicated by seed germination and vigorous growth. Maintain sufficient soil moisture during the germination process for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Alliaria_petiolata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is garlic mustard an invasive species?",
+            "link": "/ask/Alliaria_petiolata-0.html"
+        },
+        {
+            "q": "Does garlic mustard contain cyanide?",
+            "link": "/ask/Alliaria_petiolata-1.html"
+        },
+        {
+            "q": "What animals eat garlic mustard?",
+            "link": "/ask/Alliaria_petiolata-2.html"
+        },
+        {
+            "q": "Is garlic mustard poisonous to dogs?",
+            "link": "/ask/Alliaria_petiolata-3.html"
+        },
+        {
+            "q": "How do you manage garlic mustard?",
+            "link": "/ask/Alliaria_petiolata-4.html"
+        },
+        {
+            "q": "Can garlic mustard be composted?",
+            "link": "/ask/Alliaria_petiolata-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Acacia melanoxylon",
+                "link": "/wiki/Acacia_melanoxylon.html",
+                "imageUrl": "/wiki-image/1080/153933861313577001.jpeg",
+                "displayName": "Blackwood"
+            },
+            {
+                "scientificName": "Houttuynia cordata",
+                "link": "/wiki/Houttuynia_cordata.html",
+                "imageUrl": "/wiki-image/1080/154158312009498627.jpeg",
+                "displayName": "Chameleon plant"
+            },
+            {
+                "scientificName": "Plantago lanceolata",
+                "link": "/wiki/Plantago_lanceolata.html",
+                "imageUrl": "/wiki-image/1080/201222022433472512.jpeg",
+                "displayName": "Ribwort plantain"
+            },
+            {
+                "scientificName": "Cymbopogon citratus",
+                "link": "/wiki/Cymbopogon_citratus.html",
+                "imageUrl": "/wiki-image/1080/317756837508251648.jpeg",
+                "displayName": "Lemon grass"
+            },
+            {
+                "scientificName": "Adenium obesum",
+                "link": "/wiki/Adenium_obesum.html",
+                "imageUrl": "/wiki-image/1080/153778641195499523.jpeg",
+                "displayName": "Desert rose"
+            },
+            {
+                "scientificName": "Solanum xanti",
+                "link": "/wiki/Solanum_xanti.html",
+                "imageUrl": "/wiki-image/1080/154042146029043730.jpeg",
+                "displayName": "Purple nightshade"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Alliaria_petiolata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Alliaria_petiolata.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Alliaria_petiolata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Alliaria_petiolata.html",
+            "values": [
+                "Care Garlic mustard",
+                "Care Garlic mustard",
+                "Grow Garlic mustard",
+                "Maintain Garlic mustard",
+                "Garlic mustard Care",
+                "Garlic mustard Grow",
+                "Garlic mustard Maintain",
+                "Garlic mustard Cares",
+                "Growth Garlic mustard",
+                "Maintains Garlic mustard",
+                "Garlic mustard Growth",
+                "Garlic mustard Maintains",
+                "Garlic mustard Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Alliaria_petiolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Alliaria_petiolata.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Alliaria_petiolata.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Alliaria_petiolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Alliaria_petiolata.html"
+        }
+    ]
+}

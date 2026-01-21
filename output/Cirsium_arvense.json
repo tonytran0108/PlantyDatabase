@@ -1,0 +1,613 @@
+{
+    "title": "Creeping thistle (Cirsium arvense) - PictureThis",
+    "displayName": "Creeping thistle",
+    "otherCommonName": "Field thistle",
+    "mainImage": {
+        "copyright": {
+            "width": 1060,
+            "height": 1061,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201229495676567552.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8656585",
+                "authorLink": "https://www.inaturalist.org/people/kennedy9094",
+                "author": "kennedy9094",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152510345942925316.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/2002625",
+                "authorLink": "https://www.inaturalist.org/people/naturehopper",
+                "author": "naturehopper",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152487423702466560.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27889227",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665528936792073.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19625677",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153667758024818706.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   This aggressive weed spreads across grasslands and fields via underground roots that creep horizontally, some for more than 5 m. It can cause major problems to agriculture if its growth is left unchecked. Its seeds feed many birds as well as pest insects. Creeping thistle is generally considered a noxious weed even in its native territory.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "This aggressive weed spreads across grasslands and fields via underground roots that creep horizontally, some for more than 5 m. It can cause major problems to agriculture if its growth is left unchecked. Its seeds feed many birds as well as pest insects. Creeping thistle is generally considered a noxious weed even in its native territory.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Creeping thistle (<i>Cirsium arvense</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Thistles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cirsium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736099175858178.png",
+        "habitat": "Arable land",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping thistle, with a widespread presence, is indigenous to diverse regions across Europe and Asia, spanning various climates and habitats. The plant has also spread to continents such as South America, Africa, and Oceania. In areas outside its native range, creeping thistle is sometimes thought to be invasive, where it may have an impact on local ecosystems, though the extent of such interference widely varies.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "106",
+                "117",
+                "129",
+                "150",
+                "163",
+                "174",
+                "159",
+                "127",
+                "165",
+                "152",
+                "110",
+                "165"
+            ],
+            "north": [
+                "1310",
+                "2818",
+                "13811",
+                "39685",
+                "53497",
+                "52424",
+                "32919",
+                "19338",
+                "10125",
+                "3281",
+                "1159",
+                "979"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Creeping thistle has a weedy, invasive nature and is not recommended to grow in gardens. It is an aggressive grower and will smother and readily replace nearby plant life. The flowers attract bees and pollinators but tend to do more harm than good to the environment.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength, Protection, overcoming adversity, pride",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In 2016, a study in Britain showed that creeping thistle was one of the highest nectar producing flowers, making it a favorite food source for pollinators. Its seed is food for goldfinches. However, in spite of its benefits to birds and bugs, this weed is highly invasive and difficult to control.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Canada thistle",
+                "values": [
+                    "It is interesting to know that the name is not related to Canada at all. Since this misleading name has stuck with the plant from the beginning, till this day, this name is still widely used in the United States."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The toxicity of creeping thistle is low, requiring direct skin contact to cause <strong>itchy irritation</strong>, mainly in children. The most severe side effect is a risk of infection from <strong>scratching</strong>.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Cirsium_arvense.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Thought to originate from southeastern Europe, creeping thistle is a registered invasive species in parts of Europe, North America, and New Zealand. It has now spread across the world and severe infestations plague several countries. Being a noxious weed, it contains a host of pests and threatens cereal crops and forage products. Creeping thistle also rapidly spreads, as each plant can produce up to 5,300 seeds. They can clone, withstand extreme temperatures, and seeds remain intact for up to 20 years in soil. Mowing and herbicides are the most effective means of controlling the spread of creeping thistle.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing creeping thistle is during spring or early summer. It is crucial to remove this plant before it reaches the flowering stage, to prevent the production and spread of seeds. Here are three organic methods for removal or control:\n  </div> \n  <ol> \n   <li>Hand-pulling: This method involves manually uprooting the plant from the ground. Ensure to remove as much root as possible to prevent re-growth.</li> \n   <li>Tilling: A mechanical method under which soil is turned over using a plow or rototiller. This is done to bury the existing plants and to sever the root system, making it difficult for the plant to grow again.</li> \n   <li>Use of organic herbicides: Apply vinegar or citric acid onto the thistles. These acidic substances penetrate the plant's cuticle damaging it and causing dehydration. This is best done on hot sunny days for optimal efficiency.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Upright growth reaching 6 feet (1.8 meters), with grooved stems and spiny leaves.",
+            "Purple-pink flowers on female plants emitting fragrance, surrounded by tomentose bracts.",
+            "Diminutive dry achenes with feathery white to light brown pappus for wind dispersal.",
+            "Dark green, deeply lobed leaves measuring 2-6 inches (5-15 cm); tomentose underside, very prickly.",
+            "Slender stem with distinct grooves, 0.1-0.2 inches (0.25-0.5 cm) in diameter; occasional fine hairs."
+        ],
+        "title": "Quickly Identify Creeping thistle",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cirsium-arvense.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Adapted to moderate moisture, creeping thistle balances drought tolerance and moisture preference. Weekly watering promotes optimal growth. This herbaceous perennial thrives outdoors, aligning its growth cycle with seasonal rainfall patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping thistle is propagated mainly through cuttings in spring and summer. Select healthy growth and new shoots for successful propagation. Maintain proper moisture levels to support growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cirsium_arvense.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of creeping thistle?",
+            "link": "/ask/Cirsium_arvense-0.html"
+        },
+        {
+            "q": "Is creeping thistle perennial ?",
+            "link": "/ask/Cirsium_arvense-1.html"
+        },
+        {
+            "q": "Is creeping thistle invasive?",
+            "link": "/ask/Cirsium_arvense-2.html"
+        },
+        {
+            "q": "Are thistles good for anything?",
+            "link": "/ask/Cirsium_arvense-3.html"
+        },
+        {
+            "q": "Where is creeping thistle found?",
+            "link": "/ask/Cirsium_arvense-4.html"
+        },
+        {
+            "q": "How did creeping thistle get to America?",
+            "link": "/ask/Cirsium_arvense-5.html"
+        },
+        {
+            "q": "What animals eat creeping thistle?",
+            "link": "/ask/Cirsium_arvense-6.html"
+        },
+        {
+            "q": "Why is the creeping thistle a problem?",
+            "link": "/ask/Cirsium_arvense-7.html"
+        },
+        {
+            "q": "What can you do with creeping thistle?",
+            "link": "/ask/Cirsium_arvense-8.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Galinsoga quadriradiata",
+                "link": "/wiki/Galinsoga_quadriradiata.html",
+                "imageUrl": "/wiki-image/1080/153874423261167640.jpeg",
+                "displayName": "Shaggy soldier"
+            },
+            {
+                "scientificName": "Tagetes minuta",
+                "link": "/wiki/Tagetes_minuta.html",
+                "imageUrl": "/wiki-image/1080/153849731494182942.jpeg",
+                "displayName": "Mexican marigold"
+            },
+            {
+                "scientificName": "Myosotis latifolia",
+                "link": "/wiki/Myosotis_latifolia.html",
+                "imageUrl": "/wiki-image/1080/153682180524998681.jpeg",
+                "displayName": "Broadleaf Forget-Me-Not"
+            },
+            {
+                "scientificName": "Phlebodium aureum",
+                "link": "/wiki/Phlebodium_aureum.html",
+                "imageUrl": "/wiki-image/1080/347112234602102784.jpeg",
+                "displayName": "Golden polypody"
+            },
+            {
+                "scientificName": "Catapodium rigidum",
+                "link": "/wiki/Catapodium_rigidum.html",
+                "imageUrl": "/wiki-image/1080/153799759549693986.jpeg",
+                "displayName": "Fern-grass"
+            },
+            {
+                "scientificName": "Silene coronaria",
+                "link": "/wiki/Silene_coronaria.html",
+                "imageUrl": "/wiki-image/1080/202657129920987136.jpeg",
+                "displayName": "Rose campion"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cirsium_arvense.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Cirsium_arvense.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cirsium_arvense.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cirsium_arvense.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cirsium_arvense.html",
+            "values": [
+                "Care Creeping thistle",
+                "Care Creeping thistle",
+                "Grow Creeping thistle",
+                "Maintain Creeping thistle",
+                "Creeping thistle Care",
+                "Creeping thistle Grow",
+                "Creeping thistle Maintain",
+                "Creeping thistle Cares",
+                "Growth Creeping thistle",
+                "Maintains Creeping thistle",
+                "Creeping thistle Growth",
+                "Creeping thistle Maintains",
+                "Creeping thistle Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cirsium_arvense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cirsium_arvense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cirsium_arvense.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Cirsium_arvense.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cirsium_arvense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Cirsium_arvense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cirsium_arvense.html"
+        }
+    ]
+}

@@ -1,0 +1,894 @@
+{
+    "title": "Big blue lilyturf (Liriope muscari) - PictureThis",
+    "displayName": "Big blue lilyturf",
+    "otherCommonName": "Border grass, Lilyturf",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201217680221536256.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29278887",
+                "authorLink": "https://www.inaturalist.org/people/elawrey",
+                "author": "elawrey",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153866056664875029.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/8763073",
+                "authorLink": "https://www.inaturalist.org/people/147168",
+                "author": "Eric Keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153956263862992908.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11472390",
+                "authorLink": "https://www.inaturalist.org/people/pintail",
+                "author": "pintail",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153739015827226639.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11472758",
+                "authorLink": "https://www.inaturalist.org/people/pintail",
+                "author": "pintail",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153461599594610695.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Big blue lilyturf 'Monroe White'",
+            "link": "/wiki/Liriope_muscari__Monroe_White_.html"
+        },
+        {
+            "displayName": "Big blue lilyturf 'Gold Band'",
+            "link": "/wiki/Liriope_muscari__Gold_Band_.html"
+        },
+        {
+            "displayName": "Big blue lilyturf 'Big Blue'",
+            "link": "/wiki/Liriope_muscari__Big_Blue_.html"
+        },
+        {
+            "displayName": "Big blue lilyturf 'Royal Purple'",
+            "link": "/wiki/Liriope_muscari__Royal_Purple_.html"
+        },
+        {
+            "displayName": "Big blue lilyturf 'Variegata'",
+            "link": "/wiki/Liriope_muscari__Variegata_.html"
+        },
+        {
+            "displayName": "Big blue lilyturf 'Okina'",
+            "link": "/wiki/Liriope_muscari__Okina_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Big blue lilyturf is an evergreen perennial endemic to East Asia. Comparable to grape hyacinths, this plant has velvety, lush foliage and abundant lavender-blue spikes with black berries blooming next to it. It is a famous, enticing plant that looks especially good at sloping waterways. This low-maintenance plant is excellent for ground cover and edging.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Big blue lilyturf is an evergreen perennial endemic to East Asia. Comparable to grape hyacinths, this plant has velvety, lush foliage and abundant lavender-blue spikes with black berries blooming next to it. It is a famous, enticing plant that looks especially good at sloping waterways. This low-maintenance plant is excellent for ground cover and edging.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Big blue lilyturf (<i>Liriope muscari</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Lilyturfs",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Liriope.html"
+            },
+            {
+                "type": "Family",
+                "name": "Asparagus",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asparagaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 45 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm to 4 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    },
+                    {
+                        "value": "Violet",
+                        "name": "violet"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804881451974657.jpeg",
+        "habitat": "Forests, bamboo forests, scrub, shady, on slopes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Big blue lilyturf is native to East Asia, where it grows in forests, scrub areas, and along slopes. This plant is planted in temperate areas as an ornamental. It has escaped cultivation in the southeastern United States, South Africa, and Belgium, where it is listed as invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 134.8066487, \"2\": 167.1029538, \"3\": 111.5090613, \"4\": 113.1838787, \"5\": 95.53520281, \"6\": 94.0, \"7\": 117.2704539, \"8\": 87.30230851, \"9\": 100.7464737, \"10\": 88.37917379, \"11\": 88.09240082, \"12\": 113.9323751}, \"flower_month\": 2, \"fruit_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 142.0, \"2\": 123.0, \"3\": 133.0, \"4\": 72.0, \"5\": 30.0, \"6\": 37.0, \"7\": 49.0, \"8\": 66.0, \"9\": 66.0, \"10\": 72.0, \"11\": 65.0, \"12\": 80.0}, \"flower_month\": 1, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 362.5163371, \"2\": 411.3234249, \"3\": 323.4996881, \"4\": 259.8835363, \"5\": 212.544941, \"6\": 211.0, \"7\": 266.4758724, \"8\": 243.4038697, \"9\": 240.9114041, \"10\": 219.3282416, \"11\": 210.6620874, \"12\": 273.4707592}, \"flower_month\": 2, \"fruit_month\": 2}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 22.59812378, \"2\": 28.36989945, \"3\": 33.54762127, \"4\": 39.67979765, \"5\": 26.14839908, \"6\": 21.00043174, \"7\": 28.67760597, \"8\": 41.89734597, \"9\": 51.58127608, \"10\": 33.83100311, \"11\": 20.62205669, \"12\": 17.0}, \"flower_month\": 9, \"fruit_month\": 9}, \"Csa\": {\"trends\": {\"1\": 40.98971883, \"2\": 57.37212252, \"3\": 61.30529541, \"4\": 61.07228874, \"5\": 56.37465718, \"6\": 59.88214265, \"7\": 49.32715088, \"8\": 99.11411768, \"9\": 101.6612045, \"10\": 60.28578833, \"11\": 47.70627544, \"12\": 32.0}, \"flower_month\": 9, \"fruit_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 49.21010729, \"2\": 91.94575117, \"3\": 108.8712604, \"4\": 94.26492545, \"5\": 75.54631943, \"6\": 69.32962841, \"7\": 70.51859781, \"8\": 163.1498541, \"9\": 183.8076234, \"10\": 80.10627719, \"11\": 75.54998754, \"12\": 43.0}, \"flower_month\": 9, \"fruit_month\": 9}, \"Default\": {\"trends\": {\"1\": 1146.50744, \"2\": 2061.38989, \"3\": 2586.529011, \"4\": 2517.722804, \"5\": 1900.685179, \"6\": 1569.003167, \"7\": 1662.733601, \"8\": 2687.720157, \"9\": 2758.822926, \"10\": 1981.695254, \"11\": 1574.267344, \"12\": 1250.0}, \"flower_month\": 9, \"fruit_month\": 9}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Big blue lilyturf is a popular garden perennial prized for its tufted foliage and multiple blue flower spikes. It is commonly used as a border plant around hedges and is an essential plant in flower gardens when a low-growing natural hedge is needed. Plant it with coneflowers or hostas to add texture and contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Joyfulness and intelligence",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Big blue lilyturf",
+                "values": [
+                    "The common name of lilyturf acknowledges the plant's turf-like growing habit. The plant generally grows wider and longer leaves when compared to creeping lilyturf, so it is commonly called big blue lilyturf."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Linear-ligulate leaves, dark green, 1 inch wide, 1-1.5 feet long.",
+            "Purple, densely clustered flowers on 6-8 inch spike-like raceme.",
+            "Small, spherical fruit, transitions from green to shiny black.",
+            "Acaulescent stems emerge from fleshy rhizome, grass-like appearance.",
+            "Shiny black berries post-bloom, distinctive of the fruiting phase."
+        ],
+        "title": "Quickly Identify Big blue lilyturf",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Liriope-muscari.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Big blue lilyturf thrives in humid woodlands, requiring consistently damp, well-drained soil. It prefers weekly watering to support its lush foliage. As an ornamental ground cover, it benefits from natural rainfall and microclimate conditions, enhancing its resilience in varying weather.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For big blue lilyturf, use a balanced fertilizer (10-10-10) at 0.23 kg per 9.3 mÃÂ² in spring and early fall. Avoid over-fertilization and stop during winter dormancy. Young big blue lilyturfs require lighter, frequent feedings, and always water thoroughly after fertilization to prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Big blue lilyturf is a low-maintenance evergreen groundcover featuring grass-like foliage and purple flower spikes. Prune in early spring to 2-3 inches to enhance growth and prevent fungal issues. Use clean, sharp tools for pruning to avoid damage and disease.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Big blue lilyturf is an ornamental perennial that propagates easily through division. Select healthy clumps, separate with care, and replant quickly in well-prepared soil. Maintain moisture and avoid deep planting for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot big blue lilyturf every 2-3 years, ideally in spring, using a pot 2-4 inches larger to support growth. Ensure the new pot has good drainage, water thoroughly after repotting, and position big blue lilyturf in indirect light to aid acclimatization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Liriope_muscari.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Does big blue lilyturf stay green in winter?",
+            "link": "/ask/Liriope_muscari-0.html"
+        },
+        {
+            "q": "How do you take care of a big blue lilyturf?",
+            "link": "/ask/Liriope_muscari-1.html"
+        },
+        {
+            "q": "Do big blue lilyturf need a lot of sunlight?",
+            "link": "/ask/Liriope_muscari-2.html"
+        },
+        {
+            "q": "Where does big blue lilyturf from?",
+            "link": "/ask/Liriope_muscari-3.html"
+        },
+        {
+            "q": "Is big blue lilyturf annual or perennial?",
+            "link": "/ask/Liriope_muscari-4.html"
+        },
+        {
+            "q": "What is big blue lilyturf use for?",
+            "link": "/ask/Liriope_muscari-5.html"
+        },
+        {
+            "q": "How tall can big blue lilyturf get?",
+            "link": "/ask/Liriope_muscari-6.html"
+        },
+        {
+            "q": "Why is Liriope yellow?",
+            "link": "/ask/Liriope_muscari-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Liriope-muscari-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Liriope-muscari-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Liriope-muscari-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Liriope-muscari-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Liriope-muscari-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Liriope-muscari-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Liriope-muscari-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Liriope-muscari-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Liriope-muscari-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Liriope-muscari-Underwatering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Liriope-muscari-Spots.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Liriope-muscari-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Liriope-muscari-Leaf-tip-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lactuca serriola",
+                "link": "/wiki/Lactuca_serriola.html",
+                "imageUrl": "/wiki-image/1080/201214403161489408.jpeg",
+                "displayName": "Prickly lettuce"
+            },
+            {
+                "scientificName": "Cynanchum laeve",
+                "link": "/wiki/Cynanchum_laeve.html",
+                "imageUrl": "/wiki-image/1080/153784190293245985.jpeg",
+                "displayName": "Honeyvine"
+            },
+            {
+                "scientificName": "Vicia sativa",
+                "link": "/wiki/Vicia_sativa.html",
+                "imageUrl": "/wiki-image/1080/154250864259760152.jpeg",
+                "displayName": "Common vetch"
+            },
+            {
+                "scientificName": "Agapanthus praecox",
+                "link": "/wiki/Agapanthus_praecox.html",
+                "imageUrl": "/wiki-image/1080/153962006234267666.jpeg",
+                "displayName": "African-lily"
+            },
+            {
+                "scientificName": "Ajuga reptans",
+                "link": "/wiki/Ajuga_reptans.html",
+                "imageUrl": "/wiki-image/1080/201161682437865472.jpeg",
+                "displayName": "Common bugle"
+            },
+            {
+                "scientificName": "Grevillea robusta",
+                "link": "/wiki/Grevillea_robusta.html",
+                "imageUrl": "/wiki-image/1080/154083661182926886.jpeg",
+                "displayName": "Silky oak"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Liriope_muscari.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Liriope_muscari.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Liriope_muscari.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Liriope_muscari.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Liriope_muscari.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Liriope_muscari.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Liriope_muscari.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Liriope_muscari.html",
+            "values": [
+                "Care Big blue lilyturf",
+                "Care Big blue lilyturf",
+                "Grow Big blue lilyturf",
+                "Maintain Big blue lilyturf",
+                "Big blue lilyturf Care",
+                "Big blue lilyturf Grow",
+                "Big blue lilyturf Maintain",
+                "Big blue lilyturf Cares",
+                "Growth Big blue lilyturf",
+                "Maintains Big blue lilyturf",
+                "Big blue lilyturf Growth",
+                "Big blue lilyturf Maintains",
+                "Big blue lilyturf Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Liriope-muscari-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Liriope_muscari.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Liriope_muscari.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Liriope_muscari.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Liriope_muscari.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Liriope_muscari.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Liriope_muscari.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Liriope_muscari.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Liriope_muscari.html"
+        }
+    ]
+}

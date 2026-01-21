@@ -1,0 +1,950 @@
+{
+    "title": "American sycamore (Platanus occidentalis) - PictureThis",
+    "displayName": "American sycamore",
+    "otherCommonName": "Western Plane, American plane tree, Buttonwood",
+    "mainImage": {
+        "copyright": {
+            "width": 1230,
+            "height": 853,
+            "copyrightType": "Stock",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154132288802652187.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/9896075",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152518171373338626.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/6769714",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152488235451285507.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4860148",
+                "authorLink": "https://www.inaturalist.org/people/jacobogre",
+                "author": "jacobogre",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659034946240551.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 683,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/32509770",
+                "authorLink": "https://www.inaturalist.org/people/1515879",
+                "author": "Judy Gallagher",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154234169721880578.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a rapid growth rate, american sycamore enters a vigorous transformation during Spring and Summer. Vibrant flushes of leaves surface while height increases significantly, showcasing its fast-paced development. Observable changes include a highly branched infrastructure, an abundance of large, lobed leaves, and massive trunk. Despite slower growth in other seasons, these periods remain pivotal for its impressive stature and lush foliage.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   When you think of a american sycamore, size may be the first thing to come to mind. This deciduous tree can reach heights of 23 to 30 m tall and has leaves that resemble those of a maple tree. The trunk of the american sycamore is larger than that of any other native tree, with mature trees having recorded diameters up to 4.5 m.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "When you think of a american sycamore, size may be the first thing to come to mind. This deciduous tree can reach heights of 23 to 30 m tall and has leaves that resemble those of a maple tree. The trunk of the american sycamore is larger than that of any other native tree, with mature trees having recorded diameters up to 4.5 m.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "American sycamore (<i>Platanus occidentalis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Plane trees",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Platanus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Plane tree",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Platanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Proteas, lotuses, planes, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Proteales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 m to 40 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802652363948038.jpeg",
+        "habitat": "Streams, lakes, moist ravines, uplands",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   American sycamore originally comes from North America, where it prefers rich soils bordering bodies of water, mainly lakes and streams.. Distribution of this plant has not been widespread, though it is an introduced species in Ecuador and some nations surrounding the Caspian Sea.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 47.2133885, \"2\": 47.74370108, \"3\": 38.88144901, \"4\": 40.08595704, \"5\": 39.01020781, \"6\": 38.0, \"7\": 25.45405201, \"8\": 21.27535249, \"9\": 28.44606317, \"10\": 39.87840768, \"11\": 42.73138846, \"12\": 41.49388968}, \"fruit_month\": 2}, \"Default\": {\"trends\": {\"1\": 134.4706872, \"2\": 119.827692, \"3\": 107.5824544, \"4\": 106.9617127, \"5\": 99.92152607, \"6\": 91.0, \"7\": 64.715569, \"8\": 57.730405, \"9\": 69.79049032, \"10\": 96.30560182, \"11\": 113.7722075, \"12\": 125.6899033}, \"fruit_month\": 1}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 61.09863096, \"2\": 47.53875042, \"3\": 36.67873259, \"4\": 39.91883258, \"5\": 39.51640086, \"6\": 35.05717234, \"7\": 48.60611182, \"8\": 65.44548933, \"9\": 78.52671881, \"10\": 83.23500765, \"11\": 107.5933392, \"12\": 105.0}, \"fruit_month\": 11}, \"Csa\": {\"trends\": {\"1\": 47.09457057, \"2\": 46.19573502, \"3\": 36.20715434, \"4\": 44.60932395, \"5\": 42.44944306, \"6\": 37.52982212, \"7\": 56.00300589, \"8\": 71.79920336, \"9\": 81.78079115, \"10\": 98.44835158, \"11\": 106.6885796, \"12\": 76.0}, \"fruit_month\": 11}, \"Csb\": {\"trends\": {\"1\": 21.91290357, \"2\": 17.89237688, \"3\": 24.81435862, \"4\": 18.21516289, \"5\": 20.56357469, \"6\": 27.63008062, \"7\": 31.80547407, \"8\": 57.5484418, \"9\": 79.8400271, \"10\": 75.18675575, \"11\": 79.62566439, \"12\": 38.0}, \"fruit_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 354.3740334, \"2\": 272.9422413, \"3\": 253.1322068, \"4\": 328.0278834, \"5\": 337.5325708, \"6\": 448.147822, \"7\": 566.2859606, \"8\": 716.1570473, \"9\": 829.0649132, \"10\": 897.5131784, \"11\": 792.4471981, \"12\": 477.0}, \"fruit_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 156.857217, \"2\": 70.5780766, \"3\": 64.08245076, \"4\": 62.28878407, \"5\": 62.20096346, \"6\": 63.76521138, \"7\": 49.27261001, \"8\": 82.46023636, \"9\": 156.7351828, \"10\": 354.9012281, \"11\": 761.7957077, \"12\": 278.0}, \"fruit_month\": 11}, \"Dfa\": {\"trends\": {\"1\": 346.4252799, \"2\": 341.4541611, \"3\": 277.2701643, \"4\": 228.2418761, \"5\": 203.4784266, \"6\": 257.7453709, \"7\": 389.7924565, \"8\": 596.1657709, \"9\": 749.3319187, \"10\": 1135.245541, \"11\": 890.8760453, \"12\": 362.0}, \"fruit_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 94.06374847, \"2\": 61.55345622, \"3\": 67.64619603, \"4\": 50.41748932, \"5\": 52.28056776, \"6\": 48.04823032, \"7\": 55.00887585, \"8\": 86.33395547, \"9\": 135.5512794, \"10\": 237.4171251, \"11\": 426.4156151, \"12\": 198.0}, \"fruit_month\": 11}, \"Default\": {\"trends\": {\"1\": 1162.632721, \"2\": 992.4477877, \"3\": 928.5945406, \"4\": 1069.667765, \"5\": 1009.943582, \"6\": 1195.946141, \"7\": 1552.207869, \"8\": 2135.992272, \"9\": 2680.813795, \"10\": 3469.821289, \"11\": 3376.01098, \"12\": 1605.0}, \"fruit_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can absorb harmful gases and purify air.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Its wood is light yellow and red, with a clear and delicate texture. It can be used in handicrafts, furniture and artwork.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "These large deciduous trees are well suited to a range of yards and gardens as shade and street trees. These trees are valued for their deer resistance, although they do attract wildlife, and mature trees can provide gardeners with a wood source. Companion plants of the american sycamore include Wax Mallow, Wright's Desert Honeysuckle, and the American Beautyberry.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength, divinity, longevity, growth, protection, reliability",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "During the season, american sycamore's seed balls fly all through the sky. If you don't pay attention, the wind will fly them around and right into your mouth and bring discomfort to your throat.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "American sycamore",
+                "values": [
+                    "Sycamore, used in many plant names, is evolved from Greek, meaning \"fig-mulberry\". This plant comes from the eastern and central United States, so it is called American sycamore."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Stout, orangish-brown zigzag stem with large, resinous, reddish lateral buds and absent terminal bud.",
+            "Distinctive bark with gray, brown, and creamy white patchwork exfoliating in rugged and smooth patterns.",
+            "Large, deep green leaves with 3-5 lobes, serrated edges, and wide span of 4-9 inches.",
+            "Small, fuzzy fruit spheres on stalks with fibrous interior and brown color maturing in fall.",
+            "Solitary globose syncarps of greenish-yellow male and red female flowers on 3-6 inch peduncles in clusters."
+        ],
+        "title": "Quickly Identify American sycamore",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Platanus-occidentalis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   American sycamore thrives in moist environments, requiring consistent watering every 1-2 weeks to prevent dryness. While it tolerates moderate drought, it prefers ample moisture. As a large deciduous tree, american sycamore needs sufficient space for its extensive root system to access water.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   American sycamore requires balanced fertilizer in spring and high nitrogen in late fall. Apply monthly, using 1/2 strength for young trees. Over-fertilizing can harm american sycamore. Adjust application based on seasonal needs and soil tests, using slow-release forms and watering thoroughly afterward.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   American sycamore is a fast-growing tree with broad, lobed leaves and mottled bark. Prune in early spring to manage size, remove weak branches, and enhance circulation, focusing on thinning. Proper tool sanitation is vital to prevent disease and maintain the tree's health and aesthetics.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   American sycamore is propagated through cuttings, selecting a healthy stem, leaf, or root segment with at least one node. Use a clean, angled cut, apply rooting hormone, and plant in well-draining medium. Keep moist until roots develop, then transplant gently when robust roots form.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Platanus_occidentalis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is an american sycamore tree used for?",
+            "link": "/ask/Platanus_occidentalis-0.html"
+        },
+        {
+            "q": "How fast do american sycamore trees grow?",
+            "link": "/ask/Platanus_occidentalis-1.html"
+        },
+        {
+            "q": "Is american sycamore a hardwood?",
+            "link": "/ask/Platanus_occidentalis-2.html"
+        },
+        {
+            "q": "What is the best fertilizer for sycamore trees?",
+            "link": "/ask/Platanus_occidentalis-3.html"
+        },
+        {
+            "q": "What is the life expectancy of a american sycamore tree?",
+            "link": "/ask/Platanus_occidentalis-4.html"
+        },
+        {
+            "q": "Are american sycamore tree roots invasive?",
+            "link": "/ask/Platanus_occidentalis-5.html"
+        },
+        {
+            "q": "How do you know if a sycamore tree is dying?",
+            "link": "/ask/Platanus_occidentalis-6.html"
+        },
+        {
+            "q": "What are the balls on a american sycamore tree?",
+            "link": "/ask/Platanus_occidentalis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Platanus-occidentalis-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Platanus-occidentalis-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Platanus-occidentalis-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Platanus-occidentalis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Platanus-occidentalis-Underwatering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Platanus-occidentalis-Wounds.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Platanus-occidentalis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Platanus-occidentalis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Platanus-occidentalis-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Platanus-occidentalis-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Platanus-occidentalis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Platanus-occidentalis-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Platanus-occidentalis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Platanus-occidentalis-Spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Platanus-occidentalis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Platanus-occidentalis-Scars.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Platanus-occidentalis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Platanus-occidentalis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Platanus-occidentalis-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Platanus-occidentalis-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Platanus-occidentalis-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Platanus-occidentalis-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Platanus-occidentalis-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bauhinia blakeana",
+                "link": "/wiki/Bauhinia_blakeana.html",
+                "imageUrl": "/wiki-image/1080/154108245575729160.jpeg",
+                "displayName": "Hong Kong orchid tree"
+            },
+            {
+                "scientificName": "Ficus lyrata",
+                "link": "/wiki/Ficus_lyrata.html",
+                "imageUrl": "/wiki-image/1080/154144580999053326.jpeg",
+                "displayName": "Fiddle-leaf fig"
+            },
+            {
+                "scientificName": "Cassia grandis",
+                "link": "/wiki/Cassia_grandis.html",
+                "imageUrl": "/wiki-image/1080/153862414532608015.jpeg",
+                "displayName": "Pink shower tree"
+            },
+            {
+                "scientificName": "Symphoricarpos mollis",
+                "link": "/wiki/Symphoricarpos_mollis.html",
+                "imageUrl": "/wiki-image/1080/154501613040435202.jpeg",
+                "displayName": "Creeping Snowberry"
+            },
+            {
+                "scientificName": "Warszewiczia coccinea",
+                "link": "/wiki/Warszewiczia_coccinea.html",
+                "imageUrl": "/wiki-image/1080/216472596605140992.jpeg",
+                "displayName": "Chaconia"
+            },
+            {
+                "scientificName": "Pachira glabra",
+                "link": "/wiki/Pachira_glabra.html",
+                "imageUrl": "/wiki-image/1080/347119866758987776.jpeg",
+                "displayName": "Money tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Platanus_occidentalis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Platanus_occidentalis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Platanus_occidentalis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Platanus_occidentalis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Platanus_occidentalis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Platanus_occidentalis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Platanus_occidentalis.html",
+            "values": [
+                "Care American sycamore",
+                "Care American sycamore",
+                "Grow American sycamore",
+                "Maintain American sycamore",
+                "American sycamore Care",
+                "American sycamore Grow",
+                "American sycamore Maintain",
+                "American sycamore Cares",
+                "Growth American sycamore",
+                "Maintains American sycamore",
+                "American sycamore Growth",
+                "American sycamore Maintains",
+                "American sycamore Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Platanus-occidentalis-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Platanus_occidentalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Platanus_occidentalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Platanus_occidentalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Platanus_occidentalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Platanus_occidentalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Platanus_occidentalis.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Platanus_occidentalis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Platanus_occidentalis.html"
+        }
+    ]
+}

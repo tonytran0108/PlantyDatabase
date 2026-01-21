@@ -1,0 +1,653 @@
+{
+    "title": "Redroot amaranth (Amaranthus retroflexus) - PictureThis",
+    "displayName": "Redroot amaranth",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154242222785560616.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 3000,
+                "height": 2250,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:20120906Amaranthus_retroflexus2.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+                "author": "AnRo0002",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/153941673859088402.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2500,
+                "height": 1875,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:20110801Amaranthus_retroflexus3.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+                "author": "AnRo0002",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154004290187296783.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10152176",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153747936474300449.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9986594",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153738152538800140.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While the redroot amaranth is considered a weed in most areas, some parts are edible. Fresh leaves may be included in soups and stews, while the dried leaves can be utilized in tea or ground into flour for bread or used as a thickening agent. Seeds can also be eaten, but the stalks, roots, and older leaves contain toxic substances. Redroot amaranth is sometimes used as fodder for livestock - it is nutritious in small amounts but toxic if too much is fed over a span of several days.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While the redroot amaranth is considered a weed in most areas, some parts are edible. Fresh leaves may be included in soups and stews, while the dried leaves can be utilized in tea or ground into flour for bread or used as a thickening agent. Seeds can also be eaten, but the stalks, roots, and older leaves contain toxic substances. Redroot amaranth is sometimes used as fodder for livestock - it is nutritious in small amounts but toxic if too much is fed over a span of several days.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Redroot amaranth (<i>Amaranthus retroflexus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Amaranths",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Amaranthus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaranth",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaranthaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm to 4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251735781348278272.png",
+        "habitat": "Cultivated land, waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Redroot amaranth is widespread, with a presence across various continents. Native to certain areas in the western part of North America and parts of the Middle East, redroot amaranth has been introduced to regions in Europe, Asia, Africa, and South America. While it has adapted to a variety of climates, redroot amaranth is sometimes thought to be a concern in certain ecosystems, particularly where it has been noted as invasive, potentially influencing local flora dynamics. However, its exact impact remains subject to ecological studies.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "525",
+                "434",
+                "296",
+                "176",
+                "171",
+                "121",
+                "116",
+                "186",
+                "395",
+                "650",
+                "468",
+                "651"
+            ],
+            "north": [
+                "898",
+                "955",
+                "1501",
+                "8069",
+                "69137",
+                "89869",
+                "54481",
+                "23485",
+                "8019",
+                "2006",
+                "1182",
+                "959"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Redroot pigweed seeds can be used as food additives, and redroot pigweed is also a very important pig feed.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Redroot amaranth often grows in fields and roadsides.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Rapid growth, immortality",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Redroot amaranth is an invasive alien species, which seriously impacts cotton, beans, peanuts and other crops.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Redroot amaranth||Pigweed amaranth",
+                "values": [
+                    "The plant has many common names which are usually related to its appearance or habitat. For instance, the name redroot amaranth comes from its red or pink roots. Also, it grows in places where pigs feast on them. So, it is called pigweed amaranth."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Redroot amaranth contains oxalic acid and nitrates, leading to nutrient deficiencies and health issues like stomach cancer. <strong>Toxic to cats and dogs</strong>, ingestion of leaves or stems causes discomfort and severe symptoms. Immediate veterinary care is vital if ingested.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Amaranthus_retroflexus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Redroot amaranth is considered a weed throughout the eastern United States and Canada. In the United States, it is a weed from Texas to North Carolina. In total, it is considered an invasive weed in 58 countries such as France, Belgium, Russia, Germany, and Portugal. The plant prefers to root in disturbed non-wetland areas. This species hosts pests that damage important crops such as maize, cotton, and sorghum. The redroot amaranth is highly poisonous to grazing animals and humans due to the nitrates that it pulls up from the soil.<span class=\"articleComment\" comment=\"71474\">&nbsp;It can be controlled through herbicides, cultivation, or by introducing beetles such as the pigweed flea beetle.&nbsp;</span>\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of redroot amaranth is during the late spring to early summer. This is the optimal time to remove them as they are in their early growth stages and before they start to produce seeds. Here are the details on various organic methods you can use to prevent and control this plant:\n  </div> \n  <ol> \n   <li>Hand pulling: This is a simple yet effective way to control redroot amaranth. Make sure to yank out the entire plant, including its taproot, while the soil is moist to prevent regrowth.</li> \n   <li>Tillage: Use a hoe or a rototiller to agitate the soil and uproot redroot amaranth plants. Make sure to remove the uprooted plants and dispose of them properly to prevent seed dispersion.</li> \n   <li>Mulching: Spread a thick layer of organic material like straw or leaf compost in your garden. This smothers redroot amaranth seedlings by depriving them of sunlight, slowing their growth or eliminating them altogether.</li> \n   <li>Biocontrol: Introduce natural enemies of redroot amaranth such as certain insects or grazing animals. For example, releasing leaf-feeding beetles can help regulate redroot amaranth population.</li> \n   <li>Crop rotation: Rotate your crops each season to break the lifecycle of redroot amaranth. This reduces the chances of redroot amaranth re-infestation.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Robust growth reaching 1-6.5 feet (30 cm to 2 meters) height",
+            "Dense clusters of small, inconspicuous green flowers",
+            "Bladder-like fruit housing glossy, black to reddish-brown seeds",
+            "Variable leaf sizes with reddish undersides and hairs",
+            "Robust, hairy stem with a reddish base, up to 1 inch (2.5 cm) thick"
+        ],
+        "title": "Quickly Identify Redroot amaranth",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Amaranthus-retroflexus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Redroot amaranth thrives in warm, dry regions, requiring weekly watering to stay vigorous. As an annual herb, it needs moderate, consistent moisture to support rapid growth and flowering. Outdoor cultivation is ideal, benefiting from rainwater during peak growth, aligning with its natural cycles.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To propagate redroot amaranth, sow seeds directly into well-drained soil in Spring. Ensure sufficient sunlight for successful sprouting of seedlings. This straightforward process yields favorable results when the conditions are adequately met.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Amaranthus_retroflexus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does Redroot amaranth get its name?",
+            "link": "/ask/Amaranthus_retroflexus-0.html"
+        },
+        {
+            "q": "Is redroot amaranth a weed?",
+            "link": "/ask/Amaranthus_retroflexus-1.html"
+        },
+        {
+            "q": "Where is redroot amaranth native to?",
+            "link": "/ask/Amaranthus_retroflexus-2.html"
+        },
+        {
+            "q": "Is redroot amaranth annual or perennial?",
+            "link": "/ask/Amaranthus_retroflexus-3.html"
+        },
+        {
+            "q": "Can cattle eat redroot amaranth?",
+            "link": "/ask/Amaranthus_retroflexus-4.html"
+        },
+        {
+            "q": "How tall is redroot amaranth?",
+            "link": "/ask/Amaranthus_retroflexus-5.html"
+        },
+        {
+            "q": "How much water does redroot amaranth need?",
+            "link": "/ask/Amaranthus_retroflexus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Mimosa pudica",
+                "link": "/wiki/Mimosa_pudica.html",
+                "imageUrl": "/wiki-image/1080/153967121540317201.jpeg",
+                "displayName": "Shame plant"
+            },
+            {
+                "scientificName": "Schefflera arboricola",
+                "link": "/wiki/Schefflera_arboricola.html",
+                "imageUrl": "/wiki-image/1080/153444759027843082.jpeg",
+                "displayName": "Dwarf umbrella tree"
+            },
+            {
+                "scientificName": "Epipremnum aureum",
+                "link": "/wiki/Epipremnum_aureum.html",
+                "imageUrl": "/wiki-image/1080/153861190466928663.jpeg",
+                "displayName": "Golden pothos"
+            },
+            {
+                "scientificName": "Impatiens balsamina",
+                "link": "/wiki/Impatiens_balsamina.html",
+                "imageUrl": "/wiki-image/1080/201213565642866688.jpeg",
+                "displayName": "Garden balsam"
+            },
+            {
+                "scientificName": "Mandevilla sanderi",
+                "link": "/wiki/Mandevilla_sanderi.html",
+                "imageUrl": "/wiki-image/1080/154000484846272543.jpeg",
+                "displayName": "Brazilian jasmine"
+            },
+            {
+                "scientificName": "Prunus domestica",
+                "link": "/wiki/Prunus_domestica.html",
+                "imageUrl": "/wiki-image/1080/153427643583168538.jpeg",
+                "displayName": "European plum"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Amaranthus_retroflexus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Amaranthus_retroflexus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Amaranthus_retroflexus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Amaranthus_retroflexus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Amaranthus_retroflexus.html",
+            "values": [
+                "Care Redroot amaranth",
+                "Care Redroot amaranth",
+                "Grow Redroot amaranth",
+                "Maintain Redroot amaranth",
+                "Redroot amaranth Care",
+                "Redroot amaranth Grow",
+                "Redroot amaranth Maintain",
+                "Redroot amaranth Cares",
+                "Growth Redroot amaranth",
+                "Maintains Redroot amaranth",
+                "Redroot amaranth Growth",
+                "Redroot amaranth Maintains",
+                "Redroot amaranth Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Amaranthus_retroflexus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Amaranthus_retroflexus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Amaranthus_retroflexus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Amaranthus_retroflexus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Amaranthus_retroflexus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Amaranthus_retroflexus.html"
+        }
+    ]
+}

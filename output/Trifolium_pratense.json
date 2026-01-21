@@ -1,0 +1,865 @@
+{
+    "title": "Red clover (Trifolium pratense) - PictureThis",
+    "displayName": "Red clover",
+    "otherCommonName": "Purple clover",
+    "mainImage": {
+        "copyright": {
+            "width": 2616,
+            "height": 2616,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "shyu",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202692103839678464.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/7249780",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152529613166215169.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22817793",
+                "authorLink": "https://www.inaturalist.org/people/mmcmasters",
+                "author": "mmcmasters",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152491057244798977.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 441,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20797203",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152495399456735234.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7895022",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152363058629443590.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover is widely cultivated as a fodder plant and green manure because its roots can fix nitrogen and increase the fertility of the soil. The cultivated Trifolium pratense is inevitably escaped and is now naturalized globally, including the United States and Australia. Its flowers are attractive, so it is also cultivated as an ornamental plant.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Red clover is widely cultivated as a fodder plant and green manure because its roots can fix nitrogen and increase the fertility of the soil. The cultivated Trifolium pratense is inevitably escaped and is now naturalized globally, including the United States and Australia. Its flowers are attractive, so it is also cultivated as an ornamental plant.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Red clover (<i>Trifolium pratense</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Clovers",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Trifolium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Legume Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fabaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Legumes, milkworts and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fabales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 80 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.2 cm to 1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804524969689090.jpeg",
+        "habitat": "Calcareous soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover originates from Europe, Eastern Asia, and North Africa, where it can often be found in meadows and open forests, but now it's widely cultivated throughout the world as an important forage crop. The species has been introduced to much of Asia, North and South America. Red clover is known for its weedy tendencies, and it is considered invasive in the US states of Wisconsin and Alaska.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 79.01885741, \"2\": 47.59114007, \"3\": 31.59764395, \"4\": 60.16596339, \"5\": 43.18642228, \"6\": 29.0, \"7\": 34.26118359, \"8\": 31.20562432, \"9\": 32.21099553, \"10\": 77.04448145, \"11\": 88.81572327, \"12\": 103.5989506}, \"flower_month\": 12}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 13.39148076, \"2\": 6.134032313, \"3\": 11.18254042, \"4\": 27.9670863, \"5\": 59.49495297, \"6\": 66.89653659, \"7\": 65.86128152, \"8\": 53.51850763, \"9\": 42.72777347, \"10\": 20.94300193, \"11\": 26.00172365, \"12\": 12.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 7.849095095, \"2\": 7.450925003, \"3\": 15.22346262, \"4\": 28.67742254, \"5\": 41.77564237, \"6\": 45.53250478, \"7\": 26.33253919, \"8\": 14.82809635, \"9\": 22.13955119, \"10\": 9.955451283, \"11\": 9.541255088, \"12\": 12.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 4.382580713, \"2\": 11.92825125, \"3\": 11.31242819, \"4\": 26.59413782, \"5\": 63.71142217, \"6\": 73.08601969, \"7\": 60.86232693, \"8\": 47.17935319, \"9\": 43.64137074, \"10\": 22.88292566, \"11\": 11.37509491, \"12\": 5.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 39.6502415, \"2\": 32.28891579, \"3\": 77.10796454, \"4\": 233.8491915, \"5\": 294.1485934, \"6\": 290.7459236, \"7\": 241.7820283, \"8\": 162.2467257, \"9\": 138.295687, \"10\": 102.5478925, \"11\": 77.10709731, \"12\": 47.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 45.36556766, \"2\": 38.20281211, \"3\": 55.12468883, \"4\": 140.2883891, \"5\": 271.3168891, \"6\": 205.2818715, \"7\": 189.6317422, \"8\": 201.0916807, \"9\": 198.7687091, \"10\": 124.2154298, \"11\": 94.43748442, \"12\": 50.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 43.60043568, \"2\": 36.65327153, \"3\": 78.2674008, \"4\": 199.4285411, \"5\": 375.2574886, \"6\": 356.5284462, \"7\": 288.3571037, \"8\": 242.3836194, \"9\": 207.2053009, \"10\": 140.1768449, \"11\": 118.4589277, \"12\": 36.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 44.55651244, \"2\": 27.51801572, \"3\": 46.1639581, \"4\": 117.3393586, \"5\": 358.218705, \"6\": 376.2668895, \"7\": 274.3060051, \"8\": 288.3505198, \"9\": 303.7352742, \"10\": 225.2863231, \"11\": 138.926368, \"12\": 89.0}, \"flower_month\": 6}, \"Dfc\": {\"trends\": {\"1\": 2.31332202, \"2\": 2.089480743, \"3\": 1.50746475, \"4\": 0.717316231, \"5\": 1.998857916, \"6\": 10.18640701, \"7\": 15.39742525, \"8\": 7.235357983, \"9\": 11.10886264, \"10\": 2.096913758, \"11\": 7.143208057, \"12\": 3.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 218.4975502, \"2\": 187.2791839, \"3\": 343.3077536, \"4\": 997.3984653, \"5\": 1990.564021, \"6\": 1936.825528, \"7\": 1546.633106, \"8\": 1315.612572, \"9\": 1189.63925, \"10\": 759.1470465, \"11\": 531.3254936, \"12\": 293.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Red clovers are a kind of feed with high nutritional value.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Professional medical extraction of red clovers has anti-aging effects.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Red clover can be used as an attractive groundcover in yards and parks due to its colorful blooms and low, dense growth pattern. As a nitrogen-fixing plant, its presence improves soil quality and gardeners may add it to areas that need enrichment. It is a good companion planting in vegetable gardens, particularly for legumes.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Prayer, hope, romance",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Each year in Ireland, on March 17th, St. Patrick's Day, everyone wears a green clover. Saint Patrick is said to have used the clover to explain the Trinity to the Irish who advocate freedom.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Red clover",
+                "values": [
+                    "This plant comes with many utilities. Despite the utilities, it is one of the oldest and original clovers in history. Moreover, the flowers are red-colored and it is Denmark's national flower. Considering the color and the number of leaves, it is commonly called red clover."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Ingesting <strong>red clover</strong> can cause headaches, muscle aches, nausea, and rarely, severe gastrointestinal issues and subarachnoid hemorrhage. Toxicity is heightened if the plant is diseased. <strong>Red clover</strong> is also toxic to cats and dogs, causing various symptoms if ingested. Immediate veterinary care is crucial upon suspected poisoning to ensure proper treatment.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Trifolium_pratense.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Compound leaves in groups of three leaflets, with oval shape and V-shaped white marking.",
+            "Flower heads with tube-like florets in shades of pink to pinkish-purple, atop hairy stems.",
+            "Tiny tubular blooms with 5 slender pink to purplish-pink petals, measuring 0.4 inches (1 cm).",
+            "Small seedpods with 1-2 heart-shaped seeds, evolving from flower heads, colored from green to tan brown.",
+            "Hairy stem with occasional branching, green color, and 0.1-0.2 inches (3-5 mm) in diameter."
+        ],
+        "title": "Quickly Identify Red clover",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Trifolium-pratense.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover thrives in temperate climates, preferring regular moisture akin to grasslands. Moderately drought-tolerant, it flourishes with consistent hydration. Weekly watering mimics natural rainfall, supporting its lush foliage and ensuring robust health, especially during the active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Optimize red clover's growth with balanced fertilizers applied monthly during the growing season. Follow manufacturer guidelines for dosage, reducing in winter. Avoid over-fertilization to protect nitrogen-fixing processes. Incorporate fertilizer gently into the soil to maintain root health, promoting red clover's vitality and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover features vibrant green leaves and reddish-purple flowers, thriving with targeted pruning in early to late spring. Key techniques include removing dead stems and thinning crowded areas, promoting healthier growth and prolific blooms. Use clean, sharp tools to prevent disease transmission.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover propagates best by sowing seeds in spring, with moderate difficulty. Success is indicated by young leaf formation. For optimal growth, use well-drained soil and maintain consistently moist conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Red clover requires excellent drainage in pots to thrive, ensuring that excess water can escape and roots remain healthy, preventing rot and promoting optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Trifolium_pratense.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is red clover good for?",
+            "link": "/ask/Trifolium_pratense-0.html"
+        },
+        {
+            "q": "Does red clover rely on pollinators?",
+            "link": "/ask/Trifolium_pratense-1.html"
+        },
+        {
+            "q": "Is red clover purposely cultivated?",
+            "link": "/ask/Trifolium_pratense-2.html"
+        },
+        {
+            "q": "Is red clover valued as a symbol?",
+            "link": "/ask/Trifolium_pratense-3.html"
+        },
+        {
+            "q": "Does red clover have economic importance?",
+            "link": "/ask/Trifolium_pratense-4.html"
+        },
+        {
+            "q": "How is red clover used?",
+            "link": "/ask/Trifolium_pratense-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Trifolium-pratense-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Trifolium-pratense-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Trifolium-pratense-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Trifolium-pratense-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Trifolium-pratense-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Trifolium-pratense-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Trifolium-pratense-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Trifolium-pratense-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Trifolium-pratense-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Trifolium-pratense-Flower-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Quercus acutissima",
+                "link": "/wiki/Quercus_acutissima.html",
+                "imageUrl": "/wiki-image/1080/153908877488816132.jpeg",
+                "displayName": "Sawtooth oak"
+            },
+            {
+                "scientificName": "Ardisia crenata",
+                "link": "/wiki/Ardisia_crenata.html",
+                "imageUrl": "/wiki-image/1080/153467148692357139.jpeg",
+                "displayName": "Christmas berry"
+            },
+            {
+                "scientificName": "Echinocactus grusonii",
+                "link": "/wiki/Echinocactus_grusonii.html",
+                "imageUrl": "/wiki-image/1080/202701866300342272.jpeg",
+                "displayName": "Golden barrel cactus"
+            },
+            {
+                "scientificName": "Quercus michauxii",
+                "link": "/wiki/Quercus_michauxii.html",
+                "imageUrl": "/wiki-image/1080/153989687298490401.jpeg",
+                "displayName": "Swamp chestnut oak"
+            },
+            {
+                "scientificName": "Pelargonium zonale",
+                "link": "/wiki/Pelargonium_zonale.html",
+                "imageUrl": "/wiki-image/1080/154141355478614027.jpeg",
+                "displayName": "Horseshoe geranium"
+            },
+            {
+                "scientificName": "Digitalis purpurea",
+                "link": "/wiki/Digitalis_purpurea.html",
+                "imageUrl": "/wiki-image/1080/153664794497384469.jpeg",
+                "displayName": "Common foxglove"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Trifolium_pratense.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Trifolium_pratense.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Trifolium_pratense.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Trifolium_pratense.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Trifolium_pratense.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Trifolium_pratense.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Trifolium_pratense.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Trifolium_pratense.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Trifolium_pratense.html",
+            "values": [
+                "Care Red clover",
+                "Care Red clover",
+                "Grow Red clover",
+                "Maintain Red clover",
+                "Red clover Care",
+                "Red clover Grow",
+                "Red clover Maintain",
+                "Red clover Cares",
+                "Growth Red clover",
+                "Maintains Red clover",
+                "Red clover Growth",
+                "Red clover Maintains",
+                "Red clover Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Trifolium-pratense-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Trifolium_pratense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Trifolium_pratense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Trifolium_pratense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Trifolium_pratense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Trifolium_pratense.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Trifolium_pratense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Trifolium_pratense.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Trifolium_pratense.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Trifolium_pratense.html"
+        }
+    ]
+}

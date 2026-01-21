@@ -1,0 +1,829 @@
+{
+    "title": "Coriander (Coriandrum sativum) - PictureThis",
+    "displayName": "Coriander",
+    "otherCommonName": "Cilantro",
+    "mainImage": {
+        "copyright": {
+            "width": 2124,
+            "height": 1411,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/vegetable-coriandrum-sativum-gm182360378-11519094",
+            "authorLink": "",
+            "author": "tc397",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/196779419930656768.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157351444100415492.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157426644682801153.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3840,
+                "height": 5760,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157566677796519941.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 7360,
+                "height": 4912,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157518166140911623.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Coriander 'Confetti'",
+            "link": "/wiki/Coriandrum_sativum__Confetti_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Coriander is well-known in many countries and is most commonly used for cooking. The dried seeds of the coriander plant are ground and used to season dishes, while the leaves and stems can be eaten cooked or raw. In the United States, the leaves and stems of this plant are called cilantro.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Coriander is well-known in many countries and is most commonly used for cooking. The dried seeds of the coriander plant are ground and used to season dishes, while the leaves and stems can be eaten cooked or raw. In the United States, the leaves and stems of this plant are called cilantro.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Coriander (<i>Coriandrum sativum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Coriandrum",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Coriandrum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Umbellifers",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Carrots, ivies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Apiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Late summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   23 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 mm to 1.2 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803842069889031.jpeg",
+        "habitat": "Waste places, Arable land, Sides of rivers",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Coriander is native to parts of Europe, Asia, and North Africa. It has seen widespread worldwide distribution because of its use as a spice. The native ecosystem of coriander is alongside rivers and in waste spaces and arable land.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1065",
+                "1160",
+                "1376",
+                "1505",
+                "1591",
+                "1637",
+                "2243",
+                "3301",
+                "3536",
+                "2986",
+                "1366",
+                "1305"
+            ],
+            "north": [
+                "9343",
+                "16236",
+                "30230",
+                "52758",
+                "58581",
+                "28746",
+                "15096",
+                "10463",
+                "9194",
+                "7946",
+                "6434",
+                "7423"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Coriander is often grown in vegetable fields. This common plant is grown for its leaves and seeds which are used in cooking as well as for its fresh aroma and bright green appearance. It is a prized addition to vegetable gardens and as a companion plant in cottage gardens. It is often planted with mint, basil, yarrow, and tomatoes, which all thrive together.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Unchanging true love, healing, recovering from a broken heart",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that in a battle of Greek mythology, the god of war fought with the god of dogs, and the god of dogs was unfortunately sacrificed. The place it was buried grew immortal grass. This immortal plant could cure diseases and had a strange fragrance. The god of war named this immortal plant \"coriander\".",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Coriander",
+                "values": [
+                    "It is first attested in English in the late 14th century. The word \"coriander\" is derived from the Old French coriandre, which comes from latin word Coriandrum. It is also derived from Ancient Greek kÃÂ³ris meaning a bed bug and was given this name because of its fetid."
+                ]
+            },
+            {
+                "key": "Cilantro",
+                "values": [
+                    "Cilantro is the Spanish word for coriander deriving from Coriandrum. It is the common term in North American English for coriander leaves, due to their extensive use in Mexican cuisine."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive aroma when leaves are bruised.",
+            "Umbel flowers are pinkish or white.",
+            "Round, ridged beige seeds in fruit pods.",
+            "Upper leaves finely textured, lower ones compound and lobed.",
+            "Globular schizocarps splitting into two halves."
+        ],
+        "title": "Quickly Identify Coriander",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Coriandrum-sativum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Coriander thrives in moderate climates, requiring regular hydration without waterlogging. Optimal health is maintained with twicely weekly watering and evenly moist soil. Rainwater during the growing season greatly benefits coriander, promoting robust foliage production.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To promote healthy growth of coriander, apply high nitrogen fertilizers every 4-6 weeks from seeding to maturity, using a balanced liquid fertilizer at half strength. Water coriander before fertilization, and reduce application in cooler seasons. Monitor for nutrient deficiencies or excess and adjust accordingly.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Coriander thrives with careful pruning from early to late spring, promoting fuller growth and reducing legginess. Regularly snip leaves and remove yellowing foliage to enhance air circulation and minimize pests. Pruning fosters a bushier plant and boosts yield for a healthy growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Coriander propagates best via sowing in Spring. Directly sow seeds into soil, ensuring proper spacing and adequate watering to encourage optimal growth and successful sprouting of seedlings.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Coriandrum_sativum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Are coriander and cilantro the same thing?",
+            "link": "/ask/Coriandrum_sativum-0.html"
+        },
+        {
+            "q": "What does coriander taste like?",
+            "link": "/ask/Coriandrum_sativum-1.html"
+        },
+        {
+            "q": "What is coriander used for?",
+            "link": "/ask/Coriandrum_sativum-2.html"
+        },
+        {
+            "q": "Why does coriander taste bad?",
+            "link": "/ask/Coriandrum_sativum-3.html"
+        },
+        {
+            "q": "What's a substitute for coriander?",
+            "link": "/ask/Coriandrum_sativum-4.html"
+        },
+        {
+            "q": "How do I care for a coriander plant?",
+            "link": "/ask/Coriandrum_sativum-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Coriandrum-sativum-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Coriandrum-sativum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Coriandrum-sativum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Coriandrum-sativum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Coriandrum-sativum-Spots.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Coriandrum-sativum-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Coriandrum-sativum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Coriandrum-sativum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Coriandrum-sativum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Coriandrum-sativum-Yellow-edges.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Hypoestes phyllostachya",
+                "link": "/wiki/Hypoestes_phyllostachya.html",
+                "imageUrl": "/wiki-image/1080/347095333905793024.jpeg",
+                "displayName": "Polka dot plant"
+            },
+            {
+                "scientificName": "Araucaria cunninghamii",
+                "link": "/wiki/Araucaria_cunninghamii.html",
+                "imageUrl": "/wiki-image/1080/154095949084360744.jpeg",
+                "displayName": "Hoop Pine"
+            },
+            {
+                "scientificName": "Hylotelephium erythrostictum",
+                "link": "/wiki/Hylotelephium_erythrostictum.html",
+                "imageUrl": "/wiki-image/1080/153464314013941775.jpeg",
+                "displayName": "Garden stonecrop"
+            },
+            {
+                "scientificName": "Salvia nemorosa",
+                "link": "/wiki/Salvia_nemorosa.html",
+                "imageUrl": "/wiki-image/1080/154129638807830536.jpeg",
+                "displayName": "Woodland sage"
+            },
+            {
+                "scientificName": "Trachelospermum jasminoides",
+                "link": "/wiki/Trachelospermum_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/153716123651538960.jpeg",
+                "displayName": "Star jasmine"
+            },
+            {
+                "scientificName": "Gustavia gracillima",
+                "link": "/wiki/Gustavia_gracillima.html",
+                "imageUrl": "/wiki-image/1080/157690776581570566.jpeg",
+                "displayName": "Heaven lotus"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Coriandrum_sativum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Coriandrum_sativum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Coriandrum_sativum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Coriandrum_sativum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Coriandrum_sativum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Coriandrum_sativum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Coriandrum_sativum.html",
+            "values": [
+                "Care Coriander",
+                "Care Coriander",
+                "Grow Coriander",
+                "Maintain Coriander",
+                "Coriander Care",
+                "Coriander Grow",
+                "Coriander Maintain",
+                "Coriander Cares",
+                "Growth Coriander",
+                "Maintains Coriander",
+                "Coriander Growth",
+                "Coriander Maintains",
+                "Coriander Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coriandrum-sativum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Coriandrum_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Coriandrum_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Coriandrum_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Coriandrum_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Coriandrum_sativum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Coriandrum_sativum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Coriandrum_sativum.html"
+        }
+    ]
+}

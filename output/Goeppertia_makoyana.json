@@ -1,0 +1,871 @@
+{
+    "title": "Peacock plant (Goeppertia makoyana) - PictureThis",
+    "displayName": "Peacock plant",
+    "otherCommonName": "Prayer plant",
+    "mainImage": {
+        "copyright": {
+            "width": 1588,
+            "height": 1588,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153823858611191819.jpeg"
+    },
+    "images": [],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The peacock plant sports large, thin leaves in varied shades of green. The plant thrives in warm, humid environments such as its native Brazil. It is a classic example of a \"prayer plant,\" meaning its leaves appear to close up at night and open again in the morning.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The peacock plant sports large, thin leaves in varied shades of green. The plant thrives in warm, humid environments such as its native Brazil. It is a classic example of a \"prayer plant,\" meaning its leaves appear to close up at night and open again in the morning.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Peacock plant (<i>Goeppertia makoyana</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Calatheas",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Goeppertia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arrowroot",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Marantaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gingers, bananas, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Zingiberales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801308039184386.jpeg",
+        "habitat": "Garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Peacock plant is indigenous to the tropical regions of South America, thriving in the continent's northeastern parts. It has been successfully introduced to subtropical and warm temperate areas worldwide where it is widely cultivated for ornamental purposes.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1263",
+                "1365",
+                "1501",
+                "1404",
+                "1368",
+                "1333",
+                "1559",
+                "1447",
+                "1551",
+                "1373",
+                "969",
+                "1331"
+            ],
+            "north": [
+                "10975",
+                "11831",
+                "11358",
+                "11136",
+                "10812",
+                "10048",
+                "10302",
+                "9447",
+                "8809",
+                "6940",
+                "7409",
+                "11861"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Peacock plant can be used for landscaping and gardening in areas where it can provide a colorful accent beneath the shade of taller species such as Lady palms, whether this be in a sheltered yard or along the roadside. It is popular for its distinctively marked, vividly colored leaves, which grow large and offer an unmatched showmanship. They can provide breathtaking ground cover in climates warm enough to support them, and look good alongside Orchids, Bromeliads, and Aglaonemas.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Glory of beauty",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "As peacock plant leaves grow slowly, patterns on the leaves also grow, so they keep their beauty.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Peacock plant",
+                "values": [
+                    "Goeppertia makoyana is a tropical plant with the leaves so showy that the plant is known by the common name peacock plant, referring to its resemblance to the peacock feathers. The markings on the upper side of the leaves and the purplish color on the underside make peacock plant extremely decorative."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive peacock tail leaf pattern with green spots and cream feathering.",
+            "Papery-textured leaves with purple underside, 10-12 cm (4-5 in.) long.",
+            "Small white flowers with purple lobes, nestled in green bracts.",
+            "Short, slender stem with smooth texture, often aerial or rhizomatous.",
+            "Leaf venation shows dark green feather-like patterns; underside exhibits purplish-red repeating design."
+        ],
+        "title": "Quickly Identify Peacock plant",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Goeppertia-makoyana.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from tropical rainforests, peacock plant thrives in high humidity and well-drained, consistently moist soil. Water once weekly and provide indirect light to mimic its natural habitat. In indoor settings, maintaining adequate humidity is crucial for preserving peacock plant's vibrant foliage patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize peacock plant every 4 weeks with a diluted, high-nitrogen fertilizer during spring and summer, and every 6-8 weeks in fall and winter. Water before feeding to protect roots, and periodically flush the soil to prevent salt buildup for vibrant foliage and healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peacock plant flourishes with early spring pruning, eliminating dead or damaged leaves and leggy stems to enhance growth and shape. Use clean tools to prevent infections. This practice not only maintains appearance but also boosts vibrant foliage, ensuring peacock plant is a remarkable feature in any indoor garden.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To propagate peacock plant, divide it in Spring or Autumn. This method is straightforward, with new leaf growth indicating success. Ensure proper separation of root clumps for healthy propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot the peacock plant every 3-4 years in spring, using a larger container for growth. Maintain high humidity and avoid direct sunlight post-repotting. A well-draining pot is essential for healthy growth, allowing peacock plant to thrive and showcase its unique leaf patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Goeppertia_makoyana.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How big does peacock plant get?",
+            "link": "/ask/Goeppertia_makoyana-0.html"
+        },
+        {
+            "q": "Why are the leaves on my peacock plant turning brown?",
+            "link": "/ask/Goeppertia_makoyana-1.html"
+        },
+        {
+            "q": "Should I cut brown leaves of peacock plant?",
+            "link": "/ask/Goeppertia_makoyana-2.html"
+        },
+        {
+            "q": "How do you care for a peacock plant ?",
+            "link": "/ask/Goeppertia_makoyana-3.html"
+        },
+        {
+            "q": "Why is my peacock plant dying?",
+            "link": "/ask/Goeppertia_makoyana-4.html"
+        },
+        {
+            "q": "Is peacock plant poisonous to cats?",
+            "link": "/ask/Goeppertia_makoyana-5.html"
+        },
+        {
+            "q": "How do you propagate a peacock plant?",
+            "link": "/ask/Goeppertia_makoyana-6.html"
+        },
+        {
+            "q": "How often do you water a peacock plant ?",
+            "link": "/ask/Goeppertia_makoyana-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Goeppertia-makoyana-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Goeppertia-makoyana-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Goeppertia-makoyana-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Goeppertia-makoyana-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Goeppertia-makoyana-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Goeppertia-makoyana-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Goeppertia-makoyana-Scars.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Goeppertia-makoyana-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Goeppertia-makoyana-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Goeppertia-makoyana-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Goeppertia-makoyana-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Goeppertia-makoyana-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Goeppertia-makoyana-Wilting.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Goeppertia-makoyana-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Goeppertia-makoyana-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Goeppertia-makoyana-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Goeppertia-makoyana-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Goeppertia-makoyana-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Goeppertia-makoyana-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Goeppertia-makoyana-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Goeppertia-makoyana-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Begonia maculata",
+                "link": "/wiki/Begonia_maculata.html",
+                "imageUrl": "/wiki-image/1080/347123358567399424.jpeg",
+                "displayName": "Polka dot begonia"
+            },
+            {
+                "scientificName": "Adonidia merrillii",
+                "link": "/wiki/Adonidia_merrillii.html",
+                "imageUrl": "/wiki-image/1080/222374233858179072.jpeg",
+                "displayName": "Manila palm"
+            },
+            {
+                "scientificName": "Clematis viorna",
+                "link": "/wiki/Clematis_viorna.html",
+                "imageUrl": "/wiki-image/1080/153406993380409345.jpeg",
+                "displayName": "Vasevine"
+            },
+            {
+                "scientificName": "Sesbania drummondii",
+                "link": "/wiki/Sesbania_drummondii.html",
+                "imageUrl": "/wiki-image/1080/154028346299121683.jpeg",
+                "displayName": "Poisonbean"
+            },
+            {
+                "scientificName": "Graptophyllum pictum",
+                "link": "/wiki/Graptophyllum_pictum.html",
+                "imageUrl": "/wiki-image/1080/154155168093437960.jpeg",
+                "displayName": "Caricature-plant"
+            },
+            {
+                "scientificName": "Maranta arundinacea",
+                "link": "/wiki/Maranta_arundinacea.html",
+                "imageUrl": "/wiki-image/1080/154044267742887947.jpeg",
+                "displayName": "Arrowroot"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Goeppertia_makoyana.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Goeppertia_makoyana.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Goeppertia_makoyana.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Goeppertia_makoyana.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Goeppertia_makoyana.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Goeppertia_makoyana.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Goeppertia_makoyana.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Goeppertia_makoyana.html",
+            "values": [
+                "Care Peacock plant",
+                "Care Peacock plant",
+                "Grow Peacock plant",
+                "Maintain Peacock plant",
+                "Peacock plant Care",
+                "Peacock plant Grow",
+                "Peacock plant Maintain",
+                "Peacock plant Cares",
+                "Growth Peacock plant",
+                "Maintains Peacock plant",
+                "Peacock plant Growth",
+                "Peacock plant Maintains",
+                "Peacock plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Goeppertia-makoyana-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Goeppertia_makoyana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Goeppertia_makoyana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Goeppertia_makoyana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Goeppertia_makoyana.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Goeppertia_makoyana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Goeppertia_makoyana.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Goeppertia_makoyana.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Goeppertia_makoyana.html"
+        }
+    ]
+}

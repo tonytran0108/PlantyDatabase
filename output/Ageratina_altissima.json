@@ -1,0 +1,596 @@
+{
+    "title": "White snakeroot (Ageratina altissima) - PictureThis",
+    "displayName": "White snakeroot",
+    "otherCommonName": "Tall boneset",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201161381790154752.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/26004054",
+                "authorLink": "https://www.inaturalist.org/people/schoenitz",
+                "author": "schoenitz",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656006994296858.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27555652",
+                "authorLink": "https://www.inaturalist.org/people/taco2000",
+                "author": "taco2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153931546326204450.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25119624",
+                "authorLink": "https://www.inaturalist.org/people/judygva",
+                "author": "judygva",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153924455335198733.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10396315",
+                "authorLink": "https://www.inaturalist.org/people/reuvenm",
+                "author": "reuvenm",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153946269474095119.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "White snakeroot 'Chocolate'",
+            "link": "/wiki/Ageratina_altissima__Chocolate_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   When you're around white snakeroot, it is a good idea to exercise caution. This plant contains a toxin called tremetol which causes a potentially fatal illness. WhatÃ¢ÂÂs more, if animals who are lactating eat white snakeroot, the tremetol is secreted in the milk and can be passed on to humans in this way. Many early European settlers are suspected to have died of this so-called \"milk-sickness\" before they understood the plant's hazards.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "When you're around white snakeroot, it is a good idea to exercise caution. This plant contains a toxin called tremetol which causes a potentially fatal illness. WhatÃ¢ÂÂs more, if animals who are lactating eat white snakeroot, the tremetol is secreted in the milk and can be passed on to humans in this way. Many early European settlers are suspected to have died of this so-called \"milk-sickness\" before they understood the plant's hazards.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "White snakeroot (<i>Ageratina altissima</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Snakeroots",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ageratina.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251769818964099072.png",
+        "habitat": "Low woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   White snakeroot is native to the central and eastern US and eastern Canada. Its native habitat is woods and thickets in sun or partial shade. White snakeroot has been introduced in eastern Europe, Korea, and Canada's northwest territories.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "28",
+                "47",
+                "49",
+                "62",
+                "76",
+                "43",
+                "50",
+                "93",
+                "72",
+                "48",
+                "38",
+                "35"
+            ],
+            "north": [
+                "317",
+                "607",
+                "13479",
+                "51787",
+                "45113",
+                "33803",
+                "37064",
+                "56177",
+                "28394",
+                "4802",
+                "597",
+                "415"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "White snakeroot (Ageratina altissima) is a good garden plant since it is easy to grow and rewards cultivation with abundant tufted white flowers. It makes a good addition to beds and borders in informal or cottage gardens. For some great garden contrast, grow this plant with Russian sage or Japanese anemone.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Luck, money, agelessness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "White snakeroot was first documented by famous ancient botanist Dioscorides. It is a symbol of healing for Native American tribes, where white snakeroot has been incorporated into a poultice to treat snakebites.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "White snakeroot",
+                "values": [
+                    "This plant is a very attractive wildflower with beautiful white flowers. However, this kind of beauty comes with undeniable toxicity. If any cow consumes this plant, its toxin, tremetol will pollute beef and milk. These toxins may also pass on to human beings too. It is called White snakeroot maybe because it is as toxic as most of the snakes."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>White snakeroot is toxic to humans, cats, and dogs</strong>, causing symptoms like vomiting, tremors, and muscle weakness. <strong>Ingestion by cows results in milk sickness</strong> in humans consuming contaminated milk. Cats show pain or illness after contact, while dogs experience vomiting and seizures. Immediate veterinary care is essential for any pet exposed to white snakeroot.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ageratina_altissima.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Known to be the cause of \"milk sickness\", white snakeroot is a native herbaceous plant of the Midwest and eastern states of America and has been reported to be found in Belgium, Austria, and South Korea. Though not considered invasive, it is thought to be a troublesome weed in these countries due to its toxic properties. The entire plant is poisonous, as it contains a toxin called tremetol. Tremetol is easily passed through cattle that eat the plant, which taints their milk and meat and causes sickness in humans that consume these products. Various negative symptoms will form if too much is ingested. Pulling or mowing down sprouts before any seeds form is the best way to control white snakeroot.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove white snakeroot (White snakeroot) is late spring to early summer, before the plant has gone to seed to prevent further spread.\n  </div> \n  <ol> \n   <li>Hand Pulling: To remove white snakeroot, start by moistening the soil around the plant. Using gloves, gently pull the plant, ensuring the entire root is removed to prevent regrowth.</li> \n   <li>Smothering: Place a heavy layer of newspaper or a piece of cardboard over the area where white snakeroot is growing. Top it with a thick layer of organic mulch. This will block sunlight and eventually kill the plant.</li> \n   <li>Organic Herbicides: Use vinegar, which is a natural weed killer. Ensure to spray it directly on the plant, avoiding desirable plants around it.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White snakeroot thrives in humid conditions and prefers well-drained, damp soil. It has moderate drought tolerance and requires weekly watering. Commonly cultivated outdoors, white snakeroot flourishes when rainfall aligns with its active growing season, benefiting from consistent moisture typical of its native habitat.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White snakeroot propagates well by sowing in spring, with seedling emergence in 3-4 weeks indicating success. For optimal results, maintain adequate moisture and ensure well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The plant white snakeroot requires excellent drainage in pots to thrive, ensuring optimal growth and health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ageratina_altissima.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is white snakeroot poisonous?",
+            "link": "/ask/Ageratina_altissima-0.html"
+        },
+        {
+            "q": "What part of white snakeroot is poisonous?",
+            "link": "/ask/Ageratina_altissima-1.html"
+        },
+        {
+            "q": "How do you get rid of white snakeroot?",
+            "link": "/ask/Ageratina_altissima-2.html"
+        },
+        {
+            "q": "How tall does white snakeroot grow?",
+            "link": "/ask/Ageratina_altissima-3.html"
+        },
+        {
+            "q": "Is white snakeroot invasive?",
+            "link": "/ask/Ageratina_altissima-4.html"
+        },
+        {
+            "q": "Is white snakeroot poisonous to dogs?",
+            "link": "/ask/Ageratina_altissima-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Erigeron annuus",
+                "link": "/wiki/Erigeron_annuus.html",
+                "imageUrl": "/wiki-image/1080/154210216689270785.jpeg",
+                "displayName": "Annual fleabane"
+            },
+            {
+                "scientificName": "Cirsium vulgare",
+                "link": "/wiki/Cirsium_vulgare.html",
+                "imageUrl": "/wiki-image/1080/201173914504757248.jpeg",
+                "displayName": "Bull thistle"
+            },
+            {
+                "scientificName": "Spathodea campanulata",
+                "link": "/wiki/Spathodea_campanulata.html",
+                "imageUrl": "/wiki-image/1080/153981483910955046.jpeg",
+                "displayName": "African tulip tree"
+            },
+            {
+                "scientificName": "Acacia auriculiformis",
+                "link": "/wiki/Acacia_auriculiformis.html",
+                "imageUrl": "/wiki-image/1080/153884434829934601.jpeg",
+                "displayName": "Earleaf acacia"
+            },
+            {
+                "scientificName": "Alternanthera sessilis",
+                "link": "/wiki/Alternanthera_sessilis.html",
+                "imageUrl": "/wiki-image/1080/154148433584717862.jpeg",
+                "displayName": "Sessile Joyweed"
+            },
+            {
+                "scientificName": "Spiraea japonica",
+                "link": "/wiki/Spiraea_japonica.html",
+                "imageUrl": "/wiki-image/1080/202658835023003648.jpeg",
+                "displayName": "Japanese meadowsweet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ageratina_altissima.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ageratina_altissima.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ageratina_altissima.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ageratina_altissima.html",
+            "values": [
+                "Care White snakeroot",
+                "Care White snakeroot",
+                "Grow White snakeroot",
+                "Maintain White snakeroot",
+                "White snakeroot Care",
+                "White snakeroot Grow",
+                "White snakeroot Maintain",
+                "White snakeroot Cares",
+                "Growth White snakeroot",
+                "Maintains White snakeroot",
+                "White snakeroot Growth",
+                "White snakeroot Maintains",
+                "White snakeroot Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ageratina_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ageratina_altissima.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ageratina_altissima.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ageratina_altissima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ageratina_altissima.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Ageratina_altissima.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ageratina_altissima.html"
+        }
+    ]
+}

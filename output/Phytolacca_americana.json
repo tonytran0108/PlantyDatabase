@@ -1,0 +1,654 @@
+{
+    "title": "Pokeweed (Phytolacca americana) - PictureThis",
+    "displayName": "Pokeweed",
+    "otherCommonName": "Poke sallet, Poke salad, Dragonberries",
+    "mainImage": {
+        "copyright": {
+            "width": 2397,
+            "height": 2397,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154075307471536171.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21385063",
+                "authorLink": "https://www.inaturalist.org/people/h-blumenfeld94",
+                "author": "h-blumenfeld94",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152375007228461060.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10559177",
+                "authorLink": "https://www.inaturalist.org/people/ianmanning",
+                "author": "ianmanning",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659434378199052.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10232137",
+                "authorLink": "https://www.inaturalist.org/people/hannawacker",
+                "author": "hannawacker",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654890302799890.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9863012",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153863587058679827.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Pokeweed's rapid growth peaking in spring and summer results in a swift increase in height, profuse leaf production, and accelerated flowering. This growth pattern is observed as a response to the plant's active growing season, exhibiting horticulturally significant characteristics that enhance its botanical appeal.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Although its berries look juicy and tempting, the fruits and the root of pokeweed are toxic and should not be eaten. Pokeweed is considered a pest species by farmers but is nevertheless often grown as an ornamental plant. Its berries can be made into pokeberry ink as well.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Although its berries look juicy and tempting, the fruits and the root of pokeweed are toxic and should not be eaten. Pokeweed is considered a pest species by farmers but is nevertheless often grown as an ornamental plant. Its berries can be made into pokeberry ink as well.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Pokeweed (<i>Phytolacca americana</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Pokeweeds",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Phytolacca.html"
+            },
+            {
+                "type": "Family",
+                "name": "Pokeweed",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Phytolaccaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/279086012831301632.jpeg",
+        "habitat": "Clearings, woodland margins, roadsides, disturbed areas, pastures, thickets",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Pokeweed is native to North America, where it grows in open areas and edge habitats. It has been introduced throughout much of the world as an ornamental but can become problematic when it spreads outside of gardens; it is listed as invasive in California and several European countries.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 88.83571783, \"2\": 103.4446857, \"3\": 137.1854899, \"4\": 90.38990313, \"5\": 74.03978218, \"6\": 52.0, \"7\": 54.54439717, \"8\": 59.42426041, \"9\": 58.67000528, \"10\": 57.66202192, \"11\": 118.3330757, \"12\": 115.3389476}, \"fruit_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 63.63465532, \"2\": 61.92112586, \"3\": 53.65948886, \"4\": 58.61953786, \"5\": 29.94619393, \"6\": 33.0, \"7\": 23.63418275, \"8\": 22.49514731, \"9\": 22.58540907, \"10\": 33.39909558, \"11\": 35.59646086, \"12\": 57.30710009}, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 359.0505977, \"2\": 356.0837087, \"3\": 370.896154, \"4\": 289.966518, \"5\": 226.9404151, \"6\": 152.0, \"7\": 152.2719271, \"8\": 170.0706526, \"9\": 198.6344725, \"10\": 206.9017123, \"11\": 322.9662664, \"12\": 374.7844388}, \"fruit_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 19.5727862, \"2\": 20.58780525, \"3\": 27.59184051, \"4\": 60.28294757, \"5\": 112.8356148, \"6\": 109.607304, \"7\": 157.3007852, \"8\": 87.93396277, \"9\": 84.63625428, \"10\": 45.24402869, \"11\": 25.60986393, \"12\": 34.0}, \"fruit_month\": 7}, \"BSk\": {\"trends\": {\"1\": 20.08722114, \"2\": 17.6353429, \"3\": 52.33428919, \"4\": 87.48678277, \"5\": 106.0626075, \"6\": 112.4539248, \"7\": 128.8061963, \"8\": 129.3618784, \"9\": 122.409297, \"10\": 77.32800711, \"11\": 42.14072453, \"12\": 21.0}, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 23.3737638, \"2\": 23.19382188, \"3\": 59.84639431, \"4\": 115.3019811, \"5\": 153.4541903, \"6\": 178.2585846, \"7\": 201.042009, \"8\": 202.4564552, \"9\": 212.1173601, \"10\": 113.0136329, \"11\": 57.68798134, \"12\": 27.0}, \"fruit_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 314.7237919, \"2\": 545.8844826, \"3\": 1199.976472, \"4\": 2339.55694, \"5\": 3450.202271, \"6\": 3790.32723, \"7\": 3865.586597, \"8\": 3341.958056, \"9\": 2713.077695, \"10\": 1647.778101, \"11\": 524.480949, \"12\": 244.0}, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "A food source for a wide range of wildlife.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "The entire plant can be used as pesticide.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Pokeweed is a tall, herbaceous shrub with bright red stems and deep purple berries. It grows in disturbed areas and can be problematic because of its weedy growth habit and toxicity. If one chooses to use this plant ornamentally, it can be used as a border plant.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Freedom, extreme cleansing, purging, banishing",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The fruit of the pokeweed is very attractive. The fruit is a depressed sphere, like the shape of a pumpkin. When ripe, the fruit is purple and black, hanging in clusters. If squeezed, red juice will come out, which children often used to paint their nails. Pokeweed is often planted in gardens for its attractive fruits that can have a beautiful visual impact.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "American pokeweed",
+                "values": [
+                    "The plant carries the word \"poke\" in its name because poke originates from the word \"pakon\" or \"puccoon\", meaning \"dye plant\" in the Algonquian Indian language. This refers to a type of natural dye collected from the plant. However, as it originates from the United States, its common name is pokeweed. Phytolacca americana berries actually look like a cluster of purplish black grapes. Although the berries are poisonous, the red dye extracted from the berries is very beautiful."
+                ]
+            },
+            {
+                "key": "Inkbush",
+                "values": [
+                    "In early autumn, the plant bears clusters of enticing grape-like berries that are small and round. When the berries mature, they create a flamboyant, juicy, purplish-black layer. As people tend to use its berries to create dye, it is thus called the Inkbush."
+                ]
+            },
+            {
+                "key": "Pigeon berry",
+                "values": [
+                    "Although its berries look as delicious as grapes, they are poisonous to humans, cattle and sheep. Many animals suffer from dyskinesia or even death after eating them. Only birds (such as pigeons) can consume it to curb starvation without the worry of the poison at all. Hence, it is also named Pigeon berry."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Ingestion of any part of pokeweed</strong> is toxic to humans, causing symptoms like gastrointestinal distress and severe reactions such as convulsions and respiratory failure. <strong>Cats and dogs</strong> are also poisoned by pokeweed, exhibiting symptoms like vomiting, diarrhea, and weakness. Immediate veterinary care is necessary for both to prevent severe health issues and ensure recovery. Accidental ingestion, especially in children, is common due to attractive berries.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Phytolacca_americana.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Considered a weed by farmers due to its toxicity even in its native range, pokeweed is a tall (up to 2.5 m) herbaceous perennial plant that is harmful to mammals, including humans, livestock, and pets. Pokeweed has also spread invasively outside of its native range. It is found and considered a weed in the American west coast, Europe and Asia. In all of these areas, it prefers open edge habitats such as forest edges, cleared areas, fence rows, damaged pastures, and wastelands. Despite its toxicity to mammals, the berries are a very important food source for American migratory birds.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to manage pokeweed is early spring, particularly before the plant gets to the mature, seed-bearing phase. Here are some methods for organic removal or control of this plant:\n  </div> \n  <ol> \n   <li>Hand Pulling: On spotting pokeweed in your garden, wear gloves and pull it out directly from the ground by firmly holding the plant at its base. The best time for pulling out is after a rainfall, when the soil is loose, enhancing the chances of extracting the full root system, hence decreasing its chances of regrowth.</li> \n   <li>Smothering: To prevent pokeweed from getting sunlight and eventually killing it, cover the plant entirely with a thick layer of mulch or a tarp. This method may take some time but is highly effective in weed control.</li> \n   <li>Using a Weed Torch: This is an interesting yet effective method. You can use a weed torch to apply quick bursts of heat to pokeweed's foliage and stems without setting the plant on fire. This will cause the plant cells to burst, leading to the plant's death.</li> \n   <li>Mowing: Since pokeweed is a perennial plant and relies on seeds for propagation, regularly mowing the area can prevent the seeds from maturing and falling to the ground.</li> \n   <li>Digging Out: Using a shovel, you can dig out the entire plant. Make sure to dig around the main root to ensure no roots are left, as this can encourage regrowth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Robust perennial, heights of 4-10 feet (1.2-3 meters)",
+            "Purple stem, up to 2 inches (5 cm) in diameter",
+            "Large ovate leaves, up to 12 inches (30 cm) long",
+            "White flowers in 8-inch (20 cm) racemes",
+            "Clusters of dark purple-black berries, 0.2 inches (5 mm) in diameter"
+        ],
+        "title": "Quickly Identify Pokeweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Phytolacca-americana.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pokeweed thrives in moist, fertile soils and prefers consistent moisture, balancing drought tolerance with hydration needs. It requires weekly watering, especially during its active growing season, and is primarily grown outdoors to benefit from natural rain patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagate pokeweed in Spring through sowing, noting its moderate difficulty. Success is indicated by new growth and robust shoots. To improve outcomes, ensure consistent moisture post-sowing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Planting pokeweed in nutrient-rich soil within a pot effectively regulates the growth of its taproot, promoting healthy development and management of space.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Phytolacca_americana.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is pokeweed invasive?",
+            "link": "/ask/Phytolacca_americana-0.html"
+        },
+        {
+            "q": "Is pokeweed dangerous?",
+            "link": "/ask/Phytolacca_americana-1.html"
+        },
+        {
+            "q": "What happens if you touch pokeweed?",
+            "link": "/ask/Phytolacca_americana-2.html"
+        },
+        {
+            "q": "How do I get rid of pokeweed?",
+            "link": "/ask/Phytolacca_americana-3.html"
+        },
+        {
+            "q": "Is pokeweed poisonous to pets?",
+            "link": "/ask/Phytolacca_americana-4.html"
+        },
+        {
+            "q": "Can pokeweed cause a rash?",
+            "link": "/ask/Phytolacca_americana-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Mimosa pudica",
+                "link": "/wiki/Mimosa_pudica.html",
+                "imageUrl": "/wiki-image/1080/153967121540317201.jpeg",
+                "displayName": "Shame plant"
+            },
+            {
+                "scientificName": "Schefflera arboricola",
+                "link": "/wiki/Schefflera_arboricola.html",
+                "imageUrl": "/wiki-image/1080/153444759027843082.jpeg",
+                "displayName": "Dwarf umbrella tree"
+            },
+            {
+                "scientificName": "Epipremnum aureum",
+                "link": "/wiki/Epipremnum_aureum.html",
+                "imageUrl": "/wiki-image/1080/153861190466928663.jpeg",
+                "displayName": "Golden pothos"
+            },
+            {
+                "scientificName": "Impatiens balsamina",
+                "link": "/wiki/Impatiens_balsamina.html",
+                "imageUrl": "/wiki-image/1080/201213565642866688.jpeg",
+                "displayName": "Garden balsam"
+            },
+            {
+                "scientificName": "Mandevilla sanderi",
+                "link": "/wiki/Mandevilla_sanderi.html",
+                "imageUrl": "/wiki-image/1080/154000484846272543.jpeg",
+                "displayName": "Brazilian jasmine"
+            },
+            {
+                "scientificName": "Prunus domestica",
+                "link": "/wiki/Prunus_domestica.html",
+                "imageUrl": "/wiki-image/1080/153427643583168538.jpeg",
+                "displayName": "European plum"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Phytolacca_americana.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Phytolacca_americana.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Phytolacca_americana.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Phytolacca_americana.html",
+            "values": [
+                "Care Pokeweed",
+                "Care Pokeweed",
+                "Grow Pokeweed",
+                "Maintain Pokeweed",
+                "Pokeweed Care",
+                "Pokeweed Grow",
+                "Pokeweed Maintain",
+                "Pokeweed Cares",
+                "Growth Pokeweed",
+                "Maintains Pokeweed",
+                "Pokeweed Growth",
+                "Pokeweed Maintains",
+                "Pokeweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Phytolacca_americana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Phytolacca_americana.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Phytolacca_americana.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Phytolacca_americana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Phytolacca_americana.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Phytolacca_americana.html"
+        }
+    ]
+}

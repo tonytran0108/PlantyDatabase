@@ -1,0 +1,956 @@
+{
+    "title": "Ground elder (Aegopodium podagraria) - PictureThis",
+    "displayName": "Ground elder",
+    "otherCommonName": "Herb gerard, Snow-in-the-mountain",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Mikhail Martirosyan",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347099233736097792.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/973684",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153655740706324484.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8260556",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153667530391552015.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/556217",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153920813202931751.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17870672",
+                "authorLink": "https://www.inaturalist.org/people/allisonbest",
+                "author": "allisonbest",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153952183644061702.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Ground elder 'Variegatum'",
+            "link": "/wiki/Aegopodium_podagraria__Variegatum_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Aegopodium podagraria, commonly known as ground elder, is a herbaceous perennial native to Eurasia. Origin of its common name lies in the shape of its leaves and flowers, somewhat similar to elderberry. Ground elder is often cultivated as an ornamental plant. Due to its fast spread via rhizomes, it is considered an invasive species in certain countries.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Aegopodium podagraria, commonly known as ground elder, is a herbaceous perennial native to Eurasia. Origin of its common name lies in the shape of its leaves and flowers, somewhat similar to elderberry. Ground elder is often cultivated as an ornamental plant. Due to its fast spread via rhizomes, it is considered an invasive species in certain countries.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Ground elder (<i>Aegopodium podagraria</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Goutweeds",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Aegopodium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Umbellifers",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Carrots, ivies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Apiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   45 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 cm to 12 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/434708414728175616.jpeg",
+        "habitat": "Hedgerows, cultivated land, garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Ground elder is native to temperate parts of Europe and Asia, where it grows in shady places. It was spread as an ornamental and has naturalized in the United Kingdom and the United States. Due to its potential for invasive growth, it is a restricted species in several US states.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "41",
+                "46",
+                "64",
+                "145",
+                "205",
+                "118",
+                "87",
+                "90",
+                "105",
+                "77",
+                "48",
+                "59"
+            ],
+            "north": [
+                "950",
+                "4330",
+                "37799",
+                "102602",
+                "101829",
+                "43172",
+                "26233",
+                "16155",
+                "9309",
+                "3240",
+                "685",
+                "534"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Ground elder is a spreading, ornamental plant used as ground cover in large outdoor landscapes. For the garden, this perennial can be useful near a border or controlled area, where it will be less likely to overtake other plants in the garden.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Change, growth, aggression, connection with nature, healing",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Ground elder has been used as a leaf vegetable during the Middle Ages, and it's believed that ancient Romans initiated its use in the human diet. It has also been used as a medicinal plant in traditional medicine.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bishop's goutweed",
+                "values": [
+                    "It was imported into multiple regions as an ornamental plant, but it then became an invasive weed. It was often called bishop's goutweed because it was typically found near the ruins of the old church. Goutweed is derived from its specific epithet, podagragria which holds the meaning of gout of the foot."
+                ]
+            },
+            {
+                "key": "Ground elder",
+                "values": [
+                    "The name, ground elder comes from the superficial similarity of its leaves and flowers to those of elder (Sambucus), which is unrelated. It is the type of species of the genus Aegopodium."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Compound leaves with three toothed leaflets.",
+            "Clusters of small, white flowers in umbels.",
+            "Schizocarpic seed pods split into two mericarps.",
+            "Distinct carrot-like scent emitted by the foliage.",
+            "Sprawling growth pattern from branched white rhizomes."
+        ],
+        "title": "Quickly Identify Ground elder",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Aegopodium-podagraria.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from shaded woodlands, ground elder prefers moist soil and regular watering weekly for optimum growth. While moderately drought-tolerant, it thrives best with consistent hydration. A mulch layer is beneficial for moisture retention and temperature regulation during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of ground elder, apply a balanced fertilizer in spring every 4-6 weeks, ensuring the correct dosage to prevent harm. Fertilizing promotes healthy foliage, while seasonal dormancy requires no feeding. Use organic options and monitor ground elder for signs of deficiency or excess.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ground elder thrives with strategic pruning, ideally done from early to late spring. Cut back dead stems and thin overcrowded areas to enhance growth and control spread. Removing flower heads before seed formation further helps manage its invasiveness, promoting overall vigor in garden settings.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ground elder is best propagated by sowing in spring, with signs of success including vigorous growth and healthy foliage. Maintain moist seeds and use well-draining soil to enhance propagation outcomes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For ground elder, repot every 2-3 years, ideally in spring before growth begins. Use a larger pot to manage its spread, and after repotting, provide indirect light and regular watering. A breathable container benefits its root system, and control is necessary due to its vigorous nature.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Aegopodium_podagraria.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What will kill ground elder?",
+            "link": "/ask/Aegopodium_podagraria-0.html"
+        },
+        {
+            "q": "Do commercial weedkillers kill ground elder?",
+            "link": "/ask/Aegopodium_podagraria-1.html"
+        },
+        {
+            "q": "Can vinegar kill ground elder?",
+            "link": "/ask/Aegopodium_podagraria-2.html"
+        },
+        {
+            "q": "How does ground elder spread?",
+            "link": "/ask/Aegopodium_podagraria-3.html"
+        },
+        {
+            "q": "Can ground elder be composted?",
+            "link": "/ask/Aegopodium_podagraria-4.html"
+        },
+        {
+            "q": "Where does ground elder grow?",
+            "link": "/ask/Aegopodium_podagraria-5.html"
+        },
+        {
+            "q": "Is cow parsley the same as ground elder?",
+            "link": "/ask/Aegopodium_podagraria-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Aegopodium-podagraria-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Aegopodium-podagraria-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Aegopodium-podagraria-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Aegopodium-podagraria-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Aegopodium-podagraria-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Aegopodium-podagraria-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Aegopodium-podagraria-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Aegopodium-podagraria-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Aegopodium-podagraria-Spots.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Aegopodium-podagraria-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Aegopodium-podagraria-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Aegopodium-podagraria-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Aegopodium-podagraria-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Aegopodium-podagraria-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Aegopodium-podagraria-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Aegopodium-podagraria-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Aegopodium-podagraria-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Aegopodium-podagraria-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Aegopodium-podagraria-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Aegopodium-podagraria-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Aegopodium-podagraria-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Aegopodium-podagraria-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Aegopodium-podagraria-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Aegopodium-podagraria-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Aegopodium-podagraria-Gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Aegopodium-podagraria-Dark-spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Oplismenus hirtellus",
+                "link": "/wiki/Oplismenus_hirtellus.html",
+                "imageUrl": "/wiki-image/1080/153786582590029867.jpeg",
+                "displayName": "Basket Grass"
+            },
+            {
+                "scientificName": "Salix cinerea",
+                "link": "/wiki/Salix_cinerea.html",
+                "imageUrl": "/wiki-image/1080/157393899852136452.jpeg",
+                "displayName": "Grey willow"
+            },
+            {
+                "scientificName": "Tradescantia spathacea",
+                "link": "/wiki/Tradescantia_spathacea.html",
+                "imageUrl": "/wiki-image/1080/153723206052610076.jpeg",
+                "displayName": "Oyster plant"
+            },
+            {
+                "scientificName": "Ambrosia psilostachya",
+                "link": "/wiki/Ambrosia_psilostachya.html",
+                "imageUrl": "/wiki-image/1080/154132220083175457.jpeg",
+                "displayName": "Cuman ragweed"
+            },
+            {
+                "scientificName": "Bauhinia monandra",
+                "link": "/wiki/Bauhinia_monandra.html",
+                "imageUrl": "/wiki-image/1080/351936423473414144.jpeg",
+                "displayName": "Pink bauhinia"
+            },
+            {
+                "scientificName": "Brassica napus",
+                "link": "/wiki/Brassica_napus.html",
+                "imageUrl": "/wiki-image/1080/154065188528586761.jpeg",
+                "displayName": "Rutabaga"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Aegopodium_podagraria.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Aegopodium_podagraria.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Aegopodium_podagraria.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Aegopodium_podagraria.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Aegopodium_podagraria.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Aegopodium_podagraria.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Aegopodium_podagraria.html",
+            "values": [
+                "Care Ground elder",
+                "Care Ground elder",
+                "Grow Ground elder",
+                "Maintain Ground elder",
+                "Ground elder Care",
+                "Ground elder Grow",
+                "Ground elder Maintain",
+                "Ground elder Cares",
+                "Growth Ground elder",
+                "Maintains Ground elder",
+                "Ground elder Growth",
+                "Ground elder Maintains",
+                "Ground elder Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Aegopodium-podagraria-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Aegopodium_podagraria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Aegopodium_podagraria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Aegopodium_podagraria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Aegopodium_podagraria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Aegopodium_podagraria.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Aegopodium_podagraria.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Aegopodium_podagraria.html"
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+    "title": "Common morning glory (Ipomoea purpurea) - PictureThis",
+    "displayName": "Common morning glory",
+    "otherCommonName": "Purple morning-glory",
+    "mainImage": {
+        "copyright": {
+            "width": 906,
+            "height": 906,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154030334868979744.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7645262",
+                "authorLink": "https://www.inaturalist.org/people/lademandamanda",
+                "author": "lademandamanda",
+                "licenseLink": "",
+                "license": "CC-BY-NC-ND 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153887123479461901.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23012994",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyaewick",
+                "author": "jeffreyaewick",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153921904124624916.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10233760",
+                "authorLink": "https://www.inaturalist.org/people/joseantonioap",
+                "author": "joseantonioap",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153902697030877224.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10201258",
+                "authorLink": "https://www.inaturalist.org/people/achang",
+                "author": "achang",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153866280003174414.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Common morning glory 'Star of Yelta'",
+            "link": "/wiki/Ipomoea_purpurea__Star_of_Yelta_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory natives in Mexico and Central America and is commonly planted as an ornamental plant prized for its colorful trumpet-shaped flowers. It is naturalized in temperate and subtropical areas globally and in many places, always grown weedy and is considered to be invasive in many parts of the world.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common morning glory natives in Mexico and Central America and is commonly planted as an ornamental plant prized for its colorful trumpet-shaped flowers. It is naturalized in temperate and subtropical areas globally and in many places, always grown weedy and is considered to be invasive in many parts of the world.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common morning glory (<i>Ipomoea purpurea</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Morning glories",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ipomoea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Morning-glory",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Convolvulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.8 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 6 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801789075521540.jpeg",
+        "habitat": "Scrub, Waste places, Stream banks, Waste areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory is native from the southern US through much of South America, growing in forests, disturbed areas, and wastelands. It has been widely introduced in tropical and subtropical countries, along with much of the US and Canada. In the southern US, South Africa, Australia, and throughout the tropics, it is listed as an invasive and noxious weed.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 122.3820728, \"2\": 101.0575006, \"3\": 90.23430618, \"4\": 74.66991998, \"5\": 55.7288683, \"6\": 45.0, \"7\": 19.9996123, \"8\": 35.94800939, \"9\": 58.07737897, \"10\": 75.44563616, \"11\": 118.9904817, \"12\": 110.4159437}, \"flower_month\": 1}, \"Csa\": {\"trends\": {\"1\": 42.27502418, \"2\": 38.773759, \"3\": 42.64595483, \"4\": 27.43581197, \"5\": 13.60628137, \"6\": 12.0, \"7\": 9.208502246, \"8\": 9.545842143, \"9\": 14.53617321, \"10\": 15.6893496, \"11\": 33.67522695, \"12\": 32.27351646}, \"flower_month\": 3}, \"Default\": {\"trends\": {\"1\": 391.6285477, \"2\": 409.6237413, \"3\": 376.162428, \"4\": 272.418112, \"5\": 204.0770151, \"6\": 156.0, \"7\": 129.431138, \"8\": 156.0281216, \"9\": 269.7670876, \"10\": 293.2660907, \"11\": 367.7411352, \"12\": 324.5084775}, \"flower_month\": 2}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 60.58243347, \"2\": 48.33658623, \"3\": 74.80454537, \"4\": 108.4035461, \"5\": 109.3864912, \"6\": 126.7136463, \"7\": 106.9645339, \"8\": 131.4975773, \"9\": 127.3574112, \"10\": 147.0430932, \"11\": 128.0493196, \"12\": 70.0}, \"flower_month\": 10}, \"BWk\": {\"trends\": {\"1\": 1.671455546, \"2\": 3.738798296, \"3\": 8.216303471, \"4\": 15.17270065, \"5\": 29.45206929, \"6\": 28.00310824, \"7\": 31.16037473, \"8\": 40.19486422, \"9\": 29.31163787, \"10\": 21.53772179, \"11\": 5.953216374, \"12\": 5.0}, \"flower_month\": 8}, \"BSk\": {\"trends\": {\"1\": 20.08722114, \"2\": 26.06963733, \"3\": 35.33682774, \"4\": 80.55476993, \"5\": 114.5828724, \"6\": 147.0030222, \"7\": 167.4480552, \"8\": 183.1862061, \"9\": 178.9947267, \"10\": 97.19700894, \"11\": 41.24411337, \"12\": 25.0}, \"flower_month\": 8}, \"Csa\": {\"trends\": {\"1\": 13.08182516, \"2\": 19.37240501, \"3\": 41.14449356, \"4\": 73.0212148, \"5\": 118.8135205, \"6\": 147.3597427, \"7\": 145.014406, \"8\": 147.8907504, \"9\": 146.843962, \"10\": 113.3815285, \"11\": 34.69547305, \"12\": 23.0}, \"flower_month\": 8}, \"Csb\": {\"trends\": {\"1\": 15.3390325, \"2\": 4.638764376, \"3\": 17.88093489, \"4\": 25.50122804, \"5\": 45.16854557, \"6\": 54.96306359, \"7\": 55.56141458, \"8\": 62.47375889, \"9\": 50.74577994, \"10\": 38.76087408, \"11\": 19.50016271, \"12\": 11.0}, \"flower_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 38.8241948, \"2\": 110.4886337, \"3\": 218.3427548, \"4\": 323.9199276, \"5\": 530.1469762, \"6\": 643.4082338, \"7\": 627.1969447, \"8\": 665.8605623, \"9\": 625.167426, \"10\": 344.0175025, \"11\": 133.6014062, \"12\": 55.0}, \"flower_month\": 8}, \"Cfb\": {\"trends\": {\"1\": 47.67229144, \"2\": 45.3253703, \"3\": 80.96438671, \"4\": 99.07058832, \"5\": 167.4552057, \"6\": 240.1722702, \"7\": 228.9594217, \"8\": 240.2982348, \"9\": 214.086011, \"10\": 101.4003509, \"11\": 51.94061643, \"12\": 38.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 50.73505243, \"2\": 61.73182574, \"3\": 129.1587601, \"4\": 178.7936637, \"5\": 376.2844659, \"6\": 576.4723514, \"7\": 603.7636347, \"8\": 675.3863911, \"9\": 533.8868748, \"10\": 217.5544633, \"11\": 81.94761436, \"12\": 41.0}, \"flower_month\": 8}, \"Dfb\": {\"trends\": {\"1\": 19.80289442, \"2\": 23.89722418, \"3\": 63.532576, \"4\": 98.12192989, \"5\": 169.5986174, \"6\": 248.4932022, \"7\": 277.8132824, \"8\": 311.3402983, \"9\": 240.6662762, \"10\": 82.31615653, \"11\": 27.30344805, \"12\": 14.0}, \"flower_month\": 8}, \"Default\": {\"trends\": {\"1\": 432.9637802, \"2\": 513.0394544, \"3\": 882.8453796, \"4\": 1252.18881, \"5\": 2106.21995, \"6\": 2835.442778, \"7\": 2901.542847, \"8\": 3095.205458, \"9\": 2666.187083, \"10\": 1424.822567, \"11\": 757.1593588, \"12\": 469.0}, \"flower_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common morning glory is a popular ornamental garden climber with alluring flowers and heart-shaped foliage. The flowers open early, greeting the morning and closing in the afternoon, bringing charm to the garden. Traditionally, it is grown in cottage gardens and Mediterranean gardens, as well as non-traditional gardens such as hanging baskets and containers. It makes an attractive cover on trellises, arbors, fences, or nearby structures.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Fame, affectation",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common morning glory grows on the roadside, and grows well without special care and can produce beautiful flowers. Therefore, it symbolizes a tenacious and indomitable spirit.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common morning-glory",
+                "values": [
+                    "Any plants that are from Ipomoea genus are featured with trumpet-shaped flowers that are beautiful and colorful. The plant can't withstand the long cold night and often blossom during morning times. Every time after it blooms for two hours, the flower petals will curl outwards as if it is greeting everyone good morning. Hence, it is called common morning-glory."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory contains alkaloids that are poisonous to humans, causing <strong>vomiting and diarrhea</strong>. Children, dogs, and cats are most at risk, primarily through ingestion of the <strong>seeds</strong> containing high concentrations of toxic compounds. Symptoms in pets include gastrointestinal upset and lethargy. Immediate veterinary care is essential for affected animals.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ipomoea_purpurea.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   A vine plant that is native to Mexico and Central America, common morning glory is now found all over the world. However, on every continent besides South America, it is recognized as a noxious and/or invasive weed, and it is referred to as \"bindweed\" due to its aggressive entwining bind to anything it touches. Once established, it becomes nearly impossible to eradicate. Its roots spread widely and deeply, creating severe difficulty in removal. Common morning glory also chokes out any plants it gets a hold of, causing disaster in home gardens and wild ecosystems alike.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   For common morning glory, the best season and time to remove, restrict, or control the plant is during late spring or early summer, before it has a chance to flower and set seeds. Here are ways to manage common morning glory:\n  </div> \n  <ol> \n   <li>Hand pulling: Regularly inspect the garden for common morning glory seedlings and pull them out by hand, making sure to remove the root system to prevent regrowth.</li> \n   <li>Mulching: Lay a thick layer of organic mulch around desired plants, which will suppress common morning glory by blocking sunlight and smothering seedlings.</li> \n   <li>Barrier creation: Install garden edging or barriers to contain common morning glory within a specific area, preventing it from spreading into unwanted regions of your garden.</li> \n   <li>Pruning: If growing common morning glory intentionally, regularly prune the vines to prevent them from overtaking other plants and potentially becoming invasive.</li> \n   <li>Boiling water: Pour boiling water directly onto unwanted common morning glory plants to kill them without the use of chemicals. Caution is recommended to avoid harming nearby desirable vegetation.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped leaves with smooth margins and pointed apex, 3-6 inches (7.5-15 cm) long.",
+            "Vibrant, funnel-shaped flowers in colors like purple, blue, pink, 2-3 inches (5-7.5 cm) wide.",
+            "Distinctive globoid capsule fruit with dark, wedge-shaped seeds, 1/3 inch (8.5 mm) diameter.",
+            "Brown-purple twining stem with fine hairs, 0.25 inches (6 mm) thick, climbing habit.",
+            "Thrives in various soils, self-seeding, robust nature with rapid growth up to 6-10 feet (180-300 cm)."
+        ],
+        "title": "Quickly Identify Common morning glory",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ipomoea-purpurea.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory originates from tropical regions, thriving in high humidity and regular rainfall. It prefers consistent moisture, with weekly watering recommended. Benefiting from rainwater, common morning glory enhances its climbing growth on trellises and fences during peak growing seasons.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For healthy growth, fertilize common morning glory monthly with high phosphorus fertilizers to enhance root systems and blooms. Apply balanced, water-soluble fertilizers during the growing season, reducing frequency in fall and winter. Water thoroughly after fertilization to prevent root burn and promote even nutrient distribution.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory thrives with strategic pruning, ideally in early to late spring. Remove dead or diseased stems, control overgrowth, and encourage branching by cutting above a leaf node. This practice promotes healthier blooms, improves air circulation, and prevents unwanted spreading for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common morning glory is a vibrant climber with trumpet-shaped blooms. To grow common morning glory, sow seeds in well-draining soil, ensuring they receive light. Keep the soil moist but not waterlogged. Handle seedlings delicately and provide support such as trellises to promote natural growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Plant common morning glory in 7-8 cm pots and transplant to a medium-sized pot once leaves develop from seedlings. This ensures optimal growth and health for the plant during its early stages.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ipomoea_purpurea.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does common morning glory grow?",
+            "link": "/ask/Ipomoea_purpurea-0.html"
+        },
+        {
+            "q": "Is common morning glory a creeper or climber?",
+            "link": "/ask/Ipomoea_purpurea-1.html"
+        },
+        {
+            "q": "Can common morning glory grow in shade?",
+            "link": "/ask/Ipomoea_purpurea-2.html"
+        },
+        {
+            "q": "Can common morning glory be grown from cuttings?",
+            "link": "/ask/Ipomoea_purpurea-3.html"
+        },
+        {
+            "q": "Are common morning glory flowers poisonous?",
+            "link": "/ask/Ipomoea_purpurea-4.html"
+        },
+        {
+            "q": "Is common morning glory a perennial?",
+            "link": "/ask/Ipomoea_purpurea-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Ipomoea-purpurea-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ipomoea-purpurea-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Ipomoea-purpurea-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Ipomoea-purpurea-Wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ipomoea-purpurea-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Ipomoea-purpurea-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Ipomoea-purpurea-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Ipomoea-purpurea-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Ipomoea-purpurea-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Ipomoea-purpurea-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Ipomoea-purpurea-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Ipomoea-purpurea-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Ipomoea-purpurea-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Ipomoea-purpurea-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Ipomoea-purpurea-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Ipomoea-purpurea-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ipomoea-purpurea-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ipomoea-purpurea-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Ipomoea-purpurea-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Ipomoea-purpurea-Aphid.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Ipomoea-purpurea-Wounds.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Ipomoea-purpurea-Lack-of-fertilizer.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Punica granatum",
+                "link": "/wiki/Punica_granatum.html",
+                "imageUrl": "/wiki-image/1080/317736741356273664.jpeg",
+                "displayName": "Pomegranate"
+            },
+            {
+                "scientificName": "Cydonia oblonga",
+                "link": "/wiki/Cydonia_oblonga.html",
+                "imageUrl": "/wiki-image/1080/153440348096430103.jpeg",
+                "displayName": "Quince"
+            },
+            {
+                "scientificName": "Solanum tuberosum",
+                "link": "/wiki/Solanum_tuberosum.html",
+                "imageUrl": "/wiki-image/1080/317741933971734528.jpeg",
+                "displayName": "Potato"
+            },
+            {
+                "scientificName": "Ananas comosus",
+                "link": "/wiki/Ananas_comosus.html",
+                "imageUrl": "/wiki-image/1080/317755128111267840.jpeg",
+                "displayName": "Pineapple"
+            },
+            {
+                "scientificName": "Carica papaya",
+                "link": "/wiki/Carica_papaya.html",
+                "imageUrl": "/wiki-image/1080/317748866048950272.jpeg",
+                "displayName": "Papaya"
+            },
+            {
+                "scientificName": "Abelmoschus esculentus",
+                "link": "/wiki/Abelmoschus_esculentus.html",
+                "imageUrl": "/wiki-image/1080/153413427241418771.jpeg",
+                "displayName": "Okra"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Ipomoea_purpurea.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ipomoea_purpurea.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ipomoea_purpurea.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ipomoea_purpurea.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Ipomoea_purpurea.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Ipomoea_purpurea.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Ipomoea_purpurea.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Ipomoea_purpurea.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ipomoea_purpurea.html",
+            "values": [
+                "Care Common morning glory",
+                "Care Common morning glory",
+                "Grow Common morning glory",
+                "Maintain Common morning glory",
+                "Common morning glory Care",
+                "Common morning glory Grow",
+                "Common morning glory Maintain",
+                "Common morning glory Cares",
+                "Growth Common morning glory",
+                "Maintains Common morning glory",
+                "Common morning glory Growth",
+                "Common morning glory Maintains",
+                "Common morning glory Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ipomoea-purpurea-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ipomoea_purpurea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ipomoea_purpurea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Ipomoea_purpurea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Ipomoea_purpurea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Ipomoea_purpurea.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ipomoea_purpurea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ipomoea_purpurea.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Ipomoea_purpurea.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ipomoea_purpurea.html"
+        }
+    ]
+}

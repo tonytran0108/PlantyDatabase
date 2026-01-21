@@ -1,0 +1,868 @@
+{
+    "title": "Common hornbeam (Carpinus betulus) - PictureThis",
+    "displayName": "Common hornbeam",
+    "otherCommonName": "European hornbeam, Ironwood",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Michel VIARD",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347092692500905984.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10361675",
+                "authorLink": "https://www.inaturalist.org/people/milotictanja",
+                "author": "milotictanja",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152385491243630595.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7710235",
+                "authorLink": "https://www.inaturalist.org/people/conradaltmann",
+                "author": "conradaltmann",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153957294655143965.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "CC",
+                "referral": "https://en.wikipedia.org/wiki/File:Kwiatostan_grabu_pospolitego_(Carpinus_betulus_l.).jpg",
+                "authorLink": "",
+                "author": "Kwiatostan",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154057603616342050.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 332,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6244083",
+                "authorLink": "https://www.inaturalist.org/people/albertogirotto",
+                "author": "albertogirotto",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153734042255097897.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Common hornbeam 'Fastigiata'",
+            "link": "/wiki/Carpinus_betulus__Fastigiata_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common hornbeam (Carpinus betulus) is a deciduous small to medium-size tree that commonly grows in scree forests on mountainside cliffs. Common hornbeam often has a fluted and crooked trunk. The bark is smooth and greenish-grey, even in old trees. Common hornbeam is commonly planted as an ornamental tree in parks in northwestern Europe.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common hornbeam (Carpinus betulus) is a deciduous small to medium-size tree that commonly grows in scree forests on mountainside cliffs. Common hornbeam often has a fluted and crooked trunk. The bark is smooth and greenish-grey, even in old trees. Common hornbeam is commonly planted as an ornamental tree in parks in northwestern Europe.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common hornbeam (<i>Carpinus betulus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Hornbeams",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Carpinus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Birch",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Betulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Beeches, walnuts, and allied trees",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m to 18 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 12 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803597256753154.jpeg",
+        "habitat": "Woodlands and hedgerows on sandy or clay loams.",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common hornbeam naturally thrives in the broadleaf forests of Europe and portions of Western Asia. It has been introduced to various territories on the European continent's periphery and has acclimatized well enough to be considered cultivated in some regions beyond its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 150.0, \"2\": 117.0, \"3\": 131.0, \"4\": 98.0, \"5\": 111.0, \"6\": 102.0, \"7\": 83.0, \"8\": 138.0, \"9\": 191.0, \"10\": 237.0, \"11\": 143.0, \"12\": 139.0}, \"fruit_month\": 1, \"fall_foliage_month\": 3}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 15.06541585, \"2\": 10.73455655, \"3\": 31.31111319, \"4\": 42.07014691, \"5\": 24.82628902, \"6\": 16.08904045, \"7\": 12.39455851, \"8\": 21.40740305, \"9\": 32.71946617, \"10\": 47.25600434, \"11\": 38.55427989, \"12\": 21.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 277.5757614, \"2\": 262.2396424, \"3\": 452.711507, \"4\": 586.8453692, \"5\": 515.9430663, \"6\": 447.1084279, \"7\": 367.5103847, \"8\": 478.0670145, \"9\": 1076.841949, \"10\": 1649.783709, \"11\": 1272.545103, \"12\": 459.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Dfa\": {\"trends\": {\"1\": 16.64743908, \"2\": 16.07599629, \"3\": 24.21726751, \"4\": 24.53537257, \"5\": 14.72000731, \"6\": 11.76838082, \"7\": 14.03508027, \"8\": 17.83775554, \"9\": 16.23714054, \"10\": 29.90439359, \"11\": 26.77496311, \"12\": 29.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 187.3023763, \"2\": 196.2469016, \"3\": 241.332375, \"4\": 332.1223848, \"5\": 278.6018927, \"6\": 218.8124395, \"7\": 142.5062153, \"8\": 207.886295, \"9\": 544.7153265, \"10\": 1250.339093, \"11\": 892.9833597, \"12\": 368.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Default\": {\"trends\": {\"1\": 615.9857134, \"2\": 569.0913228, \"3\": 913.470851, \"4\": 1205.172703, \"5\": 1112.233614, \"6\": 931.4211413, \"7\": 713.0848766, \"8\": 997.3773705, \"9\": 1968.605429, \"10\": 3290.791171, \"11\": 2473.496734, \"12\": 991.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common hornbeam is an ornamental tree that may be used as a formal feature in gardens. It is more frequently used for screening or as wind or noise barriers, becoming attractive hedges and borders. It is valued for the red-hue of its autumnal leaves and for attracting wildlife.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Ornament",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "During the medieval era and even in Europe today, this tree has been a popular garden choice for pleaching. A topiary gardening technique, pleaching forms a wall of shade by growing trees together in an interwoven form. The branches will actually grow together as a result and form a natural graft.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive ovate leaves with serrated edges, 2-4 inches (5-10 cm) long, turning yellow in autumn.",
+            "Small nutlet fruit enclosed by a three-lobed leafy bract, less than 0.5 inches (1.27 cm) in diameter.",
+            "Male catkins are short and yellow, female catkins longer and green, essential for wind pollination.",
+            "Slender reddish-brown twigs with lighter lenticels, forming delicate branching patterns.",
+            "Smooth bark in youth, developing shallow furrows as it matures, distinctive fluted trunk texture."
+        ],
+        "title": "Quickly Identify Common hornbeam",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Carpinus-betulus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common hornbeam thrives in temperate regions, preferring moderate moisture and consistent humidity while being drought resilient. It typically requires watering every three weeks, with reduced needs during winter dormancy.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For common hornbeam, use balanced fertilizers during the growing season and high nitrogen ones before spring. Fertilize biannually; apply sparingly to avoid root burn. Adjust application based on seasons, using slow-release options. Always water after fertilization to enhance nutrient absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common hornbeam is a deciduous tree with dense foliage and attractive bark. Pruning involves removing dead wood, thinning for light penetration, and shaping for aesthetics, ideally done in early spring. This enhances air circulation, reduces disease risk, and promotes vigorous growth. Use clean, sharp tools for best results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common hornbeam, a durable deciduous hardwood native to Europe and Asia, requires seed stratification to break dormancy for successful propagation. Sow in well-draining, fertile soil with consistent moisture. Alternatively, consider softwood cuttings during active growth for increased success in propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Carpinus_betulus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Do common hornbeam trees lose their leaves?",
+            "link": "/ask/Carpinus_betulus-0.html"
+        },
+        {
+            "q": "How tall is common hornbeam?",
+            "link": "/ask/Carpinus_betulus-1.html"
+        },
+        {
+            "q": "Is common hornbeam wood a good firewood?",
+            "link": "/ask/Carpinus_betulus-2.html"
+        },
+        {
+            "q": "Is common hornbeam tolerant to cold?",
+            "link": "/ask/Carpinus_betulus-3.html"
+        },
+        {
+            "q": "What is common hornbeam good for?",
+            "link": "/ask/Carpinus_betulus-4.html"
+        },
+        {
+            "q": "When does common hornbeam bloom?",
+            "link": "/ask/Carpinus_betulus-5.html"
+        },
+        {
+            "q": "How long will a common hornbeam live?",
+            "link": "/ask/Carpinus_betulus-6.html"
+        },
+        {
+            "q": "How fast does common hornbeam grow?",
+            "link": "/ask/Carpinus_betulus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Carpinus-betulus-Lichen.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Carpinus-betulus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Carpinus-betulus-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Carpinus-betulus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Carpinus-betulus-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Carpinus-betulus-Weevil.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Carpinus-betulus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Carpinus-betulus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Carpinus-betulus-Moss.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Carpinus-betulus-Spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Carpinus-betulus-Wounds.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Carpinus-betulus-Aphid.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Carpinus-betulus-Thrips.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Carpinus-betulus-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Carpinus-betulus-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Borer",
+                "link": "/disease/Carpinus-betulus-Borer.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Carpinus-betulus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Carpinus-betulus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Carpinus-betulus-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Sapsucker damage",
+                "link": "/disease/Carpinus-betulus-Sapsucker-damage.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Carpinus-betulus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Carpinus-betulus-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Carpinus-betulus-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Carpinus-betulus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Carpinus-betulus-Scars.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Carpinus-betulus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Carpinus-betulus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Carpinus-betulus-Scale-insect.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Epipremnum aureum",
+                "link": "/wiki/Epipremnum_aureum.html",
+                "imageUrl": "/wiki-image/1080/153861190466928663.jpeg",
+                "displayName": "Golden pothos"
+            },
+            {
+                "scientificName": "Capsicum annuum",
+                "link": "/wiki/Capsicum_annuum.html",
+                "imageUrl": "/wiki-image/1080/317731389827022848.jpeg",
+                "displayName": "Pepper"
+            },
+            {
+                "scientificName": "Monstera deliciosa",
+                "link": "/wiki/Monstera_deliciosa.html",
+                "imageUrl": "/wiki-image/1080/347088479137988608.jpeg",
+                "displayName": "Swiss cheese plant"
+            },
+            {
+                "scientificName": "Sansevieria trifasciata",
+                "link": "/wiki/Sansevieria_trifasciata.html",
+                "imageUrl": "/wiki-image/1080/153936867790684172.jpeg",
+                "displayName": "Snake plant"
+            },
+            {
+                "scientificName": "Hydrangea macrophylla",
+                "link": "/wiki/Hydrangea_macrophylla.html",
+                "imageUrl": "/wiki-image/1080/154128268713263129.jpeg",
+                "displayName": "Bigleaf hydrangea"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Carpinus_betulus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Carpinus_betulus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Carpinus_betulus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Carpinus_betulus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Carpinus_betulus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Carpinus_betulus.html",
+            "values": [
+                "Care Common hornbeam",
+                "Care Common hornbeam",
+                "Grow Common hornbeam",
+                "Maintain Common hornbeam",
+                "Common hornbeam Care",
+                "Common hornbeam Grow",
+                "Common hornbeam Maintain",
+                "Common hornbeam Cares",
+                "Growth Common hornbeam",
+                "Maintains Common hornbeam",
+                "Common hornbeam Growth",
+                "Common hornbeam Maintains",
+                "Common hornbeam Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Carpinus-betulus-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Carpinus_betulus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Carpinus_betulus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Carpinus_betulus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Carpinus_betulus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Carpinus_betulus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Carpinus_betulus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Carpinus_betulus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Carpinus_betulus.html"
+        }
+    ]
+}

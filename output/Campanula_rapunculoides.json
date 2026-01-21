@@ -1,0 +1,845 @@
+{
+    "title": "Creeping bellflower (Campanula rapunculoides) - PictureThis",
+    "displayName": "Creeping bellflower",
+    "otherCommonName": "Garden bluebell, The evil twin",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154137292439552006.png"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 417,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9610570",
+                "authorLink": "https://www.inaturalist.org/people/connietaylor",
+                "author": "connietaylor",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153924674378530856.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24224925",
+                "authorLink": "https://www.inaturalist.org/people/nonenmac",
+                "author": "nonenmac",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153868577810677793.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2272,
+                "height": 1712,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Campanula_rapunculoides_Vuohenkello_C_VII08_H6208.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Anneli_Salo",
+                "author": "Anneli Salo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153850577602740240.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21754789",
+                "authorLink": "https://www.inaturalist.org/people/marykrieger",
+                "author": "marykrieger",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153971622666043404.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping bellflower (Campanula rapunculoides) is a perennial plant native to Europe and Siberia. Creeping bellflower grows in the wild in meadows, grassy areas, and forests and is considered an invasive species in Canada.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Creeping bellflower (Campanula rapunculoides) is a perennial plant native to Europe and Siberia. Creeping bellflower grows in the wild in meadows, grassy areas, and forests and is considered an invasive species in Canada.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Creeping bellflower (<i>Campanula rapunculoides</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Bellflowers",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Campanula.html"
+            },
+            {
+                "type": "Family",
+                "name": "Bellflower",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Campanulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Early fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251775574220275713.png",
+        "habitat": "Fields, Woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The creeping bellflower is native from Europe to temperate Central Asia, but it's been widely introduced to North America, South America, East Asia, Australia, and New Zealand. It naturally occurs in woodlands, grasslands, and disturbed areas. In North America, the creeping bellflower has escaped cultivation and became an invasive weed that vigorously spreads across disturbed areas, woodlands, prairies, and oak savannas.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "10",
+                "18",
+                "21",
+                "16",
+                "24",
+                "20",
+                "12",
+                "14",
+                "30",
+                "15",
+                "16",
+                "17"
+            ],
+            "north": [
+                "185",
+                "1052",
+                "16333",
+                "88180",
+                "71168",
+                "53843",
+                "19281",
+                "7414",
+                "3985",
+                "991",
+                "258",
+                "187"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Creeping bellflower has been used as a garden ornamental for its attractive flowers. This plant has a weedy, invasive nature and is not recommended to grow in gardens. It is known to choke out surrounding plant life and take over gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Unwavering love, gratitude, humility, attractiveness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Creeping bellflower is native to Europe, but became highly invasive when introduced into the United States. A single plant can produce 15,000 seeds, and it can also reproduce through its thick taproot, making this plant difficult to eradicate once it gets established.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Creeping bellflower",
+                "values": [
+                    "The genus name campanula holds the meaning of a small bell which is referring to the bell-shape of the flower. It reproduces through underground stems and it spreads by creeping through underground soil. Therefore, it is called a creeping bellflower."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping bellflower thrives in moist, humid conditions, requiring consistent weekly watering. As an herbaceous perennial, it benefits from natural rainfall outdoors, aligning with its need for steady hydration. Its growth cycle is adapted to seasonal precipitation, reinforcing its resilience in temperate gardens.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, creeping bellflower benefits from a 10-10-10 fertilizer applied every 4-6 weeks during the growing season. Adjust frequency in late summer to prep for dormancy. Use slow-release formulas, water thoroughly post-application, and avoid over-fertilization to prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping bellflower is a resilient perennial with blue-violet bell-shaped flowers, thriving with regular pruning. Optimal timing is early to late spring, post-frost. Remove dead stems to promote health and aesthetic appeal, while cutting spent flowers controls spread and encourages vigorous blooming.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping bellflower, a perennial native to Europe with vibrant purple flowers, thrives in gardens and propagates well from cuttings. Use healthy, vigorous non-flowering stems in a well-draining soil mix, maintaining moisture without waterlogging, and provide indirect light until roots develop.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Campanula_rapunculoides.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is creeping bellflower bad?",
+            "link": "/ask/Campanula_rapunculoides-0.html"
+        },
+        {
+            "q": "How do I get rid of creeping bellflower?",
+            "link": "/ask/Campanula_rapunculoides-1.html"
+        },
+        {
+            "q": "Does creeping bellflower spread fast?",
+            "link": "/ask/Campanula_rapunculoides-2.html"
+        },
+        {
+            "q": "Is creeping bellflower annual or perennial?",
+            "link": "/ask/Campanula_rapunculoides-3.html"
+        },
+        {
+            "q": "How tall is creeping bellflower?",
+            "link": "/ask/Campanula_rapunculoides-4.html"
+        },
+        {
+            "q": "Where is creeping bellflower native?",
+            "link": "/ask/Campanula_rapunculoides-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Campanula-rapunculoides-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Campanula-rapunculoides-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Campanula-rapunculoides-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Campanula-rapunculoides-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Campanula-rapunculoides-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Campanula-rapunculoides-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Campanula-rapunculoides-Underwatering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Campanula-rapunculoides-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Campanula-rapunculoides-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Campanula-rapunculoides-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Campanula-rapunculoides-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Campanula-rapunculoides-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Campanula-rapunculoides-Notch.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Campanula-rapunculoides-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Campanula-rapunculoides-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Campanula-rapunculoides-Spots.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Campanula-rapunculoides-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Campanula-rapunculoides-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Campanula-rapunculoides-Powdery-mildew.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Oplismenus hirtellus",
+                "link": "/wiki/Oplismenus_hirtellus.html",
+                "imageUrl": "/wiki-image/1080/153786582590029867.jpeg",
+                "displayName": "Basket Grass"
+            },
+            {
+                "scientificName": "Salix cinerea",
+                "link": "/wiki/Salix_cinerea.html",
+                "imageUrl": "/wiki-image/1080/157393899852136452.jpeg",
+                "displayName": "Grey willow"
+            },
+            {
+                "scientificName": "Tradescantia spathacea",
+                "link": "/wiki/Tradescantia_spathacea.html",
+                "imageUrl": "/wiki-image/1080/153723206052610076.jpeg",
+                "displayName": "Oyster plant"
+            },
+            {
+                "scientificName": "Ambrosia psilostachya",
+                "link": "/wiki/Ambrosia_psilostachya.html",
+                "imageUrl": "/wiki-image/1080/154132220083175457.jpeg",
+                "displayName": "Cuman ragweed"
+            },
+            {
+                "scientificName": "Bauhinia monandra",
+                "link": "/wiki/Bauhinia_monandra.html",
+                "imageUrl": "/wiki-image/1080/351936423473414144.jpeg",
+                "displayName": "Pink bauhinia"
+            },
+            {
+                "scientificName": "Brassica napus",
+                "link": "/wiki/Brassica_napus.html",
+                "imageUrl": "/wiki-image/1080/154065188528586761.jpeg",
+                "displayName": "Rutabaga"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Campanula_rapunculoides.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Campanula_rapunculoides.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Campanula_rapunculoides.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Campanula_rapunculoides.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Campanula_rapunculoides.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Campanula_rapunculoides.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Campanula_rapunculoides.html",
+            "values": [
+                "Care Creeping bellflower",
+                "Care Creeping bellflower",
+                "Grow Creeping bellflower",
+                "Maintain Creeping bellflower",
+                "Creeping bellflower Care",
+                "Creeping bellflower Grow",
+                "Creeping bellflower Maintain",
+                "Creeping bellflower Cares",
+                "Growth Creeping bellflower",
+                "Maintains Creeping bellflower",
+                "Creeping bellflower Growth",
+                "Creeping bellflower Maintains",
+                "Creeping bellflower Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Campanula-rapunculoides-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Campanula_rapunculoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Campanula_rapunculoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Campanula_rapunculoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Campanula_rapunculoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Campanula_rapunculoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Campanula_rapunculoides.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Campanula_rapunculoides.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Campanula_rapunculoides.html"
+        }
+    ]
+}

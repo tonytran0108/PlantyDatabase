@@ -1,0 +1,557 @@
+{
+    "title": "Green foxtail (Setaria viridis) - PictureThis",
+    "displayName": "Green foxtail",
+    "otherCommonName": "Bottlegrass, Pigeongrass",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153433720961892354.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/21097935",
+                "authorLink": "https://www.inaturalist.org/people/1029721",
+                "author": "Owen Strickland",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154068229365432357.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2288,
+                "height": 1712,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Setaria_viridis.JPG",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Don_Pedro28",
+                "author": "Petr Filippov",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153739599942778886.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/7597862",
+                "authorLink": "https://www.inaturalist.org/users/231709",
+                "author": "William Terry Hunefeld",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153466702015758336.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9482384",
+                "authorLink": "https://www.inaturalist.org/people/dagendresen",
+                "author": "dagendresen",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153774711300423695.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Green foxtail (Setaria viridis) is a summer annual grass that is considered a weed of crops, turf, landscapes and nurseries. It produces a seed head with fringed bristles that resembles a foxÃ¢ÂÂs tail. Grows in full sun and poor, disturbed soil types. Attracts a variety of insects and birds, as well as squirrels, mice and other small animals.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Green foxtail (Setaria viridis) is a summer annual grass that is considered a weed of crops, turf, landscapes and nurseries. It produces a seed head with fringed bristles that resembles a foxÃ¢ÂÂs tail. Grows in full sun and poor, disturbed soil types. Attracts a variety of insects and birds, as well as squirrels, mice and other small animals.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Green foxtail (<i>Setaria viridis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Bristle grasses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Setaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm to 3 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251741205891973121.png",
+        "habitat": "Dry places, cultivated ground, mountain slopes, roadsides, grassy waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Green foxtail's native range encompasses major regions across Eurasia and Northern Africa, including portions of the Mediterranean, Middle Asia, and East Asia. It has also been introduced across various continents, such as North and South America, Europe, and Oceania, where it has established itself in diverse environments.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "605",
+                "676",
+                "644",
+                "651",
+                "588",
+                "559",
+                "696",
+                "903",
+                "1068",
+                "781",
+                "624",
+                "676"
+            ],
+            "north": [
+                "3179",
+                "4165",
+                "9784",
+                "22543",
+                "49016",
+                "34255",
+                "25768",
+                "17505",
+                "11056",
+                "5812",
+                "2982",
+                "3044"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Psychic powers, Protection. It symbolizes food, concealment and hardiness.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Green foxtail is a common grass that is considered a weedy or invasive species everywhere outside of its native range (Eurasia). Outside its native range, this plant is almost never grown deliberately, as it has little economic or aesthetic value. Green foxtail is a hardy, generalist colonizer of disturbed or open habitats, including roadsides, vacant lots or fields, lawns, and gardens. Though it is not known to be toxic to people or foraging animals, in significant numbers, it can outcompete native grasses and forbs, lowering local biodiversity.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove 'green foxtail' is in late spring or early summer. It is crucial to remove the plant before it enters the seed-setting stage to prevent it from spreading seeds. Here are some methods to control this plant:\n  </div> \n  <ol> \n   <li>Hand Weeding: Wear gardening gloves and use a small gardening fork or trowel. Identify 'green foxtail' and loosen the soil around it. Gently pull out the entire plant, making sure not to break the root. Dispose of pulled weeds away from your garden.</li> \n   <li>Mulching: Layer organic mulch around your plants to prevent 'green foxtail' from sprouting. Mulch blocks sunlight and makes it harder for weeds to penetrate. Keep a thickness of about 2-3 inches and remember to replenish the mulch over time.</li> \n   <li>Solarisation: A great method to use in summer. Water the area infested with 'green foxtail', cover it with a transparent plastic sheet, and let it sit for 4-6 weeks. The heat produced by trapping sunlight will kill the weeds and their seeds.</li> \n   <li>Use a weed torch: Available in most garden stores, a weed torch can burn the weeds. Ensure to follow safety measures to prevent accidental fires. This method is suitable for patios and walkways with 'green foxtail'.</li> \n   <li>Plant competition: Planting dense ground covers or other desired plants can outcompete 'green foxtail'. Plant closely together to shade the soil and prevent 'green foxtail' from establishing.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Bristly bottlebrush-like inflorescence atop stem.",
+            "Spike-like flower panicle with dense spikelets and bristles.",
+            "Small, hard fruit grains with oval shape and light tan color.",
+            "Light green leaves with fine veins and drooping form.",
+            "Smooth, slender stem with minimal branching, adapting to varied conditions."
+        ],
+        "title": "Quickly Identify Green foxtail",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Setaria-viridis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Green foxtail originates from temperate regions and thrives in moderate moisture levels, tolerating brief dry spells. It requires weekly watering and should be carefully monitored during the growing season to prevent water stress, aligning with its native climate's balanced rainfall patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Green foxtail is easily propagated by sowing in Spring, with low difficulty. Successful germination is indicated by two small leaves. Proper spacing is crucial for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Setaria_viridis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is green foxtail annual or perennial?",
+            "link": "/ask/Setaria_viridis-0.html"
+        },
+        {
+            "q": "What do green foxtail symbolize?",
+            "link": "/ask/Setaria_viridis-1.html"
+        },
+        {
+            "q": "How does green foxtail spread?",
+            "link": "/ask/Setaria_viridis-2.html"
+        },
+        {
+            "q": "How tall is green foxtail?",
+            "link": "/ask/Setaria_viridis-3.html"
+        },
+        {
+            "q": "Where is green foxtail native?",
+            "link": "/ask/Setaria_viridis-4.html"
+        },
+        {
+            "q": "Is green foxtail tolerant to cold?",
+            "link": "/ask/Setaria_viridis-5.html"
+        },
+        {
+            "q": "Where does green foxtail grow?",
+            "link": "/ask/Setaria_viridis-6.html"
+        },
+        {
+            "q": "How long will a green foxtail live?",
+            "link": "/ask/Setaria_viridis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Albizia julibrissin",
+                "link": "/wiki/Albizia_julibrissin.html",
+                "imageUrl": "/wiki-image/1080/153431685147394061.jpeg",
+                "displayName": "Persian silk tree"
+            },
+            {
+                "scientificName": "Bidens pilosa",
+                "link": "/wiki/Bidens_pilosa.html",
+                "imageUrl": "/wiki-image/1080/153405498731790344.jpeg",
+                "displayName": "Hairy beggarticks"
+            },
+            {
+                "scientificName": "Kalanchoe delagoensis",
+                "link": "/wiki/Kalanchoe_delagoensis.html",
+                "imageUrl": "/wiki-image/1080/154165463130046475.jpeg",
+                "displayName": "Chandelier plant"
+            },
+            {
+                "scientificName": "Amaranthus blitum",
+                "link": "/wiki/Amaranthus_blitum.html",
+                "imageUrl": "/wiki-image/1080/152640423322451970.jpeg",
+                "displayName": "Purple amaranth"
+            },
+            {
+                "scientificName": "Acer palmatum",
+                "link": "/wiki/Acer_palmatum.html",
+                "imageUrl": "/wiki-image/1080/347099938110734336.jpeg",
+                "displayName": "Japanese maple"
+            },
+            {
+                "scientificName": "Euphorbia hirta",
+                "link": "/wiki/Euphorbia_hirta.html",
+                "imageUrl": "/wiki-image/1080/153936360984543269.jpeg",
+                "displayName": "Asthma-plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Setaria_viridis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Setaria_viridis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Setaria_viridis.html",
+            "values": [
+                "Care Green foxtail",
+                "Care Green foxtail",
+                "Grow Green foxtail",
+                "Maintain Green foxtail",
+                "Green foxtail Care",
+                "Green foxtail Grow",
+                "Green foxtail Maintain",
+                "Green foxtail Cares",
+                "Growth Green foxtail",
+                "Maintains Green foxtail",
+                "Green foxtail Growth",
+                "Green foxtail Maintains",
+                "Green foxtail Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Setaria_viridis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Setaria_viridis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Setaria_viridis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Setaria_viridis.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Setaria_viridis.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Setaria_viridis.html"
+        }
+    ]
+}

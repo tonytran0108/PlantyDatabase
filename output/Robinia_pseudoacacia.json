@@ -1,0 +1,963 @@
+{
+    "title": "Black locust (Robinia pseudoacacia) - PictureThis",
+    "displayName": "Black locust",
+    "otherCommonName": "Locust tree",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "mirceax",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347107484368273408.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7627782",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659022061338639.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20795723",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153669007860301853.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/28848620",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154199414846521365.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20795725",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153885830694305807.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a rapid growth rate, black locust experiences an explosive burst of development in spring, the primary growing season. This quick growth bolsters its leaf production and significantly enhances its overall height. During this period, black locust typically sprouts vigorous shoots, transforming in a noticeable manner. Variances in growth speed across different seasons are minor yet noteworthy, although it primarily thrives in spring. A fascinating example of adaptability, black locust personifies rapid botanical advancement during this time.",
+    "cultivars": [
+        {
+            "displayName": "Black locust 'Hillieri'",
+            "link": "/wiki/Robinia_ÃÂ_slavinii__Hillieri_.html"
+        },
+        {
+            "displayName": "Black locust 'Frisia'",
+            "link": "/wiki/Robinia_pseudoacacia__Frisia_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While the black locust may have a bad reputation in many areas of the US due to its opportunistic and rapid growth, there are benefits to this tree. The black locust is an important food source for honey bees and is a good choice for windbreaks since it grows so quickly (91 to 122 cm per year). Its wood also resists rot, so it is used in fenceposts. The plant is highly toxic, though, and should never be consumed.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While the black locust may have a bad reputation in many areas of the US due to its opportunistic and rapid growth, there are benefits to this tree. The black locust is an important food source for honey bees and is a good choice for windbreaks since it grows so quickly (91 to 122 cm per year). Its wood also resists rot, so it is used in fenceposts. The plant is highly toxic, though, and should never be consumed.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Black locust (<i>Robinia pseudoacacia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Locusts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Robinia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Legume Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fabaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Legumes, milkworts and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fabales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late fall, Winter, Early spring",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m to 30 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m to 15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.6 cm to 1.9 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806122697523201.jpeg",
+        "habitat": "Woods, thickets",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Although introduced to Europe as early as the 17th century, black locust is native to North America. It's a popularly-cultivated ornamental plant that has been distributed worldwide. In both its native range and elsewhere, it preferentially colonizes disturbed areas and grasslands, and it is thus considered a problematic plant, potentially invasive, in many countries around the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Csa\": {\"trends\": {\"1\": 42.81701167, \"2\": 35.19464278, \"3\": 45.3450659, \"4\": 36.82174765, \"5\": 40.8188441, \"6\": 11.0, \"7\": 11.0502027, \"8\": 17.62309319, \"9\": 38.76312856, \"10\": 58.14288381, \"11\": 47.88196331, \"12\": 57.6312794}, \"flower_month\": 10}, \"Default\": {\"trends\": {\"1\": 833.0, \"2\": 611.0, \"3\": 625.0, \"4\": 418.0, \"5\": 359.0, \"6\": 241.0, \"7\": 185.0, \"8\": 243.0, \"9\": 582.0, \"10\": 886.0, \"11\": 782.0, \"12\": 852.0}, \"flower_month\": 10}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 79.22318223, \"2\": 68.02926951, \"3\": 73.57824135, \"4\": 79.31966786, \"5\": 97.56092454, \"6\": 83.63100655, \"7\": 91.2344554, \"8\": 73.41275791, \"9\": 92.69684993, \"10\": 90.48805737, \"11\": 94.49156691, \"12\": 62.0}, \"flower_month\": 5}, \"BWk\": {\"trends\": {\"1\": 7.521549955, \"2\": 5.234317614, \"3\": 16.04135439, \"4\": 16.58411466, \"5\": 19.99388444, \"6\": 18.66873883, \"7\": 16.52444115, \"8\": 15.61527099, \"9\": 19.76831391, \"10\": 12.23734192, \"11\": 11.90643275, \"12\": 4.0}, \"flower_month\": 5}, \"BSk\": {\"trends\": {\"1\": 58.58772832, \"2\": 61.34032313, \"3\": 76.04127489, \"4\": 133.8595583, \"5\": 140.7312715, \"6\": 123.9702906, \"7\": 111.7940572, \"8\": 118.0465368, \"9\": 113.1708595, \"10\": 103.1040095, \"11\": 93.24756066, \"12\": 75.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 54.94366566, \"2\": 66.31323253, \"3\": 67.88841438, \"4\": 136.4832888, \"5\": 160.5891629, \"6\": 131.9062866, \"7\": 153.5446651, \"8\": 126.429032, \"9\": 122.4452729, \"10\": 120.018496, \"11\": 94.54516405, \"12\": 67.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 26.29548428, \"2\": 33.13403126, \"3\": 25.54419269, \"4\": 44.26284582, \"5\": 111.2572596, \"6\": 85.86121826, \"7\": 108.570538, \"8\": 106.8016127, \"9\": 88.63596229, \"10\": 63.0447952, \"11\": 43.06285931, \"12\": 40.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 224.0, \"2\": 268.0, \"3\": 388.0, \"4\": 841.0, \"5\": 2583.0, \"6\": 2195.0, \"7\": 1563.0, \"8\": 1660.0, \"9\": 1467.0, \"10\": 1298.0, \"11\": 662.0, \"12\": 226.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 1549.0, \"2\": 1908.0, \"3\": 3175.0, \"4\": 8771.0, \"5\": 18453.0, \"6\": 13331.0, \"7\": 9928.0, \"8\": 8643.0, \"9\": 7323.0, \"10\": 5629.0, \"11\": 2641.0, \"12\": 1290.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 293.0, \"2\": 361.0, \"3\": 733.0, \"4\": 2532.0, \"5\": 3115.0, \"6\": 2048.0, \"7\": 1457.0, \"8\": 1278.0, \"9\": 1109.0, \"10\": 684.0, \"11\": 317.0, \"12\": 196.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 355.0, \"2\": 569.0, \"3\": 855.0, \"4\": 2790.0, \"5\": 6872.0, \"6\": 4891.0, \"7\": 3701.0, \"8\": 3019.0, \"9\": 2183.0, \"10\": 1306.0, \"11\": 434.0, \"12\": 267.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 206.0, \"2\": 187.0, \"3\": 303.0, \"4\": 658.0, \"5\": 2413.0, \"6\": 1829.0, \"7\": 1304.0, \"8\": 1177.0, \"9\": 1334.0, \"10\": 1493.0, \"11\": 652.0, \"12\": 188.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "The black locust has a developed root system, which can conserve water and soil.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It can be used for construction, sleepers, vehicles and agricultural tools; its leaves contain crude proteins and can be used as fodder; its flowers are excellent honey plants, and oil extracted from its seeds are used as raw material for soap and paint.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The black locust is prized for its fragrant flowerheads and burgundy color. It is often chosen for planting in difficult areas where other trees may not grow as well, due to its suckering habit and resistance to pollution. Companion plants for the black locust may include the Blanket flower, Dwarf arborvitae, and Mock orange.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Strength, protection, health",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The black locust is considered a divine tree and worshipped. In his masterpiece \"The Golden Bough\", Frazer, a famous British anthropologist, explains why early humans worshipped trees and flowers: \"To the savage the world in general is animate, and trees and plants are no exception to the rule.\"",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Black locust",
+                "values": [
+                    "As the word \"locust\" from medieval English was used to describe the tree, it is still used to address the tree till this day. Furthermore, its bark appears to be black gray-colored. Therefore, it is often called the black locust."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   All parts of <strong>black locust</strong> are toxic to humans, with symptoms including stomach pain and diarrhea. <strong>Moderately toxic to cats and dogs</strong>, causing gastrointestinal upset and weakness. Prompt veterinary care is critical.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Robinia_pseudoacacia.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Fragrant white flowers in pendant racemes up to 8 inches long, with pea-like petals in a 'standard,' 'wings,' and 'keel' arrangement.",
+            "Smooth, elongated purple-brown pods, 2 to 4 inches long, containing 4 to 8 red-brown kidney-shaped seeds.",
+            "Dark blue-green pinnate leaves with up to 23 lance-shaped to ovate leaflets, creating a feather-like appearance.",
+            "Sturdy trunk with dark brown to gray deeply furrowed bark, scaly ridges, and branches with short paired spines.",
+            "Thick stems with grayish to dark brown color, featuring stout woody texture and branching pattern with short spines."
+        ],
+        "title": "Quickly Identify Black locust",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Robinia-pseudoacacia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from deciduous woodlands, black locust prefers moist, well-drained soil and should be watered every 1-2 weeks. Its deciduous nature allows it to shed leaves during dry seasons, conserving moisture and enhancing drought tolerance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Black locust requires balanced fertilizers in spring and high nitrogen before flowering. Monthly feeding promotes healthy growth and blooms, but over-fertilization is detrimental. Adjust formulas seasonally, use liquid fertilizers for beginners, and always water after feeding for optimal nutrient absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Black locust is a deciduous tree with fragrant white flowers and thorny branches. Prune in early spring to remove dead or crossing branches, enhancing air circulation and light. Regular pruning reduces suckers and pest risks, promoting structural integrity and an attractive shape.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Black locust is a fast-growing deciduous tree propagated from 6-8 inch hardwood cuttings of disease-free parent trees. Plant in well-draining soil and maintain moisture; bottom heat can improve rooting. Once established, black locust thrives with ample spacing, forming dense growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Robinia_pseudoacacia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How tall does black locust trees grow?",
+            "link": "/ask/Robinia_pseudoacacia-0.html"
+        },
+        {
+            "q": "Are black locust thorns poisonous to humans?",
+            "link": "/ask/Robinia_pseudoacacia-1.html"
+        },
+        {
+            "q": "What is black locust good for?",
+            "link": "/ask/Robinia_pseudoacacia-2.html"
+        },
+        {
+            "q": "Are black locust trees valuable?",
+            "link": "/ask/Robinia_pseudoacacia-3.html"
+        },
+        {
+            "q": "Where does black locust grow?",
+            "link": "/ask/Robinia_pseudoacacia-4.html"
+        },
+        {
+            "q": "How long does a black locust tree live?",
+            "link": "/ask/Robinia_pseudoacacia-5.html"
+        },
+        {
+            "q": "Is black locust a good firewood?",
+            "link": "/ask/Robinia_pseudoacacia-6.html"
+        },
+        {
+            "q": "Where is black locust found?",
+            "link": "/ask/Robinia_pseudoacacia-7.html"
+        },
+        {
+            "q": "What's the difference between black locust and honey locust?",
+            "link": "/ask/Robinia_pseudoacacia-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Robinia-pseudoacacia-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Robinia-pseudoacacia-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Robinia-pseudoacacia-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Robinia-pseudoacacia-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Robinia-pseudoacacia-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Robinia-pseudoacacia-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Robinia-pseudoacacia-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Robinia-pseudoacacia-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Robinia-pseudoacacia-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Robinia-pseudoacacia-Wounds.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Robinia-pseudoacacia-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Robinia-pseudoacacia-Aphid.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Robinia-pseudoacacia-Wilting.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Robinia-pseudoacacia-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Robinia-pseudoacacia-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Robinia-pseudoacacia-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Robinia-pseudoacacia-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Robinia-pseudoacacia-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Robinia-pseudoacacia-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Robinia-pseudoacacia-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Robinia-pseudoacacia-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Robinia-pseudoacacia-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Robinia-pseudoacacia-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Agave americana",
+                "link": "/wiki/Agave_americana.html",
+                "imageUrl": "/wiki-image/1080/154158934779756565.jpeg",
+                "displayName": "Century plant"
+            },
+            {
+                "scientificName": "Buxus sempervirens",
+                "link": "/wiki/Buxus_sempervirens.html",
+                "imageUrl": "/wiki-image/1080/154158767276032015.jpeg",
+                "displayName": "Common boxwood"
+            },
+            {
+                "scientificName": "Prunus serrulata",
+                "link": "/wiki/Prunus_serrulata.html",
+                "imageUrl": "/wiki-image/1080/153446429770121227.jpeg",
+                "displayName": "Japanese cherry"
+            },
+            {
+                "scientificName": "Spathiphyllum wallisii",
+                "link": "/wiki/Spathiphyllum_wallisii.html",
+                "imageUrl": "/wiki-image/1080/153421815312547857.jpeg",
+                "displayName": "Peace lily"
+            },
+            {
+                "scientificName": "Alocasia macrorrhizos",
+                "link": "/wiki/Alocasia_macrorrhizos.html",
+                "imageUrl": "/wiki-image/1080/201228653862977536.jpeg",
+                "displayName": "Giant taro"
+            },
+            {
+                "scientificName": "Coleus scutellarioides",
+                "link": "/wiki/Coleus_scutellarioides.html",
+                "imageUrl": "/wiki-image/1080/152432134588465153.jpeg",
+                "displayName": "Common coleus"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Robinia_pseudoacacia.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Robinia_pseudoacacia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Robinia_pseudoacacia.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Robinia_pseudoacacia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Robinia_pseudoacacia.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Robinia_pseudoacacia.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Robinia_pseudoacacia.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Robinia_pseudoacacia.html",
+            "values": [
+                "Care Black locust",
+                "Care Black locust",
+                "Grow Black locust",
+                "Maintain Black locust",
+                "Black locust Care",
+                "Black locust Grow",
+                "Black locust Maintain",
+                "Black locust Cares",
+                "Growth Black locust",
+                "Maintains Black locust",
+                "Black locust Growth",
+                "Black locust Maintains",
+                "Black locust Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Robinia-pseudoacacia-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Robinia_pseudoacacia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Robinia_pseudoacacia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Robinia_pseudoacacia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Robinia_pseudoacacia.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Robinia_pseudoacacia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Robinia_pseudoacacia.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Robinia_pseudoacacia.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Robinia_pseudoacacia.html"
+        }
+    ]
+}

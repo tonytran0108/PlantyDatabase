@@ -1,0 +1,966 @@
+{
+    "title": "Butter-and-eggs (Linaria vulgaris) - PictureThis",
+    "displayName": "Butter-and-eggs",
+    "otherCommonName": "Yellow toadflax, Flaxweed",
+    "mainImage": {
+        "copyright": {
+            "width": 1768,
+            "height": 1768,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/152531232368885762.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4975047",
+                "authorLink": "https://www.inaturalist.org/people/jordi_m_r",
+                "author": "jordi_m_r",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881127705116678.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4123561",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153953094177128467.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10331365",
+                "authorLink": "https://www.inaturalist.org/people/markchandler",
+                "author": "markchandler",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153945659588739085.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9864405",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153957651137429522.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs (Linaria vulgaris) is a flowering toadflax species native to Europe and Central Asia. The plant gets its unusual nickname from the yellow color of its flowers. The butter-and-eggs is mildly toxic for livestock to consume. Because of the curved, semi-closed shape of its flowers, it needs strong pollinators like bumblebees.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Butter-and-eggs (Linaria vulgaris) is a flowering toadflax species native to Europe and Central Asia. The plant gets its unusual nickname from the yellow color of its flowers. The butter-and-eggs is mildly toxic for livestock to consume. Because of the curved, semi-closed shape of its flowers, it needs strong pollinators like bumblebees.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Butter-and-eggs (<i>Linaria vulgaris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "wild snapdragon",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Linaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Plantain",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Plantaginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 80 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806285906280451.jpeg",
+        "habitat": "Hedgerows, ditches, dry banks, roadside verges, sandy and gravelly soils, chalk and limestone districts",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs is primarily native to regions of Europe and Asia and has been cultivated in various locations. This species has a widespread presence, introduced to continents including South America, Africa, and Oceania. In some major regions, such as North America, butter-and-eggs is sometimes thought to be invasive and may have an impact on local ecosystems. Its cultivation and introduced status indicate an adaptable plant that is able to thrive in diverse environments.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 33.96424573, \"2\": 26.3450954, \"3\": 33.85461852, \"4\": 31.75425846, \"5\": 32.17811856, \"6\": 27.0, \"7\": 43.77817903, \"8\": 31.20562432, \"9\": 40.26374442, \"10\": 28.58101731, \"11\": 58.72113935, \"12\": 53.32298926}, \"flower_month\": 11}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 8.369675474, \"2\": 6.900786352, \"3\": 25.04889055, \"4\": 23.18638778, \"5\": 35.55007066, \"6\": 56.2269624, \"7\": 58.8133953, \"8\": 62.99892898, \"9\": 39.6482943, \"10\": 17.18400158, \"11\": 20.62205669, \"12\": 16.0}, \"flower_month\": 8}, \"Csa\": {\"trends\": {\"1\": 26.16365032, \"2\": 15.64694251, \"3\": 27.56681069, \"4\": 26.55316902, \"5\": 28.07502848, \"6\": 20.69659308, \"7\": 21.14020752, \"8\": 14.82809635, \"9\": 14.45848241, \"10\": 13.27393504, \"11\": 13.87818922, \"12\": 6.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 17.53032285, \"2\": 13.91629313, \"3\": 36.12678681, \"4\": 63.20661522, \"5\": 76.78652746, \"6\": 77.09683785, \"7\": 71.85681179, \"8\": 61.95530446, \"9\": 60.89493592, \"10\": 26.61891353, \"11\": 17.06264237, \"12\": 8.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 27.25954103, \"2\": 46.41531645, \"3\": 52.70342357, \"4\": 72.57388701, \"5\": 104.9317283, \"6\": 116.9324529, \"7\": 110.1185475, \"8\": 91.83164676, \"9\": 73.4030954, \"10\": 58.28576794, \"11\": 37.40839374, \"12\": 26.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 43.05884388, \"2\": 27.19522218, \"3\": 67.18321451, \"4\": 105.7245831, \"5\": 126.6068118, \"6\": 129.6358778, \"7\": 191.2138902, \"8\": 191.2268058, \"9\": 160.297346, \"10\": 132.8344596, \"11\": 94.43748442, \"12\": 41.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 27.7457318, \"2\": 32.15199257, \"3\": 51.24233416, \"4\": 124.9416665, \"5\": 162.1254758, \"6\": 232.2472124, \"7\": 241.4033806, \"8\": 206.3583484, \"9\": 159.7056062, \"10\": 115.1319153, \"11\": 77.07943925, \"12\": 44.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 25.57873862, \"2\": 31.86296557, \"3\": 32.90896023, \"4\": 101.7393282, \"5\": 161.169942, \"6\": 214.2871214, \"7\": 314.731991, \"8\": 330.4169231, \"9\": 256.9826339, \"10\": 138.6377373, \"11\": 71.47079048, \"12\": 58.0}, \"flower_month\": 8}, \"Dfc\": {\"trends\": {\"1\": 0.0, \"2\": 0.0, \"3\": 2.009953, \"4\": 1.434632462, \"5\": 13.68448881, \"6\": 14.31254656, \"7\": 24.90759967, \"8\": 24.77561976, \"9\": 13.81101842, \"10\": 2.621142198, \"11\": 5.357406043, \"12\": 1.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 220.1100782, \"2\": 234.0989798, \"3\": 368.6399336, \"4\": 649.8077692, \"5\": 952.6611638, \"6\": 1207.985868, \"7\": 1426.412134, \"8\": 1295.779217, \"9\": 966.1130855, \"10\": 584.0733954, \"11\": 382.6857497, \"12\": 248.0}, \"flower_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Butter-and-eggs is a wildflower that, when cultivated, is highly suitable for cottage style, pollinator, or wildflower gardens. Gardeners love that it attracts a range of pollinators and has a long flowering period, providing color for months at a time.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Tenacity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Butter-and-eggs is a gardener's most unpopular flower in the courtyard because once its seeds take root, the tiny roots germinate and reproduce quickly, and are hard to remove.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Butter-and-eggs",
+                "values": [
+                    "The butter-and-eggs refers to certain plants whose flowers are of two shades of yellow. The flowers are featured with two parts which are the middle part and the surrounding part. The middle part of the flowers displays an egg yellow color while the surrounding petals display a butter yellow color, so it is called butter-and-eggs."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Linaria_vulgaris.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Popular in North America and Europe for its decorative orange and yellow flowers, butter-and-eggs is also considered a noxious weed in some areas as it is toxic to livestock and drains the soil of water and nutrients.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal time to manage butter-and-eggs is in the spring or early summer before it sets seed. Removing butter-and-eggs prior to seeding is crucial to prevent its spread.\n  </div> \n  <ol> \n   <li>Hand-pulling: Put on gloves, and firmly grasp the base of butter-and-eggs, pulling slowly to remove the entire root system.</li> \n   <li>Mulching: Lay a thick layer of organic mulch around desired plants to suppress butter-and-eggs growth by blocking sunlight.</li> \n   <li>Mowing: Regular mowing of the area can weaken butter-and-eggs if done before the plants flower and set seed.</li> \n   <li>Boiling water: Pour boiling water directly onto butter-and-eggs, taking care not to harm nearby desirable plants.</li> \n   <li>Plant competition: Cultivate vigorous plants that can out-compete butter-and-eggs for space, nutrients, and sunlight.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive yellow and orange snapdragon-like flowers bloom mid-summer to mid-fall.",
+            "Creeping rhizomes with roots extending up to 10 feet (3 meters) produce offshoots.",
+            "Thin, thread-like leaves with blue or gray-green hue.",
+            "Bright yellow, 1-inch (2.5 cm) flowers with orange throats in crowded raceme.",
+            "Fruit is a brown, globe-shaped capsule, 0.3 to 0.4 inches (7 to 10 mm) in diameter."
+        ],
+        "title": "Quickly Identify Butter-and-eggs",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Linaria-vulgaris.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs flourishes in temperate climates, requiring consistent moisture but tolerating brief dry spells. A weekly watering schedule ensures optimal hydration, crucial for flowering, as water availability directly affects bloom size and duration, particularly for outdoor specimens.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs thrives with balanced NPK fertilizers, particularly with light feeding in early spring and monthly during blooming. Avoid over-fertilization to prevent damage, and water after feeding. Stop fertilization in fall to help prepare butter-and-eggs for winter.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs produces vibrant yellow and orange flowers, resembling snapdragons. Prune in early to late spring by removing dead stems and cutting back overgrown areas to enhance growth and airflow. Regular pruning prevents invasiveness and promotes denser foliage. Use clean, sharp tools to minimize disease risk.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs propagates easily by sowing in spring, with new growth indicating success. For optimal growth, provide adequate moisture and well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Butter-and-eggs is a non-climbing perennial that needs repotting every 2-3 years. Early spring is ideal for repotting into a slightly larger pot. Afterward, maintain moist soil and provide plenty of sunlight for optimal recovery and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Linaria_vulgaris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What does butter-and-eggs symbolize?",
+            "link": "/ask/Linaria_vulgaris-0.html"
+        },
+        {
+            "q": "What is butter-and-eggs good for?",
+            "link": "/ask/Linaria_vulgaris-1.html"
+        },
+        {
+            "q": "Where did the butter-and-eggs come from?",
+            "link": "/ask/Linaria_vulgaris-2.html"
+        },
+        {
+            "q": "Is butter-and-eggs annual or perennial?",
+            "link": "/ask/Linaria_vulgaris-3.html"
+        },
+        {
+            "q": "What is the lowest temperature a butter-and-eggs can tolerate?",
+            "link": "/ask/Linaria_vulgaris-4.html"
+        },
+        {
+            "q": "How big is butter-and-eggs?",
+            "link": "/ask/Linaria_vulgaris-5.html"
+        },
+        {
+            "q": "When does butter-and-eggs bloom?",
+            "link": "/ask/Linaria_vulgaris-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Linaria-vulgaris-Spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Linaria-vulgaris-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Linaria-vulgaris-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Linaria-vulgaris-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Linaria-vulgaris-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Linaria-vulgaris-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Linaria-vulgaris-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Linaria-vulgaris-Mealybug.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Linaria-vulgaris-Wounds.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Linaria-vulgaris-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Linaria-vulgaris-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Linaria-vulgaris-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Linaria-vulgaris-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Linaria-vulgaris-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Linaria-vulgaris-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Linaria-vulgaris-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Linaria-vulgaris-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Linaria-vulgaris-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Linaria-vulgaris-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Linaria-vulgaris-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Linaria-vulgaris-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Linaria-vulgaris-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Linaria-vulgaris-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Linaria-vulgaris-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Linaria-vulgaris-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Tithonia diversifolia",
+                "link": "/wiki/Tithonia_diversifolia.html",
+                "imageUrl": "/wiki-image/1080/153403591766310927.jpeg",
+                "displayName": "Mexican sunflower"
+            },
+            {
+                "scientificName": "Mangifera indica",
+                "link": "/wiki/Mangifera_indica.html",
+                "imageUrl": "/wiki-image/1080/317750884683579392.jpeg",
+                "displayName": "Mango tree"
+            },
+            {
+                "scientificName": "Calyptocarpus vialis",
+                "link": "/wiki/Calyptocarpus_vialis.html",
+                "imageUrl": "/wiki-image/1080/201171036876668928.jpeg",
+                "displayName": "Straggler daisy"
+            },
+            {
+                "scientificName": "Kalanchoe pinnata",
+                "link": "/wiki/Kalanchoe_pinnata.html",
+                "imageUrl": "/wiki-image/1080/154095334904037403.jpeg",
+                "displayName": "Life plant"
+            },
+            {
+                "scientificName": "Rosa canina",
+                "link": "/wiki/Rosa_canina.html",
+                "imageUrl": "/wiki-image/1080/202648157734305792.jpeg",
+                "displayName": "Dog rose"
+            },
+            {
+                "scientificName": "Casuarina equisetifolia",
+                "link": "/wiki/Casuarina_equisetifolia.html",
+                "imageUrl": "/wiki-image/1080/153752098297610279.jpeg",
+                "displayName": "Beach sheoak"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Linaria_vulgaris.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Linaria_vulgaris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Linaria_vulgaris.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Linaria_vulgaris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Linaria_vulgaris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Linaria_vulgaris.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Linaria_vulgaris.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Linaria_vulgaris.html",
+            "values": [
+                "Care Butter-and-eggs",
+                "Care Butter-and-eggs",
+                "Grow Butter-and-eggs",
+                "Maintain Butter-and-eggs",
+                "Butter-and-eggs Care",
+                "Butter-and-eggs Grow",
+                "Butter-and-eggs Maintain",
+                "Butter-and-eggs Cares",
+                "Growth Butter-and-eggs",
+                "Maintains Butter-and-eggs",
+                "Butter-and-eggs Growth",
+                "Butter-and-eggs Maintains",
+                "Butter-and-eggs Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Linaria-vulgaris-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Linaria_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Linaria_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Linaria_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Linaria_vulgaris.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Linaria_vulgaris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Linaria_vulgaris.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Linaria_vulgaris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Linaria_vulgaris.html"
+        }
+    ]
+}

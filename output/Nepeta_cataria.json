@@ -1,0 +1,996 @@
+{
+    "title": "Catnip (Nepeta cataria) - PictureThis",
+    "displayName": "Catnip",
+    "otherCommonName": "Catwort",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201219591481982976.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21187057",
+                "authorLink": "https://www.inaturalist.org/people/birds_bugs_botany",
+                "author": "birds_bugs_botany",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884726887710739.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10982840",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153901803677679634.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13261753",
+                "authorLink": "https://www.inaturalist.org/people/ksandsman",
+                "author": "ksandsman",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153733964945686542.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/33658971",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153416154545651738.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Nepeta cataria is a herbaceous perennial plant commonly cultivated as a garden herb called catnip. It is commonly used to flavor herbal teas, juices, and soups. Catnip is widely known for its peculiar behavioral effect on cats, so people commonly use it as a toy stuffer or treat for their feline pets.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Nepeta cataria is a herbaceous perennial plant commonly cultivated as a garden herb called catnip. It is commonly used to flavor herbal teas, juices, and soups. Catnip is widely known for its peculiar behavioral effect on cats, so people commonly use it as a toy stuffer or treat for their feline pets.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Catnip (<i>Nepeta cataria</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Catnips",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Nepeta.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm to 4 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805555761840131.jpeg",
+        "habitat": "Roadsides, Streams, Hedgerows, Borders of fields, Dry banks and waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Catnip is native to Asia and Europe, growing in shady locations like forests. It is naturalized in North America, New Zealand, and northern Europe where it is an invasive weed in lawns and gardens.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 49.69830368, \"2\": 42.96933097, \"3\": 30.07810206, \"4\": 55.01994104, \"5\": 46.17534802, \"6\": 47.0, \"7\": 43.63551774, \"8\": 52.08793197, \"9\": 49.78061054, \"10\": 57.66202192, \"11\": 77.5739052, \"12\": 72.43848538}, \"flower_month\": 11}, \"Cfb\": {\"trends\": {\"1\": 40.94322784, \"2\": 48.60475471, \"3\": 48.04396096, \"4\": 34.73750392, \"5\": 30.73425167, \"6\": 26.0, \"7\": 26.36120383, \"8\": 21.04384749, \"9\": 30.98928221, \"10\": 41.86647193, \"11\": 49.61930908, \"12\": 49.56289737}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 182.9910382, \"2\": 176.7670917, \"3\": 156.48357, \"4\": 153.757462, \"5\": 132.9464372, \"6\": 122.0, \"7\": 114.2039453, \"8\": 115.46081, \"9\": 142.2652303, \"10\": 173.3500833, \"11\": 228.2784292, \"12\": 251.3798065}, \"flower_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 37.28149752, \"2\": 43.8609764, \"3\": 57.63628906, \"4\": 63.98453207, \"5\": 72.4315955, \"6\": 72.86034662, \"7\": 39.32519629, \"8\": 31.46261053, \"9\": 32.24238258, \"10\": 20.5012005, \"11\": 38.85634527, \"12\": 23.0}, \"flower_month\": 6}, \"BSk\": {\"trends\": {\"1\": 27.61992906, \"2\": 24.53612925, \"3\": 81.40889429, \"4\": 335.6050356, \"5\": 451.5740381, \"6\": 394.0968118, \"7\": 271.4651345, \"8\": 164.2253634, \"9\": 159.363047, \"10\": 116.5290107, \"11\": 43.93394685, \"12\": 34.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 26.16365032, \"2\": 40.23499502, \"3\": 56.77940112, \"4\": 74.61440494, \"5\": 90.28929158, \"6\": 76.99132627, \"7\": 55.26124422, \"8\": 29.26597963, \"9\": 34.79072331, \"10\": 21.57014445, \"11\": 36.4302467, \"12\": 30.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 22.64333369, \"2\": 41.74887939, \"3\": 67.50965212, \"4\": 126.4132304, \"5\": 133.4849386, \"6\": 133.5453896, \"7\": 96.20174256, \"8\": 69.73212092, \"9\": 67.99934511, \"10\": 49.50183919, \"11\": 60.12550168, \"12\": 31.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 154.4707325, \"2\": 312.7988717, \"3\": 425.0024847, \"4\": 516.0809743, \"5\": 574.3150014, \"6\": 525.7298003, \"7\": 339.6651817, \"8\": 193.3980971, \"9\": 157.0897162, \"10\": 161.7101381, \"11\": 225.9772357, \"12\": 148.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 102.2628401, \"2\": 185.8385171, \"3\": 505.0528689, \"4\": 1077.165767, \"5\": 1107.971527, \"6\": 932.8224889, \"7\": 612.1846829, \"8\": 373.3687066, \"9\": 352.6125297, \"10\": 357.7313083, \"11\": 331.0359075, \"12\": 135.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 34.65506523, \"2\": 44.17365681, \"3\": 133.0070476, \"4\": 424.3660424, \"5\": 493.7609177, \"6\": 386.2492088, \"7\": 310.6709331, \"8\": 214.9788863, \"9\": 183.5590242, \"10\": 111.7766757, \"11\": 89.13772745, \"12\": 62.0}, \"flower_month\": 5}, \"BWk\": {\"trends\": {\"1\": 3.0, \"2\": 5.0, \"3\": 45.0, \"4\": 192.0, \"5\": 257.0, \"6\": 156.0, \"7\": 61.0, \"8\": 40.0, \"9\": 30.0, \"10\": 17.0, \"11\": 15.0, \"12\": 3.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 57.0, \"2\": 128.0, \"3\": 664.0, \"4\": 1975.0, \"5\": 2474.0, \"6\": 1016.0, \"7\": 513.0, \"8\": 351.0, \"9\": 177.0, \"10\": 102.0, \"11\": 112.0, \"12\": 61.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 508.7525984, \"2\": 934.417618, \"3\": 1826.56361, \"4\": 3857.373892, \"5\": 4491.487107, \"6\": 3720.624391, \"7\": 2512.036594, \"8\": 1517.251685, \"9\": 1315.654, \"10\": 1064.28954, \"11\": 1001.881147, \"12\": 585.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Catnip (Nepeta cataria) is intensely aromatic, has interesting leaves, and pretty white flowers. It is best to grow this plant close to patios, or beside paths and walkways where its unique aroma can be appreciated. Catnip grows well with vegetables like radishes, beetroot, pumpkins, and tomatoes. It is a common bedding and border plant in Mediterranean, informal, and cottage gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, happiness, fertility",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Catnip has strong behavioral effects on domestic cats, but its effects are not limited to housecats. Catnip has also been shown to strongly and consistently effect cougars, leopards, servals, and lynxes. It has been observed to also affect lions and tigers, albeit not consistently. It has been also noted in behavioral studies that a minority of house cat breeds are immune to catnip, and that this trait is inherited.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Catmint",
+                "values": [
+                    "The leaves of the plant are wrinkled like mint leaves, but its odor can affect cat behavior. It attracts about two-thirds of cats strongly. This does not only affect domestic cats, but it also affects cat species like lions, tigers and others strongly. So it is called catmint."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The leaves and flowers of catnip can cause vomiting, diarrhea, and headache if consumed in large amounts. <strong>Catnip is especially toxic to cats</strong> and <strong>dogs</strong>. Poisoning usually occurs through accidental ingestion. Symptoms for dogs include gastrointestinal upset and central nervous system depression. Immediate veterinary care is essential if poisoning is suspected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Nepeta_cataria.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Square stem, typical of mint family, 2-3 feet (60-90 cm) tall.",
+            "Heart-shaped, coarse-toothed leaves, grey-green with visible veins.",
+            "Clusters of small, two-lipped, tubular flowers in dense whorls.",
+            "Delicate lavender to white flowers in spike-like racemes, emitting a strong fragrance.",
+            "Fine down covering entire plant, creating a soft texture."
+        ],
+        "title": "Quickly Identify Catnip",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Nepeta-cataria.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from dry grasslands, catnip thrives with minimal moisture and drought resistance. It prefers well-drained soil and should be watered weekly to avoid root rot. Typically grown outdoors, catnip flourishes in moderate moisture, mimicking its native habitat for optimal growth during its active season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For catnip, apply balanced fertilizer in spring for robust growth and flowering. Avoid over-fertilization, as it can harm catnip and reduce aroma. Fertilize every 4-6 weeks during growth, adjusting for dormancy. Always water after fertilizing to aid nutrient absorption and prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Catnip is a robust herb with aromatic leaves and attractive flowers. Prune in early to late spring by cutting back one-third of the plant to encourage bushy growth and prevent legginess. This practice promotes healthier foliage, extends blooming, deters invasive spreading, and rejuvenates the plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   A perennial herb from the mint family, catnip is propagated via stem cuttings for consistency. Use a healthy segment with nodes, remove lower leaves, and place in moist soil or water. Provide well-draining soil, partial to full sunlight, and ensure regular watering and light fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Catnip is a bushy herb that can reach 3 feet (0.9 m) in height. Repot every 2-3 years in spring using a medium pot with good drainage. Ensure well-drained soil and regular watering after repotting. It thrives in abundant sunlight and requires space to grow.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Nepeta_cataria.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is catmint the same as catnip?",
+            "link": "/ask/Nepeta_cataria-0.html"
+        },
+        {
+            "q": "Does catnip die in winter?",
+            "link": "/ask/Nepeta_cataria-1.html"
+        },
+        {
+            "q": "What does catnip actually do to cats?",
+            "link": "/ask/Nepeta_cataria-2.html"
+        },
+        {
+            "q": "Can catnip get you high?",
+            "link": "/ask/Nepeta_cataria-3.html"
+        },
+        {
+            "q": "What is special about catnip?",
+            "link": "/ask/Nepeta_cataria-4.html"
+        },
+        {
+            "q": "Can catnip make cats aggressive?",
+            "link": "/ask/Nepeta_cataria-5.html"
+        },
+        {
+            "q": "How long does a catnip high last?",
+            "link": "/ask/Nepeta_cataria-6.html"
+        },
+        {
+            "q": "Does catnip need full sun?",
+            "link": "/ask/Nepeta_cataria-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Nepeta-cataria-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Nepeta-cataria-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Nepeta-cataria-Spots.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Nepeta-cataria-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Nepeta-cataria-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Nepeta-cataria-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Nepeta-cataria-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Nepeta-cataria-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Nepeta-cataria-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Nepeta-cataria-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Nepeta-cataria-Mealybug.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Nepeta-cataria-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Nepeta-cataria-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Nepeta-cataria-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Nepeta-cataria-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Nepeta-cataria-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Nepeta-cataria-Black-mold.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Nepeta-cataria-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Nepeta-cataria-Underwatering.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Nepeta-cataria-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Nepeta-cataria-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Nepeta-cataria-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Nepeta-cataria-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Nepeta-cataria-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Convallaria majalis",
+                "link": "/wiki/Convallaria_majalis.html",
+                "imageUrl": "/wiki-image/1080/201175374793637888.jpeg",
+                "displayName": "Lily of the valley"
+            },
+            {
+                "scientificName": "Euphorbia tirucalli",
+                "link": "/wiki/Euphorbia_tirucalli.html",
+                "imageUrl": "/wiki-image/1080/154153102214168607.jpeg",
+                "displayName": "Pencil cactus"
+            },
+            {
+                "scientificName": "Hemerocallis fulva",
+                "link": "/wiki/Hemerocallis_fulva.html",
+                "imageUrl": "/wiki-image/1080/393494492670328832.jpeg",
+                "displayName": "Ditch lily"
+            },
+            {
+                "scientificName": "Euonymus europaeus",
+                "link": "/wiki/Euonymus_europaeus.html",
+                "imageUrl": "/wiki-image/1080/154185305878953999.jpeg",
+                "displayName": "European spindletree"
+            },
+            {
+                "scientificName": "Hemerocallis lilioasphodelus",
+                "link": "/wiki/Hemerocallis_lilioasphodelus.html",
+                "imageUrl": "/wiki-image/1080/154056826227261475.jpeg",
+                "displayName": "Yellow daylily"
+            },
+            {
+                "scientificName": "Euphorbia marginata",
+                "link": "/wiki/Euphorbia_marginata.html",
+                "imageUrl": "/wiki-image/1080/154087075681927188.jpeg",
+                "displayName": "Snow-on-the-mountain"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Nepeta_cataria.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Nepeta_cataria.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Nepeta_cataria.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Nepeta_cataria.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Nepeta_cataria.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Nepeta_cataria.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Nepeta_cataria.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Nepeta_cataria.html",
+            "values": [
+                "Care Catnip",
+                "Care Catnip",
+                "Grow Catnip",
+                "Maintain Catnip",
+                "Catnip Care",
+                "Catnip Grow",
+                "Catnip Maintain",
+                "Catnip Cares",
+                "Growth Catnip",
+                "Maintains Catnip",
+                "Catnip Growth",
+                "Catnip Maintains",
+                "Catnip Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Nepeta-cataria-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Nepeta_cataria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Nepeta_cataria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Nepeta_cataria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Nepeta_cataria.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Nepeta_cataria.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Nepeta_cataria.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Nepeta_cataria.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Nepeta_cataria.html"
+        }
+    ]
+}

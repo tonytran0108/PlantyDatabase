@@ -1,0 +1,968 @@
+{
+    "title": "Monstera obliqua - PictureThis",
+    "displayName": "Monstera obliqua",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201219256474533888.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 800,
+                "height": 450,
+                "copyrightType": "CC",
+                "referral": "https://zh.wikipedia.org/wiki/File:Window-Leaf_Monstera_(Monstera_obliqua)_2.jpg",
+                "authorLink": "",
+                "author": "Mokkie",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153899673373900822.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 415,
+                "height": 599,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Monstera_obliqua.jpg",
+                "authorLink": "",
+                "author": "Maja Dumat",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154140470715351059.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 800,
+                "height": 450,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Window-Leaf_Monstera_(Monstera_obliqua)_1.jpg",
+                "authorLink": "",
+                "author": "Mokkie",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/153812472652890125.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3648,
+                "height": 2736,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Starr-120522-6330-Monstera_obliqua-habit-Iao_Tropical_Gardens_of_Maui-Maui_(25143517225).jpg",
+                "authorLink": "",
+                "author": "Forest and Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/us/",
+                "license": "CC-BY-3.0-US"
+            },
+            "imageUrl": "/wiki-image/1080/152574212106616834.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Monstera Monkey Mask",
+            "link": "/wiki/Monstera__Monkey_Mask_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Monstera obliqua (Monstera obliqua) is a plant species native to Central and South America. Monstera obliqua is named for the holes in its leaves. This species is considered expensive to cultivate and is also considered a rare houseplant species. Monstera obliqua is often compared to similar species <em>Monstera adansonii</em>, which has leaves with a different shape and texture.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Monstera obliqua (Monstera obliqua) is a plant species native to Central and South America. Monstera obliqua is named for the holes in its leaves. This species is considered expensive to cultivate and is also considered a rare houseplant species. Monstera obliqua is often compared to similar species Monstera adansonii, which has leaves with a different shape and texture.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Monstera obliqua (<i>Monstera obliqua</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Monsteras",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Monstera.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   13 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 41 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800814117945346.jpeg",
+        "habitat": "Forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Monstera obliqua is indigenous to the tropical regions of South America and has also been introduced to other warm areas. It naturally occurs in the vast Amazon basin and extends to the northern parts of the continent. In cultivation, monstera obliqua has spread to various tropical and subtropical regions worldwide, thriving under human care outside of its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2913",
+                "3248",
+                "3319",
+                "3318",
+                "3128",
+                "2714",
+                "3403",
+                "3698",
+                "3791",
+                "2107",
+                "2244",
+                "3091"
+            ],
+            "north": [
+                "19918",
+                "23629",
+                "30794",
+                "33798",
+                "23581",
+                "10540",
+                "8922",
+                "5794",
+                "5731",
+                "4319",
+                "10668",
+                "17507"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Monstera obliqua is not often grown in outdoor gardens due to the fact that it grows extremely slowly, doesn't have a specific flowering season, and has very sensitive leaves that tend to yellow quite fast. However, this plant may attract some interest thanks to its large, often perforated, leaves and orange globose berries.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "A long life and the honouring of elders",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The swiss cheese vine is prized for its interesting and unusual foliage of perforated leaves. With more holes and empty space than the leaf itself, this type of development is called fenestration and occurs as the leaf grows. The holes are caused by cells dying in the leaves or ceasing to develop. The size and shape of the holes differs between species.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Monstera obliqua is toxic</strong> to humans, cats, and dogs if ingested or touched. <strong>Symptoms include</strong> burning, swelling, excessive salivation, stomachache, and difficulty breathing. In pets, it causes distress and gastrointestinal upset. Immediate veterinary care is crucial. Wear gloves when handling the plant and keep it out of reach of children and pets to prevent poisoning. Use caution with this popular houseplant. Monstera obliqua is toxic to cats.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Monstera_obliqua.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 41 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Monstera obliqua originates from tropical rainforests, thriving in high humidity and moist soil. It prefers balanced moisture levels, requiring weekly watering to sustain lush growth. Often grown indoors, consistent soil moisture is vital for its evergreen foliage health year-round.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal care of monstera obliqua, use high nitrogen fertilizers every 4-6 weeks during growth seasons and reduce application in winter. Apply at half-strength to prevent root burn, ensuring improved absorption by checking soil moisture prior to feeding for lush foliage and vigorous growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Monstera obliqua features perforated leaves and benefits from regular pruning. Trim dead or yellowing parts in early to late spring to enhance growth, airflow, and appearance while minimizing pest risks. Use sterilized tools to prevent infections during the process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Monstera obliqua features unique, perforated leaves and belongs to the Araceae family. Propagation via stem cuttings is successful using stems with nodes. Place cuttings in water or moist soil, keeping it evenly moist, and provide indirect light and warmth to encourage root growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot monstera obliqua annually in spring, selecting a pot 5-7.5 cm (2-3 inches) larger due to its rapid growth and aerial roots. After repotting, maintain high humidity and indirect light to reduce stress, promoting the flourishing of monstera obliqua's distinct fenestrated leaves.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Monstera_obliqua.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you care for monstera obliqua?",
+            "link": "/ask/Monstera_obliqua-0.html"
+        },
+        {
+            "q": "How do you grow monstera obliqua?",
+            "link": "/ask/Monstera_obliqua-1.html"
+        },
+        {
+            "q": "How do you prune a monstera obliqua?",
+            "link": "/ask/Monstera_obliqua-2.html"
+        },
+        {
+            "q": "What is the difference between monstera obliqua and Monstera Adansonii?",
+            "link": "/ask/Monstera_obliqua-3.html"
+        },
+        {
+            "q": "How do you propagate monstera obliqua?",
+            "link": "/ask/Monstera_obliqua-4.html"
+        },
+        {
+            "q": "Where is monstera obliqua native to?",
+            "link": "/ask/Monstera_obliqua-5.html"
+        },
+        {
+            "q": "How much does a monstera obliqua plant cost?",
+            "link": "/ask/Monstera_obliqua-6.html"
+        },
+        {
+            "q": "Should I mist my Monstera?",
+            "link": "/ask/Monstera_obliqua-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Monstera-obliqua-Thrips.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Monstera-obliqua-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Monstera-obliqua-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Monstera-obliqua-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Monstera-obliqua-Wilting.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Monstera-obliqua-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Monstera-obliqua-Notch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Monstera-obliqua-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Monstera-obliqua-Spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Monstera-obliqua-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Monstera-obliqua-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Monstera-obliqua-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Monstera-obliqua-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Monstera-obliqua-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Monstera-obliqua-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Monstera-obliqua-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Monstera-obliqua-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Monstera-obliqua-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Monstera-obliqua-Scars.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Monstera-obliqua-Wounds.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Monstera-obliqua-White-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Monstera-obliqua-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Monstera-obliqua-Leaf-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Quercus palustris",
+                "link": "/wiki/Quercus_palustris.html",
+                "imageUrl": "/wiki-image/1080/202645696718045184.jpeg",
+                "displayName": "Pin oak"
+            },
+            {
+                "scientificName": "Citrus aurantiifolia",
+                "link": "/wiki/Citrus_aurantiifolia.html",
+                "imageUrl": "/wiki-image/1080/154168710125322264.jpeg",
+                "displayName": "Key lime"
+            },
+            {
+                "scientificName": "Amaranthus cruentus",
+                "link": "/wiki/Amaranthus_cruentus.html",
+                "imageUrl": "/wiki-image/1080/154188016003317793.jpeg",
+                "displayName": "Red amaranth"
+            },
+            {
+                "scientificName": "Pelargonium graveolens",
+                "link": "/wiki/Pelargonium_graveolens.html",
+                "imageUrl": "/wiki-image/1080/153877120500629527.jpeg",
+                "displayName": "Rose geranium"
+            },
+            {
+                "scientificName": "Celastrus scandens",
+                "link": "/wiki/Celastrus_scandens.html",
+                "imageUrl": "/wiki-image/1080/153698849293074465.jpeg",
+                "displayName": "American bittersweet"
+            },
+            {
+                "scientificName": "Chaenomeles japonica",
+                "link": "/wiki/Chaenomeles_japonica.html",
+                "imageUrl": "/wiki-image/1080/201173411993583616.jpeg",
+                "displayName": "Japanese flowering quince"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Monstera_obliqua.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Monstera_obliqua.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Monstera_obliqua.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Monstera_obliqua.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Monstera_obliqua.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Monstera_obliqua.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Monstera_obliqua.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Monstera_obliqua.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Monstera_obliqua.html",
+            "values": [
+                "Care Monstera obliqua",
+                "Care Monstera obliqua",
+                "Grow Monstera obliqua",
+                "Maintain Monstera obliqua",
+                "Monstera obliqua Care",
+                "Monstera obliqua Grow",
+                "Monstera obliqua Maintain",
+                "Monstera obliqua Cares",
+                "Growth Monstera obliqua",
+                "Maintains Monstera obliqua",
+                "Monstera obliqua Growth",
+                "Monstera obliqua Maintains",
+                "Monstera obliqua Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Thrips.html",
+            "values": [
+                "Thrips"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-obliqua-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Monstera_obliqua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Monstera_obliqua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Monstera_obliqua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Monstera_obliqua.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Monstera_obliqua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Monstera_obliqua.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Monstera_obliqua.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Monstera_obliqua.html"
+        }
+    ]
+}

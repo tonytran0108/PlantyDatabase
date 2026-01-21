@@ -1,0 +1,698 @@
+{
+    "title": "Philodendron 'Birkin' - PictureThis",
+    "displayName": "Philodendron 'Birkin'",
+    "otherCommonName": "Philodendron 'White Wave'",
+    "mainImage": {
+        "copyright": {
+            "width": 1500,
+            "height": 1500,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Patcharamai Vutipapornkul",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/222005665534509056.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1500,
+                "height": 1500,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "Patcharamai Vutipapornkul",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/222005665534509056.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Philodendron 'Birkin' is a slow-growing, compact philodendron 'Birkin' cultivar. It is often used as a houseplant. It offers large, dark green leaves with streaks of cream-white. Each leaf has a slightly different pattern, adding to its dramatic look. A rare cultivar, philodendron 'Birkin' is considered to be somewhat of a collector's item among gardeners.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Philodendron 'Birkin' is a slow-growing, compact philodendron 'Birkin' cultivar. It is often used as a houseplant. It offers large, dark green leaves with streaks of cream-white. Each leaf has a slightly different pattern, adding to its dramatic look. A rare cultivar, philodendron 'Birkin' is considered to be somewhat of a collector's item among gardeners.",
+        "taxonomyList": [
+            {
+                "type": "Genus",
+                "name": "Philodendrons",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Philodendron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 35 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            }
+        ]
+    },
+    "distribution": {},
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Tree philodendrons are tropical foliage plants. Their huge leaves are thick, green and lustrous, and its petioles are strong. It has high ornamental value and looks full of vitality.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Philodendron 'Birkin' causes mild toxicity</strong> in humans, dogs, and cats primarily through ingestion due to its calcium oxalate content. Symptoms include oral irritation, pain, drooling, vomiting, and difficulty swallowing. <strong>Immediate veterinary care is essential</strong> for pets that have ingested philodendron 'Birkin'. Prevent accidental consumption to mitigate risks, especially for households with children and pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Philodendron__Birkin_.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Philodendron 'Birkin' is a tropical plant that prefers humid conditions and a balanced moisture level, requiring weekly watering. As an evergreen, it retains its foliage all year, helping it conserve water during dry spells. It has moderate drought tolerance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize philodendron 'Birkin' bi-weekly during growth seasons using half the manufacturer's recommended dose of balanced, water-soluble fertilizer to prevent root burn. In winter, reduce to monthly. Water soil after application and avoid leaf contact. Caution against over-fertilization, evident from salt buildup and leaf burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Philodendron 'Birkin' features striking white-striped foliage. Prune in early to late spring to foster growth and shape. Remove yellowing leaves, trim leggy stems, and sterilize tools. Avoid over-pruning to reduce stress, enhancing air circulation and light penetration for overall vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagating philodendron 'Birkin' involves cutting a healthy stem with leaves and a node. Trim below the node, use rooting hormone, and plant in moist potting mix. Maintain humidity and soil moisture. Roots develop in a few weeks, after which acclimatization to lower humidity can begin.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Philodendron__Birkin_.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is the philodendron 'Birkin' rare?",
+            "link": "/ask/Philodendron__Birkin_-0.html"
+        },
+        {
+            "q": "How do you care for aphilodendron 'Birkin'?",
+            "link": "/ask/Philodendron__Birkin_-1.html"
+        },
+        {
+            "q": "Does philodendron 'Birkin' need a lot of light?",
+            "link": "/ask/Philodendron__Birkin_-2.html"
+        },
+        {
+            "q": "How big does a philodendron 'Birkin' get?",
+            "link": "/ask/Philodendron__Birkin_-3.html"
+        },
+        {
+            "q": "Is philodendron 'Birkin' a hanging plant?",
+            "link": "/ask/Philodendron__Birkin_-4.html"
+        },
+        {
+            "q": "Can philodendron 'Birkin' live in water?",
+            "link": "/ask/Philodendron__Birkin_-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Philodendron--Birkin--Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Philodendron--Birkin--Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Philodendron--Birkin--Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Philodendron--Birkin--Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Philodendron--Birkin--Aerial-root.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Philodendron--Birkin--Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Philodendron--Birkin--Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Philodendron--Birkin--Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Philodendron--Birkin--Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Philodendron--Birkin--Black-mold.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Philodendron--Birkin--Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Philodendron--Birkin--Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Philodendron--Birkin--Mealybug.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Philodendron--Birkin--Spots.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Philodendron--Birkin--White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Philodendron--Birkin--Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Philodendron--Birkin--Scars.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Philodendron--Birkin--Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Philodendron--Birkin--Scale-insect.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {},
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Philodendron__Birkin_.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Philodendron__Birkin_.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Philodendron__Birkin_.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Philodendron__Birkin_.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Philodendron__Birkin_.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Philodendron__Birkin_.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Philodendron__Birkin_.html",
+            "values": [
+                "Care Philodendron 'Birkin'",
+                "Care Philodendron 'Birkin'",
+                "Grow Philodendron 'Birkin'",
+                "Maintain Philodendron 'Birkin'",
+                "Philodendron 'Birkin' Care",
+                "Philodendron 'Birkin' Grow",
+                "Philodendron 'Birkin' Maintain",
+                "Philodendron 'Birkin' Cares",
+                "Growth Philodendron 'Birkin'",
+                "Maintains Philodendron 'Birkin'",
+                "Philodendron 'Birkin' Growth",
+                "Philodendron 'Birkin' Maintains",
+                "Philodendron 'Birkin' Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron--Birkin--Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Philodendron__Birkin_.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Philodendron__Birkin_.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Philodendron__Birkin_.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Philodendron__Birkin_.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Philodendron__Birkin_.html"
+        }
+    ]
+}

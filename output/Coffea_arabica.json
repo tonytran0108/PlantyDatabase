@@ -1,0 +1,1037 @@
+{
+    "title": "Arabian coffee (Coffea arabica) - PictureThis",
+    "displayName": "Arabian coffee",
+    "otherCommonName": "Coffee Plant , Coffee, Coffee shrub of arabia",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Joao Bento da Silva",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348107034927202304.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1008428",
+                "authorLink": "https://www.inaturalist.org/people/clauss",
+                "author": "clauss",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662707143278605.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20348639",
+                "authorLink": "https://www.inaturalist.org/people/greg3ph",
+                "author": "greg3ph",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153955314675220514.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1620,
+                "height": 1080,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/153745625781895188.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13162683",
+                "authorLink": "https://www.inaturalist.org/people/vet-adrianh-orozco",
+                "author": "vet-adrianh-orozco",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153805506215936033.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Arabian coffee (Coffea arabica) is a broadleaf evergreen species native to Ethiopia. Arabian coffee has been cultivated on the Arabian Peninsula for over 1,000 years. This species is currently commercially grown in tropical and subtropical regions all over the planet. The plant is aromatic and smells like jasmine.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Arabian coffee (Coffea arabica) is a broadleaf evergreen species native to Ethiopia. Arabian coffee has been cultivated on the Arabian Peninsula for over 1,000 years. This species is currently commercially grown in tropical and subtropical regions all over the planet. The plant is aromatic and smells like jasmine.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Arabian coffee (<i>Coffea arabica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Coffee",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Coffea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Madder",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rubiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gentians, dogbanes, madders, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Gentianales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 m to 8 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 m to 4.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 mm to 1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288813662785536000.jpeg",
+        "habitat": "Assorted islands, rainforests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Arabian coffee is native to Sudan, Ethiopia, and Kenya but has also been naturalized extensively in South America, Mexico, china and Southeast Asia. Its native ecosystem is the Ethiopian highlands and in forest understoreys.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1668",
+                "1786",
+                "1880",
+                "1891",
+                "1773",
+                "1682",
+                "1826",
+                "2637",
+                "2528",
+                "2161",
+                "1428",
+                "1788"
+            ],
+            "north": [
+                "12169",
+                "14208",
+                "17473",
+                "18602",
+                "18052",
+                "15790",
+                "16122",
+                "14600",
+                "13830",
+                "11748",
+                "8892",
+                "12744"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Coffee can be made into drinks, and its peels and pulps into alcohol or feed.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Arabian coffee is the most commonly grown coffee bean around the world. For landscaping, it is often used to add a tropical feel without taking up too much space since it doesn't grow very large. It is used to add appealing color to a garden and for its coffee beans. It can be found in botanical gardens and in the sunny spots of hobby gardens. Its companion plants include azaleas, carrots, and radishes, which thrive in the same soil and can be boosted by the acid of this plant.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Addiction",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, a shepherd found that a flock of sheep became very excited after eating a kind of red fruit. He was curious and tasted. He found the fruit sweet and delicious. After eating it, he also gained energy. Gradually, arabian coffee began to spread.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Arabian coffee",
+                "values": [
+                    "This plant got its botanical name around the 7th century when this coffee bean crossed the Red Sea from Ethiopia to Yemen and lower Arabia. Therefore, the term arabica is given to the plant as its specific epithet and it is commonly called Arabian coffee."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Cats and dogs can be <strong>poisoned by ingesting the seeds of arabian coffee</strong>, which causes symptoms like vomiting, diarrhea, and seizures in severe cases. Pet owners must <strong>monitor and prevent access</strong> to arabian coffee, seeking immediate veterinary care if poisoning is suspected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Coffea_arabica.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Fragrant star-shaped white flowers with 5-lobed tubular shape.",
+            "Glossy dark green elliptic leaves with wavy margins, prominent veins.",
+            "Clusters of green berries ripen to deep red, containing fleshy exterior and two seeds.",
+            "Upright trunk reaching 4-6 inches (10-15 cm) in diameter, with fissured grayish-brown bark.",
+            "Distinctive fragrance resembling jasmine, making it easily identifiable."
+        ],
+        "title": "Quickly Identify Arabian coffee",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Coffea-arabica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Arabian coffee thrives in consistently moist, humid environments reminiscent of tropical rainforests. Preferably watered every 1-2 weeks, it requires lightly moist soil. As an evergreen sensitive to cold, misting is beneficial for maintaining humidity levels indoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For arabian coffee, apply high nitrogen fertilizer monthly during the growing season for strong growth and flowering. Moderation is essential to prevent root burn. Adjust application in cooler months, incorporate in moist soil, and irrigate post-application for effective nutrient absorption. Consistent care ensures arabian coffee's vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Arabian coffee features glossy dark green leaves and fragrant white flowers, yielding red berries. Prune in winter for denser foliage and air circulation. Start with dead branches, then thin overcrowding. Clean tools to prevent disease. Regular pruning promotes size control and enhances berry production.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Arabian coffee propagates best in Spring and Summer using cuttings, though it can be challenging. Indicators of successful propagation include new leaf growth and root development. Maintaining a consistent, warm temperature enhances the chances of success.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot arabian coffee every 2-3 years in spring using a medium-sized pot for its roots. Post-repotting, provide indirect light and maintain consistent moisture without over-watering. Ensure the pot has good drainage to promote lush growth and potential flowering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Coffea_arabica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a arabian coffee?",
+            "link": "/ask/Coffea_arabica-0.html"
+        },
+        {
+            "q": "Does arabian coffee have caffeine?",
+            "link": "/ask/Coffea_arabica-1.html"
+        },
+        {
+            "q": "How does arabian coffee taste?",
+            "link": "/ask/Coffea_arabica-2.html"
+        },
+        {
+            "q": "What is arabian coffee used for?",
+            "link": "/ask/Coffea_arabica-3.html"
+        },
+        {
+            "q": "Is arabian coffee Arabian?",
+            "link": "/ask/Coffea_arabica-4.html"
+        },
+        {
+            "q": "Why is it called arabian coffee?",
+            "link": "/ask/Coffea_arabica-5.html"
+        },
+        {
+            "q": "Why is arabian coffee yellow?",
+            "link": "/ask/Coffea_arabica-6.html"
+        },
+        {
+            "q": "How big is arabian coffee?",
+            "link": "/ask/Coffea_arabica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Coffea-arabica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Coffea-arabica-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Coffea-arabica-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Coffea-arabica-Wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Coffea-arabica-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Coffea-arabica-Mealybug.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Coffea-arabica-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Coffea-arabica-Black-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Coffea-arabica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Coffea-arabica-Scars.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Coffea-arabica-Notch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Coffea-arabica-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Coffea-arabica-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Coffea-arabica-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Coffea-arabica-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Coffea-arabica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Coffea-arabica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Coffea-arabica-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Coffea-arabica-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf veins yellowing",
+                "link": "/disease/Coffea-arabica-Leaf-veins-yellowing.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Coffea-arabica-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Coffea-arabica-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Coffea-arabica-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Coffea-arabica-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Portulaca oleracea",
+                "link": "/wiki/Portulaca_oleracea.html",
+                "imageUrl": "/wiki-image/1080/201222563599351808.jpeg",
+                "displayName": "Common purslane"
+            },
+            {
+                "scientificName": "Wisteria sinensis",
+                "link": "/wiki/Wisteria_sinensis.html",
+                "imageUrl": "/wiki-image/1080/153835669771255828.jpeg",
+                "displayName": "Chinese wisteria"
+            },
+            {
+                "scientificName": "Lantana camara",
+                "link": "/wiki/Lantana_camara.html",
+                "imageUrl": "/wiki-image/1080/201214725284036608.jpeg",
+                "displayName": "Common lantana"
+            },
+            {
+                "scientificName": "Croton monanthogynus",
+                "link": "/wiki/Croton_monanthogynus.html",
+                "imageUrl": "/wiki-image/1080/153952016140337166.jpeg",
+                "displayName": "Prairie Tea"
+            },
+            {
+                "scientificName": "Prunus laurocerasus",
+                "link": "/wiki/Prunus_laurocerasus.html",
+                "imageUrl": "/wiki-image/1080/202644562846679040.jpeg",
+                "displayName": "Cherry laurel"
+            },
+            {
+                "scientificName": "Allamanda cathartica",
+                "link": "/wiki/Allamanda_cathartica.html",
+                "imageUrl": "/wiki-image/1080/201161892891262976.jpeg",
+                "displayName": "Golden trumpet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Coffea_arabica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Coffea_arabica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Coffea_arabica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Coffea_arabica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Coffea_arabica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Coffea_arabica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Coffea_arabica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Coffea_arabica.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Coffea_arabica.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Coffea_arabica.html",
+            "values": [
+                "Care Arabian coffee",
+                "Care Arabian coffee",
+                "Grow Arabian coffee",
+                "Maintain Arabian coffee",
+                "Arabian coffee Care",
+                "Arabian coffee Grow",
+                "Arabian coffee Maintain",
+                "Arabian coffee Cares",
+                "Growth Arabian coffee",
+                "Maintains Arabian coffee",
+                "Arabian coffee Growth",
+                "Arabian coffee Maintains",
+                "Arabian coffee Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Coffea-arabica-Leaf-veins-yellowing.html",
+            "values": [
+                "Leaf veins yellowing"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Coffea_arabica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Coffea_arabica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Coffea_arabica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Coffea_arabica.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Coffea_arabica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Coffea_arabica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Coffea_arabica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Coffea_arabica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Coffea_arabica.html"
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "title": "Bitter dock (Rumex obtusifolius) - PictureThis",
+    "displayName": "Bitter dock",
+    "otherCommonName": "Dock Leaf, Broad-leaved dock, Round-leaved dock",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202696948562788352.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7009082",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654344841953287.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/37226283",
+                "authorLink": "https://www.inaturalist.org/people/damonsalveo",
+                "author": "damonsalveo",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153658115823239202.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9497893",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153666933391097895.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 822,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/32691224",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154189961623502849.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Bitter dock (Rumex obtusifolius) grows wild in shady, temperate areas around the world. Its leaves and stems are edible when young, as are the seeds. It was used in Medieval European folk medicine, and the roots can be used to make yellow dye.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Bitter dock (Rumex obtusifolius) grows wild in shady, temperate areas around the world. Its leaves and stems are edible when young, as are the seeds. It was used in Medieval European folk medicine, and the roots can be used to make yellow dye.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Bitter dock (<i>Rumex obtusifolius</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Docks",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rumex.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckwheat",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Polygonaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736090585923587.png",
+        "habitat": "Waste ground, hedgerows, field margins",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Bitter dock is native to Europe, Eurasia, and parts of the Middle East, including Iran. It has become naturalized over most of North and South America and in parts of East Asia. It grows extensively in grasslands, fields, and agricultural areas, which have made it an invasive nuisance in both its native and introduced ranges.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "491",
+                "560",
+                "637",
+                "620",
+                "563",
+                "560",
+                "768",
+                "1046",
+                "989",
+                "965",
+                "609",
+                "621"
+            ],
+            "north": [
+                "5352",
+                "14644",
+                "47523",
+                "86392",
+                "70987",
+                "36399",
+                "25901",
+                "21335",
+                "14604",
+                "6209",
+                "2743",
+                "3145"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Bitter dock is cultivated in woodland and butterfly gardens, providing nutrition for the larvae of moths and butterflies. Plant it in your garden or hedgerows to make your garden space more pollinator-friendly. It will also do well as ground cover in meadow gardens and settings with partially shaded areas.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Healing, Fertility, Money, Cleansing",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Bitter dock grows in the wild in the United Kingdom in close proximity to *Urtica dioica*, or stinging nettles. Stinging nettles have long needles that inject histamine into the skin, causing an itching feeling of irritation. In the United Kingdom, people historically squeezed the underside of the bitter dock leaves onto their irritated skin after contact with stinging nettles, forming a natural remedy.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bitter dock",
+                "values": [
+                    "This plant has a bitter rootstocks. The word, dock can be used as a common name for grass weeds. Generally, those plants with dock in it are usually grass weed. Rumex obtusifolius has been listed as harmful weed, so it is called bitter dock."
+                ]
+            },
+            {
+                "key": "Broad-leaved dock||Round-leaved dock||Blunt-leaved rock||Butter dock",
+                "values": [
+                    "This plant is given many names that are based on the characteristics of their leaves. For example, if the leaves are especially huge, it can reach a length of 41 cm in which it is called the broad-leaved dock; if the leaves are huge and oval-shaped, it is called the round-leaved dock. As obtusifolius means \"obtuse-leaved\", it is then called blunt-leaved rock. In the 19th century, its leaves were used to wrap butter. Hence, it was called butter dock."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Bitter dock contains oxalic acid</strong> and is toxic to humans, dogs, and cats if ingested. Symptoms include vomiting, stomach pain, and seizures. <strong>The plant's sap</strong> can cause skin rashes. Prevent pets from chewing bitter dock and seek immediate veterinary care if ingested to ensure their safety and well-being. All parts of bitter dock are toxic to animals and humans.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Rumex_obtusifolius.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Bitter dock is native to Eurasia, but it has been introduced to all continents. A cause for concern is that the weed thrives in a range of different temperature zones: temperate regions and even the Arctic Circle! Bitter dock is a very hardy plant with high seed production. The seeds can remain viable for a long time. Also, the plant has a strong branching taproot that can produce new shoots after the upper part of the plant has been cut down. It is found mostly in grasslands but spreads primarily through soil-disturbing agricultural or maintenance practices.\n  </div> \n  <div>\n   Bitter dock is considered an invasive weed both within and outside its native range. It is listed as an agricultural, environmental, and garden weed in The Global Compendium of Weeds. It is also considered to be one of the most troublesome weeds in intensively managed pastures throughout its range because it reduces grass yields and food intake by grazing animals.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of bitter dock is early spring, before the plant reaches its seeding stage to prevent further propagation. Here are some organic methods for control or removal:\n  </div> \n  <ol> \n   <li>Hand-pulling: Moistening the soil makes it easier to pull out bitter dock by hand. Make sure to remove all roots to prevent regrowth.</li> \n   <li>Smothering: Cover the area with a thick layer of organic mulch or a landscaping fabric. This deprives the plant of sunlight, ultimately killing it.</li> \n   <li>Using a weed torch: Carefully apply heat to bitter dock to cause it to wilt and die. Be aware of safety measures when using this method.</li> \n   <li>Hoeing: Regularly cutting bitter dock at the base with a sharp hoe can weaken the plant, making it easier to pull out.</li> \n   <li>Using corn gluten meal: Apply this natural pre-emergent herbicide early in the spring to prevent bitter dock seeds from developing.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bitter dock thrives in moderately moist habitats and prefers consistent soil moisture without waterlogging. Weekly watering maintains this balance. As an herbaceous perennial, bitter dock is best cultivated outdoors, benefiting from natural rainfall throughout the seasons.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bitter dock propagates mainly via cuttings in spring or summer. This method is simple, and successful growth is marked by new leaf emergence. It's important to monitor water and light conditions for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rumex_obtusifolius.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is bitter dock poisonous?",
+            "link": "/ask/Rumex_obtusifolius-0.html"
+        },
+        {
+            "q": "What is bitter dock used for?",
+            "link": "/ask/Rumex_obtusifolius-1.html"
+        },
+        {
+            "q": "How do I get rid of bitter dock?",
+            "link": "/ask/Rumex_obtusifolius-2.html"
+        },
+        {
+            "q": "What animals eat bitter dock leaves?",
+            "link": "/ask/Rumex_obtusifolius-3.html"
+        },
+        {
+            "q": "Is Burdock the same as bitter dock?",
+            "link": "/ask/Rumex_obtusifolius-4.html"
+        },
+        {
+            "q": "Why does bitter dock grow near nettles?",
+            "link": "/ask/Rumex_obtusifolius-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Sansevieria trifasciata",
+                "link": "/wiki/Sansevieria_trifasciata.html",
+                "imageUrl": "/wiki-image/1080/153936867790684172.jpeg",
+                "displayName": "Snake plant"
+            },
+            {
+                "scientificName": "Colocasia esculenta",
+                "link": "/wiki/Colocasia_esculenta.html",
+                "imageUrl": "/wiki-image/1080/317744287613812736.jpeg",
+                "displayName": "Taro"
+            },
+            {
+                "scientificName": "Codiaeum variegatum",
+                "link": "/wiki/Codiaeum_variegatum.html",
+                "imageUrl": "/wiki-image/1080/201175005426450432.jpeg",
+                "displayName": "Garden croton"
+            },
+            {
+                "scientificName": "Anthurium andraeanum",
+                "link": "/wiki/Anthurium_andraeanum.html",
+                "imageUrl": "/wiki-image/1080/201164237943406592.jpeg",
+                "displayName": "Flamingo flower"
+            },
+            {
+                "scientificName": "Malus pumila",
+                "link": "/wiki/Malus_pumila.html",
+                "imageUrl": "/wiki-image/1080/201218453315649536.jpeg",
+                "displayName": "Apple"
+            },
+            {
+                "scientificName": "Lycoris radiata",
+                "link": "/wiki/Lycoris_radiata.html",
+                "imageUrl": "/wiki-image/1080/153893488620994601.jpeg",
+                "displayName": "Red Spider lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rumex_obtusifolius.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Rumex_obtusifolius.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rumex_obtusifolius.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rumex_obtusifolius.html",
+            "values": [
+                "Care Bitter dock",
+                "Care Bitter dock",
+                "Grow Bitter dock",
+                "Maintain Bitter dock",
+                "Bitter dock Care",
+                "Bitter dock Grow",
+                "Bitter dock Maintain",
+                "Bitter dock Cares",
+                "Growth Bitter dock",
+                "Maintains Bitter dock",
+                "Bitter dock Growth",
+                "Bitter dock Maintains",
+                "Bitter dock Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rumex_obtusifolius.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rumex_obtusifolius.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Rumex_obtusifolius.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rumex_obtusifolius.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rumex_obtusifolius.html"
+        }
+    ]
+}

@@ -1,0 +1,777 @@
+{
+    "title": "Bird's-nest fern (Asplenium nidus) - PictureThis",
+    "displayName": "Bird's-nest fern",
+    "otherCommonName": "Nest fern",
+    "mainImage": {
+        "copyright": {
+            "width": 1500,
+            "height": 1500,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154095051436195873.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 3024,
+                "height": 4032,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "maple",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157672587395072000.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3072,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157238370496413699.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157582968607473665.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3840,
+                "height": 5760,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157327924859502600.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Birds nest fern",
+            "link": "/wiki/Asplenium_nidus__Ruffled_.html"
+        },
+        {
+            "displayName": "Bird's-nest fern 'Campio'",
+            "link": "/wiki/Asplenium_nidus__Campio_.html"
+        },
+        {
+            "displayName": "Bird's-nest fern 'Crispy Wave'",
+            "link": "/wiki/Asplenium_nidus__Crispy_Wave_.html"
+        },
+        {
+            "displayName": "Bird's-nest fern 'Osaka'",
+            "link": "/wiki/Asplenium_nidus__Osaka_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Bird's-nest fern (Asplenium nidus) is a fern species native to tropical Southeast Asia. The common name bird's-nest fern refers to the plant's central rosette where the fern's fronds unfurl. This part of the plant resembles miniature bird eggs.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Bird's-nest fern (Asplenium nidus) is a fern species native to tropical Southeast Asia. The common name bird's-nest fern refers to the plant's central rosette where the fern's fronds unfurl. This part of the plant resembles miniature bird eggs.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Bird's-nest fern (<i>Asplenium nidus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Spleenworts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Asplenium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Spleenwort",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Aspleniaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Polypodiales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Polypodiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Ferns",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Polypodiopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Fern",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803464112766976.jpeg",
+        "habitat": "Warm, humid areas, garden wall",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Bird's-nest fern is native to South East Asia, Pacific Islands, and Northern Australia. It is found beneath trees in rainforests. It has been introduced in Bangladesh.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1891",
+                "2000",
+                "2180",
+                "2050",
+                "1781",
+                "1708",
+                "2032",
+                "2364",
+                "2366",
+                "1919",
+                "1565",
+                "2155"
+            ],
+            "north": [
+                "12861",
+                "13684",
+                "13999",
+                "16488",
+                "17491",
+                "15316",
+                "14636",
+                "12713",
+                "10957",
+                "9131",
+                "7696",
+                "11833"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Bird's-nest fern can be used for garden greenery, which is a prized choice for rainforest landscaping. It is a common choice for gardens because of its lushly tropical foliage and its impressive size. It is used in gardens because it thrives in light shade and damp soil, and is prized for its bright green foliage. It is a good fit for tropical and rock gardens, and because it grows on the surface of other plants, is often planted with ficus and philodendron.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Smooth and elegant, fragrant and evergreen",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is said that bird's-nest ferns wanted to choose a season to bloom, but there were peonies in the spring, lotuses in the summer, chrysanthemums in autumn, and plums in the winter. It missed blooming in the four seasons and so could only be an evergreen plant.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bird's-nest fern",
+                "values": [
+                    "This plant has wide, shiny leaves or fronds that slowly uncurl from the center giving it a nest-like appearance. Therefore, it is given the name bird's nest fern."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Stemless growth with rosette base",
+            "Strap-shaped fronds with wavy edges",
+            "Distinctive dark brown-black midrib",
+            "Sporophores on underside for reproduction",
+            "Leaves with herringbone sori pattern"
+        ],
+        "title": "Quickly Identify Bird's-nest fern",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Asplenium-nidus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bird's-nest fern thrives in high humidity and absorbs moisture from the air and rain. It prefers consistent moisture, requiring weekly watering. As an evergreen often grown indoors, it loves stable temperatures and indirect light, benefiting from regular misting to mimic its humid native conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of bird's-nest fern, use a high nitrogen fertilizer at a quarter-strength monthly during the growing season and bi-monthly in winter. Avoid over-fertilization to prevent foliage burn, and reduce fertilization as bird's-nest fern matures. Always water bird's-nest fern before applying fertilizer to prevent root shock.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bird's-nest fern thrives with minimal pruning, mainly removing dead fronds in early spring for health and aesthetics. This practice improves air circulation, prevents diseases, and boosts growth. Use clean, sharp tools for maintenance and conduct regular inspections to ensure the plant's vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bird's-nest fern propagates in Spring and Autumn via division and spores, with moderate difficulty. Success is signaled by new growth. High humidity is essential for optimal propagation results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot bird's-nest fern every 2-3 years in spring, using a shallow, wide container. After repotting, provide bright, indirect light and maintain humidity. Handle bird's-nest fern's sensitive roots with care to prevent disturbance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Asplenium_nidus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a bird's-nest fern?",
+            "link": "/ask/Asplenium_nidus-0.html"
+        },
+        {
+            "q": "How big does bird's-nest fern get?",
+            "link": "/ask/Asplenium_nidus-1.html"
+        },
+        {
+            "q": "How often do you water a bird's-nest fern?",
+            "link": "/ask/Asplenium_nidus-2.html"
+        },
+        {
+            "q": "Is a bird's-nest fern poisonous?",
+            "link": "/ask/Asplenium_nidus-3.html"
+        },
+        {
+            "q": "Is bird's-nest fern toxic to dogs?",
+            "link": "/ask/Asplenium_nidus-4.html"
+        },
+        {
+            "q": "Why is my bird's-nest fern dying?",
+            "link": "/ask/Asplenium_nidus-5.html"
+        },
+        {
+            "q": "How often should I repot my bird's-nest fern?",
+            "link": "/ask/Asplenium_nidus-6.html"
+        },
+        {
+            "q": "What is bird's-nest fern use for?",
+            "link": "/ask/Asplenium_nidus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Asplenium-nidus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Asplenium-nidus-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Asplenium-nidus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Asplenium-nidus-Underwatering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Pinus strobus",
+                "link": "/wiki/Pinus_strobus.html",
+                "imageUrl": "/wiki-image/1080/214256762847002624.jpeg",
+                "displayName": "Eastern white pine"
+            },
+            {
+                "scientificName": "Jacobaea maritima subsp. maritima",
+                "link": "/wiki/Jacobaea_maritima_subsp._maritima.html",
+                "imageUrl": "/wiki-image/1080/201213943599988736.jpeg",
+                "displayName": "Dusty miller"
+            },
+            {
+                "scientificName": "Chilopsis linearis",
+                "link": "/wiki/Chilopsis_linearis.html",
+                "imageUrl": "/wiki-image/1080/153921199749988388.jpeg",
+                "displayName": "Desert willow"
+            },
+            {
+                "scientificName": "Atropa bella-donna",
+                "link": "/wiki/Atropa_bella-donna.html",
+                "imageUrl": "/wiki-image/1080/154006347476631565.jpeg",
+                "displayName": "Deadly nightshade"
+            },
+            {
+                "scientificName": "Celmisia spectabilis",
+                "link": "/wiki/Celmisia_spectabilis.html",
+                "imageUrl": "/wiki-image/1080/157387637789818884.jpeg",
+                "displayName": "Cotton plant"
+            },
+            {
+                "scientificName": "Hydrangea anomala",
+                "link": "/wiki/Hydrangea_anomala.html",
+                "imageUrl": "/wiki-image/1080/154080289633599515.jpeg",
+                "displayName": "Climbing hydrangea"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Asplenium_nidus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Asplenium_nidus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Asplenium_nidus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Asplenium_nidus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Asplenium_nidus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Asplenium_nidus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Asplenium_nidus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Asplenium_nidus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Asplenium_nidus.html",
+            "values": [
+                "Care Bird's-nest fern",
+                "Care Bird's-nest fern",
+                "Grow Bird's-nest fern",
+                "Maintain Bird's-nest fern",
+                "Bird's-nest fern Care",
+                "Bird's-nest fern Grow",
+                "Bird's-nest fern Maintain",
+                "Bird's-nest fern Cares",
+                "Growth Bird's-nest fern",
+                "Maintains Bird's-nest fern",
+                "Bird's-nest fern Growth",
+                "Bird's-nest fern Maintains",
+                "Bird's-nest fern Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Asplenium_nidus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Asplenium_nidus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Asplenium_nidus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Asplenium_nidus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Asplenium_nidus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Asplenium_nidus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Asplenium_nidus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Asplenium_nidus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Asplenium_nidus.html"
+        }
+    ]
+}

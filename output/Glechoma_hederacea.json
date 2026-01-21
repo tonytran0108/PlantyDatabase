@@ -1,0 +1,969 @@
+{
+    "title": "Ground ivy (Glechoma hederacea) - PictureThis",
+    "displayName": "Ground ivy",
+    "otherCommonName": "Alehoof, Field balm",
+    "mainImage": {
+        "copyright": {
+            "width": 1243,
+            "height": 1242,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154235256348606476.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/14664486",
+                "authorLink": "https://www.inaturalist.org/people/judygva",
+                "author": "judygva",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152376312898519048.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28066063",
+                "authorLink": "https://www.inaturalist.org/people/nonenmac",
+                "author": "nonenmac",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659704961138729.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/375779",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665876829143047.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10605649",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153663931208957984.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Ground ivy 'Variegata'",
+            "link": "/wiki/Glechoma_hederacea__Variegata_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Ground ivy (Glechoma hederacea) is a perennial evergreen trailing plant, often found in grasslands and woodlands. Saxon peoples once spread the plant, but it has become invasive in some parts of the world now. The fast-growing ground ivy can be toxic to horses but generally cannot harm other animals or humans.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Ground ivy (Glechoma hederacea) is a perennial evergreen trailing plant, often found in grasslands and woodlands. Saxon peoples once spread the plant, but it has become invasive in some parts of the world now. The fast-growing ground ivy can be toxic to horses but generally cannot harm other animals or humans.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Ground ivy (<i>Glechoma hederacea</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Glechoma",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Glechoma.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Early summer, Mid summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251758527495077889.png",
+        "habitat": "Damp waste ground, hedgerows, woodland margins",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Ground ivy is native to Eurasia, found in grassy and steppe-type ecosystems. Spread as an ornamental to the rest of the world, it is naturalized in the United States, some parts of South America, and New Zealand. In the United States it has become invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "106",
+                "102",
+                "152",
+                "233",
+                "115",
+                "98",
+                "125",
+                "134",
+                "111",
+                "104",
+                "121",
+                "128"
+            ],
+            "north": [
+                "2214",
+                "7000",
+                "66443",
+                "124000",
+                "49068",
+                "28325",
+                "26004",
+                "17769",
+                "11161",
+                "4367",
+                "1389",
+                "1551"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The vibrant spring blooms and colorful foliage of ground ivy make this plant a decorative addition to any garden, including woodland and informal gardens. It tends to creep, which makes it perfect as ground cover in garden beds or borders. The stems can also trail from hanging baskets on sunny patios, creating an interesting effect.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Wedded Love, Fidelity, Friendship, Affection, Dependence, divination",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Many types of wild bees collect pollen from ground ivy - Anthophora furcata, Anthidum manicatum, Anthophora plumipes, Osmia aurulenta, etc. However, this bee-loving plant is an aggressive weed in non-native areas, such as the United States.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Ground-ivy",
+                "values": [
+                    "The word, Ivy is originated from the Anglo-Saxon word, ifig which is the same origin as efeu in German. However, its specific meaning could not be traced back anymore. Till today, almost all the vines are called ivy. Interestingly, this plant is different from the climbing ivy in which it spreads all over the ground with its stolons forming a thick layer on the ground. Hence, it is called the ground-ivy."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Consumption of ground ivy leaves is unsafe for <strong>pregnant women, liver disease, or epilepsy</strong>. Symptoms depend on intake and include potential <strong>abortion or liver damage</strong>. Ground ivy is mildly toxic to cats and dogs, causing gastrointestinal upset. Seek veterinary care if consumed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Glechoma_hederacea.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Low-lying evergreen herb with a creeping habit.",
+            "Square stems rooting at nodes for sprawl.",
+            "Clusters of blue-violet tubular flowers with fuzzy hairs.",
+            "Oval fruit pods releasing dark brown nutlets.",
+            "Pubescent stem with fringe of long white hairs at nodes."
+        ],
+        "title": "Quickly Identify Ground ivy",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Glechoma-hederacea.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ground ivy thrives in moist, shaded woodlands and requires evenly moist soil, with weekly watering preferred to avoid waterlogging. Once established, it shows moderate drought tolerance. As an evergreen, ground ivy retains foliage year-round, effectively using dew and light rain for hydration.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For ground ivy, apply balanced fertilizers biannually for healthy growth, using a light dose per product recommendations. During active growth, increase frequency slightly. Avoid over-fertilization; ensure moist soil beforehand. Apply during cooler times and water thoroughly afterward to enhance absorption.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ground ivy is a creeping perennial that thrives with spring pruning, focusing on trimming long runners and removing dead stems. This practice curbs invasiveness and enhances growth. Clean tools are essential to reduce disease risk. Prune before spring's vigorous growth for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ground ivy propagates well through cuttings in spring and summer. It's moderately easy to propagate, indicated by root development and new growth. For optimal results, utilize a well-draining medium.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Glechoma_hederacea.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you get rid of ground ivy?",
+            "link": "/ask/Glechoma_hederacea-0.html"
+        },
+        {
+            "q": "What is ground ivy good for?",
+            "link": "/ask/Glechoma_hederacea-1.html"
+        },
+        {
+            "q": "Is ground ivy poisonous?",
+            "link": "/ask/Glechoma_hederacea-2.html"
+        },
+        {
+            "q": "Does ground ivy die in the winter?",
+            "link": "/ask/Glechoma_hederacea-3.html"
+        },
+        {
+            "q": "Is ground ivy poisonous to dogs?",
+            "link": "/ask/Glechoma_hederacea-4.html"
+        },
+        {
+            "q": "Is ground ivy a perennial?",
+            "link": "/ask/Glechoma_hederacea-5.html"
+        },
+        {
+            "q": "How long does ground ivy take to die?",
+            "link": "/ask/Glechoma_hederacea-6.html"
+        },
+        {
+            "q": "How do you keep ground ivy under control?",
+            "link": "/ask/Glechoma_hederacea-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Glechoma-hederacea-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Glechoma-hederacea-Spots.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Glechoma-hederacea-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Glechoma-hederacea-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Glechoma-hederacea-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Glechoma-hederacea-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Glechoma-hederacea-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Glechoma-hederacea-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Glechoma-hederacea-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Glechoma-hederacea-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Glechoma-hederacea-Scars.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Glechoma-hederacea-Notch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Glechoma-hederacea-Mealybug.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Glechoma-hederacea-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Glechoma-hederacea-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Glechoma-hederacea-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Glechoma-hederacea-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Glechoma-hederacea-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Glechoma-hederacea-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Glechoma-hederacea-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Glechoma-hederacea-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Glechoma-hederacea-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Glechoma-hederacea-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Glechoma-hederacea-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Glechoma-hederacea-White-blotch.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Glechoma-hederacea-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Glechoma-hederacea-Underwatering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Catharanthus roseus",
+                "link": "/wiki/Catharanthus_roseus.html",
+                "imageUrl": "/wiki-image/1080/202698610715131904.jpeg",
+                "displayName": "Madagascar periwinkle"
+            },
+            {
+                "scientificName": "Pyracantha coccinea",
+                "link": "/wiki/Pyracantha_coccinea.html",
+                "imageUrl": "/wiki-image/1080/202645151257198592.jpeg",
+                "displayName": "Scarlet firethorn"
+            },
+            {
+                "scientificName": "Phytolacca americana",
+                "link": "/wiki/Phytolacca_americana.html",
+                "imageUrl": "/wiki-image/1080/154075307471536171.jpeg",
+                "displayName": "Pokeweed"
+            },
+            {
+                "scientificName": "Amaranthus retroflexus",
+                "link": "/wiki/Amaranthus_retroflexus.html",
+                "imageUrl": "/wiki-image/1080/154242222785560616.jpeg",
+                "displayName": "Redroot amaranth"
+            },
+            {
+                "scientificName": "Euonymus japonicus",
+                "link": "/wiki/Euonymus_japonicus.html",
+                "imageUrl": "/wiki-image/1080/347101342565040128.jpeg",
+                "displayName": "Evergreen spindle"
+            },
+            {
+                "scientificName": "Tradescantia pallida",
+                "link": "/wiki/Tradescantia_pallida.html",
+                "imageUrl": "/wiki-image/1080/153715934672977954.jpeg",
+                "displayName": "Purple heart"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Glechoma_hederacea.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Glechoma_hederacea.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Glechoma_hederacea.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Glechoma_hederacea.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Glechoma_hederacea.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Glechoma_hederacea.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Glechoma_hederacea.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Glechoma_hederacea.html",
+            "values": [
+                "Care Ground ivy",
+                "Care Ground ivy",
+                "Grow Ground ivy",
+                "Maintain Ground ivy",
+                "Ground ivy Care",
+                "Ground ivy Grow",
+                "Ground ivy Maintain",
+                "Ground ivy Cares",
+                "Growth Ground ivy",
+                "Maintains Ground ivy",
+                "Ground ivy Growth",
+                "Ground ivy Maintains",
+                "Ground ivy Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Glechoma-hederacea-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Glechoma_hederacea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Glechoma_hederacea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Glechoma_hederacea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Glechoma_hederacea.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Glechoma_hederacea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Glechoma_hederacea.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Glechoma_hederacea.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Glechoma_hederacea.html"
+        }
+    ]
+}

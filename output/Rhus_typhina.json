@@ -1,0 +1,980 @@
+{
+    "title": "Staghorn sumac (Rhus typhina) - PictureThis",
+    "displayName": "Staghorn sumac",
+    "otherCommonName": "Red sumac, Vinegar tree",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154207845867323412.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 335,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1991550",
+                "authorLink": "https://www.inaturalist.org/people/mainebirder",
+                "author": "mainebirder",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152524532219904004.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11067948",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152369728713654273.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11218496",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153668440924618764.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 374,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/78170",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884155657060368.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "With a rapid growth rate, staghorn sumac dramatically expands during Spring and Summer, resulting in increased height and robust leaf production. Its fast-paced growth confers an adaptive advantage over slower growing species, supporting an early leaf flush in Spring. Patches of staghorn sumac often mono-dominate open spaces, forming dense stands that capitalize on the quick growth.",
+    "cultivars": [
+        {
+            "displayName": "Staghorn sumac 'Dissecta'",
+            "link": "/wiki/Rhus_typhina__Dissecta_.html"
+        },
+        {
+            "displayName": "Staghorn sumac 'Bailtiger'",
+            "link": "/wiki/Rhus_typhina__Bailtiger_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The dried bobs of the staghorn sumac are occasionally used by beekeepers for their smokers. Except for the roots, all parts of the plant can be used to make dyes or dye mordants; the tannins in the sap help prevent the dye colors from fading. Luna moth caterpillars feed on Rhus typhina, and pheasants and wild turkeys pick at the fruits.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The dried bobs of the staghorn sumac are occasionally used by beekeepers for their smokers. Except for the roots, all parts of the plant can be used to make dyes or dye mordants; the tannins in the sap help prevent the dye colors from fading. Luna moth caterpillars feed on Rhus typhina, and pheasants and wild turkeys pick at the fruits.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Staghorn sumac (<i>Rhus typhina</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Sumacs",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rhus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cashew",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Anacardiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 m to 12 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 6 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802437615583242.jpeg",
+        "habitat": "Dry and poor soil",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Staghorn sumac is native to the eastern and central US, Quebec, and Ontario, where it grows along roadsides, swamps, streams, and woodland edges. It has been introduced in Kazakhstan, China, and across southern Europe and is considered an invasive weed in parts of the US and the Czech Republic.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "87",
+                "75",
+                "146",
+                "116",
+                "163",
+                "210",
+                "212",
+                "190",
+                "182",
+                "94",
+                "65",
+                "89"
+            ],
+            "north": [
+                "4748",
+                "6255",
+                "13083",
+                "26808",
+                "37260",
+                "44779",
+                "39156",
+                "26284",
+                "24031",
+                "7845",
+                "2601",
+                "3497"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Staghorn sumac (Rhus typhina) is popular for its peculiar red fruits and long-lasting leaves which shade deep oranges and reds in fall. Since this is a tall-growing shrub it is best placed at the back of beds and borders where it is a valued addition to informal or cottage gardens. Staghorn sumac combines well with Aster 'Little Carlow', Jerusalem sage, and tufted hair grass.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love and compassion, rebirth",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "From a distance, staghorn sumac are a red scenic view and its tall trees show their enthusiasm to the people. In the Victorian era, staghorn sumac was always popular. But because of its super-fecundity and invasiveness, it has been listed as a weed in the United States.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Staghorn sumac",
+                "values": [
+                    "Although it is not related to plants from the Toxicodendron genus, they both have sumac in their names. Its soft texture and branching pattern reminds people of antlers, so it is called Staghorn sumac. Furthermore, the specific epithet, typhina holds the meaning of \"the branches are rough like antlers in velvet\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Staghorn sumac sap may cause skin rash</strong> in susceptible individuals. Despite lacking features like axillary particles and smooth fruit seen in other harmful Rhus species, <strong>caution is advised with direct contact</strong>.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Rhus_typhina.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Velvet-like fuzzy young branches resembling stag's antlers.",
+            "Large pinnately compound leaves up to 2 feet (60 cm) long.",
+            "Vivid red drupes persisting through winter on female plants.",
+            "Rough-textured, lanceolate leaflets with serrate margins.",
+            "Distinctive reddish-brown hairy stem with velvety texture."
+        ],
+        "title": "Quickly Identify Staghorn sumac",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Rhus-typhina.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Staghorn sumac thrives in temperate regions and prefers consistent moisture, tolerating brief dry periods. Water every 1-2 weeks, keeping soil evenly moist but not waterlogged. Typically grown outdoors, staghorn sumac flourishes in climates with seasonal rains during its active growth season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For staghorn sumac, apply a balanced fertilizer in spring to encourage strong growth. Use high-nitrogen formulas for foliage, following packaging for dosing. Benefits include vigorous growth and better fruiting. Avoid over-fertilization, adjusting based on plant size and soil fertility. Always water after fertilizing to enhance nutrient uptake.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Staghorn sumac, celebrated for its stunning autumn colors, thrives with proper pruning. Essential methods involve removing dead wood, thinning branches, and ensuring a balanced form. Early spring is ideal for pruning, promoting growth, preventing disease, and enhancing overall appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Staghorn sumac is propagated through cuttings, requiring healthy, semi-wooden stems. After treating the cut end with rooting hormone, place it in moist, well-draining soil. Maintain consistent humidity and warmth for successful rooting, which may take several weeks.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot staghorn sumac every 2-3 years in spring for optimal growth. This hardy shrub can grow up to 25 feet and needs a deep container with good drainage. After repotting, water generously and place in full sun to partial shade. Regular pruning ensures robust growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rhus_typhina.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is staghorn sumac poisonous?",
+            "link": "/ask/Rhus_typhina-0.html"
+        },
+        {
+            "q": "How fast does staghorn sumac grow?",
+            "link": "/ask/Rhus_typhina-1.html"
+        },
+        {
+            "q": "How does staghorn sumac spread?",
+            "link": "/ask/Rhus_typhina-2.html"
+        },
+        {
+            "q": "Is staghorn sumac poisonous to dogs?",
+            "link": "/ask/Rhus_typhina-3.html"
+        },
+        {
+            "q": "How often should staghorn sumac be watered?",
+            "link": "/ask/Rhus_typhina-4.html"
+        },
+        {
+            "q": "Is staghorn sumac invasive?",
+            "link": "/ask/Rhus_typhina-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Rhus-typhina-Scars.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Rhus-typhina-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Rhus-typhina-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Rhus-typhina-Wounds.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Rhus-typhina-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Rhus-typhina-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Rhus-typhina-Aphid.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Rhus-typhina-Spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Rhus-typhina-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Rhus-typhina-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Rhus-typhina-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Rhus-typhina-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Rhus-typhina-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Rhus-typhina-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Rhus-typhina-Underwatering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Rhus-typhina-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Rhus-typhina-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Rhus-typhina-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Rhus-typhina-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Rhus-typhina-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Rhus-typhina-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Rhus-typhina-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Rhus-typhina-Black-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alpinia zerumbet",
+                "link": "/wiki/Alpinia_zerumbet.html",
+                "imageUrl": "/wiki-image/1080/154044052994523168.jpeg",
+                "displayName": "Shell ginger"
+            },
+            {
+                "scientificName": "Chrysanthemum indicum",
+                "link": "/wiki/Chrysanthemum_indicum.html",
+                "imageUrl": "/wiki-image/1080/153755942293340180.jpeg",
+                "displayName": "Indian chrysanthemum"
+            },
+            {
+                "scientificName": "Tabebuia rosea",
+                "link": "/wiki/Tabebuia_rosea.html",
+                "imageUrl": "/wiki-image/1080/154210079250317351.jpeg",
+                "displayName": "Pink trumpet tree"
+            },
+            {
+                "scientificName": "Agapanthus africanus",
+                "link": "/wiki/Agapanthus_africanus.html",
+                "imageUrl": "/wiki-image/1080/393491529142894592.jpeg",
+                "displayName": "African lily"
+            },
+            {
+                "scientificName": "Osteospermum fruticosum",
+                "link": "/wiki/Osteospermum_fruticosum.html",
+                "imageUrl": "/wiki-image/1080/153889747704479782.jpeg",
+                "displayName": "Shrubby daisybush"
+            },
+            {
+                "scientificName": "Ficus pumila",
+                "link": "/wiki/Ficus_pumila.html",
+                "imageUrl": "/wiki-image/1080/348126091697094656.jpeg",
+                "displayName": "Creeping fig"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Rhus_typhina.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rhus_typhina.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Rhus_typhina.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rhus_typhina.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Rhus_typhina.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Rhus_typhina.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Rhus_typhina.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rhus_typhina.html",
+            "values": [
+                "Care Staghorn sumac",
+                "Care Staghorn sumac",
+                "Grow Staghorn sumac",
+                "Maintain Staghorn sumac",
+                "Staghorn sumac Care",
+                "Staghorn sumac Grow",
+                "Staghorn sumac Maintain",
+                "Staghorn sumac Cares",
+                "Growth Staghorn sumac",
+                "Maintains Staghorn sumac",
+                "Staghorn sumac Growth",
+                "Staghorn sumac Maintains",
+                "Staghorn sumac Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhus-typhina-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rhus_typhina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rhus_typhina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Rhus_typhina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Rhus_typhina.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rhus_typhina.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Rhus_typhina.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Rhus_typhina.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rhus_typhina.html"
+        }
+    ]
+}

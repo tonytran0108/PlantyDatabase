@@ -1,0 +1,1069 @@
+{
+    "title": "Eggplant (Solanum melongena) - PictureThis",
+    "displayName": "Eggplant",
+    "otherCommonName": "Asian Eggplant, Thai Eggplant, Aubergine, Berendjena",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "ajcespedes",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317727142104367104.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Anguive_-_green_Brinjal.jpg",
+                "authorLink": "https://www.flickr.com/people/23512070@N08",
+                "author": "carrotmadman6",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/152380835499081729.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3648,
+                "height": 2736,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157234844328263681.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157372820152647687.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2736,
+                "height": 3648,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157598550748823561.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Eggplant 'Black Beauty'",
+            "link": "/wiki/Solanum_melongena__Black_Beauty_.html"
+        },
+        {
+            "displayName": "Eggplant 'Moneymaker'",
+            "link": "/wiki/Solanum_melongena__Moneymaker_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Eggplant (*Solanum melongena*) is a plant species related to nightshade and native to India. Eggplant is grown worldwide for its edible purple fruit. The spongy and absorbent fruit is a staple in Eastern cuisines. This plant is known as \"brinjal\" in South Africa and Asia, while the British call it 'aubergine'.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Eggplant (*Solanum melongena*) is a plant species related to nightshade and native to India. Eggplant is grown worldwide for its edible purple fruit. The spongy and absorbent fruit is a staple in Eastern cuisines. This plant is known as \"brinjal\" in South Africa and Asia, while the British call it 'aubergine'.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Eggplant (<i>Solanum melongena</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nightshades",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Solanum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nightshade",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Solanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288816703622381568.jpeg",
+        "habitat": "Cultivated Beds",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Eggplant is native to East Asia, Africa and parts of South America. It is cultivated widely across the world as a food crop. Its preferred ecosystem is a temperate climate with little to no frost.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 213.081477, \"2\": 186.2004342, \"3\": 179.7350001, \"4\": 180.7798063, \"5\": 126.5841437, \"6\": 119.0, \"7\": 88.18010876, \"8\": 117.3812551, \"9\": 167.7132474, \"10\": 198.3142436, \"11\": 194.592169, \"12\": 235.6008991}, \"fruit_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 84.35291519, \"2\": 81.22986404, \"3\": 71.75396766, \"4\": 60.06693385, \"5\": 30.73425167, \"6\": 25.0, \"7\": 33.63326006, \"8\": 25.39774697, \"9\": 50.94848093, \"10\": 74.79515771, \"11\": 79.28302646, \"12\": 87.76763076}, \"fruit_month\": 12}, \"Default\": {\"trends\": {\"1\": 687.602689, \"2\": 646.7295999, \"3\": 604.1168593, \"4\": 616.7011247, \"5\": 451.3404525, \"6\": 459.0, \"7\": 427.3130953, \"8\": 456.3822557, \"9\": 579.1268572, \"10\": 723.8453298, \"11\": 663.5488747, \"12\": 712.2427851}, \"fruit_month\": 12}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 28.45689661, \"2\": 26.83639137, \"3\": 37.57333583, \"4\": 73.86179201, \"5\": 85.49645093, \"6\": 101.7843506, \"7\": 113.00921, \"8\": 97.86241395, \"9\": 80.83632819, \"10\": 56.92200523, \"11\": 46.62378033, \"12\": 21.0}, \"fruit_month\": 7}, \"Csa\": {\"trends\": {\"1\": 47.96669224, \"2\": 43.96045752, \"3\": 59.65951567, \"4\": 108.867993, \"5\": 143.7441458, \"6\": 178.5426097, \"7\": 151.690261, \"8\": 126.8192451, \"9\": 109.3422732, \"10\": 97.34219033, \"11\": 62.45185148, \"12\": 68.0}, \"fruit_month\": 6}, \"Csb\": {\"trends\": {\"1\": 22.64333369, \"2\": 15.24165438, \"3\": 22.25993935, \"4\": 34.60880949, \"5\": 55.39090062, \"6\": 70.56068974, \"7\": 81.08432588, \"8\": 87.87802599, \"9\": 59.88002032, \"10\": 50.43583616, \"11\": 32.50027118, \"12\": 28.0}, \"fruit_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 101.6037438, \"2\": 127.6421202, \"3\": 205.1019932, \"4\": 295.1642365, \"5\": 450.8274755, \"6\": 525.9162954, \"7\": 531.1756991, \"8\": 405.9413077, \"9\": 330.4912315, \"10\": 278.281674, \"11\": 174.0635464, \"12\": 141.0}, \"fruit_month\": 7}, \"Dfa\": {\"trends\": {\"1\": 45.18590607, \"2\": 64.30398515, \"3\": 71.24790297, \"4\": 113.2401811, \"5\": 246.7484016, \"6\": 385.5036263, \"7\": 391.4511478, \"8\": 290.6504873, \"9\": 210.1134455, \"10\": 135.6911859, \"11\": 97.36350221, \"12\": 79.0}, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Eggplant is a good economic product.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Eggplant is a popular addition to many vegetable gardens, given the myriad culinary options for preparing the mature fruit. It couples well with tomatoes and others from the nightshade family, but gardeners should be sure to rotate planting with non-solanaceous crops.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "True",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In Japan, it is said that it is lucky to dream of eggplant because eggplant was an expensive vegetable in Japan many years ago, and only the rich could eat. So it is lucky to dream of eggplant.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Eggplant",
+                "values": [
+                    "The name eggplant is common in North American English and Australian English. First recorded in 1763, the word \"eggplant\" was originally applied to white cultivars, which look very much like hen's eggs. Hence, this white cultivar is called an eggplant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Eggplant leaves and tubers contain toxic solanine</strong>, causing nausea, vomiting, and potentially deadly arrhythmia. The fruit has smaller amounts, with nasunin affecting iron absorption and oxalates causing kidney stones. <strong>Eggplant is moderately toxic to cats and dogs</strong> if they ingest stems, leaves, or unripe fruit, leading to gastrointestinal issues. Prompt veterinary care is crucial if poisoning occurs in pets. Keep eggplant away from small children and pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Solanum_melongena.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Star-shaped hairs on leaves and stems",
+            "Vibrant purple, star-shaped flowers with yellow center",
+            "Egg-shaped, glossy fruit reaching 4-8 inches",
+            "Leaves ovate to oblong, with sinuate lobes",
+            "Robust, bushy herb with woody, branching stems"
+        ],
+        "title": "Quickly Identify Eggplant",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Solanum-melongena.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eggplant thrives in moderate climates with consistently moist soil but can endure brief dry spells. It requires watering twice a week for optimal growth. Proper irrigation is crucial during the growing season to prevent issues like blossom-end rot caused by inconsistent watering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing eggplant with high phosphorus during flowering boosts fruit set, while balanced nutrition fosters growth. Apply fertilizer every 2-3 weeks, using ÃÂ¼ rate for young eggplant. Reduce fertilization in winter, utilize compost or 5-10-5 synthetic options, and avoid over-fertilization to prevent damage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eggplant, notable for its glossy, purple fruit, thrives with mid-spring pruning to boost growth and yields. Techniques include removing lower leaves and suckers for better air circulation. Use sterilized tools to prevent disease and enhance the plant's structure and productivity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eggplant propagates by sowing seeds in Spring. While propagation may present moderate difficulty, successful germination is evident through healthy seedlings. For optimal results, stratify seeds and maintain consistent moisture levels.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot eggplant in early spring after dormancy to promote growth. Repot every 2-3 years using a deep pot for root support. Post-repotting, provide ample sunlight and consistent watering for recovery and fruit development. Eggplant thrives in spacious conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Solanum_melongena.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is eggplant called thusly?",
+            "link": "/ask/Solanum_melongena-0.html"
+        },
+        {
+            "q": "Why eggplant is bad for you?",
+            "link": "/ask/Solanum_melongena-1.html"
+        },
+        {
+            "q": "What are the benefits of eating eggplant?",
+            "link": "/ask/Solanum_melongena-2.html"
+        },
+        {
+            "q": "Is eggplant toxic to humans?",
+            "link": "/ask/Solanum_melongena-3.html"
+        },
+        {
+            "q": "Is eggplant a superfood?",
+            "link": "/ask/Solanum_melongena-4.html"
+        },
+        {
+            "q": "Is eggplant inflammatory?",
+            "link": "/ask/Solanum_melongena-5.html"
+        },
+        {
+            "q": "Does eggplant make you gain weight?",
+            "link": "/ask/Solanum_melongena-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Solanum-melongena-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Solanum-melongena-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Solanum-melongena-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf mites",
+                "link": "/disease/Solanum-melongena-Leaf-mites.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Solanum-melongena-Thrips.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Solanum-melongena-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Solanum-melongena-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Etiolated leaves lodging",
+                "link": "/disease/Solanum-melongena-Etiolated-leaves-lodging.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Solanum-melongena-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Solanum-melongena-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Solanum-melongena-Aphid.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Solanum-melongena-Spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Solanum-melongena-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Solanum-melongena-Wounds.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Solanum-melongena-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Solanum-melongena-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Yellow spots",
+                "link": "/disease/Solanum-melongena-Yellow-spots.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Solanum-melongena-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Solanum-melongena-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Solanum-melongena-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Solanum-melongena-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Solanum-melongena-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Damping off",
+                "link": "/disease/Solanum-melongena-Damping-off.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Solanum-melongena-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Solanum-melongena-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Solanum-melongena-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Solanum-melongena-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Solanum-melongena-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Fruit damage",
+                "link": "/disease/Solanum-melongena-Fruit-damage.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Solanum-melongena-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Solanum-melongena-Leaf-edges-turning-downwards.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Solanum-melongena-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Solanum-melongena-Stem-rot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Solanum_melongena.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Solanum_melongena.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Solanum_melongena.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Solanum_melongena.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Solanum_melongena.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Solanum_melongena.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Solanum_melongena.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Solanum_melongena.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Solanum_melongena.html",
+            "values": [
+                "Care Eggplant",
+                "Care Eggplant",
+                "Grow Eggplant",
+                "Maintain Eggplant",
+                "Eggplant Care",
+                "Eggplant Grow",
+                "Eggplant Maintain",
+                "Eggplant Cares",
+                "Growth Eggplant",
+                "Maintains Eggplant",
+                "Eggplant Growth",
+                "Eggplant Maintains",
+                "Eggplant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Thrips.html",
+            "values": [
+                "Thrips"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Yellow-spots.html",
+            "values": [
+                "Yellow spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Etiolated-leaves-lodging.html",
+            "values": [
+                "Etiolated leaves lodging"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Fruit-damage.html",
+            "values": [
+                "Fruit damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Solanum-melongena-Damping-off.html",
+            "values": [
+                "Damping off"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Solanum_melongena.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Solanum_melongena.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Solanum_melongena.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Solanum_melongena.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Solanum_melongena.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Solanum_melongena.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Solanum_melongena.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Solanum_melongena.html"
+        }
+    ]
+}

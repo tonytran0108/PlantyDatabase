@@ -1,0 +1,950 @@
+{
+    "title": "Viper's bugloss (Echium vulgare) - PictureThis",
+    "displayName": "Viper's bugloss",
+    "otherCommonName": "Blue thistle, Common viper's bugloss, Cat's tail, Snake flower, Viper's herb",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154145285373689873.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4106377",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152504247089364998.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 400,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/37710558",
+                "authorLink": "https://www.inaturalist.org/people/julia_medvedko",
+                "author": "julia_medvedko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152494299945107457.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.inaturalist.org/people/252034",
+                "author": "Andreas Rockstein",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/1.0/",
+                "license": "CC-BY-SA"
+            },
+            "imageUrl": "/wiki-image/1080/153863372310315042.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 335,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11014771",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153883953793597458.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Viper's bugloss (Echium vulgare) is a member of the borage family and attracts honeybees. Once established, this pretty blue wildflower is easy to grow. However, it can become invasive. This species has a deep taproot which makes it difficult to transplant and difficult to eradicate.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Viper's bugloss (Echium vulgare) is a member of the borage family and attracts honeybees. Once established, this pretty blue wildflower is easy to grow. However, it can become invasive. This species has a deep taproot which makes it difficult to transplant and difficult to eradicate.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Viper's bugloss (<i>Echium vulgare</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Viper's-buglosses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Echium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Borage",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Boraginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Boraginales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Boraginales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800891427356673.jpeg",
+        "habitat": "Cliffs, walls, old quarries, gravel pits",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Viper's bugloss is native to much of Europe but has spread beyond its original range. Currently, viper's bugloss is found in temperate areas across various continents, including parts of North America, Africa, and Asia. It has also been introduced to regions in the Southern Hemisphere, exemplified by Australasia and South America. Viper's bugloss can adapt to various climates which has facilitated its cultivation globally.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 23.67801128, \"2\": 20.64037529, \"3\": 9.983160718, \"4\": 13.02656397, \"5\": 3.940288675, \"6\": 5.0, \"7\": 7.272056229, \"8\": 2.17694974, \"9\": 6.302904857, \"10\": 5.644917563, \"11\": 19.41625138, \"12\": 41.30241448}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 58.22442125, \"2\": 53.54003258, \"3\": 33.85461852, \"4\": 39.27500388, \"5\": 33.87170375, \"6\": 31.0, \"7\": 41.87477994, \"8\": 32.76590554, \"9\": 61.73774144, \"10\": 67.10325804, \"11\": 122.5803784, \"12\": 107.4077355}, \"flower_month\": 11}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 13.39148076, \"2\": 10.73455655, \"3\": 20.57587438, \"4\": 31.07454033, \"5\": 39.22259862, \"6\": 54.5333792, \"7\": 30.62185045, \"8\": 18.04338257, \"9\": 11.93298178, \"10\": 14.49900133, \"11\": 14.34577856, \"12\": 12.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 18.31455522, \"2\": 18.62731251, \"3\": 25.09814107, \"4\": 37.9710317, \"5\": 51.6580524, \"6\": 48.84395968, \"7\": 24.84901586, \"8\": 11.70639185, \"9\": 5.87375848, \"10\": 11.06161254, \"11\": 7.806481436, \"12\": 15.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 4.382580713, \"2\": 3.313403126, \"3\": 4.379004462, \"4\": 6.193155382, \"5\": 8.91484452, \"6\": 15.89472379, \"7\": 8.638523822, \"8\": 5.702998737, \"9\": 7.104409191, \"10\": 5.136983312, \"11\": 4.875040677, \"12\": 6.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 23.95535424, \"2\": 18.16251513, \"3\": 15.57736657, \"4\": 18.56187467, \"5\": 32.01528449, \"6\": 67.88423104, \"7\": 40.96197179, \"8\": 27.58194337, \"9\": 16.6664033, \"10\": 14.46188227, \"11\": 27.48371785, \"12\": 21.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 49.21010729, \"2\": 33.02276979, \"3\": 55.12468883, \"4\": 64.13711595, \"5\": 126.6068118, \"6\": 310.2538469, \"7\": 191.8919537, \"8\": 156.5732709, \"9\": 120.0449014, \"10\": 70.98024561, \"11\": 74.7630085, \"12\": 54.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 19.81837986, \"2\": 14.78991658, \"3\": 17.19776968, \"4\": 22.0189241, \"5\": 33.68485393, \"6\": 65.35017532, \"7\": 43.25356555, \"8\": 24.65807383, \"9\": 21.08404817, \"10\": 23.54970995, \"11\": 16.22725037, \"12\": 13.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 32.17970343, \"2\": 15.93148279, \"3\": 35.65137358, \"4\": 53.80880026, \"5\": 112.3064048, \"6\": 390.109039, \"7\": 217.4511938, \"8\": 146.2541229, \"9\": 111.7042951, \"10\": 73.21805502, \"11\": 58.62210905, \"12\": 29.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 188.6657813, \"2\": 144.4159904, \"3\": 192.0708577, \"4\": 255.6115869, \"5\": 475.8532284, \"6\": 1188.792101, \"7\": 682.5448716, \"8\": 482.3111418, \"9\": 343.5402121, \"10\": 240.3553515, \"11\": 226.6550792, \"12\": 173.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The summer-blooming bell-shaped flowers of viper's bugloss make it an eye-catching addition to mixed beds and borders of cottage gardens. This wildflower brings numerous pollinators to gardens, so is eminently suitable for wildflower gardens. Being relatively salt-tolerant, it can be confidently planted in coastal gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Falsehood",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Despite its frightening appearance and fearsome common names, viper's bugloss is a beloved ornamental plant with dozens of cultivars released. It's also a favorite of many insects, especially bees and butterflies.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Viper's bugloss||Common viper's bugloss",
+                "values": [
+                    "Viper's bugloss comes from two words - 'bou' (Greek word, meaning cow or ox) and 'glosso' (Latin word, meaning tongue) which refers to the leaves shaped like an ox tongue. The other part of its common names probably refers to the stem markings, resembling the snake pattern, or it refers to the shape of flowers which really look like bunch of snake heads and tongues."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Viper's bugloss is a toxic plant</strong> affecting both cats and dogs upon ingestion. Symptoms include vomiting, diarrhea, and even tremors or seizures. Contact dermatitis can occur from the plantÃ¢ÂÂs small hairs, causing skin irritation. Immediate veterinary care is crucial after any exposure to <strong>viper's bugloss</strong> to ensure the well-being of the pet.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Echium_vulgare.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Viper's bugloss is native to Europe and northwest Asia. It roots in pastures and roadsides throughout USDA zones 3 to 8. It is considered invasive in over eighteen countries, including Australia, Russia, Belarus, South Africa, and the United States. In the U.S., the plant is considered invasive in Alaska, Wyoming, Idaho, Utah, and West Virginia. In such areas, viper's bugloss forms strands that inhibit the growth of native vegetation. Contact may result in dermatitis, and repeated ingestion may poison livestock over time due to the plant's pyrrolizidine alkaloids. Viper's bugloss reseeds quickly, but, if necessary, the flowering spikes can be removed to inhibit proliferation.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to remove or restrict viper's bugloss is before it sets seed, ideally in the spring or early summer. This ensures the plant does not spread uncontrollably.\n  </div> \n  <ol> \n   <li>Hand Pulling: Identify young viper's bugloss plants and pull them out by grasping them at the base and pulling firmly to remove the entire root system.</li> \n   <li>Mowing: Regularly mow the area where viper's bugloss is growing to prevent the plant from flowering and setting seeds.</li> \n   <li>Smothering: Lay down a thick layer of mulch over the area where viper's bugloss is growing to block sunlight and suppress its growth.</li> \n   <li>Strategic planting: Introduce competitive plants that can out-compete viper's bugloss for resources, effectively containing its spread.</li> \n   <li>Biological control: Encourage the presence of viper's bugloss's natural predators, like certain insects, to help naturally manage the population.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Vivid blue funnel-shaped flowers on bristly stalks",
+            "Distinctive viper head-like seed structures",
+            "Coarse, hairy lance-shaped leaves with white speckles",
+            "Stem with bristly, hairy texture and purple spots",
+            "Fruit comprising grey-brown nutlets with bumpy texture"
+        ],
+        "title": "Quickly Identify Viper's bugloss",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Echium-vulgare.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from well-drained soils in temperate regions, viper's bugloss thrives with moderate moisture. Weekly watering promotes steady growth, avoiding waterlogging and dryness. Natural rainfall complements its needs, especially during the active growing season when it produces vibrant blooms.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing viper's bugloss with high-phosphorus fertilizers promotes growth and blooms. Apply sparingly in early spring and during peak growth, avoiding late summer to prevent frost damage. Fertilize bi-monthly and ensure even soil distribution to prevent foliage burn for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Viper's bugloss is a hardy biennial with tall blue flower spikes. Prune in early to late spring to enhance growth and flowering; remove dead stems and spent flowers to maintain health and prolong blooms. Minimal intervention benefits the plant's natural growth habit and promotes air circulation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Viper's bugloss propagates easily by sowing in Spring, with successful signs being emerging seedlings and steady growth. For optimal results, maintain adequate moisture and appropriate spacing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Echium_vulgare.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you grow viper's bugloss from seed?",
+            "link": "/ask/Echium_vulgare-0.html"
+        },
+        {
+            "q": "Is viper's bugloss poisonous?",
+            "link": "/ask/Echium_vulgare-1.html"
+        },
+        {
+            "q": "Is viper's bugloss edible?",
+            "link": "/ask/Echium_vulgare-2.html"
+        },
+        {
+            "q": "Is viper's bugloss an annual?",
+            "link": "/ask/Echium_vulgare-3.html"
+        },
+        {
+            "q": "Where is viper's bugloss native?",
+            "link": "/ask/Echium_vulgare-4.html"
+        },
+        {
+            "q": "How tall is viper's bugloss?",
+            "link": "/ask/Echium_vulgare-5.html"
+        },
+        {
+            "q": "Is viper's bugloss tolerant to cold?",
+            "link": "/ask/Echium_vulgare-6.html"
+        },
+        {
+            "q": "How do I get rid of viper's bugloss?",
+            "link": "/ask/Echium_vulgare-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Echium-vulgare-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Echium-vulgare-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "flower wilting",
+                "link": "/disease/Echium-vulgare-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Echium-vulgare-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Echium-vulgare-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Echium-vulgare-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Echium-vulgare-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Echium-vulgare-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Echium-vulgare-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Echium-vulgare-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Echium-vulgare-Wounds.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Echium-vulgare-Black-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Echium-vulgare-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Echium-vulgare-Mealybug.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Echium-vulgare-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Echium-vulgare-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Echium-vulgare-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Echium-vulgare-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Echium-vulgare-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Gray mold",
+                "link": "/disease/Echium-vulgare-Gray-mold.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Echium-vulgare-Spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Echium-vulgare-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Echium-vulgare-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Echium-vulgare-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Echium-vulgare-Powdery-mildew.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Ledebouria socialis",
+                "link": "/wiki/Ledebouria_socialis.html",
+                "imageUrl": "/wiki-image/1080/153908907553587203.jpeg",
+                "displayName": "Silver squill"
+            },
+            {
+                "scientificName": "Salvia pratensis",
+                "link": "/wiki/Salvia_pratensis.html",
+                "imageUrl": "/wiki-image/1080/152507296516145154.jpeg",
+                "displayName": "Meadow sage"
+            },
+            {
+                "scientificName": "Schinus molle",
+                "link": "/wiki/Schinus_molle.html",
+                "imageUrl": "/wiki-image/1080/202656601640009728.jpeg",
+                "displayName": "Peruvian peppertree"
+            },
+            {
+                "scientificName": "Ipomoea quamoclit",
+                "link": "/wiki/Ipomoea_quamoclit.html",
+                "imageUrl": "/wiki-image/1080/154064548578459652.jpeg",
+                "displayName": "Cypress vine"
+            },
+            {
+                "scientificName": "Dysphania ambrosioides",
+                "link": "/wiki/Dysphania_ambrosioides.html",
+                "imageUrl": "/wiki-image/1080/153743336564326429.jpeg",
+                "displayName": "Mexican tea"
+            },
+            {
+                "scientificName": "Aloe arborescens",
+                "link": "/wiki/Aloe_arborescens.html",
+                "imageUrl": "/wiki-image/1080/347101411284516864.jpeg",
+                "displayName": "Candelabra aloe"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Echium_vulgare.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Echium_vulgare.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Echium_vulgare.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Echium_vulgare.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Echium_vulgare.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Echium_vulgare.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Echium_vulgare.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Echium_vulgare.html",
+            "values": [
+                "Care Viper's bugloss",
+                "Care Viper's bugloss",
+                "Grow Viper's bugloss",
+                "Maintain Viper's bugloss",
+                "Viper's bugloss Care",
+                "Viper's bugloss Grow",
+                "Viper's bugloss Maintain",
+                "Viper's bugloss Cares",
+                "Growth Viper's bugloss",
+                "Maintains Viper's bugloss",
+                "Viper's bugloss Growth",
+                "Viper's bugloss Maintains",
+                "Viper's bugloss Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Echium-vulgare-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Echium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Echium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Echium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Echium_vulgare.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Echium_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Echium_vulgare.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Echium_vulgare.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Echium_vulgare.html"
+        }
+    ]
+}

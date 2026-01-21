@@ -1,0 +1,969 @@
+{
+    "title": "Porcelainflower (Hoya carnosa) - PictureThis",
+    "displayName": "Porcelainflower",
+    "otherCommonName": "Rope hoya",
+    "mainImage": {
+        "copyright": {
+            "width": 1920,
+            "height": 1920,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Lorenzo Andrioli",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "license": "CC-BY-SA-2.0"
+        },
+        "imageUrl": "/wiki-image/1080/201212968642412544.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/35078244@N03",
+                "author": "Van Pham",
+                "licenseLink": "",
+                "license": "CC-BY-ND-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154150855946272773.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3072,
+                "height": 2304,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/7243863@N07",
+                "author": "mtcarlson",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153919782410780682.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 720,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/18891883@N00",
+                "author": "Tyrone Adams",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154061658065469448.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1280,
+                "height": 960,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/66822956@N02",
+                "author": "Storm",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153757346747645969.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Porcelain Flower 'Krimson Queen'",
+            "link": "/wiki/Hoya_carnosa__Krimson_Queen_.html"
+        },
+        {
+            "displayName": "Porcelainflower 'Tricolor'",
+            "link": "/wiki/Hoya_carnosa__Tricolor_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The porcelainflower is a flowering species native to East Asia and Australia. Porcelainflower is commonly valued as a houseplant for its ability to purify indoor air quality. Porcelainflower produces nectar and can attract pollinators.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The porcelainflower is a flowering species native to East Asia and Australia. Porcelainflower is commonly valued as a houseplant for its ability to purify indoor air quality. Porcelainflower produces nectar and can attract pollinators.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Porcelainflower (<i>Hoya carnosa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Waxplants",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Hoya.html"
+            },
+            {
+                "type": "Family",
+                "name": "Dogbane",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apocynaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gentians, dogbanes, madders, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Gentianales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Succulent, Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Early summer, Mid summer, Mid fall, Late fall, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   45 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 41 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288810802337316864.jpeg",
+        "habitat": "Humid subtropical forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Porcelainflower is native to China, neighboring countries in the South China Sea, and Japan. It has also been introduced into several other Asian countries. Its original ecosystem is in hot, humid conditions, typically growing in subtropical forests.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2009",
+                "2061",
+                "1747",
+                "1658",
+                "1327",
+                "1262",
+                "1621",
+                "2219",
+                "2744",
+                "2592",
+                "1891",
+                "2409"
+            ],
+            "north": [
+                "22290",
+                "22746",
+                "30032",
+                "34185",
+                "35282",
+                "29252",
+                "28324",
+                "24935",
+                "21209",
+                "16206",
+                "14291",
+                "21259"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The long flowering season of porcelainflower lasts from spring to autumn when planted in sunny tropical gardens. Its colorful blooms and vibrant green foliage make it a decorative addition to any garden. You can also plant it in a pot and keep it in a tropical greenhouse or in a room where you can enjoy its vibrant flowers.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Youthfulness, wealth, protection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Porcelainflower flowers are hugged together in clusters to form a spherical shape. It looks like a cluster of flowers. Most porcelainflower flowers are white, and their hearts are red, just like the faces of young girls, who are smart and shy.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Wax plant||Porcelainflower",
+                "values": [
+                    "This tropical indoor plant is often called a Ã¢ÂÂWax plantÃ¢ÂÂ due to its thick waxy leaves. It is a classic plant because it lives forever, and it can grow enormously. Furthermore, it can create beautiful, porcelain-like fragrant flower clusters which is why it is also called Porcelainflower."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Porcelainflower contains mild toxins</strong> in its latex-filled sap and leaves. Ingestion may be harmful to some, <strong>especially those with latex allergies</strong>. Severity varies by amount ingested and individual size. Handling porcelainflower can also cause skin irritation but it is not toxic when inhaled.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Hoya_carnosa.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Thick, dark-green ovate leaves, 2-4 inches (5-10 cm) long with silver or creamy variegation.",
+            "Fragrant, light pink flowers with star-shaped centers, forming dense spherical clusters.",
+            "Vining spread can reach 12-15 feet (3.7-4.5 meters) with sweet-smelling blooms.",
+            "Star-shaped white flowers with faint pink tints, hairy texture, and sweet fragrance.",
+            "Small, dry, dehiscent fruit pods less than 0.4 inches (1 cm) in length, releasing seeds."
+        ],
+        "title": "Quickly Identify Porcelainflower",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Hoya-carnosa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 41 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Porcelainflower prefers high humidity and drought tolerance, needing careful moisture management to avoid root rot. Water every three weeks, allowing soil to dry between. Often grown indoors, porcelainflower thrives with misting or a pebble tray to boost humidity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal porcelainflower health, feed with Succulents and Cacti Food bi-weekly at half strength during growth phases (spring to fall), reducing to monthly in winter. Use well-draining pots to avoid nutrient buildup and prevent root damage from over-fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The porcelainflower requires no pruning, as new growth emerges from its tendrils. Light trimming is permitted in early spring to manage size or remove dead growth, but avoid heavy pruning, which can harm the plant. Pruning outside this timeframe is not recommended.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Porcelainflower, part of the Asclepiadaceae family, is best propagated through 4-6 inch cuttings with two or more leaves. Use a sterilized tool, remove bottom leaves, and let the cut end dry. Dipping in rooting hormone and planting in well-draining soil with consistent moisture aids rooting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot porcelainflower in spring, ideally every 2 years in a pot 1-2 inches larger. Use well-draining containers and provide indirect light with consistent moisture to promote healthy growth and the development of its beautiful, waxy flowers.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Hoya_carnosa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where are porcelainflowers native to?",
+            "link": "/ask/Hoya_carnosa-0.html"
+        },
+        {
+            "q": "Is porcelainflower a succulent?",
+            "link": "/ask/Hoya_carnosa-1.html"
+        },
+        {
+            "q": "How do you grow porcelainflower?",
+            "link": "/ask/Hoya_carnosa-2.html"
+        },
+        {
+            "q": "Can porcelainflower plant indoors?",
+            "link": "/ask/Hoya_carnosa-3.html"
+        },
+        {
+            "q": "When does porcelainflower bloom?",
+            "link": "/ask/Hoya_carnosa-4.html"
+        },
+        {
+            "q": "Do porcelainflowers like direct sunlight?",
+            "link": "/ask/Hoya_carnosa-5.html"
+        },
+        {
+            "q": "Why is my porcelainflower plant not blooming?",
+            "link": "/ask/Hoya_carnosa-6.html"
+        },
+        {
+            "q": "What do porcelainflowers symbolize?",
+            "link": "/ask/Hoya_carnosa-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Hoya-carnosa-Wilting.html"
+            },
+            {
+                "diseaseName": "Mealybugs",
+                "link": "/disease/Hoya-carnosa-Mealybugs.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Hoya-carnosa-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Hoya-carnosa-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Hoya-carnosa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Hoya-carnosa-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Hoya-carnosa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Hoya-carnosa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Etiolated stem",
+                "link": "/disease/Hoya-carnosa-Etiolated-stem.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Hoya-carnosa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Hoya-carnosa-Aphid.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Hoya-carnosa-White-blotch.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Hoya-carnosa-Whitefly.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Hoya-carnosa-Mealybug.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Hoya-carnosa-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Water stains",
+                "link": "/disease/Hoya-carnosa-Water-stains.html"
+            },
+            {
+                "diseaseName": "Leaf wrinkling",
+                "link": "/disease/Hoya-carnosa-Leaf-wrinkling.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Hoya-carnosa-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Hoya-carnosa-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Hoya-carnosa-Scale-insect.html"
+            },
+            {
+                "diseaseName": "leaf discolorations",
+                "link": "/disease/Hoya-carnosa-leaf-discolorations.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Comptonia peregrina",
+                "link": "/wiki/Comptonia_peregrina.html",
+                "imageUrl": "/wiki-image/1080/154036017110712326.jpeg",
+                "displayName": "Sweetfern"
+            },
+            {
+                "scientificName": "Trifolium fragiferum",
+                "link": "/wiki/Trifolium_fragiferum.html",
+                "imageUrl": "/wiki-image/1080/153451214363688965.jpeg",
+                "displayName": "Strawberry clover"
+            },
+            {
+                "scientificName": "Papaver rupifragum",
+                "link": "/wiki/Papaver_rupifragum.html",
+                "imageUrl": "/wiki-image/1080/222386650608631808.jpeg",
+                "displayName": "Spanish poppy"
+            },
+            {
+                "scientificName": "Yucca elata",
+                "link": "/wiki/Yucca_elata.html",
+                "imageUrl": "/wiki-image/1080/153782274737831952.jpeg",
+                "displayName": "Soaptree yucca"
+            },
+            {
+                "scientificName": "Melaleuca linariifolia",
+                "link": "/wiki/Melaleuca_linariifolia.html",
+                "imageUrl": "/wiki-image/1080/153812159120277521.jpeg",
+                "displayName": "Snow-in-summer"
+            },
+            {
+                "scientificName": "Symphyotrichum laeve",
+                "link": "/wiki/Symphyotrichum_laeve.html",
+                "imageUrl": "/wiki-image/1080/154156482353430561.jpeg",
+                "displayName": "Smooth blue aster"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Hoya_carnosa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Hoya_carnosa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Hoya_carnosa.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Hoya_carnosa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Hoya_carnosa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Hoya_carnosa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Hoya_carnosa.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Hoya_carnosa.html",
+            "values": [
+                "Care Porcelainflower",
+                "Care Porcelainflower",
+                "Grow Porcelainflower",
+                "Maintain Porcelainflower",
+                "Porcelainflower Care",
+                "Porcelainflower Grow",
+                "Porcelainflower Maintain",
+                "Porcelainflower Cares",
+                "Growth Porcelainflower",
+                "Maintains Porcelainflower",
+                "Porcelainflower Growth",
+                "Porcelainflower Maintains",
+                "Porcelainflower Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-leaf-discolorations.html",
+            "values": [
+                "leaf discolorations"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Etiolated-stem.html",
+            "values": [
+                "Etiolated stem"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hoya-carnosa-Leaf-wrinkling.html",
+            "values": [
+                "Leaf wrinkling"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Hoya_carnosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Hoya_carnosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Hoya_carnosa.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Hoya_carnosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Hoya_carnosa.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "How to arrange succulents together?",
+            "link": "/succulent-arrangements/Hoya_carnosa.html",
+            "lmsicon": "/wiki-image/1080/545508842865000448.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Hoya_carnosa.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Hoya_carnosa.html"
+        }
+    ]
+}

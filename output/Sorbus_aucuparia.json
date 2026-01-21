@@ -1,0 +1,993 @@
+{
+    "title": "European mountain-ash (Sorbus aucuparia) - PictureThis",
+    "displayName": "European mountain-ash",
+    "otherCommonName": "Quickbeam, European Rowan, Quicken-Tree, Rowan, Witchwood, Ranty",
+    "mainImage": {
+        "copyright": {
+            "width": 3648,
+            "height": 3648,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "alsages",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202657903015100416.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9753505",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153882291641253898.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5819539",
+                "authorLink": "https://www.inaturalist.org/people/dagendresen",
+                "author": "dagendresen",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153958905267879957.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 428,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20849577",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153858798170144803.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31256904",
+                "authorLink": "https://www.inaturalist.org/people/convallaria1128",
+                "author": "convallaria1128",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153857002873815081.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "European mountain-ash 'Sheerwater Seedling'",
+            "link": "/wiki/Sorbus_aucuparia__Sheerwater_Seedling_.html"
+        },
+        {
+            "displayName": "European mountain-ash 'Joseph Rock'",
+            "link": "/wiki/Sorbus_aucuparia__Joseph_Rock_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Sorbus aucuparia, also known as european mountain-ash, is a deciduous tree native to Europe. It grows a slim trunk with upward-curving branches as it matures. Its admirable upright and dense branching gives the plant an oval crown. The juicy and soft clustered fruits are an excellent source of food for birds, while its yellow to plum foliage adds to its overall aesthetic appeal.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Sorbus aucuparia, also known as european mountain-ash, is a deciduous tree native to Europe. It grows a slim trunk with upward-curving branches as it matures. Its admirable upright and dense branching gives the plant an oval crown. The juicy and soft clustered fruits are an excellent source of food for birds, while its yellow to plum foliage adds to its overall aesthetic appeal.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "European mountain-ash (<i>Sorbus aucuparia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Sorbus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Sorbus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   8 mm to 1.1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801183485132800.jpeg",
+        "habitat": "Woods, scrub, mountain rocks",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   European mountain-ash grows naturally in the wild across the mountain slopes of north and central Eurasia. It has also been extensively introduced across northern North America, New Zealand, and Argentina.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "392",
+                "368",
+                "343",
+                "234",
+                "210",
+                "182",
+                "283",
+                "302",
+                "332",
+                "306",
+                "163",
+                "416"
+            ],
+            "north": [
+                "1654",
+                "1792",
+                "11341",
+                "39708",
+                "31155",
+                "26766",
+                "40384",
+                "29331",
+                "18062",
+                "6820",
+                "2465",
+                "2015"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "European mountain-ash is planted as an ornamental in a variety of landscapes. It can be used as a street tree in public areas where there is no winter salting. In the garden, it is the right size for a shade tree or a central lawn feature. Planting Monkshood, decorative grasses, or Anemones underneath can fill out the space around the trunk.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Psychic powers, Healing, Protection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The shrubs and trees of the Sorbus genus, commonly know as mountain-ashes or rowans, have a significant place in European mythology. It was believed that Sorbus aucuparia is a magical tree that protects against witches and evil spirits.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "European mountain-ash",
+                "values": [
+                    "This plant is always planted for the purpose of strengthening the soil in mountainous areas. It will produce dense yellow and white flowers in May and June and then produce lovely red spherical fruits. Since it is native to Europe, it is called European mountain-ash."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>European mountain-ash poses a mild toxicity</strong> risk to cats and dogs, mainly if its fruit is consumed in large quantities. Symptoms include gastrointestinal upset. <strong>Prompt veterinary care</strong> is crucial if ingestion is suspected to manage their health effectively and mitigate any potential risks. Owners should be vigilant, especially during the fruiting season, to prevent access by pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Sorbus_aucuparia.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Terminal corymbs of small, white flowers in late spring",
+            "Vibrant red-orange 1/3 inch (8.5 mm) berry-like fruits",
+            "Smooth, lanceolate pinnate leaves with serrated edges",
+            "Upright, spreading stem with visible lenticels",
+            "Bark transitions from smooth light gray to dark gray and rugged with age"
+        ],
+        "title": "Quickly Identify European mountain-ash",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Sorbus-aucuparia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European mountain-ash originates from cooler European climates and prefers moderate moisture. Thrives in well-drained soil, requiring watering every 1-2 weeks. It adapts well to temperate zones, flourishing outdoors without frequent supplemental irrigation, benefiting from natural rainfall patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European mountain-ash requires balanced fertilizers annually in early spring for foliage and high nitrogen pre-flowering for blooms. Use minimal amounts to prevent over-fertilization. Adjust application seasonally and avoid trunk contact to prevent burn, ensuring healthier growth and vibrant fruits.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European mountain-ash thrives with early spring pruning, focusing on damaged branches for shape and health. Thinning improves air circulation, reducing disease risks. Removing suckers prevents energy loss, and proper timing during dormancy maximizes flowering and fruiting. Always use clean, sharp tools for accuracy.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European mountain-ash is propagated via hardwood cuttings, layering, and seeds, best in autumn and winter. Success indicators are new shoots or roots. Key tips include keeping soil moist and providing sufficient light for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Sorbus_aucuparia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How many years does european mountain-ash live?",
+            "link": "/ask/Sorbus_aucuparia-0.html"
+        },
+        {
+            "q": "When should I trim european mountain-ash?",
+            "link": "/ask/Sorbus_aucuparia-1.html"
+        },
+        {
+            "q": "Are european mountain-ash berries poisonous?",
+            "link": "/ask/Sorbus_aucuparia-2.html"
+        },
+        {
+            "q": "Is the european mountain-ash an evergreen?",
+            "link": "/ask/Sorbus_aucuparia-3.html"
+        },
+        {
+            "q": "How tall is european mountain-ash?",
+            "link": "/ask/Sorbus_aucuparia-4.html"
+        },
+        {
+            "q": "What is the habitat of european mountain-ash?",
+            "link": "/ask/Sorbus_aucuparia-5.html"
+        },
+        {
+            "q": "Are european mountain-ash berries edible?",
+            "link": "/ask/Sorbus_aucuparia-6.html"
+        },
+        {
+            "q": "How often should european mountain-ash be watered?",
+            "link": "/ask/Sorbus_aucuparia-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Sorbus-aucuparia-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Sorbus-aucuparia-Black-spot.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Sorbus-aucuparia-Scars.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Sorbus-aucuparia-Underwatering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Sorbus-aucuparia-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Sorbus-aucuparia-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Sorbus-aucuparia-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Sorbus-aucuparia-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Sorbus-aucuparia-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Sorbus-aucuparia-Gall.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Sorbus-aucuparia-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Sorbus-aucuparia-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Sorbus-aucuparia-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Sorbus-aucuparia-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Sorbus-aucuparia-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Sorbus-aucuparia-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Sorbus-aucuparia-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Sorbus-aucuparia-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Sorbus-aucuparia-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Sorbus-aucuparia-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Sorbus-aucuparia-Aphid.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Sorbus-aucuparia-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Sorbus-aucuparia-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Sorbus-aucuparia-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Sorbus-aucuparia-Leaf-blight.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Wisteria sinensis",
+                "link": "/wiki/Wisteria_sinensis.html",
+                "imageUrl": "/wiki-image/1080/153835669771255828.jpeg",
+                "displayName": "Chinese wisteria"
+            },
+            {
+                "scientificName": "Lantana camara",
+                "link": "/wiki/Lantana_camara.html",
+                "imageUrl": "/wiki-image/1080/201214725284036608.jpeg",
+                "displayName": "Common lantana"
+            },
+            {
+                "scientificName": "Croton monanthogynus",
+                "link": "/wiki/Croton_monanthogynus.html",
+                "imageUrl": "/wiki-image/1080/153952016140337166.jpeg",
+                "displayName": "Prairie Tea"
+            },
+            {
+                "scientificName": "Prunus laurocerasus",
+                "link": "/wiki/Prunus_laurocerasus.html",
+                "imageUrl": "/wiki-image/1080/202644562846679040.jpeg",
+                "displayName": "Cherry laurel"
+            },
+            {
+                "scientificName": "Allamanda cathartica",
+                "link": "/wiki/Allamanda_cathartica.html",
+                "imageUrl": "/wiki-image/1080/201161892891262976.jpeg",
+                "displayName": "Golden trumpet"
+            },
+            {
+                "scientificName": "Platycladus orientalis",
+                "link": "/wiki/Platycladus_orientalis.html",
+                "imageUrl": "/wiki-image/1080/347119321298141184.jpeg",
+                "displayName": "Oriental arborvitae"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Sorbus_aucuparia.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Sorbus_aucuparia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Sorbus_aucuparia.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Sorbus_aucuparia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Sorbus_aucuparia.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Sorbus_aucuparia.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Sorbus_aucuparia.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Sorbus_aucuparia.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Sorbus_aucuparia.html",
+            "values": [
+                "Care European mountain-ash",
+                "Care European mountain-ash",
+                "Grow European mountain-ash",
+                "Maintain European mountain-ash",
+                "European mountain-ash Care",
+                "European mountain-ash Grow",
+                "European mountain-ash Maintain",
+                "European mountain-ash Cares",
+                "Growth European mountain-ash",
+                "Maintains European mountain-ash",
+                "European mountain-ash Growth",
+                "European mountain-ash Maintains",
+                "European mountain-ash Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Sorbus-aucuparia-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Sorbus_aucuparia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Sorbus_aucuparia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Sorbus_aucuparia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Sorbus_aucuparia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Sorbus_aucuparia.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Sorbus_aucuparia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Sorbus_aucuparia.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Sorbus_aucuparia.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Sorbus_aucuparia.html"
+        }
+    ]
+}

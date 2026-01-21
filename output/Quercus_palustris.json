@@ -1,0 +1,967 @@
+{
+    "title": "Pin oak (Quercus palustris) - PictureThis",
+    "displayName": "Pin oak",
+    "otherCommonName": "Swamp oak",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202645696718045184.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10895464",
+                "authorLink": "https://www.inaturalist.org/people/abookb",
+                "author": "abookb",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153945947351547937.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29262623",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153940909354909729.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29321381",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153864574901157890.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/38069396",
+                "authorLink": "https://www.inaturalist.org/people/magrietb",
+                "author": "magrietb",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153866073844744226.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "In spring and summer, pin oak exhibits a rapid growth rate, leading to swift height increase and proficient leaf production. Extended daylight maximizes photosynthesis, encouraging its quick development. Despite light slowing in other seasons, pin oak's speed primarily peaks in these warmer periods, crafting its signature tall, leafy canopy.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Quercus palustris, colloquially known as pin oak, is a deciduous tree native to North America. Due to its favorable growing qualities and beautiful bronze coloration in autumn, pin oak is one of the most common oak species used in landscaping.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Quercus palustris, colloquially known as pin oak, is a deciduous tree native to North America. Due to its favorable growing qualities and beautiful bronze coloration in autumn, pin oak is one of the most common oak species used in landscaping.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Pin oak (<i>Quercus palustris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Oaks",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Quercus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Beech",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fagaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Beeches, walnuts, and allied trees",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m to 15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 8 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803726105772035.jpeg",
+        "habitat": "Upland",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Pin oak is native to the lowland swamps and floodplains of North America. It is used around the world as a landscaping tree, and populations have naturalized in central and eastern Europe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 39.13741415, \"2\": 49.33515778, \"3\": 48.4184082, \"4\": 83.31591071, \"5\": 39.8063345, \"6\": 27.0, \"7\": 20.90868558, \"8\": 14.67265689, \"9\": 20.74192106, \"10\": 43.65068949, \"11\": 44.70360639, \"12\": 47.82346608}, \"fruit_month\": 4, \"fall_foliage_month\": 4}, \"Cfb\": {\"trends\": {\"1\": 38.47676833, \"2\": 36.62002067, \"3\": 33.06921988, \"4\": 47.76406788, \"5\": 25.21784752, \"6\": 23.0, \"7\": 18.18014057, \"8\": 18.86689775, \"9\": 12.08056764, \"10\": 32.45827599, \"11\": 37.75382213, \"12\": 39.23729375}, \"fruit_month\": 4, \"fall_foliage_month\": 4}, \"Default\": {\"trends\": {\"1\": 142.0953138, \"2\": 148.7223127, \"3\": 130.1522001, \"4\": 179.6622518, \"5\": 105.0022816, \"6\": 70.0, \"7\": 65.66726855, \"8\": 60.85096743, \"9\": 72.47473995, \"10\": 123.6439662, \"11\": 131.3885493, \"12\": 150.8278839}, \"fruit_month\": 4, \"fall_foliage_month\": 4}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 16.73935095, \"2\": 19.93560502, \"3\": 23.25968408, \"4\": 23.42542271, \"5\": 25.85459685, \"6\": 29.46834776, \"7\": 26.7333615, \"8\": 25.07724358, \"9\": 31.17972659, \"10\": 40.81200375, \"11\": 49.31361381, \"12\": 43.0}, \"fruit_month\": 11, \"fall_foliage_month\": 11}, \"Csa\": {\"trends\": {\"1\": 21.80304193, \"2\": 24.58805251, \"3\": 14.81201768, \"4\": 29.7395493, \"5\": 33.69003417, \"6\": 24.8359117, \"7\": 23.73637336, \"8\": 24.97363595, \"9\": 37.50168876, \"10\": 34.84407949, \"11\": 39.03240718, \"12\": 30.0}, \"fruit_month\": 11, \"fall_foliage_month\": 11}, \"Csb\": {\"trends\": {\"1\": 23.3737638, \"2\": 29.82062813, \"3\": 30.28811419, \"4\": 31.69438343, \"5\": 37.79894076, \"6\": 30.45250821, \"7\": 29.05685286, \"8\": 33.95876521, \"9\": 59.88002032, \"10\": 80.32373906, \"11\": 69.87558304, \"12\": 32.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Cfa\": {\"trends\": {\"1\": 274.2475037, \"2\": 244.1849257, \"3\": 291.0371322, \"4\": 353.5884977, \"5\": 328.5160213, \"6\": 301.935632, \"7\": 303.4909728, \"8\": 301.4544164, \"9\": 514.8854808, \"10\": 642.4581639, \"11\": 777.9419025, \"12\": 369.0}, \"fruit_month\": 11, \"fall_foliage_month\": 11}, \"Cfb\": {\"trends\": {\"1\": 72.27734508, \"2\": 55.68545494, \"3\": 41.68804592, \"4\": 41.7723003, \"5\": 56.97886765, \"6\": 51.43326012, \"7\": 65.09409029, \"8\": 67.03056023, \"9\": 141.4178808, \"10\": 340.7051789, \"11\": 254.1942289, \"12\": 107.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Dfa\": {\"trends\": {\"1\": 302.8248442, \"2\": 391.6112695, \"3\": 384.6684811, \"4\": 349.0314026, \"5\": 444.1334298, \"6\": 399.5008671, \"7\": 450.3984849, \"8\": 462.2077244, \"9\": 758.7833886, \"10\": 1101.976904, \"11\": 863.2897196, \"12\": 324.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 50.33235664, \"2\": 47.07029005, \"3\": 52.1058537, \"4\": 65.56534486, \"5\": 51.14155757, \"6\": 48.44752309, \"7\": 58.33155963, \"8\": 55.76244149, \"9\": 120.4900261, \"10\": 203.6241767, \"11\": 138.926368, \"12\": 79.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}, \"Default\": {\"trends\": {\"1\": 808.6828148, \"2\": 931.1204493, \"3\": 1041.64412, \"4\": 1264.918062, \"5\": 1472.294526, \"6\": 1290.519064, \"7\": 1379.147841, \"8\": 1332.140369, \"9\": 2182.005408, \"10\": 2961.909877, \"11\": 2358.526766, \"12\": 1035.0}, \"fruit_month\": 10, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Pin oak is known as the most common landscaping oak in North America due to its quick growth and tolerance of a wide range of soils and climates. Large home gardens and public areas such as parks and streets will frequently have pin oak trees to provide shade and beautiful fall foliage. Magnolia, snowberry, and burning bush are all great companions.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Health, Money, strength",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Pin oak is one of the most commonly used ornamental trees in eastern and central North America. It is relatively susceptible to flooding during its growing season, but very tolerant of floods during its dormant season. Pin oak is the sole food source for caterpillars of the Bucculatrix domicola moth.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Pin oak",
+                "values": [
+                    "The name, \"pin oak\" is given possibly due to the large numbers of small and slender twigs. It may also be due to the historical use of the timber for pins in wooden building construction."
+                ]
+            },
+            {
+                "key": "Swamp oak",
+                "values": [
+                    "Its latin specific epithet, palustris refers to the meaning of swamp. As it is commonly grown in the swamp and other wetlands, it is then called swamp oak."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Pin oak has mildly toxic properties</strong>. If ingested, it can cause symptoms like vomiting, diarrhea, and gastrointestinal upset in <strong>dogs, cats, and children</strong>. Common in parks and yards, <strong>acorns, leaves</strong>, especially young foliage, and seeds are risky parts. Immediate veterinary care is crucial if pets consume it.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Quercus_palustris.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinct pyramidal shape in youth transitioning to rounded crown at maturity.",
+            "Dark green leaves with 5-7 pointed lobes and U-shaped sinuses.",
+            "Long, pendulous chains of yellow to greenish-yellow male flowers.",
+            "Small acorns with sleek cap covering 1/4-1/3, measuring 0.5-1 inches (1.3-2.5 cm).",
+            "Smooth, slender stem with reddish-brown color, 1/4-3/8 inch (6-10 mm) in diameter."
+        ],
+        "title": "Quickly Identify Pin oak",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Quercus-palustris.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from wetlands, pin oak thrives in consistently moist soil but can tolerate drought once established. Watering should occur every 1-2 weeks to maintain moisture without overwatering. Its watering needs are crucial during the growing season for optimal foliage development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For pin oak, fertilize biannually with balanced fertilizers in spring and autumn to promote growth. Use high nitrogen in early stages, reducing as pin oak matures. Follow manufacturer's guidelines to avoid over-fertilization, ensuring water quality and pin oak's health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pin oak features a pyramidal shape and vibrant fall color. Regular pruning in early spring is essential for health and structure, focusing on removing dead or crossing branches and thinning the crown. This practice prevents diseases and encourages vigorous growth, enhancing its resilience and appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pin oak can be propagated via hardwood cuttings, layering, and seeds in autumn and winter. The process is moderately difficult, with success indicated by new growth and root development. Maintain moist soil and provide sufficient sunlight for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Quercus_palustris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is it called pin oak?",
+            "link": "/ask/Quercus_palustris-0.html"
+        },
+        {
+            "q": "How tall does a pin oak get?",
+            "link": "/ask/Quercus_palustris-1.html"
+        },
+        {
+            "q": "Are pin oak good trees?",
+            "link": "/ask/Quercus_palustris-2.html"
+        },
+        {
+            "q": "What is the lifespan of a pin oak tree?",
+            "link": "/ask/Quercus_palustris-3.html"
+        },
+        {
+            "q": "Are pin oaks strong?",
+            "link": "/ask/Quercus_palustris-4.html"
+        },
+        {
+            "q": "When should pin oak trees be trimmed?",
+            "link": "/ask/Quercus_palustris-5.html"
+        },
+        {
+            "q": "What is the difference between a pin oak and a red oak?",
+            "link": "/ask/Quercus_palustris-6.html"
+        },
+        {
+            "q": "How much does a pin oak grow a year?",
+            "link": "/ask/Quercus_palustris-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Quercus-palustris-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Quercus-palustris-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Quercus-palustris-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Quercus-palustris-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Quercus-palustris-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Quercus-palustris-Aphid.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Quercus-palustris-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Quercus-palustris-Scars.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Quercus-palustris-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Quercus-palustris-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Quercus-palustris-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Quercus-palustris-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Quercus-palustris-Wounds.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Quercus-palustris-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Quercus-palustris-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Quercus-palustris-Gall.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Quercus-palustris-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Quercus-palustris-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Quercus-palustris-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Quercus-palustris-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Quercus-palustris-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Quercus-palustris-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Quercus-palustris-Crown-gall.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Plumeria pudica",
+                "link": "/wiki/Plumeria_pudica.html",
+                "imageUrl": "/wiki-image/1080/154128015310192672.jpeg",
+                "displayName": "Bridal bouquet"
+            },
+            {
+                "scientificName": "Dracaena reflexa var. angustifolia",
+                "link": "/wiki/Dracaena_reflexa_var._angustifolia.html",
+                "imageUrl": "/wiki-image/1080/153714491563966470.jpeg",
+                "displayName": "Madagascar dragon tree"
+            },
+            {
+                "scientificName": "Hypericum perforatum",
+                "link": "/wiki/Hypericum_perforatum.html",
+                "imageUrl": "/wiki-image/1080/154211354855604233.jpeg",
+                "displayName": "Common St. John's wort"
+            },
+            {
+                "scientificName": "Polyscias fruticosa",
+                "link": "/wiki/Polyscias_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/347123526071123968.jpeg",
+                "displayName": "Ming aralia"
+            },
+            {
+                "scientificName": "Melothria pendula",
+                "link": "/wiki/Melothria_pendula.html",
+                "imageUrl": "/wiki-image/1080/153749624396447751.jpeg",
+                "displayName": "Creeping cucumber"
+            },
+            {
+                "scientificName": "Plumeria rubra",
+                "link": "/wiki/Plumeria_rubra.html",
+                "imageUrl": "/wiki-image/1080/154018648262967327.jpeg",
+                "displayName": "Red frangipani"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Quercus_palustris.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Quercus_palustris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Quercus_palustris.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Quercus_palustris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Quercus_palustris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Quercus_palustris.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Quercus_palustris.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Quercus_palustris.html",
+            "values": [
+                "Care Pin oak",
+                "Care Pin oak",
+                "Grow Pin oak",
+                "Maintain Pin oak",
+                "Pin oak Care",
+                "Pin oak Grow",
+                "Pin oak Maintain",
+                "Pin oak Cares",
+                "Growth Pin oak",
+                "Maintains Pin oak",
+                "Pin oak Growth",
+                "Pin oak Maintains",
+                "Pin oak Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Quercus-palustris-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Quercus_palustris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Quercus_palustris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Quercus_palustris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Quercus_palustris.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Quercus_palustris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Quercus_palustris.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Quercus_palustris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Quercus_palustris.html"
+        }
+    ]
+}

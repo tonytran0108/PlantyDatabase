@@ -1,0 +1,982 @@
+{
+    "title": "Oregano (Origanum vulgare) - PictureThis",
+    "displayName": "Oregano",
+    "otherCommonName": "Common marjoram",
+    "mainImage": {
+        "copyright": {
+            "width": 2048,
+            "height": 1536,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/oregano-plant-gm93471651-1522116",
+            "authorLink": "",
+            "author": "Karimala",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317766552724275200.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4270093",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660396450873367.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22244868",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153978258390515713.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9181432",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154005157770690598.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10489463",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154011535797125153.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Oregano ' Aureum'",
+            "link": "/wiki/Origanum_vulgare___Aureum_.html"
+        },
+        {
+            "displayName": "Oregano 'Aureum'",
+            "link": "/wiki/Origanum_vulgare__Aureum_.html"
+        },
+        {
+            "displayName": "Oregano 'Variegata'",
+            "link": "/wiki/Origanum_vulgare__Variegata_.html"
+        },
+        {
+            "displayName": "Oregano 'Country Cream'",
+            "link": "/wiki/Origanum_vulgare__Country_Cream_.html"
+        },
+        {
+            "displayName": "Oregano 'Compactum'",
+            "link": "/wiki/Origanum_vulgare__Compactum_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Oregano (Origanum vulgare) is a herbaceous perennial plant closely related to marjoram. Ancient Greeks and Romans considered it a symbol of happiness. It is one of the most popular spice herbs, used in various cuisines all over the world. Oregano oil can be derived from the plant as well. Unfortunately, legal action has been required to stop suppliers of the oil from falsely claiming unproven health benefits.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Oregano (Origanum vulgare) is a herbaceous perennial plant closely related to marjoram. Ancient Greeks and Romans considered it a symbol of happiness. It is one of the most popular spice herbs, used in various cuisines all over the world. Oregano oil can be derived from the plant as well. Unfortunately, legal action has been required to stop suppliers of the oil from falsely claiming unproven health benefits.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Oregano (<i>Origanum vulgare</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Marjorams",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Origanum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial, Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm to 4 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801909334605824.jpeg",
+        "habitat": "Calcareous soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Oregano is native to Asia and Europe, growing on sunny hillsides. The herb is widely cultivated in gardens throughout the world and is naturalized in Mexico and United States.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BWk\": {\"trends\": {\"1\": 24.29906803, \"2\": 19.11278736, \"3\": 23.44808684, \"4\": 24.10419026, \"5\": 23.35184625, \"6\": 20.0, \"7\": 12.85026937, \"8\": 25.55794856, \"9\": 14.36614746, \"10\": 11.37596009, \"11\": 39.13621167, \"12\": 38.65767763}, \"flower_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 265.2646959, \"2\": 240.3099621, \"3\": 229.6206328, \"4\": 256.2357254, \"5\": 317.6545493, \"6\": 308.0, \"7\": 282.721792, \"8\": 276.5795824, \"9\": 250.0883053, \"10\": 215.5589605, \"11\": 351.0547913, \"12\": 325.6215411}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 901.0922336, \"2\": 803.9503305, \"3\": 783.9224999, \"4\": 818.0899744, \"5\": 845.0990086, \"6\": 745.0, \"7\": 761.3596353, \"8\": 789.5022954, \"9\": 809.9723252, \"10\": 899.0593925, \"11\": 1159.742502, \"12\": 1095.406551}, \"flower_month\": 11}, \"Csa\": {\"trends\": {\"1\": 135.0, \"2\": 150.0, \"3\": 160.0, \"4\": 140.0, \"5\": 89.0, \"6\": 84.0, \"7\": 122.0, \"8\": 91.0, \"9\": 148.0, \"10\": 160.0, \"11\": 203.0, \"12\": 147.0}, \"flower_month\": 11}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 100.6600433, \"2\": 136.058539, \"3\": 168.6168031, \"4\": 179.7912472, \"5\": 199.5564366, \"6\": 146.9878297, \"7\": 129.7731478, \"8\": 103.2619012, \"9\": 94.30896906, \"10\": 100.3851886, \"11\": 99.79015944, \"12\": 89.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 89.1124745, \"2\": 114.6437482, \"3\": 199.9745371, \"4\": 329.1479934, \"5\": 349.1053114, \"6\": 327.2530516, \"7\": 330.6198663, \"8\": 285.6683913, \"9\": 251.0224581, \"10\": 204.078337, \"11\": 177.9389847, \"12\": 104.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 378.3293876, \"2\": 598.3539707, \"3\": 804.051738, \"4\": 952.1328825, \"5\": 974.8327441, \"6\": 961.9419333, \"7\": 869.5109466, \"8\": 734.9776675, \"9\": 667.7199451, \"10\": 698.1144987, \"11\": 645.1039329, \"12\": 432.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 243.7438127, \"2\": 292.0248858, \"3\": 645.6479179, \"4\": 1177.941902, \"5\": 1317.128611, \"6\": 1238.909932, \"7\": 1418.282696, \"8\": 1029.235281, \"9\": 838.8894442, \"10\": 554.1529175, \"11\": 350.9926504, \"12\": 241.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 138.6202609, \"2\": 158.5906695, \"3\": 349.6577025, \"4\": 781.3580408, \"5\": 924.7623739, \"6\": 943.3957244, \"7\": 1000.866191, \"8\": 849.6435164, \"9\": 737.6876339, \"10\": 528.5563735, \"11\": 305.1561841, \"12\": 201.0}, \"flower_month\": 7}, \"Csa\": {\"trends\": {\"1\": 182.0, \"2\": 224.0, \"3\": 683.0, \"4\": 1214.0, \"5\": 1394.0, \"6\": 1098.0, \"7\": 660.0, \"8\": 559.0, \"9\": 436.0, \"10\": 337.0, \"11\": 220.0, \"12\": 152.0}, \"flower_month\": 5}, \"Dfc\": {\"trends\": {\"1\": 8.0, \"2\": 6.0, \"3\": 11.0, \"4\": 30.0, \"5\": 72.0, \"6\": 107.0, \"7\": 102.0, \"8\": 68.0, \"9\": 36.0, \"10\": 33.0, \"11\": 2.0, \"12\": 2.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Aromatic oil can be extracted from the whole plant and be used as an ingredient in distillerÃ¢ÂÂs yeast.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Oregano is a popular herb grown for its culinary use but also pleasant, pink flowers and sprawling growth habit. It can be grown as ground cover, in an herb garden, or in a container. It prefers full sun and well-draining soil for best results.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Happiness, serenity, romance, protection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The ancient Greeks believed that cows that grazed on full fields of oregano had tastier meat, contributing to why they referred to the herb as the joy of the mountain. The ancient Greeks also believed that if a person anointed themselves with oregano they would dream of their future husband or future wife.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Oregano",
+                "values": [
+                    "The word, oregano is derived from Classical Greek, Ã¡Â½ÂÃÂÃÂ¯ÃÂ³ÃÂ±ÃÂ½ÃÂ¿ÃÂ½ or orÃÂ«ÃÂganon in which the Spanish version is orÃÂ©gano, and orÃÂ«ganum in latin. This is a compound Greek term that consists of Ã¡Â½ÂÃÂÃÂ¿ÃÂ (ÃÂ³ros) meaning \"mountain\", and ÃÂ³ÃÂ¬ÃÂ½ÃÂ¿ÃÂ (gÃÂ¡nos) meaning \"brightness\", thus the combined word means \"brightness of the mountain\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Oregano is mildly toxic to cats and dogs;</strong> ingestion of all plant parts in high amounts can induce symptoms like gastrointestinal upset. If signs of poisoning appear, promptly seek veterinary care.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Origanum_vulgare.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Square stems distinguish oregano from other plants, aiding in quick identification.",
+            "Clustered purple-pink flowers with a pleasant aroma bloom from mid-summer to fall.",
+            "Distinct egg-shaped nutlets, each around 1-1.5 mm in length, differentiate the plant.",
+            "Oval, hairy leaves with serrated edges and a visible vein pattern characterize oregano."
+        ],
+        "title": "Quickly Identify Oregano",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Origanum-vulgare.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from a Mediterranean climate, oregano thrives in dry, well-drained soil and sunlight. It prefers occasional deep watering twice a week, exhibiting drought tolerance. As an aromatic perennial, it benefits from natural rainfall outdoors, enhancing flavor and essential oil concentration during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For oregano, provide balanced fertilizers every 2-4 weeks during growth, using a quarter-strength solution. Pause during dormancy to avoid over-fertilization, which can lead to leaf burn or diminished flavor. Adjust application based on the plant's growth response, and follow safety guidelines.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Oregano is an aromatic perennial herb often used in cooking. Prune it in early to late spring using sharp tools to foster new growth and bushiness, while avoiding heavy pruning in late fall to prevent frost damage. Regular maintenance enhances productivity and appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Oregano is a perennial herb valued for its aromatic leaves. Propagate using healthy stem cuttings with several nodes, planted in well-draining soil. Keep moist and consider rooting hormone for better success. Once rooted, transplant to ensure thriving growth, enhancing culinary dishes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot oregano every 2-3 years in spring using well-draining soil and slightly larger pots. Ensure adequate drainage and water lightly post-repotting, placing it in a sunny spot. Regular pruning promotes growth, helping oregano thrive in its new environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Origanum_vulgare.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is oregano used for?",
+            "link": "/ask/Origanum_vulgare-0.html"
+        },
+        {
+            "q": "Can I grow oregano at home?",
+            "link": "/ask/Origanum_vulgare-1.html"
+        },
+        {
+            "q": "How long does an oregano plant take to grow and mature?",
+            "link": "/ask/Origanum_vulgare-2.html"
+        },
+        {
+            "q": "Where is oregano's native territory?",
+            "link": "/ask/Origanum_vulgare-3.html"
+        },
+        {
+            "q": "What's the difference between oregano and Origanum?",
+            "link": "/ask/Origanum_vulgare-4.html"
+        },
+        {
+            "q": "Why does oregano taste bad to me?",
+            "link": "/ask/Origanum_vulgare-5.html"
+        },
+        {
+            "q": "Do you cut back oregano?",
+            "link": "/ask/Origanum_vulgare-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Origanum-vulgare-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Origanum-vulgare-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Origanum-vulgare-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Origanum-vulgare-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Origanum-vulgare-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Origanum-vulgare-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Origanum-vulgare-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Origanum-vulgare-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Origanum-vulgare-Notch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Origanum-vulgare-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Origanum-vulgare-Black-mold.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Origanum-vulgare-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Origanum-vulgare-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Origanum-vulgare-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Origanum-vulgare-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Origanum-vulgare-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Origanum-vulgare-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Origanum-vulgare-Spots.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Origanum-vulgare-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Origanum-vulgare-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Origanum-vulgare-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Origanum-vulgare-Mealybug.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Origanum-vulgare-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Origanum-vulgare-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Origanum-vulgare-Leaf-tip-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gustavia gracillima",
+                "link": "/wiki/Gustavia_gracillima.html",
+                "imageUrl": "/wiki-image/1080/157690776581570566.jpeg",
+                "displayName": "Heaven lotus"
+            },
+            {
+                "scientificName": "Bombax ceiba",
+                "link": "/wiki/Bombax_ceiba.html",
+                "imageUrl": "/wiki-image/1080/393492379546419200.jpeg",
+                "displayName": "Red Silk Cotton Tree"
+            },
+            {
+                "scientificName": "Liatris spicata",
+                "link": "/wiki/Liatris_spicata.html",
+                "imageUrl": "/wiki-image/1080/201217074631147520.jpeg",
+                "displayName": "Dense blazing star"
+            },
+            {
+                "scientificName": "Gazania rigens",
+                "link": "/wiki/Gazania_rigens.html",
+                "imageUrl": "/wiki-image/1080/201211594252877824.jpeg",
+                "displayName": "Treasure flower"
+            },
+            {
+                "scientificName": "Begonia coccinea",
+                "link": "/wiki/Begonia_coccinea.html",
+                "imageUrl": "/wiki-image/1080/154510344708947971.jpeg",
+                "displayName": "Scarlet begonia"
+            },
+            {
+                "scientificName": "Brachychiton acerifolius",
+                "link": "/wiki/Brachychiton_acerifolius.html",
+                "imageUrl": "/wiki-image/1080/154503275192778756.jpeg",
+                "displayName": "Illawarra flame tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Origanum_vulgare.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Origanum_vulgare.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Origanum_vulgare.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Origanum_vulgare.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Origanum_vulgare.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Origanum_vulgare.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Origanum_vulgare.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Origanum_vulgare.html",
+            "values": [
+                "Care Oregano",
+                "Care Oregano",
+                "Grow Oregano",
+                "Maintain Oregano",
+                "Oregano Care",
+                "Oregano Grow",
+                "Oregano Maintain",
+                "Oregano Cares",
+                "Growth Oregano",
+                "Maintains Oregano",
+                "Oregano Growth",
+                "Oregano Maintains",
+                "Oregano Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Thrips.html",
+            "values": [
+                "Thrips"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Origanum-vulgare-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Origanum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Origanum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Origanum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Origanum_vulgare.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Origanum_vulgare.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Origanum_vulgare.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Origanum_vulgare.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Origanum_vulgare.html"
+        }
+    ]
+}

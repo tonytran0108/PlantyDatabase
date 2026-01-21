@@ -1,0 +1,576 @@
+{
+    "title": "Lesser burdock (Arctium minus) - PictureThis",
+    "displayName": "Lesser burdock",
+    "otherCommonName": "Cuckoo-button, Button-bur",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153965467977908248.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/6319094",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152494506103537664.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 365,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31496429",
+                "authorLink": "https://www.inaturalist.org/people/convallaria1128",
+                "author": "convallaria1128",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152369187547774979.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7893670",
+                "authorLink": "https://www.inaturalist.org/people/loarie",
+                "author": "loarie",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660052853489702.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3661810",
+                "authorLink": "https://www.inaturalist.org/people/nataliebee",
+                "author": "nataliebee",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656904642461705.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Lesser burdock (Arctium minus) grows flower bracts similar to those of thistle with small hooks arrayed all about to help it spread its seeds. If the hooks look like Velcro, that's no surprise; burdocks were reportedly the original inspiration for the fastener material. With adequate preparation, the roots are edible. The lesser burdock is also an important food source for painted lady butterfly caterpillars.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Lesser burdock (Arctium minus) grows flower bracts similar to those of thistle with small hooks arrayed all about to help it spread its seeds. If the hooks look like Velcro, that's no surprise; burdocks were reportedly the original inspiration for the fastener material. With adequate preparation, the roots are edible. The lesser burdock is also an important food source for painted lady butterfly caterpillars.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Lesser burdock (<i>Arctium minus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Burdock",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Arctium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251775557040406529.png",
+        "habitat": "Waste ground, edges of woods, roadsides",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Lesser burdock is native to Europe and is now also found in large parts of North America, some South American countries, and the eastern part of Australia. It is commonly found along the edges of woods in wastelands and other places where the soil is disturbed.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "123",
+                "91",
+                "156",
+                "195",
+                "156",
+                "197",
+                "214",
+                "238",
+                "351",
+                "365",
+                "147",
+                "180"
+            ],
+            "north": [
+                "816",
+                "1782",
+                "18810",
+                "79542",
+                "80543",
+                "56003",
+                "41521",
+                "19338",
+                "10031",
+                "3133",
+                "799",
+                "779"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Primarily considered a weed, the thistle-like lesser burdock still has its place in wildlife gardens and wildflower meadows because of its ecological role as a food plant for pollinators and birds. However, many consider it undesirable due to its seedheads with hooked bracts that burrow deep into clothes and animal fur. Thus, lesser burdock should be planted or left to grow away from garden paths and beyond the reach of pets.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Abundance, protection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The invention of hook-and-loop fastener (commonly known under the trademark Velcro) is related to burdock. In 1941, a Swiss inventor George de Mestral was hiking in the Swiss Alps when he noticed that his clothes were covered in burs of the burdock plant. He examined the plant later and came to an idea to use the sticking principle for making a gripping mechanism.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Lesser burdock",
+                "values": [
+                    "This plant is very \"sticky\". If you happen to encounter the plant, you must be careful with its dry flower head as its outer bracts can easily hook on to your clothes like a magical sticker. The word, burdock is formed by the combination of burry and dock in which burry is referred to its hooked tips while the dock is used to describe common grass weed. Its specific epithet, minus means \"smaller\". Hence, it is called the lesser burdock."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   A well-known tall biennial plant native to Europe, lesser burdock has successfully spread outside of its range and is now an invasive weed in the Americas, Australia, and other locations. Its main means of spread is through seedheads covered in tiny hooks, giving them the ability to stick to animal fur and human clothes. Interestingly, this trait of lesser burdock has directly inspired the invention of Velcro. It is a hardy plant that thrives in fields and on disturbed land. It is often removed as a weed even from inhabited areas in its native range because of its spiked leaf bracts, sticky seedheads, and commonly tall and dense growth.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   You should aim to control and remove lesser burdock during early to mid-spring, when the plant is in its growth phase, and definitely before it has a chance to flower and produce seeds.\n  </div> \n  <ol> \n   <li>Pulling: Put on some gloves and twist and pull the lesser burdock gently from the soil. Try to get as much of the root as possible to prevent the plant from regrowing.</li> \n   <li>Smothering: Cover the lesser burdock with a heavy layer of mulch, aged compost, or landscape fabric. Leave it covered for a few months to completely block the sunlight and prevent photosynthesis, which will eventually kill the plant.</li> \n   <li>Solarization: Wet the area infested with lesser burdock then cover it with a clear plastic sheet. Secure the edges with rocks or soil. Leave it like this throughout the hottest part of summer. The sun will heat the covered soil, killing the plant effectively.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Pink to purple thistle-like flowers with sharp, hooked bracts and no ray florets.",
+            "Large heart-shaped leaves up to 2 feet (60 cm) long with wooly undersides.",
+            "Achenes with fine pappus hairs for wind dispersal, capable of irritating skin and eyes.",
+            "Stems start hairy in the first year, developing into smooth, stout structures.",
+            "Slender tap roots extending about one foot (30 cm), aiding in plant stability."
+        ],
+        "title": "Quickly Identify Lesser burdock",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Arctium-minus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, lesser burdock prefers moderate moisture and consistent weekly watering. It can tolerate slight variations in its schedule while requiring increased irrigation during dry spells to mimic its natural habitat's rain patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lesser burdock propagates primarily by sowing in Spring with moderate difficulty. Success is marked by seed germination and young plant growth. For optimal results, sow seeds at the correct depth and maintain consistent moisture.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Arctium_minus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of lesser burdock?",
+            "link": "/ask/Arctium_minus-0.html"
+        },
+        {
+            "q": "How do you tell the difference between rhubarb and lesser burdock?",
+            "link": "/ask/Arctium_minus-1.html"
+        },
+        {
+            "q": "Is lesser burdock invasive?",
+            "link": "/ask/Arctium_minus-2.html"
+        },
+        {
+            "q": "What is the hardiness of lesser burdockÃ¯Â¼Â",
+            "link": "/ask/Arctium_minus-3.html"
+        },
+        {
+            "q": "What kind of soil is suitable for planting lesser burdock?",
+            "link": "/ask/Arctium_minus-4.html"
+        },
+        {
+            "q": "Is lesser burdock poisonous?",
+            "link": "/ask/Arctium_minus-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gomphocarpus physocarpus",
+                "link": "/wiki/Gomphocarpus_physocarpus.html",
+                "imageUrl": "/wiki-image/1080/153411662009860104.jpeg",
+                "displayName": "Balloon plant"
+            },
+            {
+                "scientificName": "Eriocapitella vitifolia",
+                "link": "/wiki/Eriocapitella_vitifolia.html",
+                "imageUrl": "/wiki-image/1080/201206435997155328.jpeg",
+                "displayName": "Grape leaf anemone"
+            },
+            {
+                "scientificName": "Clematis virginiana",
+                "link": "/wiki/Clematis_virginiana.html",
+                "imageUrl": "/wiki-image/1080/154103074435104801.jpeg",
+                "displayName": "Devil's darning needles"
+            },
+            {
+                "scientificName": "Robinia pseudoacacia",
+                "link": "/wiki/Robinia_pseudoacacia.html",
+                "imageUrl": "/wiki-image/1080/347107484368273408.jpeg",
+                "displayName": "Black locust"
+            },
+            {
+                "scientificName": "Quercus nigra",
+                "link": "/wiki/Quercus_nigra.html",
+                "imageUrl": "/wiki-image/1080/202645640883470336.jpeg",
+                "displayName": "Water oak"
+            },
+            {
+                "scientificName": "Crinum asiaticum",
+                "link": "/wiki/Crinum_asiaticum.html",
+                "imageUrl": "/wiki-image/1080/201176259556900864.jpeg",
+                "displayName": "Poisonbulb"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Arctium_minus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Arctium_minus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Arctium_minus.html",
+            "values": [
+                "Care Lesser burdock",
+                "Care Lesser burdock",
+                "Grow Lesser burdock",
+                "Maintain Lesser burdock",
+                "Lesser burdock Care",
+                "Lesser burdock Grow",
+                "Lesser burdock Maintain",
+                "Lesser burdock Cares",
+                "Growth Lesser burdock",
+                "Maintains Lesser burdock",
+                "Lesser burdock Growth",
+                "Lesser burdock Maintains",
+                "Lesser burdock Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Arctium_minus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Arctium_minus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Arctium_minus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Arctium_minus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Arctium_minus.html"
+        }
+    ]
+}

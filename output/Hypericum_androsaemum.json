@@ -1,0 +1,974 @@
+{
+    "title": "Tutsan (Hypericum androsaemum) - PictureThis",
+    "displayName": "Tutsan",
+    "otherCommonName": "Sweet Amber, Sweet-amber, Shrubby St. JohnÃ¢ÂÂs wort",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201213015887052800.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/4062573",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152363166003625986.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32324407",
+                "authorLink": "https://www.inaturalist.org/people/joepb",
+                "author": "joepb",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656702778998802.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29429874",
+                "authorLink": "https://www.inaturalist.org/people/john_barkla",
+                "author": "john_barkla",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884271621177344.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24161497",
+                "authorLink": "https://www.inaturalist.org/people/john_barkla",
+                "author": "john_barkla",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153927474697207837.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Tutsan (Hypericum androsaemum) is related to the more common St. John's Wort. It is native to Europe, Iran, and the Mediterranean region. This fast-growing plant is considered invasive in some countries - particularly in Australia where neither livestock nor any wild animals will eat it.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Tutsan (Hypericum androsaemum) is related to the more common St. John's Wort. It is native to Europe, Iran, and the Mediterranean region. This fast-growing plant is considered invasive in some countries - particularly in Australia where neither livestock nor any wild animals will eat it.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Tutsan (<i>Hypericum androsaemum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "St. John's worts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Hypericum.html"
+            },
+            {
+                "type": "Family",
+                "name": "St. John's wort",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Hypericaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801196370034690.jpeg",
+        "habitat": "Damp woods and hedges",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Tutsan is a plant naturally found in temperate zones of Southern Europe, parts of North Africa, and Western Asia. It has also adapted to various regions across different continents, now being introduced and cultivated in continents such as South America, Central Europe, parts of Asia, and Oceania. Its noticeable spread indicates a successful acclimation beyond its native habitat.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 38.47676833, \"2\": 35.28838356, \"3\": 14.97474108, \"4\": 10.13177198, \"5\": 29.1581362, \"6\": 16.0, \"7\": 13.63510543, \"8\": 12.33604853, \"9\": 11.55532557, \"10\": 18.81639188, \"11\": 23.73097391, \"12\": 44.40009556}, \"flower_month\": 12, \"fruit_month\": 12}, \"Default\": {\"trends\": {\"1\": 100.5064414, \"2\": 114.7286412, \"3\": 69.9662116, \"4\": 64.34415529, \"5\": 127.0188891, \"6\": 86.0, \"7\": 77.08766308, \"8\": 74.11335777, \"9\": 67.7773031, \"10\": 78.90846084, \"11\": 98.35790841, \"12\": 178.2511355}, \"flower_month\": 12, \"fruit_month\": 12}}",
+            "north": "{\"Cfb\": {\"trends\": {\"1\": 300.6429992, \"2\": 474.6213775, \"3\": 352.7980085, \"4\": 357.8370503, \"5\": 437.4955825, \"6\": 507.565067, \"7\": 569.3472689, \"8\": 607.5751158, \"9\": 466.9996014, \"10\": 406.615407, \"11\": 327.3832793, \"12\": 425.0}, \"flower_month\": 8, \"fruit_month\": 8}, \"BWh\": {\"trends\": {\"1\": 58.0, \"2\": 67.0, \"3\": 43.0, \"4\": 51.0, \"5\": 80.0, \"6\": 56.0, \"7\": 40.0, \"8\": 46.0, \"9\": 49.0, \"10\": 39.0, \"11\": 76.0, \"12\": 56.0}, \"flower_month\": 5, \"fruit_month\": 9}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The low-maintenance tutsan is an abundant, full-sun shrub well suited to en masse plantings in garden beds or as ground cover. It is particularly appreciated for the splashes of gold flowers it provides in late spring, succeeded by red-purple fruits in autumn. These eye-catching plants are perfect for inclusion in cottage gardens. For added garden interest, combine with Globe thistle and Black-eyed susans.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Hypericum symbolizes protection and rebirth. It is also often associated with cheerfulness and inspiration.",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Though tutsan has been used as a traditional medicine since ancient times, its effects on the human body are a mixed bag. All parts of the plant can be toxic but also contain biologically useful compounds. Once imported, tutsan quickly became an invasive species in New Zealand and Australia. It displaces natural ground cover in open wetlands and forests alike.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Tutsan",
+                "values": [
+                    "Tutsan comes from the French toute-sain meaning \"all heal\" due to its medicinal utility. This berry-bearing shrub is common in the Mediterranean basin where it has been traditionally used as a diuretic and hepatoprotective herb."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from damp woodlands, tutsan prefers moist conditions and consistent soil moisture, requiring watering every 1-2 weeks. It tolerates moderate drought and thrives in higher humidity. Mulching is beneficial to retain moisture and replicate its natural habitat.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To ensure vigorous growth and flowering of tutsan, use balanced fertilizers monthly in spring and summer, switching to high nitrogen pre-bloom. Apply sparingly (1 tablespoon per square foot). Water before and after applying, and reduce fertilization in winter to avoid nutrient burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The semi-evergreen tutsan features bright yellow flowers and berries. Prune one-third of old stems in early spring to foster new growth, and remove damaged wood for better air circulation. Regular pruning maintains shape and health, and always use clean, sharp tools to prevent disease.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagate tutsan using softwood cuttings taken from healthy, non-flowering shoots in early summer. Cut 4-6 inches, dip in rooting hormone, and plant in well-draining soil. Keep consistently moist and provide warm, indirect light for successful rooting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Tutsan thrives as a shrub and benefits from repotting every 2-3 years, ideally in early spring. Use a pot 2-3 inches wider for root growth, and provide well-draining soil with moderate watering to promote healthy roots, resulting in lush foliage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Hypericum_androsaemum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is tutsan poisonous?",
+            "link": "/ask/Hypericum_androsaemum-0.html"
+        },
+        {
+            "q": "Is tutsan perennial?",
+            "link": "/ask/Hypericum_androsaemum-1.html"
+        },
+        {
+            "q": "How tall is tutsan?",
+            "link": "/ask/Hypericum_androsaemum-2.html"
+        },
+        {
+            "q": "What is tutsan good for?",
+            "link": "/ask/Hypericum_androsaemum-3.html"
+        },
+        {
+            "q": "Why is it called tutsan?",
+            "link": "/ask/Hypericum_androsaemum-4.html"
+        },
+        {
+            "q": "Where is tutsan native?",
+            "link": "/ask/Hypericum_androsaemum-5.html"
+        },
+        {
+            "q": "Is tutsan tolerant to cold?",
+            "link": "/ask/Hypericum_androsaemum-6.html"
+        },
+        {
+            "q": "Is tutsan invasive?",
+            "link": "/ask/Hypericum_androsaemum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Hypericum-androsaemum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Hypericum-androsaemum-Scars.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Hypericum-androsaemum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Hypericum-androsaemum-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Hypericum-androsaemum-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Hypericum-androsaemum-Notch.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Hypericum-androsaemum-Aphid.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Hypericum-androsaemum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Hypericum-androsaemum-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Hypericum-androsaemum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Hypericum-androsaemum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Hypericum-androsaemum-Wounds.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Hypericum-androsaemum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Hypericum-androsaemum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Hypericum-androsaemum-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Hypericum-androsaemum-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Hypericum-androsaemum-Wilting.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Hypericum-androsaemum-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Hypericum-androsaemum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Stem blackening",
+                "link": "/disease/Hypericum-androsaemum-Stem-blackening.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Hypericum-androsaemum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Hypericum-androsaemum-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Hypericum-androsaemum-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Hypericum-androsaemum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Hypericum-androsaemum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Hypericum-androsaemum-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Hypericum-androsaemum-Mealybug.html"
+            },
+            {
+                "diseaseName": "Flower rot",
+                "link": "/disease/Hypericum-androsaemum-Flower-rot.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Hypericum-androsaemum-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Hypericum-androsaemum-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Hypericum-androsaemum-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Hypericum-androsaemum-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Hypericum-androsaemum-Leaf-white-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Persicaria longiseta",
+                "link": "/wiki/Persicaria_longiseta.html",
+                "imageUrl": "/wiki-image/1080/154168589866237983.jpeg",
+                "displayName": "Oriental lady's thumb"
+            },
+            {
+                "scientificName": "Malva neglecta",
+                "link": "/wiki/Malva_neglecta.html",
+                "imageUrl": "/wiki-image/1080/201218590754603008.jpeg",
+                "displayName": "Common mallow"
+            },
+            {
+                "scientificName": "Malva parviflora",
+                "link": "/wiki/Malva_parviflora.html",
+                "imageUrl": "/wiki-image/1080/154009375428575234.jpeg",
+                "displayName": "Cheeseweed mallow"
+            },
+            {
+                "scientificName": "Amaranthus hypochondriacus",
+                "link": "/wiki/Amaranthus_hypochondriacus.html",
+                "imageUrl": "/wiki-image/1080/154182780438183938.jpeg",
+                "displayName": "Prince's feather"
+            },
+            {
+                "scientificName": "Sicyos angulatus",
+                "link": "/wiki/Sicyos_angulatus.html",
+                "imageUrl": "/wiki-image/1080/154232889821626404.jpeg",
+                "displayName": "Bur cucumber"
+            },
+            {
+                "scientificName": "Eichhornia crassipes",
+                "link": "/wiki/Eichhornia_crassipes.html",
+                "imageUrl": "/wiki-image/1080/152635411095617536.jpeg",
+                "displayName": "Water hyacinth"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Hypericum_androsaemum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Hypericum_androsaemum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Hypericum_androsaemum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Hypericum_androsaemum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Hypericum_androsaemum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Hypericum_androsaemum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Hypericum_androsaemum.html",
+            "values": [
+                "Care Tutsan",
+                "Care Tutsan",
+                "Grow Tutsan",
+                "Maintain Tutsan",
+                "Tutsan Care",
+                "Tutsan Grow",
+                "Tutsan Maintain",
+                "Tutsan Cares",
+                "Growth Tutsan",
+                "Maintains Tutsan",
+                "Tutsan Growth",
+                "Tutsan Maintains",
+                "Tutsan Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Flower-rot.html",
+            "values": [
+                "Flower rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Stem-blackening.html",
+            "values": [
+                "Stem blackening"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hypericum-androsaemum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Hypericum_androsaemum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Hypericum_androsaemum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Hypericum_androsaemum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Hypericum_androsaemum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Hypericum_androsaemum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Hypericum_androsaemum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Hypericum_androsaemum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Hypericum_androsaemum.html"
+        }
+    ]
+}

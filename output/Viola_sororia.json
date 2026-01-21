@@ -1,0 +1,930 @@
+{
+    "title": "Common blue violet (Viola sororia) - PictureThis",
+    "displayName": "Common blue violet",
+    "otherCommonName": "Common meadow violet, Hooded violet",
+    "mainImage": {
+        "copyright": {
+            "width": 2400,
+            "height": 2400,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154245087528747031.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16052769",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152503156167671811.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17594730",
+                "authorLink": "https://www.inaturalist.org/people/isaaclarkin",
+                "author": "isaaclarkin",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153663931208957964.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27527368",
+                "authorLink": "https://www.inaturalist.org/people/judygva",
+                "author": "judygva",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153669944163172369.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17133808",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153916239062761482.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Exhibiting a moderate growth speed, common blue violet peaks during spring. This results in a steady height increase, suffused leaf production, and vibrant violet blooming. While slower in other seasons, its spring-time surge exemplifies the plant's adaptability, demonstrating the ecological strategy of seasonal bloom optimisation.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The common blue violet is an attractive wildflower known for its blue to purplish white hues. It is common in North America, where it is sometimes associated with a weed. The plant is popular as an ornamental, and it is a state flower in several states in the US. Its flowers and leaves are edible and safe to be planted near pets.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The common blue violet is an attractive wildflower known for its blue to purplish white hues. It is common in North America, where it is sometimes associated with a weed. The plant is popular as an ornamental, and it is a state flower in several states in the US. Its flowers and leaves are edible and safe to be planted near pets.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common blue violet (<i>Viola sororia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Violets",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Viola.html"
+            },
+            {
+                "type": "Family",
+                "name": "Violet",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Violaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 25 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803867839692803.jpeg",
+        "habitat": "Moist meadows, Low woods, Shady banks, Sandy substrates",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The common blue violet originated in Canada and the United States, growing in lawns, gardens, and meadows. The flowering plant is also considered invasive in its native growing area because it pushes out garden plants and lawn turf. It has also been introduced into parts of Europe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "66",
+                "40",
+                "65",
+                "73",
+                "66",
+                "24",
+                "34",
+                "114",
+                "122",
+                "95",
+                "89",
+                "84"
+            ],
+            "north": [
+                "2722",
+                "19637",
+                "89303",
+                "138179",
+                "79821",
+                "40607",
+                "27986",
+                "16819",
+                "8550",
+                "2513",
+                "646",
+                "529"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common blue violet (Viola sororia) is an attractive and popular perennial. It is low-growing so is best grown in beds and at the front of borders in cottage and coastal gardens. This plant's main appeal is its spring and (sometimes) summer-blooming showy flowers, which are best displayed in containers or as ground cover. Woodland phlox offers an excellent color contrast to this flower.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Enduring faith, sweetness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Napoleon Bonaparte, the well-known French military leader, decided that the common blue violet was his signature flower. He covered his wife's grave with the common blue violet when she died. Supporters of Napoleon would ask other people if they liked the common blue violet. If the person responded yes, it meant they were loyal to Napoleon.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common blue violet",
+                "values": [
+                    "The appearance of this plant is extremely attractive. Its heart-shaped leaves are matched with its asymmetrical flowers, and its flowers are rare blue-purple. Consequently, these features make it the garden favorite. In addition, it is the most common species of the genus, so it is often called common blue-violet in which violet is derived from latin, viola."
+                ]
+            },
+            {
+                "key": "Lesbian flower",
+                "values": [
+                    "This plant is also the flower of love, symbolizing lesbian love. In one of the poems, the poet described herself and her lover often wearing the flowers of Viola sororia to prove their love. In the early 20th century, lesbian flowers were given to their lovers by the lesbians in order to express their love."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped leaves up to 4 inches (10 cm) across, yellowish-green with serrated edges.",
+            "Iconic five-petaled flowers in varying purple hues, with unique symmetrical structure.",
+            "Rhizomatous stems, slender and pale brown, key for vegetative reproduction and clumping habit."
+        ],
+        "title": "Quickly Identify Common blue violet",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Viola-sororia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common blue violet prefers a moisture-rich environment and damp soil, requiring balanced watering twice a week for optimal growth. This herbaceous perennial adapts well to varying rain patterns, ensuring hydration throughout its growth cycle without being drought-tolerant or needing excessive humidity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal health of common blue violet, apply balanced nutrition fertilizers in spring, using moderate quantities monthly. Dilute to half-strength to prevent root burn and reduce dosage in fall. Incorporate gently into the soil to enhance resilience and ornamental appeal.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common blue violet features heart-shaped leaves and delicate blue flowers. Prune in early to late spring by removing dead foliage for better air circulation, controlling its spread, and ensuring vibrant blooms. Regular pruning also helps deter pests and disease, enhancing overall vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common blue violet self-seeds effectively for propagation but can also be successfully grown from cuttings. Ensure cuttings, preferably with nodes, remain moist and receive adequate indirect sunlight for optimal root development, preserving the genetic traits of the parent plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common blue violet grows 4-6 inches tall and benefits from repotting every 2-3 years, preferably in early spring. Use a slightly larger pot with moist, well-draining soil and provide partial shade. Consistent watering promotes health, but common blue violet is resilient and adapts well post-repotting.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Viola_sororia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where does the common blue violet grow?",
+            "link": "/ask/Viola_sororia-0.html"
+        },
+        {
+            "q": "What do common blue violet symbolize?",
+            "link": "/ask/Viola_sororia-1.html"
+        },
+        {
+            "q": "What is a common blue violet flower?",
+            "link": "/ask/Viola_sororia-2.html"
+        },
+        {
+            "q": "Are common blue violet weeds?",
+            "link": "/ask/Viola_sororia-3.html"
+        },
+        {
+            "q": "How are common blue violet plants pollinated?",
+            "link": "/ask/Viola_sororia-4.html"
+        },
+        {
+            "q": "Should common blue violet flowers be deadheaded?",
+            "link": "/ask/Viola_sororia-5.html"
+        },
+        {
+            "q": "How do common blue violets grow?",
+            "link": "/ask/Viola_sororia-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Viola-sororia-Spots.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Viola-sororia-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Viola-sororia-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Viola-sororia-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Viola-sororia-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Viola-sororia-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Viola-sororia-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Viola-sororia-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Viola-sororia-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Viola-sororia-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Viola-sororia-Black-mold.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Viola-sororia-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Viola-sororia-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Viola-sororia-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Viola-sororia-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Viola-sororia-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Viola-sororia-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Viola-sororia-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Viola-sororia-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Viola-sororia-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Viola-sororia-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Viola-sororia-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Viola-sororia-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Viola-sororia-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Viola-sororia-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alstonia scholaris",
+                "link": "/wiki/Alstonia_scholaris.html",
+                "imageUrl": "/wiki-image/1080/153655315504562186.jpeg",
+                "displayName": "Blackboard tree"
+            },
+            {
+                "scientificName": "Clematis florida",
+                "link": "/wiki/Clematis_florida.html",
+                "imageUrl": "/wiki-image/1080/153433132551372813.jpeg",
+                "displayName": "Asian virginsbower"
+            },
+            {
+                "scientificName": "Jasminum officinale",
+                "link": "/wiki/Jasminum_officinale.html",
+                "imageUrl": "/wiki-image/1080/153440781888126979.jpeg",
+                "displayName": "Common jasmine"
+            },
+            {
+                "scientificName": "Spathiphyllum cochlearispathum",
+                "link": "/wiki/Spathiphyllum_cochlearispathum.html",
+                "imageUrl": "/wiki-image/1080/154154854560825351.jpeg",
+                "displayName": "Peace lily"
+            },
+            {
+                "scientificName": "Chlorophytum comosum",
+                "link": "/wiki/Chlorophytum_comosum.html",
+                "imageUrl": "/wiki-image/1080/347094865754357760.jpeg",
+                "displayName": "Spider plant"
+            },
+            {
+                "scientificName": "Pleroma semidecandrum",
+                "link": "/wiki/Pleroma_semidecandrum.html",
+                "imageUrl": "/wiki-image/1080/152521332469268481.jpeg",
+                "displayName": "Princess flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Viola_sororia.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Viola_sororia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Viola_sororia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Viola_sororia.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Viola_sororia.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Viola_sororia.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Viola_sororia.html",
+            "values": [
+                "Care Common blue violet",
+                "Care Common blue violet",
+                "Grow Common blue violet",
+                "Maintain Common blue violet",
+                "Common blue violet Care",
+                "Common blue violet Grow",
+                "Common blue violet Maintain",
+                "Common blue violet Cares",
+                "Growth Common blue violet",
+                "Maintains Common blue violet",
+                "Common blue violet Growth",
+                "Common blue violet Maintains",
+                "Common blue violet Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Viola-sororia-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Viola_sororia.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Viola_sororia.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Viola_sororia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Viola_sororia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Viola_sororia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Viola_sororia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Viola_sororia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Viola_sororia.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Viola_sororia.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Viola_sororia.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Viola_sororia.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Viola_sororia.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Viola_sororia.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Viola_sororia.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Viola_sororia.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Viola_sororia.html"
+        }
+    ]
+}

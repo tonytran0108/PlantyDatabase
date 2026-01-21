@@ -1,0 +1,960 @@
+{
+    "title": "Himalayan blackberry (Rubus armeniacus) - PictureThis",
+    "displayName": "Himalayan blackberry",
+    "otherCommonName": "Armenian blackberry",
+    "mainImage": {
+        "copyright": {
+            "width": 1668,
+            "height": 1668,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154088050639503383.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23409027",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152515139126427648.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 374,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/755392",
+                "authorLink": "https://www.inaturalist.org/people/sgene",
+                "author": "sgene",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661126595313701.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 360,
+                "height": 480,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/325497",
+                "authorLink": "https://www.inaturalist.org/people/rademacherdan",
+                "author": "rademacherdan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661405768187926.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/12683684",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153664317756014614.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Himalayan blackberry produces tasty berries at the peak of the season, but its bounty is offset somewhat by its drawbacks. The canes are covered in aggressive thorns and create impassable thickets. The plant itself is considered a noxious weed in some areas due to its fast-spreading behavior.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Himalayan blackberry produces tasty berries at the peak of the season, but its bounty is offset somewhat by its drawbacks. The canes are covered in aggressive thorns and create impassable thickets. The plant itself is considered a noxious weed in some areas due to its fast-spreading behavior.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Himalayan blackberry (<i>Rubus armeniacus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Brambles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rubus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736408413503490.png",
+        "habitat": "Riparian zones",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Himalayan blackberry is native to the pastures and forests of the Transcaucasus region of Asia but has been introduced to North America, Europe, and Japan. This plant grows aggressively and crowds out native plants. It is listed as an invasive species in eight US states, including California, Alaska, and Wisconsin.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 76.93941379, \"2\": 62.88829224, \"3\": 30.09299424, \"4\": 35.09681198, \"5\": 23.71019263, \"6\": 22.0, \"7\": 14.27549316, \"8\": 7.801406081, \"9\": 5.368499256, \"10\": 13.66918219, \"11\": 82.20959509, \"12\": 84.55502583}, \"flower_month\": 12, \"fruit_month\": 12}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 6.695740379, \"2\": 12.26806463, \"3\": 12.07714366, \"4\": 36.33330869, \"5\": 56.11622724, \"6\": 65.37231171, \"7\": 75.82553444, \"8\": 59.32908846, \"9\": 43.49764326, \"10\": 39.2010036, \"11\": 22.41527901, \"12\": 14.0}, \"flower_month\": 7, \"fruit_month\": 7}, \"Csa\": {\"trends\": {\"1\": 35.75698876, \"2\": 20.86259001, \"3\": 28.80114549, \"4\": 84.97014086, \"5\": 121.7333235, \"6\": 128.8707863, \"7\": 100.8795868, \"8\": 82.33495602, \"9\": 86.2990669, \"10\": 73.00664274, \"11\": 65.05401196, \"12\": 25.0}, \"flower_month\": 6, \"fruit_month\": 6}, \"Csb\": {\"trends\": {\"1\": 44.55623725, \"2\": 31.14598938, \"3\": 63.49556469, \"4\": 145.1748482, \"5\": 245.3365212, \"6\": 270.5074022, \"7\": 249.9282006, \"8\": 247.5619906, \"9\": 153.9288658, \"10\": 112.5466344, \"11\": 89.37574574, \"12\": 55.0}, \"flower_month\": 6, \"fruit_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 32.29413291, \"2\": 27.19522218, \"3\": 34.79745982, \"4\": 82.0659351, \"5\": 181.1487014, \"6\": 180.7683587, \"7\": 187.823573, \"8\": 165.4263637, \"9\": 131.4438237, \"10\": 64.38922281, \"11\": 50.36665836, \"12\": 25.0}, \"flower_month\": 7, \"fruit_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 7.426085406, \"2\": 8.689899701, \"3\": 16.45448012, \"4\": 28.7130993, \"5\": 46.35771476, \"6\": 55.634793, \"7\": 64.97692718, \"8\": 61.14302795, \"9\": 51.7730581, \"10\": 55.88833785, \"11\": 16.86389438, \"12\": 11.0}, \"flower_month\": 7, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Himalayan blackberry is a trailing shrub that can be trained for trellises and to conceal unwanted fencing, creating a pollinator-attracting border or hedge. It has been listed as invasive in some parts of the USA, so check local laws and by-laws before installing it in your garden.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Healing, Money, Protection.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Himalayan blackberry",
+                "values": [
+                    "Luther Burbank is the kind of person who loves to do experiments and cultivate new species. Burbank traded seeds with fellow collectors from around the world. In a package from India, he found seeds for a huge blackberry with a stronger flavor. Burbank named it the Himalaya Giant even though it's actually believed to be originated from Armenia. In the twentieth century, people have called it the Himalayan blackberry and go on to further cultivate the plant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 2-3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, himalayan blackberry thrives with moderate water supply, requiring watering every 2-3 weeks. It is drought-tolerant but benefits from humidity. Outdoors, himalayan blackberry relies on rain, especially during the active growing season, which enhances its health and water uptake.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For himalayan blackberry, use balanced fertilizers (10-10-10) for health and high nitrogen options for growth. Apply in early spring and monthly through the season, following label rates. Reduce feeding during dormancy and water thoroughly after fertilization to aid absorption and prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pruning is crucial for himalayan blackberry. After harvest, remove all fruit-bearing canes and cut first-year canes by half to encourage lateral growth. Trim overcrowded canes, eliminate suckers, and ensure canes in patches are spaced. Dispose of pruned canes to prevent disease spread.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Himalayan blackberry propagates effectively through cuttings, utilizing healthy nodes and stem sections for strong roots. Plant in well-draining soil, keep consistently moist, and provide indirect sunlight. Monitor for new leaves, which indicate successful root establishment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rubus_armeniacus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is himalayan blackberry invasive?",
+            "link": "/ask/Rubus_armeniacus-0.html"
+        },
+        {
+            "q": "How do I get rid of himalayan blackberry?",
+            "link": "/ask/Rubus_armeniacus-1.html"
+        },
+        {
+            "q": "Can you eat himalayan blackberry?",
+            "link": "/ask/Rubus_armeniacus-2.html"
+        },
+        {
+            "q": "Where do himalayan blackberry grow?",
+            "link": "/ask/Rubus_armeniacus-3.html"
+        },
+        {
+            "q": "Is himalayan blackberry annual or perennial?",
+            "link": "/ask/Rubus_armeniacus-4.html"
+        },
+        {
+            "q": "Where did the himalayan blackberry come from?",
+            "link": "/ask/Rubus_armeniacus-5.html"
+        },
+        {
+            "q": "Will boiling water kill himalayan blackberry?",
+            "link": "/ask/Rubus_armeniacus-6.html"
+        },
+        {
+            "q": "Why is it called himalayan blackberry?",
+            "link": "/ask/Rubus_armeniacus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Rubus-armeniacus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Stem withering",
+                "link": "/disease/Rubus-armeniacus-Stem-withering.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Rubus-armeniacus-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Rubus-armeniacus-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Rubus-armeniacus-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Rubus-armeniacus-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Fruit damage",
+                "link": "/disease/Rubus-armeniacus-Fruit-damage.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Rubus-armeniacus-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Rubus-armeniacus-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Rubus-armeniacus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Rubus-armeniacus-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Rubus-armeniacus-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Rubus-armeniacus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Rubus-armeniacus-Aphid.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Rubus-armeniacus-Spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Rubus-armeniacus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Rubus-armeniacus-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Rubus-armeniacus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Rubus-armeniacus-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Rubus-armeniacus-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Rubus-armeniacus-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Rubus-armeniacus-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Rubus-armeniacus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Rubus-armeniacus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Rubus-armeniacus-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Rubus-armeniacus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Rubus-armeniacus-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Rubus-armeniacus-Leaf-edges-turning-downwards.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Rubus-armeniacus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Rubus-armeniacus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Rubus-armeniacus-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Rubus-armeniacus-Wounds.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Rubus-armeniacus-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Rubus-armeniacus-Leaf-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Erigeron sumatrensis",
+                "link": "/wiki/Erigeron_sumatrensis.html",
+                "imageUrl": "/wiki-image/1080/201206294263234560.jpeg",
+                "displayName": "Guernsey fleabane"
+            },
+            {
+                "scientificName": "Ambrosia artemisiifolia",
+                "link": "/wiki/Ambrosia_artemisiifolia.html",
+                "imageUrl": "/wiki-image/1080/153847957672689676.jpeg",
+                "displayName": "Annual ragweed"
+            },
+            {
+                "scientificName": "Baccharis neglecta",
+                "link": "/wiki/Baccharis_neglecta.html",
+                "imageUrl": "/wiki-image/1080/152421105112449026.jpeg",
+                "displayName": "Roosevelt weed"
+            },
+            {
+                "scientificName": "Phytolacca dioica",
+                "link": "/wiki/Phytolacca_dioica.html",
+                "imageUrl": "/wiki-image/1080/216431034206552064.jpeg",
+                "displayName": "OmbÃÂº"
+            },
+            {
+                "scientificName": "Eucalyptus robusta",
+                "link": "/wiki/Eucalyptus_robusta.html",
+                "imageUrl": "/wiki-image/1080/154070754806202375.jpeg",
+                "displayName": "Swamp mahogany"
+            },
+            {
+                "scientificName": "Clematis terniflora",
+                "link": "/wiki/Clematis_terniflora.html",
+                "imageUrl": "/wiki-image/1080/201174210857500672.jpeg",
+                "displayName": "Sweet autumn clematis"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Rubus_armeniacus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rubus_armeniacus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rubus_armeniacus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Rubus_armeniacus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Rubus_armeniacus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Rubus_armeniacus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rubus_armeniacus.html",
+            "values": [
+                "Care Himalayan blackberry",
+                "Care Himalayan blackberry",
+                "Grow Himalayan blackberry",
+                "Maintain Himalayan blackberry",
+                "Himalayan blackberry Care",
+                "Himalayan blackberry Grow",
+                "Himalayan blackberry Maintain",
+                "Himalayan blackberry Cares",
+                "Growth Himalayan blackberry",
+                "Maintains Himalayan blackberry",
+                "Himalayan blackberry Growth",
+                "Himalayan blackberry Maintains",
+                "Himalayan blackberry Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Stem-withering.html",
+            "values": [
+                "Stem withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Fruit-damage.html",
+            "values": [
+                "Fruit damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-armeniacus-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rubus_armeniacus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rubus_armeniacus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Rubus_armeniacus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Rubus_armeniacus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rubus_armeniacus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Rubus_armeniacus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Rubus_armeniacus.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rubus_armeniacus.html"
+        }
+    ]
+}

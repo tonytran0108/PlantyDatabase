@@ -1,0 +1,611 @@
+{
+    "title": "Ribwort plantain (Plantago lanceolata) - PictureThis",
+    "displayName": "Ribwort plantain",
+    "otherCommonName": "Ribleaf, English plantain, Buckhorn plantain",
+    "mainImage": {
+        "copyright": {
+            "width": 2712,
+            "height": 2712,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "license": "CC-BY-SA-3.0"
+        },
+        "imageUrl": "/wiki-image/1080/201222022433472512.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3901869",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152364059356823556.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 335,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5685555",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654520935612416.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/36470218",
+                "authorLink": "https://www.inaturalist.org/people/carrion",
+                "author": "carrion",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662758682886168.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35857682",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661332753743890.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Ribwort plantain grows in a number of different habitats as long as it has enough sunlight. Its leaves have characteristic parallel veins that make it easy to identify. The heads of ribwort plantains get popped off in some common British children's games. Its seeds are critical food sources for songbirds, and its leaves are eaten by rabbits and deer.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Ribwort plantain grows in a number of different habitats as long as it has enough sunlight. Its leaves have characteristic parallel veins that make it easy to identify. The heads of ribwort plantains get popped off in some common British children's games. Its seeds are critical food sources for songbirds, and its leaves are eaten by rabbits and deer.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Ribwort plantain (<i>Plantago lanceolata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Plantains",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Plantago.html"
+            },
+            {
+                "type": "Family",
+                "name": "Plantain",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Plantaginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid spring, Late spring",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Semi-evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736983939121152.png",
+        "habitat": "Grassland, Cultivated ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Native to Europe, North Africa, Macaronesia, and temperate Asia, the ribwort plantain has been introduced to much of North America, South America, Africa, and East Asia. The plant naturally occurs in wetlands and grasslands, and it tends to be weedy even within its native region. It is considered invasive in parts of China and many US states, where it invades arable fields.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "383",
+                "559",
+                "731",
+                "604",
+                "621",
+                "532",
+                "763",
+                "1233",
+                "1603",
+                "1309",
+                "698",
+                "539"
+            ],
+            "north": [
+                "4087",
+                "9631",
+                "33830",
+                "69162",
+                "55532",
+                "26311",
+                "18483",
+                "15861",
+                "11454",
+                "5017",
+                "2328",
+                "2808"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Healing, Protection, Strength, Resilience",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The ribwort plantain is the subject of simple games children play in the United Kingdom, Ireland, and Scotland. One simple game involves twisting the ribwort plantain stem around the stalk, so the flowering portion goes shooting off like a gun. Another game involves children trying to knock the flowering head of one another's stalks off with their own ribwort plantain stem. In England, some of these games are called 'cannonballs' and 'bishops'.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Ribwort plantain",
+                "values": [
+                    "We seldom notice that it grows on the roadside. With its stalks growing upwards and its small flower heads with slender stamens protrude from the flower heads, these features give the appearance of a long rice panicle. Also, plantain is derived from its genus name. It is often called ribwort plantain."
+                ]
+            },
+            {
+                "key": "Lamb's tongue",
+                "values": [
+                    "Despite the fact that it is a humble roadside plant, a long time ago, it was believed that local farmers would rush to collect the plant to feed the sheep. This is because they thought it was the most popular plant for sheep, so it was called lamb's tongue."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Ribwort plantain</strong> contains small amounts of toxic chemicals <strong>oxalic acid and erucic</strong>. High consumption can cause gastrointestinal issues like diarrhea, nausea, bloating, and vomiting, and may lead to anaphylaxis. The seeds, used in fiber supplements, can also cause digestive problems. Avoid if experiencing abdominal pain or intestinal issues.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Plantago_lanceolata.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Considered an invasive weed in China and the USA, ribwort plantain is native to Eurasia and northern Africa. It is extremely widespread and can be found on nearly every continent. Though small in size, it is quick to colonize, and its seeds easily germinate, making the plant an oppressive neighbor to native species. Ribwort plantain has also proven to be problematic for home gardens and various crops, including citrus and mango, as it can become the home of multitudes of diseases and insects. The pollen of ribwort plantain is allergenic. Ingestion could lead to chest congestion, sneezing, watery eyes, and occupational asthma. Herbicides are the most effective means of removal.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing ribwort plantain is in early spring or late fall. This is because the sort of cooler, moist conditions in these seasons tend to make it easier to take out the plant's roots. However, you should aim to remove this plant before it gets to the seeding stage, which usually happens in late spring or early summer. Now, let's discuss some methods for removal or control:\n  </div> \n  <ol> \n   <li>Hand pulling: Start by soaking the ground around the ribwort plantain to loosen the soil. Then, dig around the base of the plant with a small garden trowel or hand fork, making sure you get as much of the root system as possible to prevent regrowth.</li> \n   <li>Smothering: Cover the ribwort plantain with a thick layer of newspaper or cardboard, topped with mulch. This blocks light and smothers the plant, causing it to die over time.</li> \n   <li>Using a weed whacker: Cut the ribwort plantain down to ground level repeatedly. Depriving the plant of its ability to photosynthesize will eventually kill it, although this method may take several rounds to be effective.</li> \n   <li>Solarization: This involves covering the area with clear plastic during the hot summer months. The greenhouse effect caused by the plastic will heat the soil and kill the ribwort plantain.</li> \n   <li>Organic herbicides: There are organic herbicides on the market that can kill ribwort plantain. Follow the manufacturer's instructions on the label for best results.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Narrow, lance-shaped leaves tapered to a point in a rosette pattern.",
+            "Small, inconspicuous bisexual flowers in dense cylindrical spikes.",
+            "Tiny shiny green fruit turning brown with papery texture.",
+            "Erect, stalked lanceolate leaves with sparsely toothed margins.",
+            "Slightly furrowed angular stem, 6-18 inches tall, with scattered hairs near base."
+        ],
+        "title": "Quickly Identify Ribwort plantain",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Plantago-lanceolata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ribwort plantain thrives in temperate zones with moderate moisture and can withstand short droughts. Water weekly to keep the soil moist but not waterlogged, especially during active growth, to support its foliage and root system.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ribwort plantain propagates best in spring and autumn via division. Success is indicated by robust root growth and new shoots. For optimal results, ensure sufficient root mass during the division process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Plantago_lanceolata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What can ribwort plantain be used for?",
+            "link": "/ask/Plantago_lanceolata-0.html"
+        },
+        {
+            "q": "Can you eat ribwort plantain?",
+            "link": "/ask/Plantago_lanceolata-1.html"
+        },
+        {
+            "q": "How do I get rid of ribwort plantain?",
+            "link": "/ask/Plantago_lanceolata-2.html"
+        },
+        {
+            "q": "Where is ribwort plantain native to?",
+            "link": "/ask/Plantago_lanceolata-3.html"
+        },
+        {
+            "q": "How does ribwort plantain reproduce?",
+            "link": "/ask/Plantago_lanceolata-4.html"
+        },
+        {
+            "q": "Is the ribwort plantain poisonous?",
+            "link": "/ask/Plantago_lanceolata-5.html"
+        },
+        {
+            "q": "Is ribwort plantain a weed?",
+            "link": "/ask/Plantago_lanceolata-6.html"
+        },
+        {
+            "q": "Why is it called ribwort plantain?",
+            "link": "/ask/Plantago_lanceolata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Plumeria pudica",
+                "link": "/wiki/Plumeria_pudica.html",
+                "imageUrl": "/wiki-image/1080/154128015310192672.jpeg",
+                "displayName": "Bridal bouquet"
+            },
+            {
+                "scientificName": "Dracaena reflexa var. angustifolia",
+                "link": "/wiki/Dracaena_reflexa_var._angustifolia.html",
+                "imageUrl": "/wiki-image/1080/153714491563966470.jpeg",
+                "displayName": "Madagascar dragon tree"
+            },
+            {
+                "scientificName": "Hypericum perforatum",
+                "link": "/wiki/Hypericum_perforatum.html",
+                "imageUrl": "/wiki-image/1080/154211354855604233.jpeg",
+                "displayName": "Common St. John's wort"
+            },
+            {
+                "scientificName": "Polyscias fruticosa",
+                "link": "/wiki/Polyscias_fruticosa.html",
+                "imageUrl": "/wiki-image/1080/347123526071123968.jpeg",
+                "displayName": "Ming aralia"
+            },
+            {
+                "scientificName": "Melothria pendula",
+                "link": "/wiki/Melothria_pendula.html",
+                "imageUrl": "/wiki-image/1080/153749624396447751.jpeg",
+                "displayName": "Creeping cucumber"
+            },
+            {
+                "scientificName": "Plumeria rubra",
+                "link": "/wiki/Plumeria_rubra.html",
+                "imageUrl": "/wiki-image/1080/154018648262967327.jpeg",
+                "displayName": "Red frangipani"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Plantago_lanceolata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Plantago_lanceolata.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Plantago_lanceolata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Plantago_lanceolata.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Plantago_lanceolata.html",
+            "values": [
+                "Care Ribwort plantain",
+                "Care Ribwort plantain",
+                "Grow Ribwort plantain",
+                "Maintain Ribwort plantain",
+                "Ribwort plantain Care",
+                "Ribwort plantain Grow",
+                "Ribwort plantain Maintain",
+                "Ribwort plantain Cares",
+                "Growth Ribwort plantain",
+                "Maintains Ribwort plantain",
+                "Ribwort plantain Growth",
+                "Ribwort plantain Maintains",
+                "Ribwort plantain Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Plantago_lanceolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Plantago_lanceolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Plantago_lanceolata.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Plantago_lanceolata.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Plantago_lanceolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Plantago_lanceolata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Plantago_lanceolata.html"
+        }
+    ]
+}

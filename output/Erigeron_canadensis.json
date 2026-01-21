@@ -1,0 +1,632 @@
+{
+    "title": "Horseweed (Erigeron canadensis) - PictureThis",
+    "displayName": "Horseweed",
+    "otherCommonName": "Canadian fleabane, Marestail",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153461895947354149.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7071344",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152482243971907588.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1735356",
+                "authorLink": "https://www.inaturalist.org/people/mdillon",
+                "author": "mdillon",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656449375928325.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22432956",
+                "authorLink": "https://www.inaturalist.org/people/irag",
+                "author": "irag",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929884173860908.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 340,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/14711594",
+                "authorLink": "https://www.inaturalist.org/people/meurkc",
+                "author": "meurkc",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929531986542633.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Demonstrating a rapid growth rate, horseweed flourishes remarkably from spring to fall, producing a high volume of leaves, and quickly bolting to great heights. It's common to observe sudden bursts of growth during these seasons, often coupled with the development of small white flowers. The robust growth seen in summer often continues into fall, indicating horseweed's adaptability to varied seasonal conditions.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed is a North American herbaceous annual plant with a hairy stem, numerous pointed leaves, and waxy inflorescence. It has been naturalized in Eurasia and Australia, where it is a common weed in urban and agricultural regions. Horseweed can be used in a survival situation to start a friction fire.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Horseweed is a North American herbaceous annual plant with a hairy stem, numerous pointed leaves, and waxy inflorescence. It has been naturalized in Eurasia and Australia, where it is a common weed in urban and agricultural regions. Horseweed can be used in a survival situation to start a friction fire.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Horseweed (<i>Erigeron canadensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Fleabanes",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Erigeron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803640206426112.jpeg",
+        "habitat": "Waste and cultivated land, walls",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed is naturally distributed through much of the New World, where it grows in open areas. This plant has spread around the rest of the globe, where it can become weedy or invasive in agricultural contexts, grasslands, and disturbed areas. Many European countries have listed horseweed as invasive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "579",
+                "589",
+                "685",
+                "637",
+                "583",
+                "542",
+                "700",
+                "837",
+                "1057",
+                "827",
+                "644",
+                "669"
+            ],
+            "north": [
+                "10018",
+                "28149",
+                "89553",
+                "172213",
+                "189100",
+                "145458",
+                "98617",
+                "50527",
+                "24255",
+                "9264",
+                "4700",
+                "5715"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Stems and leaves of horseweed can be used as fodder.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Horseweed is a tolerant, low-maintenance plant. Often used in the garden to attract wildlife and pollinators, this plant can be put in a sunny or partially shaded area with well-draining soils. Horseweed is drought-tolerant and can be planted in areas where erosion control is needed.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Sanctity, purification, driving away the unwanted",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In the autumn fields and tea orchards, there are blooming crowds of inconspicuous little wildflowers dotting the weeds called horseweed.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Mare's tail||Horseweed",
+                "values": [
+                    "If you observe the plant closely, you discover that its stalk has many branches and the branches all grow upwards. What makes it magical is that each branch is covered with short hairs. When the sun shines on it, the shadow cast on the ground looks like a horse tail. So, it is called mare's tail or horseweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed has low-severity toxicity to humans when leaves are ingested, leading to mild symptoms like a runny nose or sore throat. <strong>Horseweed is toxic to cats and dogs</strong>, primarily affecting them upon ingestion of leaves, showing various signs of physical distress. <strong>Immediate veterinary care</strong> is crucial if pets consume horseweed. Preventing access to horseweed helps ensure their safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Erigeron_canadensis.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed is a common landscape and agricultural weed, mainly found on undisturbed lands. It is infamous for being the first weed to develop resistance to the widely used herbicide, glyphosate. What's more, the germination time is flexible, so horseweed can emerge in all seasons except winter, and the seeds spread efficiently like dandelion seeds.\n  </div> \n  <div>\n   Horseweed has been spreading outside of its native range for centuries and can now be found in grasslands, fields, and many disturbed areas in Europe, Asia, Australia, northern Africa, and tropical parts of the Americas. It is considered an agricultural weed both in its native and naturalized range.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The optimal season for dealing with horseweed is late spring or early summer, before it reaches the budding stage. This is important as the plant spreads its seeds through its flowers. Following are some methods to remove or control this plant:\n  </div> \n  <ol> \n   <li>Handpulling: Put on a pair of gardening gloves and gently pull the horseweed from the soil. Ensure you remove the entire root system to prevent it from regrowing.</li> \n   <li>Hoeing: Use a garden hoe to cut the plant at its roots. Aim to do this before the horseweed produces flowers to prevent seed dispersal.</li> \n   <li>Smothering: Cover the area around the horseweed with a thick layer of organic mulch like compost or straw. This blocks sunlight, stifering the plant's photosynthesis.</li> \n   <li>Solarizing: Water the area around the horseweed thoroughly and cover it with a clear plastic sheet. The intensified heat from the sun will cook and kill the plant.</li> \n   <li>Using Cover Crops: Plant a cover crop that quickly outcompetes the horseweed for nutrients and sunlight.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Rosette of hairy leaves in winter transitioning to slender upright form in spring.",
+            "Small white flowers with yellow disk centers in inconspicuous clusters along stems.",
+            "One-seeded achenes with yellow-gray color and fluffy white hairs for wind dispersal.",
+            "Linear green leaves with smooth or toothed margins, averaging 2-3.5 inches in length.",
+            "Light green angular stem with fine white hairs, unbranched except near flower formations."
+        ],
+        "title": "Quickly Identify Horseweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Erigeron-canadensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed thrives in conditions replicating its native habitat with periodic rainfall and well-draining soil. It prefers drier conditions, benefiting from moderate watering twice a week. Typically grown outdoors, horseweed adapts well to varying rainfall, enhancing local ecosystem diversity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Horseweed propagates easily through sowing in spring, with seedlings appearing in 2-3 weeks. This species requires no special propagation techniques, making it straightforward for growers.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Erigeron_canadensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is horseweed poisonous?",
+            "link": "/ask/Erigeron_canadensis-0.html"
+        },
+        {
+            "q": "Can rabbits eat horseweed?",
+            "link": "/ask/Erigeron_canadensis-1.html"
+        },
+        {
+            "q": "Where is horseweed native to?",
+            "link": "/ask/Erigeron_canadensis-2.html"
+        },
+        {
+            "q": "Is horseweed considered a weed?",
+            "link": "/ask/Erigeron_canadensis-3.html"
+        },
+        {
+            "q": "Does horseweed have a flower?",
+            "link": "/ask/Erigeron_canadensis-4.html"
+        },
+        {
+            "q": "Is horsetail the same as horseweed?",
+            "link": "/ask/Erigeron_canadensis-5.html"
+        },
+        {
+            "q": "How do you care for horseweed?",
+            "link": "/ask/Erigeron_canadensis-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Terminalia catappa",
+                "link": "/wiki/Terminalia_catappa.html",
+                "imageUrl": "/wiki-image/1080/153462046271209513.jpeg",
+                "displayName": "Tropical almond"
+            },
+            {
+                "scientificName": "Malus prunifolia",
+                "link": "/wiki/Malus_prunifolia.html",
+                "imageUrl": "/wiki-image/1080/153975290568114187.jpeg",
+                "displayName": "Plumleaf crab apple"
+            },
+            {
+                "scientificName": "Alternanthera brasiliana",
+                "link": "/wiki/Alternanthera_brasiliana.html",
+                "imageUrl": "/wiki-image/1080/201162859258904576.jpeg",
+                "displayName": "Brazilian joyweed"
+            },
+            {
+                "scientificName": "Solidago canadensis",
+                "link": "/wiki/Solidago_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153846660592566302.jpeg",
+                "displayName": "Canada goldenrod"
+            },
+            {
+                "scientificName": "Pyrus communis",
+                "link": "/wiki/Pyrus_communis.html",
+                "imageUrl": "/wiki-image/1080/153847584010534954.jpeg",
+                "displayName": "Common pear"
+            },
+            {
+                "scientificName": "Bidens frondosa",
+                "link": "/wiki/Bidens_frondosa.html",
+                "imageUrl": "/wiki-image/1080/154063242908401683.jpeg",
+                "displayName": "Devil's beggarticks"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Erigeron_canadensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Erigeron_canadensis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Erigeron_canadensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Erigeron_canadensis.html",
+            "values": [
+                "Care Horseweed",
+                "Care Horseweed",
+                "Grow Horseweed",
+                "Maintain Horseweed",
+                "Horseweed Care",
+                "Horseweed Grow",
+                "Horseweed Maintain",
+                "Horseweed Cares",
+                "Growth Horseweed",
+                "Maintains Horseweed",
+                "Horseweed Growth",
+                "Horseweed Maintains",
+                "Horseweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Erigeron_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Erigeron_canadensis.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Erigeron_canadensis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Erigeron_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Erigeron_canadensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Erigeron_canadensis.html"
+        }
+    ]
+}

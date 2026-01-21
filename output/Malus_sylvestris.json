@@ -1,0 +1,978 @@
+{
+    "title": "European crab apple (Malus sylvestris) - PictureThis",
+    "displayName": "European crab apple",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1440,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154505126323683329.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1812,
+                "height": 1359,
+                "copyrightType": "CC",
+                "referral": "https://zh.wikipedia.org/wiki/File:Malus_sylvestris_003.JPG",
+                "authorLink": "",
+                "author": "H. Zell",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/152531859434110980.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "CC",
+                "referral": "https://www.geograph.org.uk/photo/4203296",
+                "authorLink": "",
+                "author": "Bob Harvey",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153875320909332491.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 634,
+                "copyrightType": "CC",
+                "referral": "https://www.geograph.org.uk/photo/5248589",
+                "authorLink": "",
+                "author": "Patrick Roper ",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153859171832299545.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2400,
+                "height": 3200,
+                "copyrightType": "CC",
+                "referral": "https://ca.wikipedia.org/wiki/Fitxer:Malus_sylvestris_inflorescence,_Vosseslag,_Belgium.jpg",
+                "authorLink": "",
+                "author": "Hans Hillewaert",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154002851373252653.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   European crab apple (Malus sylvestris) is a plant species that can live to be one hundred years old. European crab apple is native to Europe and its latin name Malus sylvestris means forest apple. Caterpillars of the twin-spotted sphinx feed on the leaves of european crab apple. This species has been considered an important ancestor of the domestic apple.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "European crab apple (Malus sylvestris) is a plant species that can live to be one hundred years old. European crab apple is native to Europe and its latin name Malus sylvestris means forest apple. Caterpillars of the twin-spotted sphinx feed on the leaves of european crab apple. This species has been considered an important ancestor of the domestic apple.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "European crab apple (<i>Malus sylvestris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Malus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Malus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 m to 8 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288816768046891008.jpeg",
+        "habitat": "Woods, scrub and hedges",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   European crab apple is native to the temperate zone of Europe, extending east to the Caucasus region and has been introduced to other parts of the world. It is specifically cultivated for various purposes, indicating a broader range beyond its natural habitat. Its presence spans from its native regions to areas where it has adapted as a cultivated species.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Csb\": {\"trends\": {\"1\": 2.972441265, \"2\": 9.275494673, \"3\": 11.62026696, \"4\": 3.326056107, \"5\": 9.631610142, \"6\": 7.0, \"7\": 4.924046542, \"8\": 25.58386871, \"9\": 28.27544026, \"10\": 46.88785265, \"11\": 7.671267365, \"12\": 8.342945153}, \"flower_month\": 10, \"fruit_month\": 2}, \"Cfa\": {\"trends\": {\"1\": 274.0, \"2\": 207.0, \"3\": 210.0, \"4\": 173.0, \"5\": 160.0, \"6\": 118.0, \"7\": 130.0, \"8\": 298.0, \"9\": 473.0, \"10\": 633.0, \"11\": 338.0, \"12\": 274.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Cfb\": {\"trends\": {\"1\": 437.0, \"2\": 269.0, \"3\": 290.0, \"4\": 217.0, \"5\": 157.0, \"6\": 86.0, \"7\": 58.0, \"8\": 79.0, \"9\": 363.0, \"10\": 628.0, \"11\": 481.0, \"12\": 429.0}, \"flower_month\": 10, \"fruit_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 46.6018719, \"2\": 60.86829377, \"3\": 114.6594261, \"4\": 119.5082996, \"5\": 89.67721347, \"6\": 72.86034662, \"7\": 62.92031407, \"8\": 75.83295872, \"9\": 70.93324168, \"10\": 66.45216713, \"11\": 47.68733283, \"12\": 34.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"BWk\": {\"trends\": {\"1\": 0.835727773, \"2\": 1.495519318, \"3\": 15.2588493, \"4\": 20.64192995, \"5\": 11.13431888, \"6\": 7.752272904, \"7\": 10.15072813, \"8\": 5.783433701, \"9\": 16.01915093, \"10\": 12.23734192, \"11\": 8.50459482, \"12\": 11.0}, \"flower_month\": 4, \"fruit_month\": 9}, \"BSk\": {\"trends\": {\"1\": 12.55451321, \"2\": 13.8015727, \"3\": 80.51429106, \"4\": 118.3222882, \"5\": 69.92493238, \"6\": 58.08990393, \"7\": 41.55822561, \"8\": 61.46982877, \"9\": 70.0581511, \"10\": 99.88200918, \"11\": 26.89833481, \"12\": 22.0}, \"flower_month\": 4, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 41.8618405, \"2\": 31.29388501, \"3\": 97.51244974, \"4\": 178.9683592, \"5\": 158.3431606, \"6\": 108.7261023, \"7\": 73.06352424, \"8\": 88.18815195, \"9\": 84.4917566, \"10\": 91.25830343, \"11\": 52.9105964, \"12\": 27.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 2.921720476, \"2\": 11.26557063, \"3\": 13.13701339, \"4\": 23.86186338, \"5\": 14.62034501, \"6\": 12.77519856, \"7\": 8.834853909, \"8\": 14.77595127, \"9\": 25.03458477, \"10\": 22.88292566, \"11\": 9.750081354, \"12\": 5.0}, \"flower_month\": 4, \"fruit_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 103.0336621, \"2\": 77.0531295, \"3\": 253.9180979, \"4\": 851.3416601, \"5\": 723.8985262, \"6\": 726.5323966, \"7\": 451.8162725, \"8\": 663.4760735, \"9\": 787.9505098, \"10\": 991.1884298, \"11\": 446.2171139, \"12\": 136.0}, \"flower_month\": 4, \"fruit_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 67.65988925, \"2\": 99.20968826, \"3\": 134.3782543, \"4\": 476.1400561, \"5\": 461.8686324, \"6\": 420.0559969, \"7\": 206.7447683, \"8\": 292.2636736, \"9\": 489.8045073, \"10\": 811.4640062, \"11\": 407.9456356, \"12\": 135.0}, \"flower_month\": 4, \"fruit_month\": 10}, \"Default\": {\"trends\": {\"1\": 376.5252986, \"2\": 381.1527052, \"3\": 914.9832199, \"4\": 2077.742377, \"5\": 1885.682641, \"6\": 1817.475198, \"7\": 1068.900172, \"8\": 1567.436084, \"9\": 1923.600161, \"10\": 2512.356349, \"11\": 1242.496865, \"12\": 482.0}, \"flower_month\": 4, \"fruit_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Compact in size and exploding with springtime blooms, european crab apple trees are considered a must-have in smaller gardens. They provide year-round interest with their pink spring flowers, summer fruits, fall foliage, and winter shape. European crab apple trees also provide pollination for other types of apple trees, further increasing their popularity.",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The loss of natural habitat has made european crab apple scarce in its native countries. However, preserved areas and seed banks have been set up to preserve and continue this species of tree. In its wild form, it has sharp thorns.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "European crab apple",
+                "values": [
+                    "European crab apple, or Malus sylvestris, is also known as wild apple. Its Latin name means Ã¢ÂÂforest appleÃ¢ÂÂ and it is thought to be a relative to the first known cultivated apple tree. It is called the european crab apple because it is native to Europe."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>European crab apple poses a mild toxicity risk to humans</strong>, primarily through ingestion of seeds, leaves, and stems, containing hydrogen cyanide. Symptoms include dizziness and headaches. <strong>European crab apple is moderately toxic to cats</strong> causing shock if large amounts are consumed. In dogs, leaves, twigs, and seeds cause reactions like vomiting and diarrhea, with death being rare. Avoid accidental ingestion, especially by pets and children.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Malus_sylvestris.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Showy white-pink flowers, 1 inch (2.5 cm) diameter, 5-parted petals.",
+            "Fruit: Firm, globular, 2-3 inches (5-7.6 cm), with smooth skin.",
+            "Leaves: Alternate, ovate, serrated, 4-8 cm (1.6-3.1 in) long.",
+            "Robust single trunk, 4-8 inches (10-20 cm) diameter, dark gray-brown, scaly texture.",
+            "Bark: Grayish-brown with vertical fissures, contributes to gnarled appearance."
+        ],
+        "title": "Quickly Identify European crab apple",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Malus-sylvestris.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, european crab apple prefers moderate moisture and can endure short dry spells. Water every three weeks to keep the soil moist but not soggy, with reduced needs in winter during dormancy.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European crab apple thrives with balanced nutrition from equal parts nitrogen, phosphorus, and potassium fertilizer. Apply in early and late spring; reduce feeding in summer. Use 1/2 pound per trunk inch, water well after application, and avoid fall fertilization to prevent frost damage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European crab apple thrives with late winter pruning, which includes removing dead wood, thinning branches, and shaping the canopy for better air flow and light. This timing boosts overall health, flowering, and fruiting. Use clean, sharp tools to prevent damage and disease.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   European crab apple thrives with careful propagation techniques. Stratify seeds and sow in well-draining soil with consistent moisture. Semi-hardwood cuttings root well in peat-perlite mix. Grafting onto rootstocks enhances vigor and disease resistance. Focus on soil conditions and gentle root care for successful growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Malus_sylvestris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is european crab apple edible?",
+            "link": "/ask/Malus_sylvestris-0.html"
+        },
+        {
+            "q": "How do you take care of european crab apple?",
+            "link": "/ask/Malus_sylvestris-1.html"
+        },
+        {
+            "q": "How tall can european crab apple get?",
+            "link": "/ask/Malus_sylvestris-2.html"
+        },
+        {
+            "q": "How long will a european crab apple live?",
+            "link": "/ask/Malus_sylvestris-3.html"
+        },
+        {
+            "q": "When does european crab apple bloom?",
+            "link": "/ask/Malus_sylvestris-4.html"
+        },
+        {
+            "q": "Where is european crab apple native?",
+            "link": "/ask/Malus_sylvestris-5.html"
+        },
+        {
+            "q": "Is european crab apple tolerant to cold?",
+            "link": "/ask/Malus_sylvestris-6.html"
+        },
+        {
+            "q": "What benefits does european crab apple have for humans?",
+            "link": "/ask/Malus_sylvestris-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Malus-sylvestris-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Malus-sylvestris-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Malus-sylvestris-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Stem withering",
+                "link": "/disease/Malus-sylvestris-Stem-withering.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Malus-sylvestris-Leaf-edges-turning-downwards.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Malus-sylvestris-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Malus-sylvestris-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Malus-sylvestris-Mealybug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Malus-sylvestris-Aphid.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Malus-sylvestris-Wounds.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Malus-sylvestris-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Malus-sylvestris-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Malus-sylvestris-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Malus-sylvestris-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Fruit damage",
+                "link": "/disease/Malus-sylvestris-Fruit-damage.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Malus-sylvestris-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Malus-sylvestris-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Malus-sylvestris-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Malus-sylvestris-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Malus-sylvestris-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Malus-sylvestris-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Malus-sylvestris-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Malus-sylvestris-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Malus-sylvestris-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Malus-sylvestris-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Malus-sylvestris-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Malus-sylvestris-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Malus-sylvestris-Leaf-gall.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Piper auritum",
+                "link": "/wiki/Piper_auritum.html",
+                "imageUrl": "/wiki-image/1080/154096619099258880.jpeg",
+                "displayName": "Hoja Santa"
+            },
+            {
+                "scientificName": "Brachiaria mutica",
+                "link": "/wiki/Brachiaria_mutica.html",
+                "imageUrl": "/wiki-image/1080/217218288827203584.jpeg",
+                "displayName": "Para grass"
+            },
+            {
+                "scientificName": "Salix babylonica",
+                "link": "/wiki/Salix_babylonica.html",
+                "imageUrl": "/wiki-image/1080/202654806343680000.jpeg",
+                "displayName": "Weeping willow"
+            },
+            {
+                "scientificName": "Rosa gallica",
+                "link": "/wiki/Rosa_gallica.html",
+                "imageUrl": "/wiki-image/1080/202653204320878592.jpeg",
+                "displayName": "French rose"
+            },
+            {
+                "scientificName": "Ruellia simplex",
+                "link": "/wiki/Ruellia_simplex.html",
+                "imageUrl": "/wiki-image/1080/154113996536938507.jpeg",
+                "displayName": "Mexican petunia"
+            },
+            {
+                "scientificName": "Trifolium repens",
+                "link": "/wiki/Trifolium_repens.html",
+                "imageUrl": "/wiki-image/1080/202692159674253312.jpeg",
+                "displayName": "White clover"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Malus_sylvestris.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Malus_sylvestris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Malus_sylvestris.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Malus_sylvestris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Malus_sylvestris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Malus_sylvestris.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Malus_sylvestris.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Malus_sylvestris.html",
+            "values": [
+                "Care European crab apple",
+                "Care European crab apple",
+                "Grow European crab apple",
+                "Maintain European crab apple",
+                "European crab apple Care",
+                "European crab apple Grow",
+                "European crab apple Maintain",
+                "European crab apple Cares",
+                "Growth European crab apple",
+                "Maintains European crab apple",
+                "European crab apple Growth",
+                "European crab apple Maintains",
+                "European crab apple Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Stem-withering.html",
+            "values": [
+                "Stem withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Fruit-damage.html",
+            "values": [
+                "Fruit damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malus-sylvestris-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Malus_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Malus_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Malus_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Malus_sylvestris.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Malus_sylvestris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Malus_sylvestris.html"
+        }
+    ]
+}

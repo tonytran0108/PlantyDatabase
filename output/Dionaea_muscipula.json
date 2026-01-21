@@ -1,0 +1,913 @@
+{
+    "title": "Venus flytrap (Dionaea muscipula) - PictureThis",
+    "displayName": "Venus flytrap",
+    "otherCommonName": "Meadow clams, Tippity twitchet",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202701402443874304.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/39530204",
+                "authorLink": "https://www.inaturalist.org/people/kueda",
+                "author": "kueda",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929476151967775.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35207853",
+                "authorLink": "https://www.inaturalist.org/people/kueda",
+                "author": "kueda",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153889880848465953.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1364,
+                "height": 716,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula1.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Mmparedes",
+                "author": "User:Mmparedes",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153742344426881032.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 800,
+                "height": 519,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula5.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Mmparedes",
+                "author": "User:Mmparedes",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153674849015824400.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Venus flytrap (Dionaea muscipula) is a carnivorous flowering plant. It engulfs and consumes insects that enter its hinged jaws, which are modified parts of the leaves of the plant. The species gets its name from Venus, the Roman love goddess. Venus flytrap employs a sweet-scented nectar to entice its prey.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Venus flytrap (Dionaea muscipula) is a carnivorous flowering plant. It engulfs and consumes insects that enter its hinged jaws, which are modified parts of the leaves of the plant. The species gets its name from Venus, the Roman love goddess. Venus flytrap employs a sweet-scented nectar to entice its prey.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Venus flytrap (<i>Dionaea muscipula</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Venus flytrap",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Dionaea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Sundew",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Droseraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 20 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805555761840130.jpeg",
+        "habitat": "Bogs, wet savannahs",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Venus flytrap is native to subtropical wetlands on the East Coast of a major North American region. Outside its native range, venus flytrap has been introduced into temperate areas of the European continent and in parts of a major region in the Caribbean. It is also widely cultivated as an ornamental carnivorous plant.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1224",
+                "1203",
+                "1082",
+                "1018",
+                "873",
+                "699",
+                "919",
+                "1242",
+                "1351",
+                "1276",
+                "1096",
+                "1332"
+            ],
+            "north": [
+                "7248",
+                "9900",
+                "15645",
+                "19047",
+                "18379",
+                "14013",
+                "12994",
+                "10145",
+                "8567",
+                "5988",
+                "5133",
+                "6338"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Venus flytraps can catch insects.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Best known and prized as a unique carnivorous plant, the venus flytrap is well suited to rain and water gardens. It does best when planted in ponds and containers. Companion plants of the venus flytrap include the Drosera intermedia and the Sarracenia flava.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Natural wisdom and deceitful hell",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The venus flytrap is a very interesting insectivorous plant. Its stem is very short and has a shellfish-like trap at the top of the leaf that secretes honey. When a bug comes in, it can trap it at a very fast speed, and digest and absorb it.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Venus flytrap",
+                "values": [
+                    "This plant catches its prey such as chiefly insects and arachnids with a trapping structure formed by the terminal portion of the plant's leaves, which is triggered by tiny hairs on the inner surfaces. Its common name refers to Venus, the Roman goddess of love. Hence, it is called Venus flytrap."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Lobed leaves with eyelash-like protrusions, capable of rapid closure for trapping prey.",
+            "Brightly colored inner leaf surfaces, often red or pink, contrasting with green exterior.",
+            "White cup-shaped flowers with 5 sepals, 5 petals, and 10-12 stamens in May-June.",
+            "Dehiscent, green to brown capsules with small black seeds, splitting along three sutures.",
+            "Low-growing rosette of bristly leaves ending in hinged trap structures, up to 5 inches long."
+        ],
+        "title": "Quickly Identify Venus flytrap",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Dionaea-muscipula.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Venus flytrap thrives in moist, humid environments and requires consistent moisture without being waterlogged. Watering should be done twice a week, especially during its active season, to support its insect-capturing mechanisms. This makes it ideal for indoor cultivation, mimicking its natural habitat.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Venus flytrap needs minimal pruning, focusing on removing dead leaves and flower stalks in early to late spring. This practice enhances growth, prevents fungal infections, and improves air circulation. Careful handling and sterilized tools are essential to avoid trap damage and ensure optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Venus flytrap is propagated through division in spring and autumn. This process can be moderately challenging, with success indicated by new growth and roots. Adequate moisture and patience are crucial for positive results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot 'venus flytrap' every 2-3 years in spring using a slightly larger pot. Use nutrient-poor soil while ensuring high humidity and ample sunlight. Avoid overwatering to promote vigorous growth and maintain health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Dionaea_muscipula.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a venus flytrap?",
+            "link": "/ask/Dionaea_muscipula-0.html"
+        },
+        {
+            "q": "What do venus flytrap eat?",
+            "link": "/ask/Dionaea_muscipula-1.html"
+        },
+        {
+            "q": "Does venus flytrap need direct sunlight?",
+            "link": "/ask/Dionaea_muscipula-2.html"
+        },
+        {
+            "q": "How does the venus flytrap work?",
+            "link": "/ask/Dionaea_muscipula-3.html"
+        },
+        {
+            "q": "Does a venus flytrap poop?",
+            "link": "/ask/Dionaea_muscipula-4.html"
+        },
+        {
+            "q": "Does a venus flytrap have a brain?",
+            "link": "/ask/Dionaea_muscipula-5.html"
+        },
+        {
+            "q": "Why does my venus flytrap turn black?",
+            "link": "/ask/Dionaea_muscipula-6.html"
+        },
+        {
+            "q": "How long does a venus flytrap stay closed?",
+            "link": "/ask/Dionaea_muscipula-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Dionaea-muscipula-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Dionaea-muscipula-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Soft Rot",
+                "link": "/disease/Dionaea-muscipula-Soft-Rot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Dionaea-muscipula-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Dionaea-muscipula-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Dionaea-muscipula-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Dionaea-muscipula-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Dionaea-muscipula-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Dionaea-muscipula-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Dionaea-muscipula-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf blackening",
+                "link": "/disease/Dionaea-muscipula-Leaf-blackening.html"
+            },
+            {
+                "diseaseName": "Etiolated leaves drooping",
+                "link": "/disease/Dionaea-muscipula-Etiolated-leaves-drooping.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Dionaea-muscipula-White-blotch.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Dionaea-muscipula-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Insect trap degeneration",
+                "link": "/disease/Dionaea-muscipula-Insect-trap-degeneration.html"
+            },
+            {
+                "diseaseName": "Insect trap withering",
+                "link": "/disease/Dionaea-muscipula-Insect-trap-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Dionaea-muscipula-Whole-plant-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Melaleuca alternifolia",
+                "link": "/wiki/Melaleuca_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/154169612068454428.jpeg",
+                "displayName": "Tea tree"
+            },
+            {
+                "scientificName": "Euphorbia obesa",
+                "link": "/wiki/Euphorbia_obesa.html",
+                "imageUrl": "/wiki-image/1080/393493715281248256.jpeg",
+                "displayName": "Baseball plant"
+            },
+            {
+                "scientificName": "Muehlenbeckia complexa",
+                "link": "/wiki/Muehlenbeckia_complexa.html",
+                "imageUrl": "/wiki-image/1080/153904719960473626.jpeg",
+                "displayName": "Maidenhair vine"
+            },
+            {
+                "scientificName": "Salvia farinacea",
+                "link": "/wiki/Salvia_farinacea.html",
+                "imageUrl": "/wiki-image/1080/154232876936724504.jpeg",
+                "displayName": "Mealycup sage"
+            },
+            {
+                "scientificName": "Gasteria acinacifolia",
+                "link": "/wiki/Gasteria_acinacifolia.html",
+                "imageUrl": "/wiki-image/1080/154157586160025619.jpeg",
+                "displayName": "Coast Oxtongue"
+            },
+            {
+                "scientificName": "Hexasepalum teres",
+                "link": "/wiki/Hexasepalum_teres.html",
+                "imageUrl": "/wiki-image/1080/153417181042835460.jpeg",
+                "displayName": "Poorjoe"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Dionaea_muscipula.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Dionaea_muscipula.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Dionaea_muscipula.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Dionaea_muscipula.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Dionaea_muscipula.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Dionaea_muscipula.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Dionaea_muscipula.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Dionaea_muscipula.html",
+            "values": [
+                "Care Venus flytrap",
+                "Care Venus flytrap",
+                "Grow Venus flytrap",
+                "Maintain Venus flytrap",
+                "Venus flytrap Care",
+                "Venus flytrap Grow",
+                "Venus flytrap Maintain",
+                "Venus flytrap Cares",
+                "Growth Venus flytrap",
+                "Maintains Venus flytrap",
+                "Venus flytrap Growth",
+                "Venus flytrap Maintains",
+                "Venus flytrap Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Etiolated-leaves-drooping.html",
+            "values": [
+                "Etiolated leaves drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Leaf-blackening.html",
+            "values": [
+                "Leaf blackening"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Insect-trap-degeneration.html",
+            "values": [
+                "Insect trap degeneration"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Insect-trap-withering.html",
+            "values": [
+                "Insect trap withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Dionaea-muscipula-Soft-Rot.html",
+            "values": [
+                "Soft Rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Dionaea_muscipula.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Dionaea_muscipula.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Dionaea_muscipula.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Dionaea_muscipula.html"
+        }
+    ]
+}

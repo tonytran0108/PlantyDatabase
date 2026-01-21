@@ -1,0 +1,581 @@
+{
+    "title": "Cow parsnip (Heracleum sphondylium) - PictureThis",
+    "displayName": "Cow parsnip",
+    "otherCommonName": "Common hogweed, Keck",
+    "mainImage": {
+        "copyright": {
+            "width": 667,
+            "height": 667,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153937481971007500.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27711345",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152384773984092160.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19531361",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153953201551310858.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 335,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4657198",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153945951646515232.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10941773",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153910634130440230.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Cow parsnip (Heracleum sphondylium) is a species of flowering perennial herb related to parsley and fennel. Its specific epithet, \"sphondylium,\" means \"vertebrate,\" and references its segmented appearance. This species produces extremely large amounts of nectar and thus attracts many bees.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Cow parsnip (Heracleum sphondylium) is a species of flowering perennial herb related to parsley and fennel. Its specific epithet, \"sphondylium,\" means \"vertebrate,\" and references its segmented appearance. This species produces extremely large amounts of nectar and thus attracts many bees.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cow parsnip (<i>Heracleum sphondylium</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Cow Parsnip",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Heracleum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Umbellifers",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Carrots, ivies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Apiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/229521403036991498.png",
+        "habitat": "Moist grassland and ditches, by hedges and in woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cow parsnip is originally native to a broad region comprising parts of Eurasia and has now become widespread throughout temperate zones. Its presence as an introduced species has been recorded in regions including eastern Europe, the Caribbean, some parts of North Asia, the far North Atlantic, and the South Pacific.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "25",
+                "27",
+                "58",
+                "100",
+                "166",
+                "172",
+                "68",
+                "43",
+                "37",
+                "42",
+                "11",
+                "28"
+            ],
+            "north": [
+                "456",
+                "1554",
+                "8925",
+                "28348",
+                "38326",
+                "40694",
+                "19578",
+                "7399",
+                "4661",
+                "2099",
+                "610",
+                "471"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Power, strength and potency",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Cow parsnip is used as a vegetable or a versatile wild spice. However, cow parsnip has a poisonous counterpart named giant hogweed (Heracleum mantegazzianum), which contains toxic sap that can cause severe skin irritation in humans. Although many Heracleum species are similar, giant hogweed is quite taller than others, growing even 4 m tall.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common hogweed",
+                "values": [
+                    "Several plants of the genus Heracleum in the carrot family, including Heracleum sphondylium, are often called hogweed. The name comes from the fact that these plants are a food source for hogs. They can even graze the hogweed species that contain toxic sap."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Cow parsnip causes <strong>painful skin irritations</strong> and gastrointestinal distress if ingested in large amounts. <strong>Cats and dogs</strong> are at risk of poisoning from consuming its leaves, showing symptoms like gastrointestinal upset, drooling, and oral irritation. Prompt veterinary care is essential for pets that ingest this plant.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Heracleum_sphondylium.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Cow parsnip is a biennial plant native to Eurasia and has become an invasive naturalized weed in the eastern half of North America. The large, shrub-like plant has leaves measuring 1.5 m wide and 3 m long. Its large leaves easily shade native plants from the sunlight they need to thrive. But the plant's large leaves aren't the only reason it's considered invasive: its large seeds can spread easily in the fall, producing new plants in the spring. A spreading root system also leaches nutrients from the ground that native plants need to survive. Furthermore, cow parsnip is also a toxic plant that can cause severe skin burns.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of Heracleum sphondylium (Cow parsnip) is late spring to early summer, when the plant's growth is most vigorous but before it has had a chance to flower and produce seeds. Here are the organic or interesting methods you can use to control this plant:\n  </div> \n  <ol> \n   <li>Hand Pulling: Wearing protective gloves and clothing to prevent skin irritation, grasp cow parsnip at the base of the stem and pull upward to remove the whole plant. Be sure to remove the entire root to prevent regrowth.</li> \n   <li>Mowing: Regular mowing can help suppress cow parsnip. Mow as low as possible without damaging desirable plants. Make sure to mow before the plant has a chance to seed to prevent further spread.</li> \n   <li>Smothering: Cover the area with a thick layer of mulch, cardboard, or a tarp to block sunlight and smother cow parsnip. Leave the cover in place for at least one growing season to ensure the plant is dead.</li> \n   <li>Grazing: Some types of livestock, such as goats, enjoy eating cow parsnip and can help control its growth. Monitor the livestock to ensure they're not overgrazing the area and damaging other plants.</li> \n   <li>Planting Competitive Species: Plant species that can compete with cow parsnip for resources. Choose fast-growing native species that can outcompete Cow parsnip.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from damp meadows and riversides, cow parsnip prefers consistent soil moisture and thrives with weekly watering. It efficiently manages rainwater in outdoor settings, making it suitable for temperate climates with rainfall patterns that align with its natural requirements.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cow parsnip is propagated by sowing in early Spring, exhibiting moderate difficulty. Success is indicated by robust green seedlings. For optimal growth, ensure proper spacing and use well-draining soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Heracleum_sphondylium.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is cow parsnip dangerous?",
+            "link": "/ask/Heracleum_sphondylium-0.html"
+        },
+        {
+            "q": "How do you get rid of cow parsnip?",
+            "link": "/ask/Heracleum_sphondylium-1.html"
+        },
+        {
+            "q": "Does cow parsnip cause burns?",
+            "link": "/ask/Heracleum_sphondylium-2.html"
+        },
+        {
+            "q": "What is the difference between giant hogweed and cow parsnip?",
+            "link": "/ask/Heracleum_sphondylium-3.html"
+        },
+        {
+            "q": "Is cow parsnip annual or perennial?",
+            "link": "/ask/Heracleum_sphondylium-4.html"
+        },
+        {
+            "q": "How tall can cow parsnip get?",
+            "link": "/ask/Heracleum_sphondylium-5.html"
+        },
+        {
+            "q": "Is cow parsnip a weed?",
+            "link": "/ask/Heracleum_sphondylium-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Cocculus carolinus",
+                "link": "/wiki/Cocculus_carolinus.html",
+                "imageUrl": "/wiki-image/1080/154151530256138245.jpeg",
+                "displayName": "Carolina coralbead"
+            },
+            {
+                "scientificName": "Quercus robur",
+                "link": "/wiki/Quercus_robur.html",
+                "imageUrl": "/wiki-image/1080/153466916764123152.jpeg",
+                "displayName": "English oak"
+            },
+            {
+                "scientificName": "Jatropha podagrica",
+                "link": "/wiki/Jatropha_podagrica.html",
+                "imageUrl": "/wiki-image/1080/154211273251225636.jpeg",
+                "displayName": "Buddha belly plant"
+            },
+            {
+                "scientificName": "Monstera deliciosa",
+                "link": "/wiki/Monstera_deliciosa.html",
+                "imageUrl": "/wiki-image/1080/347088479137988608.jpeg",
+                "displayName": "Swiss cheese plant"
+            },
+            {
+                "scientificName": "Hylotelephium spectabile",
+                "link": "/wiki/Hylotelephium_spectabile.html",
+                "imageUrl": "/wiki-image/1080/153421738003136534.jpeg",
+                "displayName": "Showy stonecrop"
+            },
+            {
+                "scientificName": "Artemisia ludoviciana",
+                "link": "/wiki/Artemisia_ludoviciana.html",
+                "imageUrl": "/wiki-image/1080/153874191332933652.jpeg",
+                "displayName": "White sagebrush"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Heracleum_sphondylium.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Heracleum_sphondylium.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Heracleum_sphondylium.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Heracleum_sphondylium.html",
+            "values": [
+                "Care Cow parsnip",
+                "Care Cow parsnip",
+                "Grow Cow parsnip",
+                "Maintain Cow parsnip",
+                "Cow parsnip Care",
+                "Cow parsnip Grow",
+                "Cow parsnip Maintain",
+                "Cow parsnip Cares",
+                "Growth Cow parsnip",
+                "Maintains Cow parsnip",
+                "Cow parsnip Growth",
+                "Cow parsnip Maintains",
+                "Cow parsnip Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Heracleum_sphondylium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Heracleum_sphondylium.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Heracleum_sphondylium.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Heracleum_sphondylium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Heracleum_sphondylium.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Heracleum_sphondylium.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Heracleum_sphondylium.html"
+        }
+    ]
+}

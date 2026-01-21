@@ -1,0 +1,1005 @@
+{
+    "title": "Four o'clock flower (Mirabilis jalapa) - PictureThis",
+    "displayName": "Four o'clock flower",
+    "otherCommonName": "False jalap",
+    "mainImage": {
+        "copyright": {
+            "width": 791,
+            "height": 791,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154028612587094040.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/15117409",
+                "authorLink": "https://www.inaturalist.org/people/robberfly",
+                "author": "Liam O'Brien",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153834402755903500.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/7862969",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153822011775254557.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7710194",
+                "authorLink": "https://www.inaturalist.org/people/joseantonioap",
+                "author": "joseantonioap",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153823308855377952.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/85722682",
+                "authorLink": "https://www.inaturalist.org/people/santiagomunarrueda",
+                "author": "Anderson Santiago Munar Rueda",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422700046945452033.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Four o'clock flower (Mirabilis jalapa), also known as the marvel of Peru, is a perennial, herbaceous, bushy plant with fragrant, showy flowers, commonly cultivated for ornamental purposes. During bloom time, its flowers are closed most of the day; they open between four and eight o'clock, hence the common name four o'clock flower.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Four o'clock flower (Mirabilis jalapa), also known as the marvel of Peru, is a perennial, herbaceous, bushy plant with fragrant, showy flowers, commonly cultivated for ornamental purposes. During bloom time, its flowers are closed most of the day; they open between four and eight o'clock, hence the common name four o'clock flower.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Four o'clock flower (<i>Mirabilis jalapa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "umbrellaworts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Mirabilis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Four o'clock",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Nyctaginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   80 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801952284278785.jpeg",
+        "habitat": "Meadows, fields",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Four o'clock flower is native to Mexico and Central America. It has been widely naturalized in much of the world. Its preferred ecosystem is at low altitudes in disturbed or weedy ground.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BWk\": {\"trends\": {\"1\": 45.62273998, \"2\": 35.04011015, \"3\": 30.31094153, \"4\": 18.83139864, \"5\": 20.93613801, \"6\": 14.0, \"7\": 7.907858072, \"8\": 8.244499535, \"9\": 17.12886812, \"10\": 23.17325204, \"11\": 49.30146146, \"12\": 47.83068588}, \"flower_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 345.4032106, \"2\": 292.0323049, \"3\": 296.3793471, \"4\": 262.5237187, \"5\": 167.9827316, \"6\": 108.0, \"7\": 76.36215604, \"8\": 82.1668786, \"9\": 116.7473842, \"10\": 216.6367553, \"11\": 360.915881, \"12\": 385.4008737}, \"flower_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 104.0845913, \"2\": 101.8702393, \"3\": 53.03554132, \"4\": 50.65885988, \"5\": 29.94619393, \"6\": 19.0, \"7\": 9.090070287, \"8\": 18.86689775, \"9\": 19.95919871, \"10\": 37.63278375, \"11\": 52.31601066, \"12\": 75.8931866}, \"flower_month\": 1}, \"Csa\": {\"trends\": {\"1\": 135.4968724, \"2\": 104.987409, \"3\": 90.15030959, \"4\": 54.14962889, \"5\": 53.66922095, \"6\": 24.0, \"7\": 24.86295606, \"8\": 10.28013769, \"9\": 24.76533214, \"10\": 40.60772838, \"11\": 116.8109435, \"12\": 135.4335066}, \"flower_month\": 1}, \"Csb\": {\"trends\": {\"1\": 47.55906024, \"2\": 37.10197869, \"3\": 37.6275311, \"4\": 28.60408252, \"5\": 14.44741521, \"6\": 11.0, \"7\": 5.90885585, \"8\": 12.40429998, \"9\": 6.426236423, \"10\": 15.62928422, \"11\": 30.13712179, \"12\": 41.71472576}, \"flower_month\": 1}, \"Default\": {\"trends\": {\"1\": 1184.589713, \"2\": 1048.704765, \"3\": 929.1211971, \"4\": 786.335716, \"5\": 634.2476528, \"6\": 506.0, \"7\": 452.0572835, \"8\": 392.4107259, \"9\": 502.6257428, \"10\": 769.8234881, \"11\": 1147.26426, \"12\": 1175.391035}, \"flower_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 169.6308137, \"2\": 202.2975646, \"3\": 279.5973171, \"4\": 452.6509046, \"5\": 424.2422022, \"6\": 328.8219121, \"7\": 276.062878, \"8\": 262.1884211, \"9\": 368.369221, \"10\": 366.9007951, \"11\": 327.6296385, \"12\": 215.0}, \"flower_month\": 4}, \"BWk\": {\"trends\": {\"1\": 14.20737214, \"2\": 5.982077273, \"3\": 7.042545832, \"4\": 20.11264969, \"5\": 29.45206929, \"6\": 31.95834952, \"7\": 29.74399406, \"8\": 41.64072265, \"9\": 31.35663586, \"10\": 25.94316488, \"11\": 11.05597327, \"12\": 10.0}, \"flower_month\": 8}, \"BSk\": {\"trends\": {\"1\": 61.09863096, \"2\": 48.30550446, \"3\": 77.38317974, \"4\": 146.7674443, \"5\": 188.1803327, \"6\": 227.9562994, \"7\": 248.8632925, \"8\": 278.2962397, \"9\": 239.4295054, \"10\": 169.6920156, \"11\": 92.3509495, \"12\": 68.0}, \"flower_month\": 8}, \"Csa\": {\"trends\": {\"1\": 72.38609921, \"2\": 61.84267753, \"3\": 76.94020296, \"4\": 199.9453627, \"5\": 322.5259272, \"6\": 399.0303146, \"7\": 431.3344096, \"8\": 408.9432887, \"9\": 418.8441624, \"10\": 325.7644892, \"11\": 175.2121389, \"12\": 159.0}, \"flower_month\": 7}, \"Csb\": {\"trends\": {\"1\": 16.79989273, \"2\": 15.24165438, \"3\": 19.70552008, \"4\": 38.43399369, \"5\": 79.04495474, \"6\": 110.074676, \"7\": 128.3998768, \"8\": 124.4290633, \"9\": 102.5064755, \"10\": 70.98376941, \"11\": 25.18771016, \"12\": 21.0}, \"flower_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 161.0791061, \"2\": 203.8237809, \"3\": 412.5405914, \"4\": 626.9957828, \"5\": 914.9837633, \"6\": 946.6493318, \"7\": 827.4850275, \"8\": 853.0932838, \"9\": 802.1149845, \"10\": 673.5731227, \"11\": 303.084333, \"12\": 177.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 46.13447559, \"2\": 55.03794965, \"3\": 58.56998188, \"4\": 75.22710718, \"5\": 139.6040281, \"6\": 269.3478622, \"7\": 425.1457772, \"8\": 436.0780598, \"9\": 414.9920181, \"10\": 192.1536649, \"11\": 111.7510232, \"12\": 55.0}, \"flower_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 53.90599321, \"2\": 70.09134381, \"3\": 113.36489, \"4\": 146.3314785, \"5\": 278.5162313, \"6\": 418.847372, \"7\": 494.0348254, \"8\": 439.2984502, \"9\": 354.3089473, \"10\": 191.7619239, \"11\": 104.6657649, \"12\": 66.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 23.92849742, \"2\": 47.79444836, \"3\": 69.4744716, \"4\": 75.06101549, \"5\": 110.9395926, \"6\": 174.8902345, \"7\": 244.032664, \"8\": 272.2087604, \"9\": 206.7784563, \"10\": 116.109105, \"11\": 32.92474618, \"12\": 18.0}, \"flower_month\": 8}, \"Default\": {\"trends\": {\"1\": 954.6166029, \"2\": 1015.527969, \"3\": 1484.768225, \"4\": 1981.246437, \"5\": 2609.077747, \"6\": 3192.795812, \"7\": 3548.700094, \"8\": 3589.837321, \"9\": 3304.5118, \"10\": 2467.351541, \"11\": 1631.752327, \"12\": 1217.0}, \"flower_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The four o'clock flower is typically grown in borders, beds, and containers of cottage and Mediterranean gardens. In addition, it can be used as a flowering shrub for landscape purposes when planted close together. They are well paired with Asiatic lilies, French marigolds, and Nasturtium.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Chastity, simplicity, exquisiteness, speculation, suspicion, maturity, timidity, cowardice, solace",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "It is rich in color, commonly in red, yellow, white and variegated. When it blooms in summer, a limb is densely covered with its many different colors, very lovely and beautiful. The flowers are charming and fragrant. They are often planted in flowerbeds and on the roadside for ornamental purposes. They can also be made into bonsais and placed at home for viewing.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Four o'clock flower",
+                "values": [
+                    "This plant is considered as the 'night owl' among the plants. The flowers of this plant usually bloom in the evening or dusk (between 4 and 8 o'clock). The flowers that bloom in the evening produce a strong aroma but these flowers shut in the morning and do not open new flowers until the next evening. Therefore, it's called a four o'clock flower."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Four o'clock flower can cause toxic symptoms in humans, cats, and dogs if ingested or touched</strong>. All parts are toxic with seeds, roots, and sap being of special concern. <strong>Ingestion or contact</strong> can cause gastrointestinal issues and dermatitis in humans, and gastrointestinal upset in cats and dogs. Immediate veterinary care is recommended for pets if ingestion occurs.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Mirabilis_jalapa.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Late afternoon blooming flowers in vibrant red, white, yellow, or bicolored patterns.",
+            "Distinctive trumpet-shaped flowers with a 5-lobed structure, measuring 2-3 inches (5-7.5 cm) long.",
+            "Leathery, rounded fruit with 5 pronounced longitudinal ribs, maturing to dark brown or black.",
+            "Pointed oval leaves up to 3 inches (7.5 cm) long with a smooth surface.",
+            "Robust, semi-woody perennial reaching 2-3 feet (60-90 cm) in height with showy floral displays."
+        ],
+        "title": "Quickly Identify Four o'clock flower",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Mirabilis-jalapa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in tropical environments, four o'clock flower prefers consistent moisture and tolerates drought. It benefits from weekly watering to maintain health. Typically grown outdoors, four o'clock flower leverages natural rainfall to enhance its flowering potential during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Feed four o'clock flower with balanced fertilizers bi-weekly during the growing season for optimal health and growth. In winter, reduce feeding to once monthly. Use diluted granular or liquid fertilizers to prevent root burn, or opt for controlled-release options for steady nutrition.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Four o'clock flower blooms vibrantly in late afternoon and thrives with early to late spring pruning, focusing on leggy or dead stems. Light pruning enhances air circulation, preventing mildew and pests, while removing spent flowers promotes continuous blooms throughout the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Four o'clock flower is ideally propagated through tubers in spring. Successful propagation is indicated by the presence of sprouting leaves and roots. For optimal results, it is crucial to ensure tubers are healthy and free from diseases.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Plant four o'clock flower requires pots with excellent drainage to thrive, ensuring proper moisture levels are maintained and preventing root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Mirabilis_jalapa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a four o'clock flower?",
+            "link": "/ask/Mirabilis_jalapa-0.html"
+        },
+        {
+            "q": "Are four o'clock flower perennials?",
+            "link": "/ask/Mirabilis_jalapa-1.html"
+        },
+        {
+            "q": "Why are they called four o'clock flower?",
+            "link": "/ask/Mirabilis_jalapa-2.html"
+        },
+        {
+            "q": "How big does four o'clock flower get?",
+            "link": "/ask/Mirabilis_jalapa-3.html"
+        },
+        {
+            "q": "Does four o'clock flower need a lot of sunlight?",
+            "link": "/ask/Mirabilis_jalapa-4.html"
+        },
+        {
+            "q": "Do four o'clocks reseed themselves?",
+            "link": "/ask/Mirabilis_jalapa-5.html"
+        },
+        {
+            "q": "Do hummingbirds like 4 o clocks?",
+            "link": "/ask/Mirabilis_jalapa-6.html"
+        },
+        {
+            "q": "How often should four o'clock flower be watered?",
+            "link": "/ask/Mirabilis_jalapa-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Mirabilis-jalapa-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Mirabilis-jalapa-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Mirabilis-jalapa-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Mirabilis-jalapa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Mirabilis-jalapa-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Mirabilis-jalapa-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Mirabilis-jalapa-Spots.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Mirabilis-jalapa-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Mirabilis-jalapa-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Mirabilis-jalapa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Mirabilis-jalapa-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Mirabilis-jalapa-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Mirabilis-jalapa-Black-mold.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Mirabilis-jalapa-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Mirabilis-jalapa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Mirabilis-jalapa-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Mirabilis-jalapa-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Mirabilis-jalapa-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Mirabilis-jalapa-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Mirabilis-jalapa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Mirabilis-jalapa-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Mirabilis-jalapa-Wilting.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Mirabilis-jalapa-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Mirabilis-jalapa-Leaf-white-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Rhamnus cathartica",
+                "link": "/wiki/Rhamnus_cathartica.html",
+                "imageUrl": "/wiki-image/1080/153744302931968020.jpeg",
+                "displayName": "Common buckthorn"
+            },
+            {
+                "scientificName": "Kalanchoe blossfeldiana",
+                "link": "/wiki/Kalanchoe_blossfeldiana.html",
+                "imageUrl": "/wiki-image/1080/153754456234655761.jpeg",
+                "displayName": "Florist kalanchoe"
+            },
+            {
+                "scientificName": "Datura metel",
+                "link": "/wiki/Datura_metel.html",
+                "imageUrl": "/wiki-image/1080/153971326313300010.jpeg",
+                "displayName": "Devil's trumpet"
+            },
+            {
+                "scientificName": "Euphorbia milii",
+                "link": "/wiki/Euphorbia_milii.html",
+                "imageUrl": "/wiki-image/1080/153464563122044932.jpeg",
+                "displayName": "Crown of thorns"
+            },
+            {
+                "scientificName": "Caesalpinia pulcherrima",
+                "link": "/wiki/Caesalpinia_pulcherrima.html",
+                "imageUrl": "/wiki-image/1080/153987685843730478.jpeg",
+                "displayName": "Peacock flower"
+            },
+            {
+                "scientificName": "Mimosa pudica",
+                "link": "/wiki/Mimosa_pudica.html",
+                "imageUrl": "/wiki-image/1080/153967121540317201.jpeg",
+                "displayName": "Shame plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Mirabilis_jalapa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Mirabilis_jalapa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Mirabilis_jalapa.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Mirabilis_jalapa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Mirabilis_jalapa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Mirabilis_jalapa.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Mirabilis_jalapa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Mirabilis_jalapa.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Mirabilis_jalapa.html",
+            "values": [
+                "Care Four o'clock flower",
+                "Care Four o'clock flower",
+                "Grow Four o'clock flower",
+                "Maintain Four o'clock flower",
+                "Four o'clock flower Care",
+                "Four o'clock flower Grow",
+                "Four o'clock flower Maintain",
+                "Four o'clock flower Cares",
+                "Growth Four o'clock flower",
+                "Maintains Four o'clock flower",
+                "Four o'clock flower Growth",
+                "Four o'clock flower Maintains",
+                "Four o'clock flower Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mirabilis-jalapa-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Mirabilis_jalapa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Mirabilis_jalapa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Mirabilis_jalapa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Mirabilis_jalapa.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Mirabilis_jalapa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Mirabilis_jalapa.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Mirabilis_jalapa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Mirabilis_jalapa.html"
+        }
+    ]
+}

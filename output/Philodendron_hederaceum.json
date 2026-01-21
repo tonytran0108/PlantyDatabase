@@ -1,0 +1,908 @@
+{
+    "title": "Heartleaf philodendron (Philodendron hederaceum) - PictureThis",
+    "displayName": "Heartleaf philodendron",
+    "otherCommonName": "Velvet leaf philodendron",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201221120490340352.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21342",
+                "authorLink": "https://www.inaturalist.org/people/loarie",
+                "author": "loarie",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152482587569291270.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Philodendron hederaceum 'Lemon Lime'",
+            "link": "/wiki/Philodendron_hederaceum__Lemon_Lime_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Philodendron hederaceum is an evergreen climbing plant originating from the West Indies. It is a widely cultivated houseplant, famous for its glossy, heart-shaped leaves, hence the common name heartleaf philodendron. It contains calcium oxalate crystals, so it can be mildly toxic when ingested.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Philodendron hederaceum is an evergreen climbing plant originating from the West Indies. It is a widely cultivated houseplant, famous for its glossy, heart-shaped leaves, hence the common name heartleaf philodendron. It contains calcium oxalate crystals, so it can be mildly toxic when ingested.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Heartleaf philodendron (<i>Philodendron hederaceum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Philodendrons",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Philodendron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.8 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 41 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805190689619973.jpeg",
+        "habitat": "Humid tropical forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The heartleaf philodendron plant originated in Central America, South America and the Caribbean where it grows in shady locations, often in tropical forests. In the southern United States, it is cultivated as a houseplant, and the vine is also considered invasive in fields, gardens, swamps, and moist forests.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3278",
+                "3381",
+                "3436",
+                "3156",
+                "2890",
+                "2748",
+                "3085",
+                "3354",
+                "3295",
+                "3185",
+                "2434",
+                "3454"
+            ],
+            "north": [
+                "39039",
+                "34871",
+                "39586",
+                "43658",
+                "41759",
+                "38035",
+                "37781",
+                "33350",
+                "29262",
+                "23413",
+                "27979",
+                "41214"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Heartleaf philodendron is most often grown as a houseplant. However, you can grow it in outdoor gardens in warm climate zones where temperatures do not go below 4 Ã¢ÂÂ. The attractive, heart-shaped leaves, which sometimes turn bronze-colored when they first emerge, make this plant valuable for background interest.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Health, abundance, growth, love of nature",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Heartleaf philodendron was introduced to Europe in 1793 by Captain William Bligh, a sea captain immortalized in Mutiny on the Bounty. However, it languished in Britain's Royal Botanic Gardens until the Great Depression, when nursery owners realized it had the traits of an ideal houseplant: interesting looks, easy maintenance, and simple propagation. At that point, the plant began to be marketed to the public, even being sold in five-and-ten-cent stores.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Heartleaf philodendron",
+                "values": [
+                    "Many people like to make this plant as an ornamental potted plant. Its unique heart-shaped leaves seem like they are expressing \"love\" all the time. The word, philodendron is derived from philÃÂ³dendros meaning \"loving trees\", so it is called heartleaf philodendron."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Heartleaf philodendron</strong> is highly toxic to both cats and dogs, causing severe symptoms if ingested. All parts of the plant can lead to vomiting, diarrhea, and breathing issues. Immediate veterinary assistance is essential upon ingestion. <strong>Prevent access</strong> to safeguard pet health and ensure their safety. Keep heartleaf philodendron out of reach at all times to avoid accidental consumption.~~\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Philodendron_hederaceum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full shade",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 41 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Heartleaf philodendron thrives in humid tropical rainforests, preferring consistent moisture and high humidity. It is drought-tolerant but best with weekly watering and regular misting. As an evergreen typically grown indoors, it enjoys stable temperatures and indirect light for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, heartleaf philodendron benefits from high nitrogen fertilizers, applied bi-monthly during growing season and sparingly in winter at half strength. Water heartleaf philodendron before fertilizing to prevent root burn. Over-fertilization can cause leggy growth, negatively impacting heartleaf philodendron's appearance.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Heartleaf philodendron thrives with regular pruning, which encourages bushier growth and removes damaged leaves. Best performed in early to late spring, pruning helps maintain health and size, ensuring a fuller appearance suitable for indoor settings.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To propagate heartleaf philodendron, cut a 10-15 cm stem below a leaf node, ensuring 2-3 leaves remain. Place in water until roots form, then plant in well-draining soil. This easy method supports quick rooting and growth, ideal for beginner gardeners.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot heartleaf philodendron annually in spring using a pot 2-3 inches wider to accommodate its climbing nature. After repotting, place heartleaf philodendron in indirect light and maintain consistent moisture for acclimation and growth, promoting lush foliage and healthy development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Philodendron_hederaceum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why are my heartleaf philodendron leaves curling?",
+            "link": "/ask/Philodendron_hederaceum-0.html"
+        },
+        {
+            "q": "How often should you water a heartleaf philodendron?",
+            "link": "/ask/Philodendron_hederaceum-1.html"
+        },
+        {
+            "q": "Why is my heartleaf philodendron droopy?",
+            "link": "/ask/Philodendron_hederaceum-2.html"
+        },
+        {
+            "q": "What causes brown spots on heartleaf philodendron?",
+            "link": "/ask/Philodendron_hederaceum-3.html"
+        },
+        {
+            "q": "How long do heartleaf philodendron cuttings take to root?",
+            "link": "/ask/Philodendron_hederaceum-4.html"
+        },
+        {
+            "q": "How do you propagate a philodendron Hederaceum?",
+            "link": "/ask/Philodendron_hederaceum-5.html"
+        },
+        {
+            "q": "How do you plant a heartleaf philodendron?",
+            "link": "/ask/Philodendron_hederaceum-6.html"
+        },
+        {
+            "q": "What is the difference between pothos and philodendron?",
+            "link": "/ask/Philodendron_hederaceum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Philodendron-hederaceum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Philodendron-hederaceum-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Philodendron-hederaceum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Philodendron-hederaceum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Philodendron-hederaceum-Spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Philodendron-hederaceum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Philodendron-hederaceum-Mealybug.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Philodendron-hederaceum-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Philodendron-hederaceum-Wounds.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Philodendron-hederaceum-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Philodendron-hederaceum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Philodendron-hederaceum-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Philodendron-hederaceum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Philodendron-hederaceum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Philodendron-hederaceum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Philodendron-hederaceum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Philodendron-hederaceum-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Philodendron-hederaceum-Notch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Philodendron-hederaceum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Philodendron-hederaceum-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Philodendron-hederaceum-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Philodendron-hederaceum-Mushrooms.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lycoris radiata",
+                "link": "/wiki/Lycoris_radiata.html",
+                "imageUrl": "/wiki-image/1080/153893488620994601.jpeg",
+                "displayName": "Red Spider lily"
+            },
+            {
+                "scientificName": "Rhamnus cathartica",
+                "link": "/wiki/Rhamnus_cathartica.html",
+                "imageUrl": "/wiki-image/1080/153744302931968020.jpeg",
+                "displayName": "Common buckthorn"
+            },
+            {
+                "scientificName": "Kalanchoe blossfeldiana",
+                "link": "/wiki/Kalanchoe_blossfeldiana.html",
+                "imageUrl": "/wiki-image/1080/153754456234655761.jpeg",
+                "displayName": "Florist kalanchoe"
+            },
+            {
+                "scientificName": "Datura metel",
+                "link": "/wiki/Datura_metel.html",
+                "imageUrl": "/wiki-image/1080/153971326313300010.jpeg",
+                "displayName": "Devil's trumpet"
+            },
+            {
+                "scientificName": "Euphorbia milii",
+                "link": "/wiki/Euphorbia_milii.html",
+                "imageUrl": "/wiki-image/1080/153464563122044932.jpeg",
+                "displayName": "Crown of thorns"
+            },
+            {
+                "scientificName": "Caesalpinia pulcherrima",
+                "link": "/wiki/Caesalpinia_pulcherrima.html",
+                "imageUrl": "/wiki-image/1080/153987685843730478.jpeg",
+                "displayName": "Peacock flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Philodendron_hederaceum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Philodendron_hederaceum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Philodendron_hederaceum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Philodendron_hederaceum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Philodendron_hederaceum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Philodendron_hederaceum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Philodendron_hederaceum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Philodendron_hederaceum.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Philodendron_hederaceum.html",
+            "values": [
+                "Care Heartleaf philodendron",
+                "Care Heartleaf philodendron",
+                "Grow Heartleaf philodendron",
+                "Maintain Heartleaf philodendron",
+                "Heartleaf philodendron Care",
+                "Heartleaf philodendron Grow",
+                "Heartleaf philodendron Maintain",
+                "Heartleaf philodendron Cares",
+                "Growth Heartleaf philodendron",
+                "Maintains Heartleaf philodendron",
+                "Heartleaf philodendron Growth",
+                "Heartleaf philodendron Maintains",
+                "Heartleaf philodendron Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Philodendron-hederaceum-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Philodendron_hederaceum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Philodendron_hederaceum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Philodendron_hederaceum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Philodendron_hederaceum.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Philodendron_hederaceum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Philodendron_hederaceum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Philodendron_hederaceum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Philodendron_hederaceum.html"
+        }
+    ]
+}

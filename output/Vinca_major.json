@@ -1,0 +1,959 @@
+{
+    "title": "Greater periwinkle (Vinca major) - PictureThis",
+    "displayName": "Greater periwinkle",
+    "otherCommonName": "Blue periwinkle, Big periwinkle",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "emer1940",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347097404080029696.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10178702",
+                "authorLink": "https://www.inaturalist.org/people/sebastian9129",
+                "author": "sebastian9129",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152485946233716740.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/14414557",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152372236974555136.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16478561",
+                "authorLink": "https://www.inaturalist.org/people/mpkw",
+                "author": "mpkw",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660031378653217.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7976496",
+                "authorLink": "https://www.inaturalist.org/people/eric_v",
+                "author": "eric_v",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662299121385487.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Greater periwinkle 'Wojo's Jem'",
+            "link": "/wiki/Vinca_major__Wojo_s_Jem_.html"
+        },
+        {
+            "displayName": "Periwinkle 'Variegata'",
+            "link": "/wiki/Vinca_major__Variegata_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Greater periwinkle (Vinca major) is an evergreen shrub native to the Western Mediterranean. It features lavender-colored flowers, and thick, lustrous deep green foliage. To avoid garden invasion and also for ornamental purposes, it's best to grow this plant in hanging pots or in window containers.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Greater periwinkle (Vinca major) is an evergreen shrub native to the Western Mediterranean. It features lavender-colored flowers, and thick, lustrous deep green foliage. To avoid garden invasion and also for ornamental purposes, it's best to grow this plant in hanging pots or in window containers.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Greater periwinkle (<i>Vinca major</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Periwinkles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Vinca.html"
+            },
+            {
+                "type": "Family",
+                "name": "Dogbane",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apocynaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gentians, dogbanes, madders, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Gentianales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall, Early winter, Late winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Violet",
+                        "name": "violet"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801621571796993.jpeg",
+        "habitat": "Copses, Hedgerows",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Greater periwinkle is naturally found in Mediterranean regions and has been introduced to multiple continents, where it thrives in various temperate zones. Greater periwinkle is cultivated for ornamental purposes and is sometimes thought to be potentially invasive in certain areas, particularly where it has the ability to establish itself in mild climates. Although greater periwinkle contributes to garden aesthetics, it may have an impact on ecosystems, particularly in locations where it competes with native flora.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 71.44131154, \"2\": 81.96002019, \"3\": 69.69316331, \"4\": 71.52592335, \"5\": 72.4475288, \"6\": 84.0, \"7\": 87.27103547, \"8\": 86.56867567, \"9\": 112.599, \"10\": 87.84027639, \"11\": 100.5831144, \"12\": 61.18590513}, \"flower_month\": 9}, \"Csa\": {\"trends\": {\"1\": 35.22918682, \"2\": 29.82596846, \"3\": 29.15039951, \"4\": 33.93376744, \"5\": 27.96846725, \"6\": 44.0, \"7\": 43.27996056, \"8\": 74.1638505, \"9\": 80.21814105, \"10\": 44.29934005, \"11\": 43.67255994, \"12\": 32.84982926}, \"flower_month\": 9}, \"Default\": {\"trends\": {\"1\": 244.6811988, \"2\": 248.1538018, \"3\": 252.7811516, \"4\": 238.1569384, \"5\": 241.3358892, \"6\": 270.0, \"7\": 273.1377692, \"8\": 372.9072107, \"9\": 420.7561292, \"10\": 356.64139, \"11\": 350.8588076, \"12\": 243.0004796}, \"flower_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 60.0, \"2\": 56.0, \"3\": 75.0, \"4\": 59.0, \"5\": 62.0, \"6\": 51.0, \"7\": 55.0, \"8\": 107.0, \"9\": 113.0, \"10\": 131.0, \"11\": 125.0, \"12\": 80.0}, \"flower_month\": 10}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 10.02873327, \"2\": 13.45967387, \"3\": 28.95268842, \"4\": 31.93324206, \"5\": 22.26863776, \"6\": 14.08065895, \"7\": 13.45561636, \"8\": 13.30189751, \"9\": 13.63331994, \"10\": 21.04822811, \"11\": 25.51378446, \"12\": 18.0}, \"flower_month\": 4}, \"BSk\": {\"trends\": {\"1\": 66.95740379, \"2\": 102.7450412, \"3\": 156.5555659, \"4\": 202.462582, \"5\": 188.6210361, \"6\": 124.6477239, \"7\": 101.1007126, \"8\": 98.168234, \"9\": 106.2420313, \"10\": 104.1780096, \"11\": 83.3848379, \"12\": 81.0}, \"flower_month\": 4}, \"Csa\": {\"trends\": {\"1\": 122.0970348, \"2\": 150.5086851, \"3\": 259.2103094, \"4\": 232.0746972, \"5\": 151.829754, \"6\": 103.2070108, \"7\": 95.68725509, \"8\": 71.79920336, \"9\": 72.29241206, \"10\": 76.87820713, \"11\": 87.60606944, \"12\": 100.0}, \"flower_month\": 3}, \"Csb\": {\"trends\": {\"1\": 74.50387213, \"2\": 82.17239752, \"3\": 146.3317324, \"4\": 117.305649, \"5\": 86.05796576, \"6\": 62.9846999, \"7\": 53.7944438, \"8\": 61.17762281, \"9\": 58.18849433, \"10\": 48.56784222, \"11\": 65.00054236, \"12\": 56.0}, \"flower_month\": 3}, \"Cfa\": {\"trends\": {\"1\": 251.1181961, \"2\": 615.0029429, \"3\": 975.4027703, \"4\": 799.9863688, \"5\": 534.1978898, \"6\": 397.9806292, \"7\": 327.6957743, \"8\": 272.2500058, \"9\": 310.9879935, \"10\": 276.0904797, \"11\": 276.3640517, \"12\": 267.0}, \"flower_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 206.8362322, \"2\": 299.7949492, \"3\": 401.3766405, \"4\": 424.0073314, \"5\": 269.8082837, \"6\": 142.2686084, \"7\": 121.3733558, \"8\": 138.8670852, \"9\": 168.4903215, \"10\": 145.0025018, \"11\": 144.8041428, \"12\": 137.0}, \"flower_month\": 4}, \"Dfa\": {\"trends\": {\"1\": 168.8525964, \"2\": 250.1425022, \"3\": 397.3035772, \"4\": 463.1523407, \"5\": 402.2327578, \"6\": 293.4071309, \"7\": 249.6968371, \"8\": 268.9653727, \"9\": 282.5747145, \"10\": 340.536282, \"11\": 365.9244958, \"12\": 191.0}, \"flower_month\": 4}, \"Dfb\": {\"trends\": {\"1\": 45.38163304, \"2\": 63.00177283, \"3\": 110.6106719, \"4\": 176.1220815, \"5\": 171.9905388, \"6\": 99.02460764, \"7\": 90.26624259, \"8\": 88.29053236, \"9\": 111.7042951, \"10\": 106.5777606, \"11\": 107.607707, \"12\": 61.0}, \"flower_month\": 4}, \"Default\": {\"trends\": {\"1\": 1464.0, \"2\": 2962.0, \"3\": 8268.0, \"4\": 15104.0, \"5\": 17219.0, \"6\": 9163.0, \"7\": 5536.0, \"8\": 4345.0, \"9\": 3790.0, \"10\": 2811.0, \"11\": 1726.0, \"12\": 1169.0}, \"flower_month\": 5}, \"BWh\": {\"trends\": {\"1\": 105.0, \"2\": 99.0, \"3\": 149.0, \"4\": 182.0, \"5\": 142.0, \"6\": 137.0, \"7\": 73.0, \"8\": 56.0, \"9\": 69.0, \"10\": 93.0, \"11\": 122.0, \"12\": 128.0}, \"flower_month\": 4}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Greater periwinkle (Vinca major) is a vigorous evergreen shrub that is loved for its blue and violet blooms. It grows in a dense clump or mat which means it makes an excellent ground cover plant, especially when combined with early-flowering hellebores. However, it isn't the most common garden plant because of its aggressive growth. This plant grows well with oriental hellebores and pulmonarias and looks great in cottage, informal, coastal, and city gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, serenity, calm, winter ice",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bigleaf periwinkle",
+                "values": [
+                    "Periwinkle is a name that is used particularly for the plants in the Vinca genus. In order to distinguish the plants of this genus, they are named according to the different characteristics of each plant. Like most Vinca plants, the flowers of this plant grow distortedly with five petals, which resemble a windmill. Furthermore, its most unique feature is its leaves. Compared with other Vinca plants, the leaves are bigger and can grow to 2-9 centimeters. Also, the plant species added the specific epithet, major which refers to the meaning of bigger, so it is called bigleaf periwinkle."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   All parts of the <strong>greater periwinkle</strong> are mildly toxic to humans when ingested, causing symptoms from mild abdominal pain to serious cardiac issues. <strong>Greater periwinkle</strong> is also toxic to cats and dogs, causing gastrointestinal distress and more severe symptoms upon ingestion. Immediate veterinary attention is crucial for pets, and preventive measures should be taken to keep them safe.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Vinca_major.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Vivid blue-to-violet blossoms, 1-2 inches (2.5-5 cm) wide, with five petal-like lobes.",
+            "Opposite, evergreen leaves, 2-3 inches (5-7.5 cm) long, with prominent veins and ciliolate margins.",
+            "Smooth-textured stem, erect yet arching, with milky latex and light green to greenish-brown color.",
+            "Solitary, violet-hued flowers, 1-2 inches (2.5-5 cm) wide, radially symmetrical with five lobes.",
+            "Cylindrical fruit, up to 2 inches (5 cm) long, splitting upon drying to disperse seeds."
+        ],
+        "title": "Quickly Identify Greater periwinkle",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Vinca-major.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from the Mediterranean, greater periwinkle thrives in moderately moist conditions. It prefers consistently damp soil, tolerating brief dry spells, with weekly watering recommended. As an evergreen, greater periwinkle maintains foliage year-round, necessitating careful watering during the growing season for optimal growth and vigor.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize greater periwinkle with a balanced 10-10-10 formula monthly in spring and summer, using 1 tablespoon per square foot. Avoid over-fertilization and use half-strength for young greater periwinkle. Reduce feeding in winter. Always wear gloves and follow instructions for safe application.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Greater periwinkle is a hardy, evergreen plant with blue-purple flowers. Prune in early to later spring to encourage healthy growth and robust flowering. Trim overgrown stems and remove dead foliage to prevent disease. Regular maintenance prevents invasiveness and maintains shape.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Greater periwinkle can be propagated in Spring and Summer from herbaceous cuttings with medium difficulty. Successful signs include new growth and root development. Use cuttings from healthy plants and maintain a warm, moist environment for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot greater periwinkle every 2-3 years in spring, using a wide, shallow container to support its sprawling growth. After repotting, provide adequate moisture and indirect light for recovery. This hardy plant adapts easily, ensuring straightforward aftercare.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Vinca_major.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How does greater periwinkle spread?",
+            "link": "/ask/Vinca_major-0.html"
+        },
+        {
+            "q": "What is the difference between greater periwinkle and Vinca minor?",
+            "link": "/ask/Vinca_major-1.html"
+        },
+        {
+            "q": "Is greater periwinkle a perennial?",
+            "link": "/ask/Vinca_major-2.html"
+        },
+        {
+            "q": "Is greater periwinkle edible?",
+            "link": "/ask/Vinca_major-3.html"
+        },
+        {
+            "q": "How tall does greater periwinkle grow?",
+            "link": "/ask/Vinca_major-4.html"
+        },
+        {
+            "q": "Is greater periwinkle invasive?",
+            "link": "/ask/Vinca_major-5.html"
+        },
+        {
+            "q": "Does greater periwinkle tolerate full sun?",
+            "link": "/ask/Vinca_major-6.html"
+        },
+        {
+            "q": "How do I get rid of greater periwinkle?",
+            "link": "/ask/Vinca_major-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Vinca-major-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Vinca-major-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Vinca-major-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Vinca-major-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Vinca-major-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Vinca-major-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Vinca-major-Black-mold.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Vinca-major-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Vinca-major-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Vinca-major-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Vinca-major-Spots.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Vinca-major-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Vinca-major-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Vinca-major-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Vinca-major-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Vinca-major-Wounds.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Vinca-major-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Vinca-major-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Vinca-major-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Ficus microcarpa",
+                "link": "/wiki/Ficus_microcarpa.html",
+                "imageUrl": "/wiki-image/1080/154245435421097989.jpeg",
+                "displayName": "Indian Laurel"
+            },
+            {
+                "scientificName": "Alpinia purpurata",
+                "link": "/wiki/Alpinia_purpurata.html",
+                "imageUrl": "/wiki-image/1080/201162696050147328.jpeg",
+                "displayName": "Red ginger"
+            },
+            {
+                "scientificName": "Panicum maximum",
+                "link": "/wiki/Panicum_maximum.html",
+                "imageUrl": "/wiki-image/1080/157206214076268553.jpeg",
+                "displayName": "Guinea grass"
+            },
+            {
+                "scientificName": "Ipomoea lacunosa",
+                "link": "/wiki/Ipomoea_lacunosa.html",
+                "imageUrl": "/wiki-image/1080/152561520478257155.jpeg",
+                "displayName": "White morning-glory"
+            },
+            {
+                "scientificName": "Murraya paniculata",
+                "link": "/wiki/Murraya_paniculata.html",
+                "imageUrl": "/wiki-image/1080/153785788021080065.jpeg",
+                "displayName": "Orange jasmine"
+            },
+            {
+                "scientificName": "Clerodendrum bungei",
+                "link": "/wiki/Clerodendrum_bungei.html",
+                "imageUrl": "/wiki-image/1080/153819490629451796.jpeg",
+                "displayName": "Rose glory bower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Vinca_major.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Vinca_major.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Vinca_major.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Vinca_major.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Vinca_major.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Vinca_major.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Vinca_major.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Vinca_major.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Vinca_major.html",
+            "values": [
+                "Care Greater periwinkle",
+                "Care Greater periwinkle",
+                "Grow Greater periwinkle",
+                "Maintain Greater periwinkle",
+                "Greater periwinkle Care",
+                "Greater periwinkle Grow",
+                "Greater periwinkle Maintain",
+                "Greater periwinkle Cares",
+                "Growth Greater periwinkle",
+                "Maintains Greater periwinkle",
+                "Greater periwinkle Growth",
+                "Greater periwinkle Maintains",
+                "Greater periwinkle Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Vinca-major-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Vinca_major.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Vinca_major.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Vinca_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Vinca_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Vinca_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Vinca_major.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Vinca_major.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Vinca_major.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Vinca_major.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Vinca_major.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Vinca_major.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Vinca_major.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Vinca_major.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Vinca_major.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Vinca_major.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Vinca_major.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Vinca_major.html"
+        }
+    ]
+}

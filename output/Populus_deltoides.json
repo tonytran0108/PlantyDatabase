@@ -1,0 +1,829 @@
+{
+    "title": "Eastern cottonwood (Populus deltoides) - PictureThis",
+    "displayName": "Eastern cottonwood",
+    "otherCommonName": "Plains cottonwood",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153967405008158749.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/34622141",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153871498388439085.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 300,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19666252",
+                "authorLink": "https://www.inaturalist.org/people/birds_bugs_botany",
+                "author": "birds_bugs_botany",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153856307089113130.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16500057",
+                "authorLink": "https://www.inaturalist.org/people/madisong",
+                "author": "madisong",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153855967786696726.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22705161",
+                "authorLink": "https://www.inaturalist.org/people/taco2000",
+                "author": "taco2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153981909112717341.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Characterized by its rapid growth rate, eastern cottonwood experiences a significant transformation during Spring and Summer. As temperatures rise, it swiftly produces an array of large, shade-casting leaves, concurrent with a remarkable height increase, often reaching up to 6 feet annually. This accelerated growth supports the plant's strategy to out-compete neighboring vegetation for sunlight. However, variation in growth rate is observed, with speed tapering off when reaching maturity or during colder months.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Eastern cottonwood is a fast-growing, short-lived commercial hardwood of America. It is known for its method of regeneration, where the fluff-covered seeds are dispersed by the wind and create the effect of Ã¢ÂÂsnowÃ¢ÂÂ for a short period of time. The tree is cultivated for its lightweight wood to make a variety of furniture, plywood, and other wood products.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Eastern cottonwood is a fast-growing, short-lived commercial hardwood of America. It is known for its method of regeneration, where the fluff-covered seeds are dispersed by the wind and create the effect of Ã¢ÂÂsnowÃ¢ÂÂ for a short period of time. The tree is cultivated for its lightweight wood to make a variety of furniture, plywood, and other wood products.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Eastern cottonwood (<i>Populus deltoides</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Populus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Populus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Willow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Salicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 m to 60 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802480565256199.jpeg",
+        "habitat": "Woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Eastern cottonwood is native from central and eastern Canada to Mexico. The introduction of this plant has occurred in many regions of Europe, some areas of South America, Africa, and South Korea. Eastern cottonwood loves damp soil, particularly next to riverbanks.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 97.04070208, \"2\": 66.28765938, \"3\": 58.68133876, \"4\": 78.55000776, \"5\": 44.03321488, \"6\": 54.0, \"7\": 38.06798177, \"8\": 39.78717101, \"9\": 45.63224367, \"10\": 63.99662572, \"11\": 66.06128177, \"12\": 83.03151185}, \"fall_foliage_month\": 4}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 14.82606851, \"2\": 14.15675751, \"3\": 12.34334807, \"4\": 18.85275, \"5\": 20.66322096, \"6\": 20.97254766, \"7\": 22.99461169, \"8\": 23.80299676, \"9\": 9.940206659, \"10\": 12.16777379, \"11\": 19.08251018, \"12\": 10.0}, \"fall_foliage_month\": 11}, \"Csb\": {\"trends\": {\"1\": 8.765161427, \"2\": 7.952167502, \"3\": 12.77209635, \"4\": 14.57213031, \"5\": 17.11650148, \"6\": 15.59762615, \"7\": 21.39997947, \"8\": 25.4042671, \"9\": 27.74102636, \"10\": 27.55291049, \"11\": 20.31266949, \"12\": 26.0}, \"fall_foliage_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 33.06304084, \"2\": 35.61279095, \"3\": 17.57099456, \"4\": 23.65864796, \"5\": 40.15211447, \"6\": 36.69507447, \"7\": 54.69711753, \"8\": 48.56553798, \"9\": 73.73677917, \"10\": 85.68329649, \"11\": 112.5380023, \"12\": 47.0}, \"fall_foliage_month\": 11}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Eastern cottonwood is a medium-sized tree noted for its wide canopy, which makes it a good choice of shade tree, particularly in lawns and rain gardens. This tree grows fast, suiting ornamental use, and has attractive leaf colors in fall. Attracting bees and hummingbirds, eastern cottonwood makes for a good specimen tree, although its dense roots can be invasive. Good companion plants include creeping phlox, yew, and dwarf lilac.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "The pioneer of the prairie, the sun, sacredness, the afterlife",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Eastern cottonwood, or Populus deltoides, is the state tree of both Kansas and Wyoming in the United States. Under ideal conditions, these trees can live anywhere from 200 to 400 years. As a soft wood, it is often used to make plywood and parts of furniture.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Eastern cottonwood",
+                "values": [
+                    "As a pioneer of grassland, it has soft characteristics that are different from the sound of its strong name. Before the leaves appear, the plant will produce lots of willow floss like a thin and soft fur. These flocs contain its seed with roughly 40 million seeds per tree. These seeds look like they are hidden under a pile of cotton. As it is also native to the eastern part of the United States, it is called easter cottonwood."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Smooth, glossy triangular leaves with coarse teeth, 3-6 inches (7.6-15.2 cm) long and up to 4 inches (10 cm) wide.",
+            "Distinctive yellow-green twigs with elongated catkins measuring 2-4.5 inches (5-11.4 cm) in spring.",
+            "Male catkins with red stamens and female catkins with yellow stigmas and green ovary, blooming March-April.",
+            "Egg-shaped green capsules with cottony seeds, 0.31-0.47 inches (8-12 mm) long, for wind dispersal.",
+            "Transformative bark from smooth, greenish-gray to ashy gray with deep furrows, aiding in age identification."
+        ],
+        "title": "Quickly Identify Eastern cottonwood",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Populus-deltoides.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eastern cottonwood thrives in moist conditions and tolerates brief dry spells. It prefers consistent moisture, needing water every 1-2 weeks. As a deciduous species often grown outdoors, eastern cottonwood demands ample water during the growing season for optimal foliage health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Enhance eastern cottonwood's growth with balanced nutrition fertilizer in spring and high-nitrogen types during growth phases. Feed once or twice per season, adjusting for age. Use label rates carefully to avoid harm. Young trees require half-strength; mature eastern cottonwood thrive on full strength. Avoid late-season fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eastern cottonwood is a fast-growing deciduous tree with triangular leaves and unique bark. Prune in early spring for shaping and removing dead or crowded branches. Maintain a strong central leader and open canopy for air circulation, promoting health and preventing diseases.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Eastern cottonwood can be propagated via hardwood cuttings, layering, and seeds, with difficulty from easy to moderate. Success is indicated by new roots or shoots. Best propagation occurs in Autumn or Winter, using cuttings from healthy, disease-free plants.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Populus_deltoides.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a eastern cottonwood?",
+            "link": "/ask/Populus_deltoides-0.html"
+        },
+        {
+            "q": "How long do eastern cottonwood trees live?",
+            "link": "/ask/Populus_deltoides-1.html"
+        },
+        {
+            "q": "Where is eastern cottonwood found?",
+            "link": "/ask/Populus_deltoides-2.html"
+        },
+        {
+            "q": "Is eastern cottonwood a good firewood?",
+            "link": "/ask/Populus_deltoides-3.html"
+        },
+        {
+            "q": "How often should eastern cottonwood be watered?",
+            "link": "/ask/Populus_deltoides-4.html"
+        },
+        {
+            "q": "How fast does eastern cottonwood grow?",
+            "link": "/ask/Populus_deltoides-5.html"
+        },
+        {
+            "q": "What does eastern cottonwood symbolize?",
+            "link": "/ask/Populus_deltoides-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Populus-deltoides-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Sapsucker damage",
+                "link": "/disease/Populus-deltoides-Sapsucker-damage.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Populus-deltoides-Thrips.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Populus-deltoides-Lichen.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Populus-deltoides-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Populus-deltoides-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Borer",
+                "link": "/disease/Populus-deltoides-Borer.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Populus-deltoides-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Populus-deltoides-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Populus-deltoides-Gall.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Populus-deltoides-Aphid.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Populus-deltoides-Moss.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Populus-deltoides-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Populus-deltoides-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Populus-deltoides-Mealybug.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Populus-deltoides-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Populus-deltoides-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Populus-deltoides-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Populus-deltoides-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Populus-deltoides-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Populus-deltoides-Weevil.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Populus-deltoides-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Populus-deltoides-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Populus-deltoides-Caterpillar.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Solanum aethiopicum",
+                "link": "/wiki/Solanum_aethiopicum.html",
+                "imageUrl": "/wiki-image/1080/349675187616546816.jpeg",
+                "displayName": "Bitter tomato"
+            },
+            {
+                "scientificName": "Xanthostemon chrysanthus",
+                "link": "/wiki/Xanthostemon_chrysanthus.html",
+                "imageUrl": "/wiki-image/1080/153680823315333152.jpeg",
+                "displayName": "Golden penda"
+            },
+            {
+                "scientificName": "Quercus ilicifolia",
+                "link": "/wiki/Quercus_ilicifolia.html",
+                "imageUrl": "/wiki-image/1080/153663548956868627.jpeg",
+                "displayName": "Bear oak"
+            },
+            {
+                "scientificName": "Wrightia antidysenterica",
+                "link": "/wiki/Wrightia_antidysenterica.html",
+                "imageUrl": "/wiki-image/1080/200465322210164736.jpeg",
+                "displayName": "Coral swirl"
+            },
+            {
+                "scientificName": "Christella normalis",
+                "link": "/wiki/Christella_normalis.html",
+                "imageUrl": "/wiki-image/1080/154238997265121318.jpeg",
+                "displayName": "Kunth's maiden fern"
+            },
+            {
+                "scientificName": "Begonia heracleifolia",
+                "link": "/wiki/Begonia_heracleifolia.html",
+                "imageUrl": "/wiki-image/1080/154151779364241423.jpeg",
+                "displayName": "Starleaf begonia"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Populus_deltoides.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Populus_deltoides.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Populus_deltoides.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Populus_deltoides.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Populus_deltoides.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Populus_deltoides.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Populus_deltoides.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Populus_deltoides.html",
+            "values": [
+                "Care Eastern cottonwood",
+                "Care Eastern cottonwood",
+                "Grow Eastern cottonwood",
+                "Maintain Eastern cottonwood",
+                "Eastern cottonwood Care",
+                "Eastern cottonwood Grow",
+                "Eastern cottonwood Maintain",
+                "Eastern cottonwood Cares",
+                "Growth Eastern cottonwood",
+                "Maintains Eastern cottonwood",
+                "Eastern cottonwood Growth",
+                "Eastern cottonwood Maintains",
+                "Eastern cottonwood Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Populus-deltoides-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Populus_deltoides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Populus_deltoides.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Populus_deltoides.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Populus_deltoides.html"
+        }
+    ]
+}

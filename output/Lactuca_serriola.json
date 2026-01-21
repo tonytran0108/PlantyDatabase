@@ -1,0 +1,750 @@
+{
+    "title": "Prickly lettuce (Lactuca serriola) - PictureThis",
+    "displayName": "Prickly lettuce",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201214403161489408.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8377757",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152519038956732418.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/980407",
+                "authorLink": "https://www.inaturalist.org/people/csparr",
+                "author": "csparr",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659515982577683.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 373,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/78781",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661268329234436.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10548374",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662466625110047.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Prickly lettuce, in spite of its appearance, is the closest wild relative of cultivated lettuce. Even though it is widely considered a weed, it can be used in the kitchen. Young leaves of prickly lettuce are edible and the bitter milky latex can also be made into a condiment or to add flavor to salads. Consuming in large quantities could cause digestive upsets.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Prickly lettuce, in spite of its appearance, is the closest wild relative of cultivated lettuce. Even though it is widely considered a weed, it can be used in the kitchen. Young leaves of prickly lettuce are edible and the bitter milky latex can also be made into a condiment or to add flavor to salads. Consuming in large quantities could cause digestive upsets.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Prickly lettuce (<i>Lactuca serriola</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Lactuca",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Lactuca.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   40 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.1 cm to 1.3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251739921696751619.png",
+        "habitat": "Waste places, walls, more or less stable dunes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Prickly lettuce is native to the meadows and fields of Europe and the surrounding parts of North Africa and Central Asia. It was accidentally introduced to North America and Australia; it is considered a weed throughout much of the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "529",
+                "384",
+                "456",
+                "489",
+                "550",
+                "576",
+                "901",
+                "1573",
+                "1758",
+                "1399",
+                "862",
+                "734"
+            ],
+            "north": [
+                "7170",
+                "18151",
+                "43700",
+                "74751",
+                "69011",
+                "47227",
+                "25787",
+                "10407",
+                "5424",
+                "3352",
+                "3057",
+                "4800"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The flowering herb prickly lettuce is often grown in orchards and plant nurseries. This plant has a weedy, invasive nature, so it is best to grow it in containers or a controlled environment. The yellow and sometimes blue flowers resemble dandelions.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Chastity, Protection, Dreams",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Though quite different in appearance now, prickly lettuce is the wild version of the plant that eventually became our garden lettuce. It has been cultivated for thousands of years and was associated with the ancient Egyptian god, Min. Greek mythology held that Adonis was laid to rest on a bed of prickly lettuce, so it became considered the food of the dead.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Prickly lettuce",
+                "values": [
+                    "The word, prickly indicates that its veins and the edges of the leaves are surrounded by pricks. The word, lettuce originates from the latin word, lactÃÂ«ca in which the lac word refers to the meaning of milk. Inspired by the secretion of white fluid from the stems, the plant is called prickly lettuce."
+                ]
+            },
+            {
+                "key": "Compass plant",
+                "values": [
+                    "Lactuca serriola is known as the compass plant because the leaves are so arranged on the axis as if it is to indicate the cardinal points of the compass."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Consumption of <strong>prickly lettuce</strong>, especially the mature leaves, can lead to <strong>nervousness, restlessness, cardiac paralysis, or death</strong>. Mild toxicity risks exist for cats and dogs, with symptoms like vomiting, diarrhea, and dermatitis due to the plant's sap and juice. Owners should be vigilant and seek veterinary care if pets ingest significant amounts.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Lactuca_serriola.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Prickly lettuce (Lactuca serriola) is a common annual or biennial herbaceous plant and the closest wild cousin of cultivated lettuce. It is native to Mediterranean areas of Europe, Asia, and North Africa, but it has become naturalized in other regions, mostly in North America, where it is considered an invasive weed of field crops, orchards, and, less significantly, roadsides. Most notably, it infiltrates wheat and reduces the harvesting efficiency, consequently decreasing the price of grain. Belonging to the dandelion family, it has the same plumed seeds as the common dandelion; the wind scatters the seeds far and wide.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of prickly lettuce is ideally in late spring or early summer before it has the chance to set seed. Here are few methods you can use to control or eradicate the plant, ensuring you tackle it before it reaches its flowering stage:\n  </div> \n  <ol> \n   <li>Hand Pulling: This method involves physically removing prickly lettuce from the soil with your hands, ensuring to pull out the whole root system to prevent regrowth. Make sure to wear gloves as prickly lettuce has slightly prickly leaves.</li> \n   <li>Soil Solarization: This technique involves covering the infested area with a clear plastic tarp during the hottest part of the year. The sun heats the soil, effectively killing prickly lettuce. The process usually takes 4 to 6 weeks.</li> \n   <li>Deep Mulching: Spread a thick layer of organic mulch such as straw, wood chips, or compost around the plants. This not only blocks the light prickly lettuce needs for growth, but it also suffocates and kills the plant.</li> \n   <li>Planting Competitive Plants: Cultivate plants that can compete with prickly lettuce for resources. These plants usually have dense root systems and large leaves for shading out prickly lettuce. Some examples are clover or ground ivy.</li> \n   <li>Vinegar Solution: Spray a household vinegar solution on the leaves of the prickly lettuce. The acidity of the vinegar will kill the plant but be careful not to spray on desirable plants as this might harm them as well.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from arid regions, prickly lettuce exhibits drought tolerance by conserving water with a minimalistic approach. It thrives on a weekly watering schedule, making it ideal for xeriscaping due to its resilience and ability to flourish in low moisture environments.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prickly lettuce can be propagated easily by sowing seeds in Spring. The process is simple, with noticeable success indicated by initial sprouting. Ensure proper water, light, and soil conditions for healthy propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Lactuca_serriola.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is prickly lettuce poisonous?",
+            "link": "/ask/Lactuca_serriola-0.html"
+        },
+        {
+            "q": "Can you eat prickly lettuce?",
+            "link": "/ask/Lactuca_serriola-1.html"
+        },
+        {
+            "q": "Is wild lettuce and prickly lettuce the same?",
+            "link": "/ask/Lactuca_serriola-2.html"
+        },
+        {
+            "q": "How do you kill prickly lettuce?",
+            "link": "/ask/Lactuca_serriola-3.html"
+        },
+        {
+            "q": "Can horses eat prickly lettuce?",
+            "link": "/ask/Lactuca_serriola-4.html"
+        },
+        {
+            "q": "Is prickly lettuce annual or perennial?",
+            "link": "/ask/Lactuca_serriola-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Lactuca-serriola-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Lactuca-serriola-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Lactuca-serriola-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Lactuca-serriola-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Lactuca-serriola-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Lactuca-serriola-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Lactuca-serriola-Aphid.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Lactuca-serriola-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Lactuca-serriola-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Lactuca-serriola-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Lactuca-serriola-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Lactuca-serriola-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Lactuca-serriola-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Lactuca-serriola-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Lactuca-serriola-Spots.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Lactuca-serriola-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Lactuca-serriola-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Lactuca-serriola-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Lactuca-serriola-Dodder.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Lactuca-serriola-Notch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Calluna vulgaris",
+                "link": "/wiki/Calluna_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/201170985337061376.jpeg",
+                "displayName": "Scotch heather"
+            },
+            {
+                "scientificName": "Chamaedorea elegans",
+                "link": "/wiki/Chamaedorea_elegans.html",
+                "imageUrl": "/wiki-image/1080/153845977692766242.jpeg",
+                "displayName": "Parlor palm"
+            },
+            {
+                "scientificName": "Dracaena draco",
+                "link": "/wiki/Dracaena_draco.html",
+                "imageUrl": "/wiki-image/1080/202701548472762368.jpeg",
+                "displayName": "Dragon tree"
+            },
+            {
+                "scientificName": "Dracunculus vulgaris",
+                "link": "/wiki/Dracunculus_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/153825417684320294.jpeg",
+                "displayName": "Dragon arum"
+            },
+            {
+                "scientificName": "Pittosporum tobira",
+                "link": "/wiki/Pittosporum_tobira.html",
+                "imageUrl": "/wiki-image/1080/348124360825274368.jpeg",
+                "displayName": "Japanese pittosporum"
+            },
+            {
+                "scientificName": "Prunus pensylvanica",
+                "link": "/wiki/Prunus_pensylvanica.html",
+                "imageUrl": "/wiki-image/1080/153712945375739917.jpeg",
+                "displayName": "Pin cherry"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Lactuca_serriola.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Lactuca_serriola.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Lactuca_serriola.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Lactuca_serriola.html",
+            "values": [
+                "Care Prickly lettuce",
+                "Care Prickly lettuce",
+                "Grow Prickly lettuce",
+                "Maintain Prickly lettuce",
+                "Prickly lettuce Care",
+                "Prickly lettuce Grow",
+                "Prickly lettuce Maintain",
+                "Prickly lettuce Cares",
+                "Growth Prickly lettuce",
+                "Maintains Prickly lettuce",
+                "Prickly lettuce Growth",
+                "Prickly lettuce Maintains",
+                "Prickly lettuce Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-serriola-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Lactuca_serriola.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Lactuca_serriola.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Lactuca_serriola.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Lactuca_serriola.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Lactuca_serriola.html"
+        }
+    ]
+}

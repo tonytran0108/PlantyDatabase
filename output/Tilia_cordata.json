@@ -1,0 +1,934 @@
+{
+    "title": "Small-leaved lime (Tilia cordata) - PictureThis",
+    "displayName": "Small-leaved lime",
+    "otherCommonName": "Pry, Littleleaf linden",
+    "mainImage": {
+        "copyright": {
+            "width": 1036,
+            "height": 1036,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202691648573145088.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21316623",
+                "authorLink": "https://www.inaturalist.org/people/reuvenm",
+                "author": "reuvenm",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153930429634707471.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20351616",
+                "authorLink": "https://www.inaturalist.org/people/dhobern",
+                "author": "dhobern",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153925520487088132.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4090562",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153676833290715160.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23703475",
+                "authorLink": "https://www.inaturalist.org/people/natemartineau",
+                "author": "natemartineau",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153770815765086240.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Small-leaved lime (<em>Tilia cordata</em>) is a deciduous tree that is cultivated all over the world as an ornamental plant in parks and avenues. Honeybees like to visit the flowers; monofloral honey made from this species is considered to be very nutritious. British ship outfitters used small-leaved lime wood for onboard furniture; French shipwrights thought the weak wood was used for shipbuilding and introduced the epithet, \"limey,\" for British people.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Small-leaved lime (Tilia cordata) is a deciduous tree that is cultivated all over the world as an ornamental plant in parks and avenues. Honeybees like to visit the flowers; monofloral honey made from this species is considered to be very nutritious. British ship outfitters used small-leaved lime wood for onboard furniture; French shipwrights thought the weak wood was used for shipbuilding and introduced the epithet, \"limey,\" for British people.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Small-leaved lime (<i>Tilia cordata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Lindens",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Tilia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mallow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Malvaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mallows, rock-roses, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malvales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 40 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805289473867779.jpeg",
+        "habitat": "Woods, wooded limestone cliffs",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Small-leaved lime is native to a large part of Europe, eastwards to Siberia and south to Iran, in areas of loose woodland. It has been planted as an ornamental around the world and is considered an introduced species in a few parts of the United States as well as Uzbekistan.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 54.06553402, \"2\": 56.93939973, \"3\": 60.18598848, \"4\": 68.52234719, \"5\": 44.03321488, \"6\": 40.0, \"7\": 52.34347493, \"8\": 49.92899892, \"9\": 35.56630757, \"10\": 51.57009646, \"11\": 60.18916784, \"12\": 60.94055915}, \"fall_foliage_month\": 4}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 15.9023834, \"2\": 21.46911309, \"3\": 22.81238247, \"4\": 61.19294096, \"5\": 103.7121896, \"6\": 146.1562306, \"7\": 122.9734629, \"8\": 85.32379217, \"9\": 102.3926824, \"10\": 82.16100755, \"11\": 39.45089105, \"12\": 20.0}, \"fall_foliage_month\": 9}, \"Csa\": {\"trends\": {\"1\": 10.46546013, \"2\": 3.725462502, \"3\": 12.34334807, \"4\": 30.80167606, \"5\": 53.67945445, \"6\": 56.57068776, \"7\": 33.75015587, \"8\": 37.46045393, \"9\": 28.01330967, \"10\": 42.58720827, \"11\": 38.16502035, \"12\": 21.0}, \"fall_foliage_month\": 10}, \"Csb\": {\"trends\": {\"1\": 12.41731202, \"2\": 5.964125627, \"3\": 16.42126673, \"4\": 17.30440474, \"5\": 27.45772112, \"6\": 44.71319497, \"7\": 37.10638642, \"8\": 29.03344811, \"9\": 30.78577316, \"10\": 29.42090442, \"11\": 21.12517627, \"12\": 17.0}, \"fall_foliage_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 64.43164243, \"2\": 56.50560263, \"3\": 37.90492533, \"4\": 60.40216592, \"5\": 102.4489104, \"6\": 138.5658892, \"7\": 90.96749579, \"8\": 79.17640215, \"9\": 80.49518191, \"10\": 113.9421027, \"11\": 92.37582945, \"12\": 51.0}, \"fall_foliage_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 249.1261682, \"2\": 212.3817351, \"3\": 153.3155408, \"4\": 191.3023487, \"5\": 232.5573335, \"6\": 307.0956642, \"7\": 189.1796999, \"8\": 198.8151711, \"9\": 474.4801442, \"10\": 915.6451684, \"11\": 1017.563895, \"12\": 312.0}, \"fall_foliage_month\": 11}, \"Dfa\": {\"trends\": {\"1\": 30.91667258, \"2\": 31.50895272, \"3\": 50.89135927, \"4\": 87.57240671, \"5\": 144.1876065, \"6\": 231.712286, \"7\": 169.8244712, \"8\": 162.9881192, \"9\": 272.6385539, \"10\": 355.1146738, \"11\": 107.911215, \"12\": 35.0}, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 250.8366626, \"2\": 278.0767904, \"3\": 189.2265213, \"4\": 252.9917962, \"5\": 379.0625915, \"6\": 374.6697184, \"7\": 292.2115788, \"8\": 332.8626442, \"9\": 749.6111261, \"10\": 1401.107633, \"11\": 1045.561452, \"12\": 335.0}, \"fall_foliage_month\": 10}, \"Default\": {\"trends\": {\"1\": 664.3615547, \"2\": 630.4186611, \"3\": 505.5093244, \"4\": 779.5640125, \"5\": 1311.221822, \"6\": 1713.479882, \"7\": 1230.810674, \"8\": 1196.912946, \"9\": 2099.870794, \"10\": 3288.812938, \"11\": 2463.642165, \"12\": 823.0}, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Small-leaved lime (Tilia cordata) is a popular ornamental tree loved for its elegant shape. It makes for a great shade tree due to its dense foliage. This is a good standalone ornamental garden tree and is also a popular street and avenue tree. Because of its dense foliage, small-leaved lime can also be trimmed into hedges and screens, making an eye-catching combination when paired with sweet gum or walnut.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Immortality, Luck, a place of great importance, ancient forests",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "In the United Kingdom, small-leaved lime is considered an indicator of ancient woodlands - woodlands that have persisted continuously since 1600 or before.&nbsp;It's estimated that some Tilia cordata woodlands in the UK are around eight centuries old.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Small-leaved lime",
+                "values": [
+                    "The small-leaved description is given based on its comparison with Tilia americana tree. This plant has smaller and smoother leaves than Tilia americana. Whereas the name, lime is actually derived from lind which is an abbreviation of linden. Hence, it is called small-leaved lime."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped leaves 1.5-3 inches (3.8-7.6 cm) across, dual-tone green, serrated edges.",
+            "Creamy yellow cluster flowers, fragrant, pendulous arrangement, attracting bees and butterflies.",
+            "Small, fuzzy nutlets 1/4 inch (6-7 mm) diameter, pale green turning tan when mature.",
+            "Reddish-brown stem with zig-zag pattern, shiny oval buds, 0.4-0.8 inches (1-2 cm) thick.",
+            "Trunk matures to dark gray with deep furrows and ridges, distinct from other trees."
+        ],
+        "title": "Quickly Identify Small-leaved lime",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Tilia-cordata.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Small-leaved lime thrives in moderately moist soil, preferring consistent moisture without waterlogging. Water once every 1-2 weeks, allowing slight drying. During dormancy in colder months, reduce watering to conserve resources as it prepares for spring rejuvenation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of small-leaved lime, apply a balanced fertilizer annually in early spring and supplement with high nitrogen during active growth. Monitor soil nutrients to prevent over-fertilization, adjust rates based on size and soil fertility, and stop nitrogen feeding in autumn. Use granular or liquid forms evenly.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Small-leaved lime features heart-shaped leaves and fragrant flowers. Prune in early spring, removing dead wood and thinning branches for balance. Use clean, sharp tools to avoid infections. This promotes healthy growth, air circulation, and enhances aesthetics while managing size and boosting flowering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Small-leaved lime can be propagated easily via hardwood cuttings, layering (air), or seeds, ideally in autumn and winter. Success is indicated by new shoots and robust root growth. It is vital to use healthy, disease-free branches for hardwood cuttings.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Tilia_cordata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does a small-leaved lime tree grow?",
+            "link": "/ask/Tilia_cordata-0.html"
+        },
+        {
+            "q": "What is the lifespan of a small-leaved lime tree?",
+            "link": "/ask/Tilia_cordata-1.html"
+        },
+        {
+            "q": "How often should a small-leaved lime tree be watered?",
+            "link": "/ask/Tilia_cordata-2.html"
+        },
+        {
+            "q": "What does \"Tilia\" mean?",
+            "link": "/ask/Tilia_cordata-3.html"
+        },
+        {
+            "q": "What is the meaning of the Small-leaved lime?",
+            "link": "/ask/Tilia_cordata-4.html"
+        },
+        {
+            "q": "What is the hardiness of the small-leaved limeÃ¯Â¼Â",
+            "link": "/ask/Tilia_cordata-5.html"
+        },
+        {
+            "q": "What kind of soil is suitable for planting small-leaved lime trees?",
+            "link": "/ask/Tilia_cordata-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Tilia-cordata-Scars.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Tilia-cordata-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Tilia-cordata-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Tilia-cordata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Tilia-cordata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Tilia-cordata-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Tilia-cordata-Aphid.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Tilia-cordata-Wounds.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Tilia-cordata-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Tilia-cordata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Tilia-cordata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Tilia-cordata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Tilia-cordata-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Tilia-cordata-Spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Tilia-cordata-Wilting.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Tilia-cordata-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Tilia-cordata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Tilia-cordata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Tilia-cordata-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Tilia-cordata-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Tilia-cordata-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Tilia-cordata-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Tilia-cordata-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gaylussacia baccata",
+                "link": "/wiki/Gaylussacia_baccata.html",
+                "imageUrl": "/wiki-image/1080/153804466833850379.jpeg",
+                "displayName": "Black huckleberry"
+            },
+            {
+                "scientificName": "Prunus emarginata",
+                "link": "/wiki/Prunus_emarginata.html",
+                "imageUrl": "/wiki-image/1080/153405322638131237.jpeg",
+                "displayName": "Bitter Cherry"
+            },
+            {
+                "scientificName": "Aristolochia clematitis",
+                "link": "/wiki/Aristolochia_clematitis.html",
+                "imageUrl": "/wiki-image/1080/367123140069457920.jpeg",
+                "displayName": "Birthwort"
+            },
+            {
+                "scientificName": "Asplenium nidus",
+                "link": "/wiki/Asplenium_nidus.html",
+                "imageUrl": "/wiki-image/1080/154095051436195873.jpeg",
+                "displayName": "Bird's-nest fern"
+            },
+            {
+                "scientificName": "Yucca rostrata",
+                "link": "/wiki/Yucca_rostrata.html",
+                "imageUrl": "/wiki-image/1080/211941032444526592.jpeg",
+                "displayName": "Beaked yucca"
+            },
+            {
+                "scientificName": "Geum fragarioides",
+                "link": "/wiki/Geum_fragarioides.html",
+                "imageUrl": "/wiki-image/1080/153973061480087586.jpeg",
+                "displayName": "Barren strawberry"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Tilia_cordata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Tilia_cordata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Tilia_cordata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Tilia_cordata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Tilia_cordata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Tilia_cordata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Tilia_cordata.html",
+            "values": [
+                "Care Small-leaved lime",
+                "Care Small-leaved lime",
+                "Grow Small-leaved lime",
+                "Maintain Small-leaved lime",
+                "Small-leaved lime Care",
+                "Small-leaved lime Grow",
+                "Small-leaved lime Maintain",
+                "Small-leaved lime Cares",
+                "Growth Small-leaved lime",
+                "Maintains Small-leaved lime",
+                "Small-leaved lime Growth",
+                "Small-leaved lime Maintains",
+                "Small-leaved lime Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Tilia-cordata-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Tilia_cordata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Tilia_cordata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Tilia_cordata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Tilia_cordata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Tilia_cordata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Tilia_cordata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Tilia_cordata.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Tilia_cordata.html"
+        }
+    ]
+}

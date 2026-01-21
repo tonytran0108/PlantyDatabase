@@ -1,0 +1,961 @@
+{
+    "title": "Chinese money plant (Pilea peperomioides) - PictureThis",
+    "displayName": "Chinese money plant",
+    "otherCommonName": "Missionary plant, Lefse plant, Pancake plant",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153804372344569896.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "alsages",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157103001717178375.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 6000,
+                "height": 4000,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "linqinwen",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157389690784186373.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2560,
+                "height": 1920,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157363036217147401.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 7360,
+                "height": 4912,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "huamixinhua",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157681224574304259.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Pilea 'White Splash'",
+            "link": "/wiki/Pilea_peperomioides__White_Splash_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The chinese money plant makes a striking visual display as a houseplant with its large, circular, and shiny, leaves, which can have a diameter of over 15 cm. Although the plant does produce a small white flower, the main focus is the unique and showy leaves.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The chinese money plant makes a striking visual display as a houseplant with its large, circular, and shiny, leaves, which can have a diameter of over 15 cm. Although the plant does produce a small white flower, the main focus is the unique and showy leaves.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Chinese money plant (<i>Pilea peperomioides</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Clearweed",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Pilea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nettle",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Urticaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806496359677955.jpeg",
+        "habitat": "Shady, damp rocks in forests, greenhouses",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese money plant is native to the subtropical mountainous regions of a major East Asian territory. Outside of its original habitat, this plant has been introduced and cultivated in various temperate regions globally. Its popularity as an ornamental species has led to its extended distribution beyond its indigenous range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1708",
+                "1953",
+                "1660",
+                "1519",
+                "1298",
+                "1138",
+                "1419",
+                "1728",
+                "2115",
+                "2264",
+                "1319",
+                "1774"
+            ],
+            "north": [
+                "28257",
+                "28952",
+                "35251",
+                "40025",
+                "39548",
+                "36344",
+                "37043",
+                "31911",
+                "28446",
+                "22872",
+                "19353",
+                "27729"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The chinese money plant is an ornamental that is often grown in containers as a houseplant or patio decoration. It grows slowly, but larger species can be a good addition to sunny woodland garden beds or borders. The foliage lasts year-round, and showy flowers bloom in the spring. It thrives in hot weather gardens that don't approach freezing temperatures.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Be open and aboveboard",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Chinese money plant leaves are fleshy and lustrous like a mirror in ancient times. It implies that we should examine ourselves correctly and see our own shortcomings.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Chinese money plant||Missionary plant",
+                "values": [
+                    "As the common name suggests, chinese money plant originates from China. The other part of its common name was derived from the look of its coin-shaped leaves. It also comes by the common name Missionary plant - the name given by a Norwegian missionary named Agnar Espegren, referring to the fast and simple propagation of Pilea peperomioides."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese money plant thrives in high humidity and consistent moisture, originating from Yunnan Province, China. Water weekly to maintain lush foliage; tolerates occasional delays. Ideal for indoor environments, particularly in humid rooms like kitchens and bathrooms, reflecting its native habitat's conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For chinese money plant, apply high nitrogen fertilizer every 4 weeks in spring/summer, and every 8 weeks during fall/winter. Ensure soil is moist before application, and dilute to half-strength for young or stressed plants to prevent root damage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese money plant features round, coin-shaped leaves. Prune in early to late spring for new growth and shape maintenance. Trim offshoots at the base, remove damaged leaves, and enhance air circulation for vitality. These methods are validated by reputable horticultural sources as effective for chinese money plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese money plant propagates mainly through cuttings in spring and summer. High humidity and warmth are crucial for successful rooting, with new growth indicating successful propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot chinese money plant every 2-3 years in spring to maintain its upright growth. Use a slightly larger container and place it in bright, indirect light. Water sparingly, only when the top soil is dry, to aid its recovery and support leaf development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Pilea_peperomioides.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you care for a chinese money plant?",
+            "link": "/ask/Pilea_peperomioides-0.html"
+        },
+        {
+            "q": "How fast do chinese money plant grow?",
+            "link": "/ask/Pilea_peperomioides-1.html"
+        },
+        {
+            "q": "Is chinese money plant a succulent?",
+            "link": "/ask/Pilea_peperomioides-2.html"
+        },
+        {
+            "q": "How much light does a chinese money plant need?",
+            "link": "/ask/Pilea_peperomioides-3.html"
+        },
+        {
+            "q": "Why is it called chinese money plant?",
+            "link": "/ask/Pilea_peperomioides-4.html"
+        },
+        {
+            "q": "Is chinese money plant poisonous?",
+            "link": "/ask/Pilea_peperomioides-5.html"
+        },
+        {
+            "q": "Is chinese money plant lucky?",
+            "link": "/ask/Pilea_peperomioides-6.html"
+        },
+        {
+            "q": "Where should I place my chinese money plant?",
+            "link": "/ask/Pilea_peperomioides-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Pilea-peperomioides-Wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Pilea-peperomioides-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Pilea-peperomioides-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Pilea-peperomioides-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Pilea-peperomioides-Black-spot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Pilea-peperomioides-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Pilea-peperomioides-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Pilea-peperomioides-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Pilea-peperomioides-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Pilea-peperomioides-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow blotch",
+                "link": "/disease/Pilea-peperomioides-Yellow-blotch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Pilea-peperomioides-Mealybug.html"
+            },
+            {
+                "diseaseName": "Whole plant rot",
+                "link": "/disease/Pilea-peperomioides-Whole-plant-rot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Pilea-peperomioides-Aphid.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Pilea-peperomioides-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Pilea-peperomioides-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Pilea-peperomioides-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow spots",
+                "link": "/disease/Pilea-peperomioides-Yellow-spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Pilea-peperomioides-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Pilea-peperomioides-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Pilea-peperomioides-Scars.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Pilea-peperomioides-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Pilea-peperomioides-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Pilea-peperomioides-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Pilea-peperomioides-Notch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Pilea-peperomioides-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Pilea-peperomioides-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Melaleuca alternifolia",
+                "link": "/wiki/Melaleuca_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/154169612068454428.jpeg",
+                "displayName": "Tea tree"
+            },
+            {
+                "scientificName": "Euphorbia obesa",
+                "link": "/wiki/Euphorbia_obesa.html",
+                "imageUrl": "/wiki-image/1080/393493715281248256.jpeg",
+                "displayName": "Baseball plant"
+            },
+            {
+                "scientificName": "Muehlenbeckia complexa",
+                "link": "/wiki/Muehlenbeckia_complexa.html",
+                "imageUrl": "/wiki-image/1080/153904719960473626.jpeg",
+                "displayName": "Maidenhair vine"
+            },
+            {
+                "scientificName": "Salvia farinacea",
+                "link": "/wiki/Salvia_farinacea.html",
+                "imageUrl": "/wiki-image/1080/154232876936724504.jpeg",
+                "displayName": "Mealycup sage"
+            },
+            {
+                "scientificName": "Gasteria acinacifolia",
+                "link": "/wiki/Gasteria_acinacifolia.html",
+                "imageUrl": "/wiki-image/1080/154157586160025619.jpeg",
+                "displayName": "Coast Oxtongue"
+            },
+            {
+                "scientificName": "Hexasepalum teres",
+                "link": "/wiki/Hexasepalum_teres.html",
+                "imageUrl": "/wiki-image/1080/153417181042835460.jpeg",
+                "displayName": "Poorjoe"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Pilea_peperomioides.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Pilea_peperomioides.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Pilea_peperomioides.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Pilea_peperomioides.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Pilea_peperomioides.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Pilea_peperomioides.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Pilea_peperomioides.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Pilea_peperomioides.html",
+            "values": [
+                "Care Chinese money plant",
+                "Care Chinese money plant",
+                "Grow Chinese money plant",
+                "Maintain Chinese money plant",
+                "Chinese money plant Care",
+                "Chinese money plant Grow",
+                "Chinese money plant Maintain",
+                "Chinese money plant Cares",
+                "Growth Chinese money plant",
+                "Maintains Chinese money plant",
+                "Chinese money plant Growth",
+                "Chinese money plant Maintains",
+                "Chinese money plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Yellow-spots.html",
+            "values": [
+                "Yellow spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Yellow-blotch.html",
+            "values": [
+                "Yellow blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Whole-plant-rot.html",
+            "values": [
+                "Whole plant rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Pilea-peperomioides-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Pilea_peperomioides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Pilea_peperomioides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Pilea_peperomioides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Pilea_peperomioides.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Pilea_peperomioides.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Pilea_peperomioides.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Pilea_peperomioides.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Pilea_peperomioides.html"
+        }
+    ]
+}

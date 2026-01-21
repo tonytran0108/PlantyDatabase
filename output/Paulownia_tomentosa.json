@@ -1,0 +1,988 @@
+{
+    "title": "Empress tree (Paulownia tomentosa) - PictureThis",
+    "displayName": "Empress tree",
+    "otherCommonName": "Foxglove tree",
+    "mainImage": {
+        "copyright": {
+            "width": 846,
+            "height": 846,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154179039521669160.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5823095",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154016994700558340.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16115085",
+                "authorLink": "https://www.inaturalist.org/people/mmcmasters",
+                "author": "mmcmasters",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153999711752159253.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10677838",
+                "authorLink": "https://www.inaturalist.org/people/abookb",
+                "author": "abookb",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153699180005556230.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28888034",
+                "authorLink": "https://www.inaturalist.org/people/supertiger",
+                "author": "supertiger",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153430027290017800.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Empress tree (Paulownia tomentosa) is a deciduous fast-growing tree native to East Asia. It is widely cultivated as an ornamental because of its favorable growing qualities and big clusters of showy purple flowers. Due to its fast-growth, vigor, and adaptability, empress tree has become an invasive species in certain countries.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Empress tree (Paulownia tomentosa) is a deciduous fast-growing tree native to East Asia. It is widely cultivated as an ornamental because of its favorable growing qualities and big clusters of showy purple flowers. Due to its fast-growth, vigor, and adaptability, empress tree has become an invasive species in certain countries.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Empress tree (<i>Paulownia tomentosa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Paulownia",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Paulownia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Foxglove tree",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Paulowniaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 m to 25 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 12 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803099040546819.jpeg",
+        "habitat": "Woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Empress tree, originally native to East Asia, has been introduced to various regions across the globe. The plant has established a notable presence in both temperate and subtropical areas of several continents. It is cultivated in numerous locales for its fast growth and ornamental value. In some regions, empress tree is sometimes thought to be competitive with local flora and may have an impact on ecosystems, particularly where its vigorous growth allows it to establish outside of cultivation.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 104.0, \"2\": 70.0, \"3\": 75.0, \"4\": 75.0, \"5\": 53.0, \"6\": 45.0, \"7\": 34.0, \"8\": 55.0, \"9\": 107.0, \"10\": 121.0, \"11\": 104.0, \"12\": 100.0}, \"flower_month\": 10}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 45.0, \"2\": 47.0, \"3\": 185.0, \"4\": 253.0, \"5\": 246.0, \"6\": 251.0, \"7\": 239.0, \"8\": 233.0, \"9\": 179.0, \"10\": 163.0, \"11\": 63.0, \"12\": 50.0}, \"flower_month\": 4}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The beautiful pink blossoms of empress tree (Paulownia tomentosa) make it a popular choice for a specimen tree. Good color companions for this tree include French pussy willow, corkscrew hazel, and autumn blaze maple. It makes a good ornamental tree for larger gardens and parks and its large leaves suit modern architectural style gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Luck, fecundity, renewal, long life, inviting blessings",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Chinese porcelain exporters in the 19th century used empress tree seeds as packing materials because the seeds are soft and lightweight. Due to the widespread use of these seeds as packing materials, they became scattering along product transportation routes and train tracks when packages would split open. This phenomenon contributed to the far ranging distribution of empress tree.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Princess tree",
+                "values": [
+                    "In the past traditions, especially in Japan, when a female baby was born, a Paulownia tomentosa must be planted. When the girl grew up and got married, the tree would be logged to make wooden furniture to serve as a dowry to accompany her for the rest of her life. As every girl is their father's little princess in heart and this tree follows along with her life, it is called the princess tree."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Large, heart-shaped leaves with fuzzy texture; 8-12 inches (20-30 cm) long.",
+            "Trumpet-shaped lavender flowers in upright clusters; 10-12 inches (25-30 cm) long.",
+            "Oval-shaped fruit capsule; 1-2 inches (2.5-5 cm) long, containing tiny seeds.",
+            "Fragrant, edible funnel- or tube-like flowers; 1.5-2 inches (3.8-5 cm) long.",
+            "Thin, greyish-brown bark with shallow fissures and lenticels; up to 2 feet (60 cm) diameter."
+        ],
+        "title": "Quickly Identify Empress tree",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Paulownia-tomentosa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Empress tree thrives in humid subtropical regions and tolerates brief droughts. It prefers moderate moisture and should be watered every 1-2 weeks. As a deciduous plant, its leaf shedding cycle aligns with water availability, aiding its survival in varying seasonal moisture conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize empress tree with balanced nutrition fertilizers during active growth in spring and summer at 4-6 week intervals. Avoid over-fertilization to prevent root burn, taper off in fall, and consider slow-release formulas. Wear gloves for safe handling and check soil fertility for tailored applications.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Empress tree is a fast-growing deciduous tree with large leaves and violet flowers. Prune in early spring by removing dead branches, thinning, and shaping for better air circulation and light penetration. Use clean, sharp tools to prevent disease, following best practices from reputable sources.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Empress tree propagates easily via hardwood cuttings, air layering, and seed sowing, ideally during autumn and winter. With low difficulty, indicators of success include new shoots and roots. Maintain moist soil and ample sunlight for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Paulownia_tomentosa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you germinate empress tree seeds?",
+            "link": "/ask/Paulownia_tomentosa-0.html"
+        },
+        {
+            "q": "How do you take care of an empress tree?",
+            "link": "/ask/Paulownia_tomentosa-1.html"
+        },
+        {
+            "q": "Is the empress tree invasive?",
+            "link": "/ask/Paulownia_tomentosa-2.html"
+        },
+        {
+            "q": "How long does an empress tree live?",
+            "link": "/ask/Paulownia_tomentosa-3.html"
+        },
+        {
+            "q": "How fast does empress tree grow?",
+            "link": "/ask/Paulownia_tomentosa-4.html"
+        },
+        {
+            "q": "How do you kill an empress tree?",
+            "link": "/ask/Paulownia_tomentosa-5.html"
+        },
+        {
+            "q": "How long does empress tree take to ripen?",
+            "link": "/ask/Paulownia_tomentosa-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Paulownia-tomentosa-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Paulownia-tomentosa-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Paulownia-tomentosa-Weevil.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Paulownia-tomentosa-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Paulownia-tomentosa-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Paulownia-tomentosa-Mealybug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Paulownia-tomentosa-Aphid.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Paulownia-tomentosa-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Paulownia-tomentosa-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Paulownia-tomentosa-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Paulownia-tomentosa-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Paulownia-tomentosa-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Paulownia-tomentosa-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Borer",
+                "link": "/disease/Paulownia-tomentosa-Borer.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Paulownia-tomentosa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Paulownia-tomentosa-Spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Paulownia-tomentosa-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Paulownia-tomentosa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Paulownia-tomentosa-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Sapsucker damage",
+                "link": "/disease/Paulownia-tomentosa-Sapsucker-damage.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Paulownia-tomentosa-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Paulownia-tomentosa-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Paulownia-tomentosa-Wilting.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Paulownia-tomentosa-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Paulownia-tomentosa-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Paulownia-tomentosa-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Paulownia-tomentosa-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf veins yellowing",
+                "link": "/disease/Paulownia-tomentosa-Leaf-veins-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Paulownia-tomentosa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Paulownia-tomentosa-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Paulownia-tomentosa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Paulownia-tomentosa-Moss.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Paulownia-tomentosa-Wounds.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Paulownia-tomentosa-Lichen.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Paulownia-tomentosa-Branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Phragmites australis",
+                "link": "/wiki/Phragmites_australis.html",
+                "imageUrl": "/wiki-image/1080/153968560354361367.jpeg",
+                "displayName": "Common reed"
+            },
+            {
+                "scientificName": "Senna siamea",
+                "link": "/wiki/Senna_siamea.html",
+                "imageUrl": "/wiki-image/1080/157250078577262597.jpeg",
+                "displayName": "Siamese cassia"
+            },
+            {
+                "scientificName": "Helichrysum luteoalbum",
+                "link": "/wiki/Helichrysum_luteoalbum.html",
+                "imageUrl": "/wiki-image/1080/154084584600895523.png",
+                "displayName": "Jersey cudweed"
+            },
+            {
+                "scientificName": "Hedera rhombea",
+                "link": "/wiki/Hedera_rhombea.html",
+                "imageUrl": "/wiki-image/1080/153786677079310379.jpeg",
+                "displayName": "Japanese ivy"
+            },
+            {
+                "scientificName": "Chasmanthe floribunda",
+                "link": "/wiki/Chasmanthe_floribunda.html",
+                "imageUrl": "/wiki-image/1080/154101180354527267.jpeg",
+                "displayName": "African flag"
+            },
+            {
+                "scientificName": "Ailanthus altissima",
+                "link": "/wiki/Ailanthus_altissima.html",
+                "imageUrl": "/wiki-image/1080/201161622308323328.jpeg",
+                "displayName": "Tree of heaven"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Paulownia_tomentosa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Paulownia_tomentosa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Paulownia_tomentosa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Paulownia_tomentosa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Paulownia_tomentosa.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Paulownia_tomentosa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Paulownia_tomentosa.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Paulownia_tomentosa.html",
+            "values": [
+                "Care Empress tree",
+                "Care Empress tree",
+                "Grow Empress tree",
+                "Maintain Empress tree",
+                "Empress tree Care",
+                "Empress tree Grow",
+                "Empress tree Maintain",
+                "Empress tree Cares",
+                "Growth Empress tree",
+                "Maintains Empress tree",
+                "Empress tree Growth",
+                "Empress tree Maintains",
+                "Empress tree Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Leaf-veins-yellowing.html",
+            "values": [
+                "Leaf veins yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Paulownia-tomentosa-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Paulownia_tomentosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Paulownia_tomentosa.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Paulownia_tomentosa.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Paulownia_tomentosa.html"
+        }
+    ]
+}

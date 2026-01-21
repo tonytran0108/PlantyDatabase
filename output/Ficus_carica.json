@@ -1,0 +1,943 @@
+{
+    "title": "Common fig (Ficus carica) - PictureThis",
+    "displayName": "Common fig",
+    "otherCommonName": "Fig",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154187934398939162.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 4944,
+                "height": 3296,
+                "copyrightType": "CC",
+                "referral": "https://pixy.org/4788208/",
+                "authorLink": "https://pixy.org/author/Kasie_Schlagel/",
+                "author": "Kasie Schlagel",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154137258079813671.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6837243",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153885697550319625.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 720,
+                "copyrightType": "CC",
+                "referral": "https://pixabay.com/zh/photos/fig-ficus-ficus-carica-euro-dynasty-56402/",
+                "authorLink": "https://pixabay.com/zh/users/simon-3/",
+                "author": "Simon",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/153933668040048645.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/817196",
+                "authorLink": "https://www.inaturalist.org/people/francisco3_",
+                "author": "francisco3_",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153946638841282581.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Common fig 'Celeste'",
+            "link": "/wiki/Ficus_carica__Celeste_.html"
+        },
+        {
+            "displayName": "Common fig 'Chicago Hardy'",
+            "link": "/wiki/Ficus_carica__Chicago_Hardy_.html"
+        },
+        {
+            "displayName": "Common fig 'Brown Turkey'",
+            "link": "/wiki/Ficus_carica__Brown_Turkey_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Ficus carica, colloquially known as the common fig, is a deciduous small tree or shrub widely known for its sweet, chewy fruits. This shrubby plant has a very, very long cultivation history. The earliest evidence of its cultivation was found in the Jordan Valley and go all the way back to the tenth millennium BC.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Ficus carica, colloquially known as the common fig, is a deciduous small tree or shrub widely known for its sweet, chewy fruits. This shrubby plant has a very, very long cultivation history. The earliest evidence of its cultivation was found in the Jordan Valley and go all the way back to the tenth millennium BC.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common fig (<i>Ficus carica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Fig trees",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ficus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mulberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Moraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub, Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 10 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804606574067716.jpeg",
+        "habitat": "Amongst rocks, Woods, Soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common fig is native to the Middle East and Russia, growing in sunny locations with well-drained soil and occasionally in thin, mixed forests. It is cultivated globally in gardens and orchards and has been naturalized in the Mediterranean basin. It is considered an invasive species in California.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 38.87402629, \"2\": 36.60727999, \"3\": 29.84323496, \"4\": 24.65439611, \"5\": 11.92681783, \"6\": 17.0, \"7\": 21.46876836, \"8\": 21.94877698, \"9\": 38.78439554, \"10\": 36.77344702, \"11\": 35.14375987, \"12\": 46.09408075}, \"fruit_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 240.4155441, \"2\": 232.3526786, \"3\": 241.3584287, \"4\": 202.0017835, \"5\": 170.3711117, \"6\": 152.0, \"7\": 114.5432341, \"8\": 155.5301631, \"9\": 241.1989106, \"10\": 220.9479345, \"11\": 221.545814, \"12\": 255.9962008}, \"fruit_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 163.2796195, \"2\": 149.1433569, \"3\": 155.9868862, \"4\": 120.8575657, \"5\": 77.22965804, \"6\": 46.0, \"7\": 57.26744281, \"8\": 82.72409012, \"9\": 147.06778, \"10\": 148.179086, \"11\": 130.5203565, \"12\": 154.3677741}, \"fruit_month\": 1}, \"Csa\": {\"trends\": {\"1\": 82.38209841, \"2\": 83.51271168, \"3\": 90.15030959, \"4\": 70.75551508, \"5\": 65.76369327, \"6\": 71.0, \"7\": 58.01356415, \"8\": 69.02378165, \"9\": 106.5986035, \"10\": 77.06239362, \"11\": 74.19073436, \"12\": 76.6496016}, \"fruit_month\": 3}, \"Csb\": {\"trends\": {\"1\": 42.10958459, \"2\": 42.04890918, \"3\": 31.5407246, \"4\": 23.28239275, \"5\": 24.07902535, \"6\": 29.0, \"7\": 22.65061409, \"8\": 25.58386871, \"9\": 43.05578403, \"10\": 42.15170591, \"11\": 32.87686014, \"12\": 38.58612133}, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 919.8072261, \"2\": 914.4297628, \"3\": 883.2293809, \"4\": 722.827199, \"5\": 591.0612305, \"6\": 514.0, \"7\": 495.8354625, \"8\": 632.6940331, \"9\": 912.6448735, \"10\": 867.9930693, \"11\": 870.5408909, \"12\": 960.5755637}, \"fruit_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 530.3293022, \"2\": 477.9951305, \"3\": 658.5252601, \"4\": 663.1124233, \"5\": 687.8537912, \"6\": 763.4497189, \"7\": 790.4364455, \"8\": 702.6649685, \"9\": 710.944536, \"10\": 701.9893826, \"11\": 666.7395609, \"12\": 587.0}, \"fruit_month\": 7}, \"BSk\": {\"trends\": {\"1\": 114.664554, \"2\": 119.6136301, \"3\": 232.1495392, \"4\": 218.7169569, \"5\": 145.4321073, \"6\": 175.1165034, \"7\": 212.4087087, \"8\": 243.1269347, \"9\": 249.4378127, \"10\": 239.502022, \"11\": 184.701899, \"12\": 130.0}, \"fruit_month\": 9}, \"Csa\": {\"trends\": {\"1\": 221.518906, \"2\": 275.6842251, \"3\": 367.8317725, \"4\": 444.7655811, \"5\": 448.7512552, \"6\": 530.9366012, \"7\": 593.7802147, \"8\": 651.6558131, \"9\": 528.6382632, \"10\": 540.9128531, \"11\": 397.2631664, \"12\": 303.0}, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 70.12129141, \"2\": 64.28002064, \"3\": 114.5839501, \"4\": 100.1833959, \"5\": 118.8645936, \"6\": 141.5670259, \"7\": 180.4273498, \"8\": 227.3422678, \"9\": 210.7641393, \"10\": 186.3323947, \"11\": 103.188361, \"12\": 71.0}, \"fruit_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 354.3740334, \"2\": 381.4128178, \"3\": 515.3512108, \"4\": 539.3593909, \"5\": 590.5186556, \"6\": 693.7619216, \"7\": 810.9938441, \"8\": 894.6284456, \"9\": 813.1077186, \"10\": 776.559254, \"11\": 478.6747526, \"12\": 349.0}, \"fruit_month\": 8}, \"Cfb\": {\"trends\": {\"1\": 204.5295084, \"2\": 275.1897482, \"3\": 321.790371, \"4\": 344.7138941, \"5\": 420.4367362, \"6\": 557.7952099, \"7\": 635.1194226, \"8\": 752.0070021, \"9\": 684.6477757, \"10\": 569.3629702, \"11\": 363.584315, \"12\": 209.0}, \"fruit_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 258.4316733, \"2\": 268.1476181, \"3\": 314.8244777, \"4\": 240.4466512, \"5\": 214.5697809, \"6\": 244.7288284, \"7\": 317.192814, \"8\": 372.3194269, \"9\": 389.9337184, \"10\": 417.1662905, \"11\": 283.1655189, \"12\": 218.0}, \"fruit_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 139.4453815, \"2\": 179.5912605, \"3\": 232.1909972, \"4\": 213.8786767, \"5\": 169.2569143, \"6\": 183.6746755, \"7\": 239.602419, \"8\": 288.3505198, \"9\": 277.6918571, \"10\": 286.3735761, \"11\": 185.5028382, \"12\": 138.0}, \"fruit_month\": 8}, \"Default\": {\"trends\": {\"1\": 2233.351343, \"2\": 2449.136932, \"3\": 3112.077224, \"4\": 2884.612688, \"5\": 2689.000359, \"6\": 3161.038853, \"7\": 3706.005358, \"8\": 4308.946705, \"9\": 4129.233335, \"10\": 4131.540343, \"11\": 3156.746828, \"12\": 2526.0}, \"fruit_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "The common fig has obvious noise reduction effects, resistance to toxic gases and pollution, and wind prevention and sand fixation.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It is fast to put into production and enjoys quick economic returns.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The common fig can be planted in both urban yards and in the countryside. This tree is appreciated for its attractive appearance, sweet, edible fruit, and distinctive, appealing silhouette even after it drops its foliage in the winter. It is used as an ornamental and in produce gardens and orchards. This tree pairs well with most garden plants, including other fruits like applies, strawberries, and elderberries, as well as herbs such as rosemary, tarragon, and lavender.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Mystery, divinity, modesty, enlightenment",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common fig plants are actually not without flowers. Common fig trees are dioecious, but both male and female flowers are born in a closed receptacle, and are invisible. Common figs enjoy a unique position in Buddhism and are regarded as sacred objects by pilgrims known as \"sacred wood\".",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common fig",
+                "values": [
+                    "The most amazing thing about this plant is that the flowers bloom in the inflorescence, so many people think that it can produce fruit instead of flowering. The word fig, first recorded in English in the 13th century which is derived from Old French figue. Also, it is the most common plant in the genus, it is then called common fig."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common fig is toxic to cats and dogs.</strong> Ingesting the sap, juice, or fruits can cause poisoning, leading to symptoms like vomiting, diarrhea, and physical discomfort. Immediate veterinary care is crucial if a pet exhibits unusual behavior or distress after exposure. <strong>Timely intervention ensures the safety and well-being</strong> of the animals.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ficus_carica.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Multi-stemmed growth with spreading canopy, 10 to 30 feet (3 to 9 meters) in height and width.",
+            "Small, green, inconspicuous flowers inside a hollow syconium, 0.1 to 0.2 inches (2.5 to 5 mm).",
+            "Pear-shaped syconium fruit, 2-4 inches (5-10 cm) long, purple-red or yellow when ripe.",
+            "Deeply lobed leaves, 5-10 inches (12-25 cm) long, rough upper surface with soft hair underneath.",
+            "Grayish-brown, flexible stem, 1-2 inches (2.5-5 cm) thick, producing dense bushy branching pattern."
+        ],
+        "title": "Quickly Identify Common fig",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ficus-carica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common fig flourishes in warm, dry climates, showcasing moderate drought tolerance. Watering should occur every 1-2 weeks, allowing soil to dry between sessions. Adequate hydration is crucial during the growing season for optimal fruit yield quality and quantity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common fig benefits from spring and summer fertilization, with a balanced 10-10-10 NPK blend applied monthly, increasing to bi-weekly during growth. Reduce feeding in autumn and abstain in winter. Water well post-fertilization, apply to soil, and monitor young plants' nutritional needs.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common fig thrives with strategic pruning, preferably in early to late winter during dormancy. Prioritize removing weak branches, thinning the canopy for air circulation, and achieving balanced shape to enhance fruit production and reduce disease risk. For tailored techniques, consult horticultural sources.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagate common fig effectively by utilizing cutting and layering techniques in autumn and winter. Monitor for new root growth as a success indicator. Patience and attentive care are essential for achieving optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot common fig every 2-3 years in spring using a larger pot for growth. Ensure well-draining soil and adequate sunlight. Water moderately to support recovery and fruiting, avoiding over-saturation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ficus_carica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is common fig used for?",
+            "link": "/ask/Ficus_carica-0.html"
+        },
+        {
+            "q": "How do you grow common fig?",
+            "link": "/ask/Ficus_carica-1.html"
+        },
+        {
+            "q": "Where are common fig originally from?",
+            "link": "/ask/Ficus_carica-2.html"
+        },
+        {
+            "q": "How long do common figs live?",
+            "link": "/ask/Ficus_carica-3.html"
+        },
+        {
+            "q": "How often should common fig be watered?",
+            "link": "/ask/Ficus_carica-4.html"
+        },
+        {
+            "q": "How much sun do common figs need?",
+            "link": "/ask/Ficus_carica-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Ficus-carica-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Ficus-carica-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Ficus-carica-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ficus-carica-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Ficus-carica-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Ficus-carica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Ficus-carica-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Fruit withering",
+                "link": "/disease/Ficus-carica-Fruit-withering.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Ficus-carica-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Ficus-carica-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Ficus-carica-Spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Ficus-carica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Ficus-carica-Wounds.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ficus-carica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ficus-carica-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf rolling",
+                "link": "/disease/Ficus-carica-Leaf-rolling.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Ficus-carica-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ficus-carica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Ficus-carica-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Ficus-carica-Non-base-branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Trifolium arvense",
+                "link": "/wiki/Trifolium_arvense.html",
+                "imageUrl": "/wiki-image/1080/153671219768459273.jpeg",
+                "displayName": "Hare's-Foot Clover"
+            },
+            {
+                "scientificName": "Euphorbia graminea",
+                "link": "/wiki/Euphorbia_graminea.html",
+                "imageUrl": "/wiki-image/1080/221318938918420480.jpeg",
+                "displayName": "Grassleaf spurge"
+            },
+            {
+                "scientificName": "Euphorbia nutans",
+                "link": "/wiki/Euphorbia_nutans.html",
+                "imageUrl": "/wiki-image/1080/154245169133125662.jpeg",
+                "displayName": "Eyebane"
+            },
+            {
+                "scientificName": "Anredera cordifolia",
+                "link": "/wiki/Anredera_cordifolia.html",
+                "imageUrl": "/wiki-image/1080/154022152956280843.jpeg",
+                "displayName": "Madeira-vine"
+            },
+            {
+                "scientificName": "Polycarpon tetraphyllum",
+                "link": "/wiki/Polycarpon_tetraphyllum.html",
+                "imageUrl": "/wiki-image/1080/153777219561324572.jpeg",
+                "displayName": "Fourleaf manyseed"
+            },
+            {
+                "scientificName": "Pectis papposa",
+                "link": "/wiki/Pectis_papposa.html",
+                "imageUrl": "/wiki-image/1080/153950585916227629.jpeg",
+                "displayName": "Manybristle chinchweed"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Ficus_carica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ficus_carica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ficus_carica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ficus_carica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Ficus_carica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Ficus_carica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Ficus_carica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ficus_carica.html",
+            "values": [
+                "Care Common fig",
+                "Care Common fig",
+                "Grow Common fig",
+                "Maintain Common fig",
+                "Common fig Care",
+                "Common fig Grow",
+                "Common fig Maintain",
+                "Common fig Cares",
+                "Growth Common fig",
+                "Maintains Common fig",
+                "Common fig Growth",
+                "Common fig Maintains",
+                "Common fig Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Leaf-rolling.html",
+            "values": [
+                "Leaf rolling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Fruit-withering.html",
+            "values": [
+                "Fruit withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ficus-carica-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Ficus_carica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Ficus_carica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ficus_carica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ficus_carica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Ficus_carica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Ficus_carica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ficus_carica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ficus_carica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ficus_carica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Ficus_carica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Ficus_carica.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Ficus_carica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Ficus_carica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ficus_carica.html"
+        }
+    ]
+}

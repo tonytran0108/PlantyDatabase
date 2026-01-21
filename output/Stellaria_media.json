@@ -1,0 +1,576 @@
+{
+    "title": "Common chickweed (Stellaria media) - PictureThis",
+    "displayName": "Common chickweed",
+    "otherCommonName": "Winterweed, Craches",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154126722525036561.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6357036",
+                "authorLink": "https://www.inaturalist.org/people/kueda",
+                "author": "kueda",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152528041208184834.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/17449190",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153658257557159938.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/26183774",
+                "authorLink": "https://www.inaturalist.org/people/andymckay",
+                "author": "andymckay",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153657991269187611.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32891084",
+                "authorLink": "https://www.inaturalist.org/people/space_coyote",
+                "author": "space_coyote",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153931683765157933.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The common chickweed gets its name due to the fact that chickens love to eat it, though they're not alone in that respect. Though it's often considered a nuisance weed, most parts of this plant can be consumed raw or cooked and used similar to spinach. The saponins in common chickweed are slightly toxic but will only have an effect if ingested in huge quantities.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The common chickweed gets its name due to the fact that chickens love to eat it, though they're not alone in that respect. Though it's often considered a nuisance weed, most parts of this plant can be consumed raw or cooked and used similar to spinach. The saponins in common chickweed are slightly toxic but will only have an effect if ingested in huge quantities.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common chickweed (<i>Stellaria media</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Chickweeds",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Stellaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Pink",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Caryophyllaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Biennial, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Winter",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251762599124074496.png",
+        "habitat": "A variety of soil types",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common chickweed is native across Europe (though extinct in Switzerland) and southern and western Asia. It is considered invasive in several North American states. Common chickweed lives in moist, shady locations and can take over native vegetation.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "368",
+                "582",
+                "1112",
+                "1477",
+                "1644",
+                "1613",
+                "2337",
+                "3059",
+                "2376",
+                "1514",
+                "580",
+                "465"
+            ],
+            "north": [
+                "19048",
+                "43223",
+                "88990",
+                "77770",
+                "43273",
+                "20432",
+                "14662",
+                "11730",
+                "13004",
+                "10515",
+                "8466",
+                "12050"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common chickweed makes a wonderful ground cover in sunny vegetable or butterfly gardens, as long as cool weather persists. It's a hardy, abundant plant that requires low maintenance in gardens. Some find its presence weedy and annoying, while others admire its greenery, showy flowers, and ability to attract birds, bees, and butterflies to gardens.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "a meeting or rendezvous",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common chickweed is an important part of the Japanese festival Nanakusa no sekku or Festival of the Seven Herbs. The festival begins on January 7, when common chickweed and 6 other edible wild herbs are combined into a mixture called nanakusa. On January 7, people cut the 7 herbs, including common chickweed, while chanting, \"Before the birds of the continent fly to Japan, let's get nanakusa.\" The seven herbs are supposed to bring health, long life and ward off evil",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common chickweed||Chickenwort",
+                "values": [
+                    "As a common weed, it might disrupt the invaded areas. However, there are many places to make good use of it. It is called chickweed because chickens like to eat it. It is also the most common plant, so it is also called common chickweed. Sometimes, it's also called chickenwort."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common chickweed is a native herb of Europe and is now considered invasive across several states in the mainland US and Hawaii. Common chickweed can produce vast quantities of seeds when in its ideally cool and shaded environments. These seeds germinate extremely fast, and even when they don't, they can remain viable in the soil for up to 60 years. Sprouts create dense shoots that outgrow native species and can quickly take over ecosystems. Common chickweed also can become a host of pests, such as spider mites, and is known to contain poisonous glycosides and saponins, which are particularly dangerous to pregnant or breastfeeding mothers.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove common chickweed is spring, before its flower buds fully open to prevent the weed from reseeding. Here are a few ways you can control or remove it:\n  </div> \n  <ol> \n   <li>Hand-pulling: Water the area lightly to loosen the soil then begin pulling the weed from the base to ensure you remove the whole plant. It's best to do this when the soils are moist for easier extraction.</li> \n   <li>Smothering: Lay down thick black plastic sheeting or layers of newspaper over the area where the weed has grown. This prevents light from reaching the weed, eventually killing it. This process may take several weeks.</li> \n   <li>Solarization: This method involves covering the weed-infested soil with a clear plastic tarp during the hottest months of the year. The sun heats the soil underneath to temperatures that kill the weeds. Leave the tarp in place for at least six weeks.</li> \n   <li>Using Corn Gluten Meal: Scatter corn gluten meal over the area to prevent the weed seeds from germinating. Apply in early spring before the weed begins its growth cycle. The corn gluten meal is harmless to mature plants and beneficial soil organisms.</li> \n   <li>Mulching: Lay organic mulch like straw, shredded bark, or leaf compost around your other plants to suppress common chickweed growth. The mulch blocks sunlight and makes it difficult for the weed to grow.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Tiny white flowers with split petals resembling ten, held on hairy stems up to 16 inches (40 cm) high.",
+            "Oval-shaped green leaves with pointed tips, growing opposite each other on the stem, up to 1.2 inches (3 cm) long.",
+            "Sprawling, mat-forming growth habit creating dense patches on the ground.",
+            "White delicate flowers with five bifid petals, five lanceolate sepals, and hairy exteriors.",
+            "Cylindrical light brown seed capsule with 6 petite teeth, housing reddish-brown seeds, finely bumpy texture."
+        ],
+        "title": "Quickly Identify Common chickweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Stellaria-media.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in temperate regions, common chickweed prefers evenly moist soil and benefits from weekly watering to maintain its natural moisture balance. It shows resilience during rainy seasons, making it well-suited for climates with supportive precipitation patterns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common chickweed propagates easily through spring sowing. Monitor propagation by checking for seedling emergence. Prevent overcrowding by ensuring proper spacing between seeds.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Stellaria_media.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is common chickweed used for?",
+            "link": "/ask/Stellaria_media-0.html"
+        },
+        {
+            "q": "What animals eats common chickweed?",
+            "link": "/ask/Stellaria_media-1.html"
+        },
+        {
+            "q": "Is common chickweed poisonous?",
+            "link": "/ask/Stellaria_media-2.html"
+        },
+        {
+            "q": "How tall does common chickweed grow?",
+            "link": "/ask/Stellaria_media-3.html"
+        },
+        {
+            "q": "How do I get rid of common chickweed?",
+            "link": "/ask/Stellaria_media-4.html"
+        },
+        {
+            "q": "Is common chickweed invasive?",
+            "link": "/ask/Stellaria_media-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Galinsoga quadriradiata",
+                "link": "/wiki/Galinsoga_quadriradiata.html",
+                "imageUrl": "/wiki-image/1080/153874423261167640.jpeg",
+                "displayName": "Shaggy soldier"
+            },
+            {
+                "scientificName": "Tagetes minuta",
+                "link": "/wiki/Tagetes_minuta.html",
+                "imageUrl": "/wiki-image/1080/153849731494182942.jpeg",
+                "displayName": "Mexican marigold"
+            },
+            {
+                "scientificName": "Myosotis latifolia",
+                "link": "/wiki/Myosotis_latifolia.html",
+                "imageUrl": "/wiki-image/1080/153682180524998681.jpeg",
+                "displayName": "Broadleaf Forget-Me-Not"
+            },
+            {
+                "scientificName": "Phlebodium aureum",
+                "link": "/wiki/Phlebodium_aureum.html",
+                "imageUrl": "/wiki-image/1080/347112234602102784.jpeg",
+                "displayName": "Golden polypody"
+            },
+            {
+                "scientificName": "Catapodium rigidum",
+                "link": "/wiki/Catapodium_rigidum.html",
+                "imageUrl": "/wiki-image/1080/153799759549693986.jpeg",
+                "displayName": "Fern-grass"
+            },
+            {
+                "scientificName": "Silene coronaria",
+                "link": "/wiki/Silene_coronaria.html",
+                "imageUrl": "/wiki-image/1080/202657129920987136.jpeg",
+                "displayName": "Rose campion"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Stellaria_media.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Stellaria_media.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Stellaria_media.html",
+            "values": [
+                "Care Common chickweed",
+                "Care Common chickweed",
+                "Grow Common chickweed",
+                "Maintain Common chickweed",
+                "Common chickweed Care",
+                "Common chickweed Grow",
+                "Common chickweed Maintain",
+                "Common chickweed Cares",
+                "Growth Common chickweed",
+                "Maintains Common chickweed",
+                "Common chickweed Growth",
+                "Common chickweed Maintains",
+                "Common chickweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Stellaria_media.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Stellaria_media.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Stellaria_media.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Stellaria_media.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Stellaria_media.html"
+        }
+    ]
+}

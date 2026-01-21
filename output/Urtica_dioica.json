@@ -1,0 +1,642 @@
+{
+    "title": "Stinging nettle (Urtica dioica) - PictureThis",
+    "displayName": "Stinging nettle",
+    "otherCommonName": "California nettle",
+    "mainImage": {
+        "copyright": {
+            "width": 1341,
+            "height": 1341,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "license": "CC-BY-SA-3.0"
+        },
+        "imageUrl": "/wiki-image/1080/202692434552160256.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/7088530",
+                "authorLink": "https://www.inaturalist.org/users/231709",
+                "author": "William Terry Hunefeld",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152375410955386883.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/18633819",
+                "authorLink": "https://www.inaturalist.org/people/space_coyote",
+                "author": "space_coyote",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153654430741299219.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10453872",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659979839045647.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7132423",
+                "authorLink": "https://www.inaturalist.org/people/schoenitz",
+                "author": "schoenitz",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153655341274365980.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Although the stinging nettle has a variety of uses it is best known for its eponymous sting. It has sharp defensive hairs on its leaves and stems which will release pain-inducing chemicals when touched. Nevertheless, Dorset, England hosts an annual World Nettle Eating Championship, which started with a debate between two farmers over the severity of their nettle infestations. To consume them more safely, stinging nettles must be thoroughly boiled.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Although the stinging nettle has a variety of uses it is best known for its eponymous sting. It has sharp defensive hairs on its leaves and stems which will release pain-inducing chemicals when touched. Nevertheless, Dorset, England hosts an annual World Nettle Eating Championship, which started with a debate between two farmers over the severity of their nettle infestations. To consume them more safely, stinging nettles must be thoroughly boiled.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Stinging nettle (<i>Urtica dioica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Urtica\n",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Urtica.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nettle",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Urticaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/339941206880780289.jpeg",
+        "habitat": "Waste ground, Hedgerows, Woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The stinging nettle is native to Europe, Asia and western North Africa, occurring in various ecosystems. It has been naturalized in many parts of the world. It is considered invasive in Oceania and Australia, as well as in Chile, Argentina, and the state of Virginia (USA). It's generally considered a weed because of its nuisance value even within its native range. It invades grasslands and urban areas.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "118",
+                "131",
+                "196",
+                "270",
+                "292",
+                "278",
+                "213",
+                "206",
+                "236",
+                "172",
+                "118",
+                "151"
+            ],
+            "north": [
+                "2736",
+                "6966",
+                "28522",
+                "60911",
+                "47572",
+                "31456",
+                "27972",
+                "20469",
+                "14035",
+                "6010",
+                "2253",
+                "2159"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Driving out negativity, Protection, pain, survival",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The small town of Dorset, England, hosts World Nettle Eating Championship, an eating competition where competitors try to eat as much raw stinging nettle as possible. This somehow bizarre annual event draws thousands of visitors to Dorset each year.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Stinging nettle",
+                "values": [
+                    "Its leaves and stems look hairy because they have a lot of prickles on them. When they are in contact with the human body, they can cause a tingling sensation like needles, and even lead to contact dermatitis. Since they belong to the Urtica genus, they are called stinging nettle."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Stinging nettle is moderately toxic to dogs and cats</strong>, causing symptoms such as vomiting, diarrhea, and abdominal pain upon ingestion of its leaves. <strong>In humans, stinging nettle can cause skin irritation when touched and gastrointestinal issues if ingested</strong>. Avoid during pregnancy and with diabetes or hypertension medication due to adverse reactions. Immediate veterinary care is recommended for affected pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Urtica_dioica.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to Eurasia and northern Africa, stinging nettle is commonly found across the temperate world. It is categorized as an invasive species in Australia, New Zealand, Argentina, and Chile. Even within its native range, stinging nettle is seen as a nuisance, due in large part to the stinging hairs found all over the plant. These stings can cause welts, inflammation, and severe irritation if touched. The plant is also toxic if ingested, as it causes irritation to the kidneys. Stinging nettle spreads aggressively, and is difficult to root out due to its voluminous root masses.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of stinging nettle is in the spring before the plant has had a chance to flower and set seed. Here are some suitable methods to control this plant:\n  </div> \n  <ol> \n   <li>Hand-pulling: Wear thick gloves and a long-sleeved shirt to protect your skin from the plant's stinging hairs. Gently pull the plant from the ground, ensuring that you remove the entire root system to prevent regrowth. Dispose of the plants in a sealed bag to avoid the spread of seeds.</li> \n   <li>Smothering: Cover the stinging nettle area with a thick layer of newspapers, cardboard, or landscape fabric. This method deprives the plant of sunlight and minimizes its ability to grow. Maintain the cover for a few seasons to ensure the complete death of stinging nettle.</li> \n   <li>Organic Herbicides: Spray a vinegar-based or citrus oil-based organic herbicide directly onto stinging nettle. These natural solutions can help control the growth of the plant without harming the environment. Always follow the product's directions for the best results.</li> \n   <li>Crop Rotation: If stinging nettle is a recurring problem in your garden, consider rotating your crops. Certain plants, like potatoes, can suppress stinging nettle growth.</li> \n   <li>Digging: Dig out the stinging nettle with a garden hoe or fork, making sure to get as much of the root system as possible. Remember to wear protective clothing to avoid the sting.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped, serrated leaves with fine hairs and stinging hairs.",
+            "Wiry stems with square cross-sections and stinging hairs, reaching up to 9 feet (2.7 meters).",
+            "Minute, greenish-white flowers in dense clusters, less than 1/8 inch (3 mm) in diameter.",
+            "Oval-shaped achenes with smooth texture, 1-2 millimeters long, greenish to brownish.",
+            "Oppositely arranged, egg-shaped leaves, 1-6 inches (2.5-15 cm) long, saw-toothed margins."
+        ],
+        "title": "Quickly Identify Stinging nettle",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Urtica-dioica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Stinging nettle thrives in moisture-rich environments and prefers consistent soil hydration, needing weekly watering. Moderately drought-tolerant, it flourishes when soil moisture mimics its native habitat. As an herbaceous perennial, stinging nettle adapts well to both outdoor and container growth with careful watering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Stinging nettle propagates easily by sowing in spring. Moderate difficulty with root cuttings and division. Success is shown by new leaf growth. Use moist, well-draining soil for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Urtica_dioica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is stinging nettle used for?",
+            "link": "/ask/Urtica_dioica-0.html"
+        },
+        {
+            "q": "Is stinging nettle dangerous?",
+            "link": "/ask/Urtica_dioica-1.html"
+        },
+        {
+            "q": "How long does it take for a stinging nettle rash to go away?",
+            "link": "/ask/Urtica_dioica-2.html"
+        },
+        {
+            "q": "Is stinging nettle a perennial?",
+            "link": "/ask/Urtica_dioica-3.html"
+        },
+        {
+            "q": "How tall do stinging nettles get?",
+            "link": "/ask/Urtica_dioica-4.html"
+        },
+        {
+            "q": "Do stinging nettles grow in full sunshine?",
+            "link": "/ask/Urtica_dioica-5.html"
+        },
+        {
+            "q": "Can stinging nettle be transplanted?",
+            "link": "/ask/Urtica_dioica-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Carpobrotus chilensis",
+                "link": "/wiki/Carpobrotus_chilensis.html",
+                "imageUrl": "/wiki-image/1080/154134002494603295.jpeg",
+                "displayName": "Sea fig"
+            },
+            {
+                "scientificName": "Verbesina alternifolia",
+                "link": "/wiki/Verbesina_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/153777142251913216.jpeg",
+                "displayName": "Wingstem"
+            },
+            {
+                "scientificName": "Thespesia populnea",
+                "link": "/wiki/Thespesia_populnea.html",
+                "imageUrl": "/wiki-image/1080/153990060960645148.jpeg",
+                "displayName": "Portia Tree"
+            },
+            {
+                "scientificName": "Phyllanthus urinaria",
+                "link": "/wiki/Phyllanthus_urinaria.html",
+                "imageUrl": "/wiki-image/1080/153982368674218025.jpeg",
+                "displayName": "Chamber bitter"
+            },
+            {
+                "scientificName": "Corynocarpus laevigatus",
+                "link": "/wiki/Corynocarpus_laevigatus.html",
+                "imageUrl": "/wiki-image/1080/152551642053476354.jpeg",
+                "displayName": "New Zealand laurel"
+            },
+            {
+                "scientificName": "Pilea microphylla",
+                "link": "/wiki/Pilea_microphylla.html",
+                "imageUrl": "/wiki-image/1080/154077016868519947.jpeg",
+                "displayName": "Artillery plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Urtica_dioica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Urtica_dioica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Urtica_dioica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Urtica_dioica.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Urtica_dioica.html",
+            "values": [
+                "Care Stinging nettle",
+                "Care Stinging nettle",
+                "Grow Stinging nettle",
+                "Maintain Stinging nettle",
+                "Stinging nettle Care",
+                "Stinging nettle Grow",
+                "Stinging nettle Maintain",
+                "Stinging nettle Cares",
+                "Growth Stinging nettle",
+                "Maintains Stinging nettle",
+                "Stinging nettle Growth",
+                "Stinging nettle Maintains",
+                "Stinging nettle Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Urtica_dioica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Urtica_dioica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Urtica_dioica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Urtica_dioica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Urtica_dioica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Urtica_dioica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Urtica_dioica.html"
+        }
+    ]
+}

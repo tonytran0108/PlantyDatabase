@@ -1,0 +1,946 @@
+{
+    "title": "Zanzibar gem (Zamioculcas zamiifolia) - PictureThis",
+    "displayName": "Zanzibar gem",
+    "otherCommonName": "Aroid palm, Emerald palm",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "greg801",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348133526285484032.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 3888,
+                "height": 5184,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157117561656311813.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1080,
+                "height": 1080,
+                "copyrightType": "Stock_PS",
+                "referral": "",
+                "authorLink": "",
+                "author": "greg801",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/348133526285484032.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/30261834",
+                "authorLink": "https://www.inaturalist.org/people/curiousann",
+                "author": "curiousann",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152588175045296130.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Zanzibar gem 'Dowon'",
+            "link": "/wiki/Zamioculcas_zamiifolia__Dowon_.html"
+        },
+        {
+            "displayName": "Dwarf ZZ plant",
+            "link": "/wiki/Zamioculcas_zamiifolia__Zamicro_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The zanzibar gem is a flowering green plant native to eastern Africa. It also gets the name emerald palm because of its bright, glossy color. Today, the zanzibar gem (Zamioculcas zamiifolia) is grown around the world as a houseplant, in part because it is easy to grow and care for. Though this plant is mildly toxic if ingested, its danger level is often overstated.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The zanzibar gem is a flowering green plant native to eastern Africa. It also gets the name emerald palm because of its bright, glossy color. Today, the zanzibar gem (Zamioculcas zamiifolia) is grown around the world as a houseplant, in part because it is easy to grow and care for. Though this plant is mildly toxic if ingested, its danger level is often overstated.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Zanzibar gem (<i>Zamioculcas zamiifolia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Eternity plant",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Zamioculcas.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 7 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801136240492550.jpeg",
+        "habitat": "Dry grassland, Forest",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Zanzibar gem is native to the southeastern coast of Africa, where its natural habitat includes dry grasslands and forests. It is widely cultivated in the US and Europe for use as an ornamental and houseplant.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "9811",
+                "10503",
+                "10695",
+                "10660",
+                "9421",
+                "8982",
+                "11006",
+                "11279",
+                "10480",
+                "9215",
+                "7558",
+                "10504"
+            ],
+            "north": [
+                "53994",
+                "59617",
+                "71798",
+                "76465",
+                "72931",
+                "61545",
+                "63882",
+                "57627",
+                "51314",
+                "42661",
+                "33587",
+                "51401"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can purify air and absorb dioxide and formaldehyde.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Zanzibar gem is a herbaceous perennial commonly found in gardens within a warm climate. It is prized for its attractive pinnate, glossy leaves. Its ornamental foliage makes it suitable for borders and low hedging. Zanzibar gem is good for drought-tolerant gardens. Plant with Aglaonema or Peace Lilies for a similar niche.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Attracting wealth, resiliency, grounding, longevity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "As a perennial evergreen herb, it is a rare foliage plant with underground tubers, native to tropical Africa. The oval leaflets on the compound leaves are thick in texture and dark green in color. In the sunlight, they appear to be coated with a sparkling glaze. Its appearance is clean and beautiful, it is easy to take care of, but is not easily harmed by pests, and it is tolerant of drought. It can live a week or two without any care, making it a great choice for inside the home. The green leaves help people to feel invigorated and refreshed.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Zz plant",
+                "values": [
+                    "The first time you see the name Zz plant, you would be curious that how is it possible for the plant to have such an unknown name. In fact, the name is actually inspired by its latin name, Zamioculcas Zamiifolia. As the latin name is really awkward to pronounce, the plant is then simply called Zz plant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Zanzibar gem plant is toxic</strong> to cats and dogs. Its calcium oxalate crystals cause severe mouth, throat, and gastrointestinal irritation if swallowed. Symptoms include vomiting, diarrhea, and lethargy. Immediate veterinary care is crucial if ingested. Zanzibar gem should be kept away from pets and small children to prevent poisoning and ensure their safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Zamioculcas_zamiifolia.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Shiny, dark green, waxy leaves",
+            "Pinnately compound, glossy green leaves with elliptic shape",
+            "Thick, fleshy stems with smooth texture and gradual tapering",
+            "Distinctive white spadix and green spathe flowers",
+            "Compact, slow growth pattern reaching 2-4 feet (60-120 cm)"
+        ],
+        "title": "Quickly Identify Zanzibar gem",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Zamioculcas-zamiifolia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Zanzibar gem thrives in low-water conditions, requiring watering every three weeks with dry soil between sessions. Ideal for low-maintenance care, it adapts well to indoor environments and various light conditions. Occasional misting helps replicate its natural humidity, enhancing its overall well-being.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing zanzibar gem quarterly with a half-strength high nitrogen formula boosts growth, but stop during winter dormancy. Over-fertilization can harm the plant, so adhere to label guidelines. Consistent and correct feeding ensures healthy zanzibar gem plants.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Zanzibar gem features glossy, dark green leaves and requires minimal pruning. Perform early spring pruning to remove damaged leaves, enhance air circulation, and shape the plant. Use clean, sharp tools to ensure health, promoting robust foliage and preventing overcrowding for prolonged vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Zanzibar gem is a resilient houseplant with glossy, dark green leaves, thriving in low light. It propagates easily via cuttings placed in water or soil. Patience is key, as root development may take months, requiring indirect light and consistent moisture for success.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot 'zanzibar gem' annually in spring to support growth. Choose a larger pot for tuberous roots and ensure proper drainage. After repotting, maintain moist soil without overwatering. These resilient plants thrive with thoughtful care.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Zamioculcas_zamiifolia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is zanzibar gem poisonous?",
+            "link": "/ask/Zamioculcas_zamiifolia-0.html"
+        },
+        {
+            "q": "Why is my zanzibar gem going yellow?",
+            "link": "/ask/Zamioculcas_zamiifolia-1.html"
+        },
+        {
+            "q": "What is zanzibar gem good for?",
+            "link": "/ask/Zamioculcas_zamiifolia-2.html"
+        },
+        {
+            "q": "How often should I water zanzibar gem?",
+            "link": "/ask/Zamioculcas_zamiifolia-3.html"
+        },
+        {
+            "q": "How do you take care of zanzibar gem?",
+            "link": "/ask/Zamioculcas_zamiifolia-4.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Zamioculcas-zamiifolia-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Zamioculcas-zamiifolia-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Zamioculcas-zamiifolia-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Zamioculcas-zamiifolia-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Zamioculcas-zamiifolia-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Zamioculcas-zamiifolia-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Zamioculcas-zamiifolia-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Zamioculcas-zamiifolia-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Zamioculcas-zamiifolia-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Zamioculcas-zamiifolia-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Zamioculcas-zamiifolia-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Zamioculcas-zamiifolia-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Zamioculcas-zamiifolia-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Zamioculcas-zamiifolia-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Zamioculcas-zamiifolia-Mealybug.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Zamioculcas-zamiifolia-Scars.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Zamioculcas-zamiifolia-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Zamioculcas-zamiifolia-White-blotch.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Zamioculcas-zamiifolia-Notch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Zamioculcas-zamiifolia-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Zamioculcas-zamiifolia-Leaf-tip-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Aloe vera var. chinensis",
+                "link": "/wiki/Aloe_vera_var._chinensis.html",
+                "imageUrl": "/wiki-image/1080/352302419111542784.jpeg",
+                "displayName": "Chinese aloe"
+            },
+            {
+                "scientificName": "Clitoria ternatea",
+                "link": "/wiki/Clitoria_ternatea.html",
+                "imageUrl": "/wiki-image/1080/154144117142585356.jpeg",
+                "displayName": "Butterfly pea"
+            },
+            {
+                "scientificName": "Mirabilis jalapa",
+                "link": "/wiki/Mirabilis_jalapa.html",
+                "imageUrl": "/wiki-image/1080/154028612587094040.jpeg",
+                "displayName": "Four o'clock flower"
+            },
+            {
+                "scientificName": "Xanthosoma sagittifolium",
+                "link": "/wiki/Xanthosoma_sagittifolium.html",
+                "imageUrl": "/wiki-image/1080/154493899279171587.jpeg",
+                "displayName": "Arrowleaf elephant's ear"
+            },
+            {
+                "scientificName": "Syngonium podophyllum",
+                "link": "/wiki/Syngonium_podophyllum.html",
+                "imageUrl": "/wiki-image/1080/347090111225561088.jpeg",
+                "displayName": "Arrowhead plant"
+            },
+            {
+                "scientificName": "Crassula ovata",
+                "link": "/wiki/Crassula_ovata.html",
+                "imageUrl": "/wiki-image/1080/154223947699716110.jpeg",
+                "displayName": "Jade plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Zamioculcas_zamiifolia.html",
+            "values": [
+                "Care Zanzibar gem",
+                "Care Zanzibar gem",
+                "Grow Zanzibar gem",
+                "Maintain Zanzibar gem",
+                "Zanzibar gem Care",
+                "Zanzibar gem Grow",
+                "Zanzibar gem Maintain",
+                "Zanzibar gem Cares",
+                "Growth Zanzibar gem",
+                "Maintains Zanzibar gem",
+                "Zanzibar gem Growth",
+                "Zanzibar gem Maintains",
+                "Zanzibar gem Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zamioculcas-zamiifolia-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Zamioculcas_zamiifolia.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Zamioculcas_zamiifolia.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Zamioculcas_zamiifolia.html"
+        }
+    ]
+}

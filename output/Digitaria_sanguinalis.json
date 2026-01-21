@@ -1,0 +1,599 @@
+{
+    "title": "Hairy crabgrass (Digitaria sanguinalis) - PictureThis",
+    "displayName": "Hairy crabgrass",
+    "otherCommonName": "Common crabgrass, Summer grass, Purple crabgrass",
+    "mainImage": {
+        "copyright": {
+            "width": 1944,
+            "height": 1944,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "linqinwen",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202701239235117056.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/34109365",
+                "authorLink": "https://www.inaturalist.org/people/bcal003",
+                "author": "bcal003",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152513623002972163.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4524122",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153920409476005906.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4032,
+                "height": 3024,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Digitaria_sanguinalis_subsp._pectiniformis_sl14.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153915792386162718.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 300,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/31058432",
+                "authorLink": "https://www.inaturalist.org/people/birds_bugs_botany",
+                "author": "birds_bugs_botany",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153957462158868491.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Hairy crabgrass (Digitaria sanguinalis) is a plant species that is known worldwide as a common weed. In certain circumstances, hairy crabgrass is used as animal fodder. This grass species is extremely hardy and almost always requires a detailed control plan, as any chemicals used to eliminate it may also harm surrounding grasses.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Hairy crabgrass (Digitaria sanguinalis) is a plant species that is known worldwide as a common weed. In certain circumstances, hairy crabgrass is used as animal fodder. This grass species is extremely hardy and almost always requires a detailed control plan, as any chemicals used to eliminate it may also harm surrounding grasses.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Hairy crabgrass (<i>Digitaria sanguinalis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Crabgrass",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Digitaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802411845779456.jpeg",
+        "habitat": "Arable ground, waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Hairy crabgrass is a widespread species prevalent across both native and introduced regions. Native to parts of Europe, hairy crabgrass has established its presence across various continents, including Asia, Africa, North and South America, and Oceania. In certain areas, particularly in South America, hairy crabgrass is sometimes thought to be invasive and may have an impact on ecosystems, although it is primarily notable for its expansive reach rather than aggressive invasiveness.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "794",
+                "733",
+                "578",
+                "484",
+                "298",
+                "163",
+                "213",
+                "452",
+                "624",
+                "773",
+                "606",
+                "766"
+            ],
+            "north": [
+                "1129",
+                "1819",
+                "3907",
+                "11509",
+                "29720",
+                "33787",
+                "30643",
+                "17524",
+                "6530",
+                "2130",
+                "1363",
+                "1164"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Hairy crabgrass is an invasive summer annual that forms clumps as it spreads. Left unchecked, it can take over a yard or meadow. The grass is found around the world and cultivated in Germany and Poland for animal feed. The edible seeds are what make the grass a problem. The seeds germinate in the spring and continue until the fall. It is a quick-spreading weed that will choke out native plants and grasses in a short time. It is easier to control in cultivated gardens and harder to remove from lawns. Thinner, cool weather grasses can easily succumb to hairy crabgrass. Once established, it is hard to completely remove from the area.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season to remove 'hairy crabgrass' is late spring or early summer. This is before the plant has had chance to flower and set seed. Here are some methods:\n  </div> \n  <ol> \n   <li>Hand Pulling: This basic, yet effective method involves physical removal of the 'hairy crabgrass' plant using your hand. This method is best for smaller infestations. Ensure you have proper gloves on, then grasp the plant at its base and pull gently to remove the entirety of the plant, roots included. Dispose of the plants in a green waste bin.</li> \n   <li>Smothering: This method uses an opaque material to cover the area where the 'hairy crabgrass' is growing. The material prevents sunlight from reaching the weed, thus hindering its growth. Place a sheet of cardboard or dark plastic over the infected area, securing it well. Leave it for a few weeks allowing it to effectively kill the weed.</li> \n   <li>Vinegar Spray: An eco-friendly method is using a homemade vinegar weed killer. Add a cup of table salt to a gallon of vinegar. Pour this solution into a spray bottle and target the 'hairy crabgrass' directly. This method can easily damage other plants, so it should be used carefully. Spray on a sunny day for the best results.</li> \n   <li>Using Corn Gluten Meal: This method not only helps in removing 'hairy crabgrass' but also prevents it from growing back. Sprinkle a generous amount of corn gluten meal over the affected area, then water it lightly. The corn gluten creates a barrier that prevents 'hairy crabgrass' seeds from germinating.</li> \n   <li>Encouraging Healthy Lawn: Maintaining a healthy lawn is a natural deterrent for 'hairy crabgrass' as it prevents it from propagating. Regularly water and feed your lawn, and maintain a lawn height of about 2.5-3 inches. This will make it harder for the 'hairy crabgrass' to compete.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Sprawling growth habit with lower branches close to the ground and upright upper branches.",
+            "One-flowered spikelets aligned along racemes up to 8 inches (20 cm) long.",
+            "Caryopsis fruit enclosed in protective glumes, reddish when mature, 1-1.5 mm wide.",
+            "Leaves up to 6 inches (15 cm) long, dull light green, slightly curly margins.",
+            "Prostrate stems rooting at nodes, 2 feet (60 cm) long, green to purple in color."
+        ],
+        "title": "Quickly Identify Hairy crabgrass",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Digitaria-sanguinalis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Hairy crabgrass thrives in warm regions, showing moderate drought tolerance. It prefers to be watered twice a week, benefiting from natural rainfall. Its growth cycle correlates with water availability, flourishing when adequately hydrated during active growth periods.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of hairy crabgrass is typically done by sowing in Spring, which is easy and shows success through emerging seedlings. No additional methods or special care are required during the propagation process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Digitaria_sanguinalis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is hairy crabgrass used for?",
+            "link": "/ask/Digitaria_sanguinalis-0.html"
+        },
+        {
+            "q": "How do I get rid of hairy crabgrass?",
+            "link": "/ask/Digitaria_sanguinalis-1.html"
+        },
+        {
+            "q": "How tall can hairy crabgrass get?",
+            "link": "/ask/Digitaria_sanguinalis-2.html"
+        },
+        {
+            "q": "Is hairy crabgrass invasive?",
+            "link": "/ask/Digitaria_sanguinalis-3.html"
+        },
+        {
+            "q": "Is hairy crabgrass annual?",
+            "link": "/ask/Digitaria_sanguinalis-4.html"
+        },
+        {
+            "q": "Is the hairy crabgrass poisonous?",
+            "link": "/ask/Digitaria_sanguinalis-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Calotropis procera",
+                "link": "/wiki/Calotropis_procera.html",
+                "imageUrl": "/wiki-image/1080/157422031887925259.jpeg",
+                "displayName": "Apple of Sodom"
+            },
+            {
+                "scientificName": "Grona triflora",
+                "link": "/wiki/Grona_triflora.html",
+                "imageUrl": "/wiki-image/1080/153839835889532962.jpeg",
+                "displayName": "Threeflower ticktrefoil"
+            },
+            {
+                "scientificName": "Cyperus strigosus",
+                "link": "/wiki/Cyperus_strigosus.html",
+                "imageUrl": "/wiki-image/1080/154113421011320865.jpeg",
+                "displayName": "Strawcolored flatsedge"
+            },
+            {
+                "scientificName": "Sesbania herbacea",
+                "link": "/wiki/Sesbania_herbacea.html",
+                "imageUrl": "/wiki-image/1080/154147243878776834.jpeg",
+                "displayName": "Bigpod sesbania"
+            },
+            {
+                "scientificName": "Sphagneticola trilobata",
+                "link": "/wiki/Sphagneticola_trilobata.html",
+                "imageUrl": "/wiki-image/1080/153349694221713422.jpeg",
+                "displayName": "Bay biscayne creeping oxeye"
+            },
+            {
+                "scientificName": "Bidens cernua",
+                "link": "/wiki/Bidens_cernua.html",
+                "imageUrl": "/wiki-image/1080/154002576495345676.jpeg",
+                "displayName": "Nodding beggarticks"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Digitaria_sanguinalis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Digitaria_sanguinalis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Digitaria_sanguinalis.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Digitaria_sanguinalis.html",
+            "values": [
+                "Care Hairy crabgrass",
+                "Care Hairy crabgrass",
+                "Grow Hairy crabgrass",
+                "Maintain Hairy crabgrass",
+                "Hairy crabgrass Care",
+                "Hairy crabgrass Grow",
+                "Hairy crabgrass Maintain",
+                "Hairy crabgrass Cares",
+                "Growth Hairy crabgrass",
+                "Maintains Hairy crabgrass",
+                "Hairy crabgrass Growth",
+                "Hairy crabgrass Maintains",
+                "Hairy crabgrass Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Digitaria_sanguinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Digitaria_sanguinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Digitaria_sanguinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Digitaria_sanguinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Digitaria_sanguinalis.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Digitaria_sanguinalis.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Digitaria_sanguinalis.html"
+        }
+    ]
+}

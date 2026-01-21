@@ -1,0 +1,626 @@
+{
+    "title": "Black nightshade (Solanum nigrum) - PictureThis",
+    "displayName": "Black nightshade",
+    "otherCommonName": "Garden nightshade, Blackberry nightshade",
+    "mainImage": {
+        "copyright": {
+            "width": 939,
+            "height": 939,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154044001454915617.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5489785",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153657321254289426.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/30531920",
+                "authorLink": "https://www.inaturalist.org/people/tonyrebelo",
+                "author": "tonyrebelo",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656762908540938.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 959,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/7069403",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154162984933916701.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/48743170",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154182166257860609.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Black nightshade (Solanum nigrum) is a highly toxic plant and caution should be exercised around this plant. It's said that black nightshade fruits can technically be consumed if they are fully ripe and properly cooked and prepared. Generally though, due to the danger they present, no one would ever want to try to eat this plant.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Black nightshade (Solanum nigrum) is a highly toxic plant and caution should be exercised around this plant. It's said that black nightshade fruits can technically be consumed if they are fully ripe and properly cooked and prepared. Generally though, due to the danger they present, no one would ever want to try to eat this plant.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Black nightshade (<i>Solanum nigrum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Nightshades",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Solanum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Nightshade",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Solanaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Perennial, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 mm to 9 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251760696453562369.png",
+        "habitat": "Wasteland, Garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Black nightshade is native to all land except Oceania and Antarctica and is found predominantly in disturbed land with warm, fertilizer-rich soil. It was also introduced into Oceania. It's now considered a regular garden weed.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3812",
+                "3197",
+                "2850",
+                "1986",
+                "1652",
+                "1563",
+                "1795",
+                "2330",
+                "3182",
+                "3627",
+                "3599",
+                "4794"
+            ],
+            "north": [
+                "5402",
+                "8085",
+                "16302",
+                "36879",
+                "96243",
+                "87220",
+                "66555",
+                "42636",
+                "23230",
+                "9873",
+                "5741",
+                "5412"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Black nightshade is often grown in gardens as an accent or specimen plant. Gardeners value its attractive star-shaped flowers in the summer and green then black berries in the autumn. Black nightshade is suitable for trellises and alongside walls in pollinator gardens. It may comfortably grow in a coastal setting.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Death, spirits, the underworld",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Black nightshade has been documented by famous botanists and naturalists since the 19th century. English botanist Edward Salisbury wrote that fossil deposits indicated the presence of black nightshade in Britain since early man invented farming. Ancient Greek medical practitioners and Ancient Roman philosophers mention black nightshade in their writings. Famous naturalist Carl Linnaeus also wrote about black nightshade.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Black nightshade",
+                "values": [
+                    "Solanum nigrum has been recorded from the remains of the Paleolithic and Mesolithic era of ancient Britain. The fruits will turn black when they reach maturity, so it is called black nightshade."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Black nightshade is extremely toxic</strong> to cats and dogs. Ingesting any part of the plant, especially unripened berries, triggers symptoms like vomiting, diarrhea, weakness, confusion, seizures, and possibly paralysis. <strong>Fatalities in children have been reported</strong> due to unripe berries. Veterinary care is essential for animals and immediate medical attention is advised if ingestion is suspected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Solanum_nigrum.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Black nightshade is native to Eurasia and has been introduced to the Americas, Australia, and South Africa. Alaska, Idaho, Michigan, and Kentucky have all identified this as an invasive species. In Idaho, it is listed as an invasive species for being a trap crop. In Kentucky, it spreads in natural areas. At large, the weed competes with important crops such as tomatoes, potatoes, and peppers for vital water, light, and nutrients. It also hosts fungal and viral diseases, and its berries are poisonous to livestock and humans. This is especially worrisome around pea crops because the green berries look similar to peas. <span class=\"articleComment\" comment=\"22139\">When necessary, this weed can be mechanically removed prior to flowering or be exposed to chemical herbicides.&nbsp;</span>\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of black nightshade is in early spring before the plant begins to set its seeds.\n  </div> \n  <ol> \n   <li>Hand Pulling: This is one of the simplest and most effective ways of controlling black nightshade. All you need to do is physically pull the plant out from the soil, being sure to remove the entire root system as any leftover roots may sprout again.</li> \n   <li>Tilling: Another method involves the use of a tiller to disturb the soil and uproot the black nightshade plants. After tilling, be sure to rake out and dispose of all plant pieces.</li> \n   <li>Mulching: Laying a thick layer of organic mulch around your plants can help suppress black nightshade. The mulch prevents the sunlight from reaching the weed, thus inhibiting its growth.</li> \n   <li>Planting Cover Crops: Planting cover crops can help suppress the growth of black nightshade. Cover crops like rye or clover can outcompete black nightshade for sunlight, nutrients, and space.</li> \n   <li>Vinegar Spray: Using a vinegar solution can also be an effective strategy for black nightshade control. Mix equal parts of water and vinegar, and then spray it directly onto the plants. Be careful to avoid the surrounding flora you wish to keep.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Stout, erect stems with occasional purplish hue.",
+            "Dark green leaves, hairy or smooth, with varied edges.",
+            "Small white flowers in umbel-like cymes, yellow anthers.",
+            "Berries green to black/purplish-black, soft texture.",
+            "Alternate, ovate to lanceolate leaves, hairy/smooth surfaces."
+        ],
+        "title": "Quickly Identify Black nightshade",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Solanum-nigrum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Black nightshade, adaptable to various habitats, prefers a moderate moisture regime and a consistent weekly watering schedule. This annual herb thrives outdoors and benefits from regular rainfall during its growing season, enhancing its growth and overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Spring is the best time to sow black nightshade, which has moderate difficulty in propagation. Success is indicated by new green growth. Use well-draining soil to enhance propagation outcomes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Solanum_nigrum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is black nightshade used for?",
+            "link": "/ask/Solanum_nigrum-0.html"
+        },
+        {
+            "q": "Is black nightshade the same as deadly nightshade?",
+            "link": "/ask/Solanum_nigrum-1.html"
+        },
+        {
+            "q": "How do you remove black nightshade?",
+            "link": "/ask/Solanum_nigrum-2.html"
+        },
+        {
+            "q": "Where is black nightshade native?",
+            "link": "/ask/Solanum_nigrum-3.html"
+        },
+        {
+            "q": "Is black nightshade a perennial?",
+            "link": "/ask/Solanum_nigrum-4.html"
+        },
+        {
+            "q": "What is the difference between black nightshade and deadly nightshade?",
+            "link": "/ask/Solanum_nigrum-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Aloe vera var. chinensis",
+                "link": "/wiki/Aloe_vera_var._chinensis.html",
+                "imageUrl": "/wiki-image/1080/352302419111542784.jpeg",
+                "displayName": "Chinese aloe"
+            },
+            {
+                "scientificName": "Clitoria ternatea",
+                "link": "/wiki/Clitoria_ternatea.html",
+                "imageUrl": "/wiki-image/1080/154144117142585356.jpeg",
+                "displayName": "Butterfly pea"
+            },
+            {
+                "scientificName": "Mirabilis jalapa",
+                "link": "/wiki/Mirabilis_jalapa.html",
+                "imageUrl": "/wiki-image/1080/154028612587094040.jpeg",
+                "displayName": "Four o'clock flower"
+            },
+            {
+                "scientificName": "Xanthosoma sagittifolium",
+                "link": "/wiki/Xanthosoma_sagittifolium.html",
+                "imageUrl": "/wiki-image/1080/154493899279171587.jpeg",
+                "displayName": "Arrowleaf elephant's ear"
+            },
+            {
+                "scientificName": "Syngonium podophyllum",
+                "link": "/wiki/Syngonium_podophyllum.html",
+                "imageUrl": "/wiki-image/1080/347090111225561088.jpeg",
+                "displayName": "Arrowhead plant"
+            },
+            {
+                "scientificName": "Crassula ovata",
+                "link": "/wiki/Crassula_ovata.html",
+                "imageUrl": "/wiki-image/1080/154223947699716110.jpeg",
+                "displayName": "Jade plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Solanum_nigrum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Solanum_nigrum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Solanum_nigrum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Solanum_nigrum.html",
+            "values": [
+                "Care Black nightshade",
+                "Care Black nightshade",
+                "Grow Black nightshade",
+                "Maintain Black nightshade",
+                "Black nightshade Care",
+                "Black nightshade Grow",
+                "Black nightshade Maintain",
+                "Black nightshade Cares",
+                "Growth Black nightshade",
+                "Maintains Black nightshade",
+                "Black nightshade Growth",
+                "Black nightshade Maintains",
+                "Black nightshade Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Solanum_nigrum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Solanum_nigrum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Solanum_nigrum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Solanum_nigrum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Solanum_nigrum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Solanum_nigrum.html"
+        }
+    ]
+}

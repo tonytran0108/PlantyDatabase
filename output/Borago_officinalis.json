@@ -1,0 +1,1023 @@
+{
+    "title": "Common borage (Borago officinalis) - PictureThis",
+    "displayName": "Common borage",
+    "otherCommonName": "Cover Crop, Borage, Beebread, Tailwort",
+    "mainImage": {
+        "copyright": {
+            "width": 892,
+            "height": 892,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154089532403220483.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32835345",
+                "authorLink": "https://www.inaturalist.org/people/mattiamenchetti",
+                "author": "mattiamenchetti",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153901528799772698.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9234614",
+                "authorLink": "https://www.inaturalist.org/people/portioid",
+                "author": "portioid",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153911518893703205.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 335,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/35421182",
+                "authorLink": "https://www.inaturalist.org/people/gillessanmartin",
+                "author": "gillessanmartin",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153955731287048222.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22807452",
+                "authorLink": "https://www.inaturalist.org/people/duarte",
+                "author": "duarte",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154012953136332832.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The edible leaves of common borage, said to have the fragrance and taste of cucumbers, are often used to make salads, soup, and sauces. Its blue, star-like flowers can also be used as an attractive drink garnish and as an ingredient in some gins. The plant is also commercially cultivated for borage seed oil.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The edible leaves of common borage, said to have the fragrance and taste of cucumbers, are often used to make salads, soup, and sauces. Its blue, star-like flowers can also be used as an attractive drink garnish and as an ingredient in some gins. The plant is also commercially cultivated for borage seed oil.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common borage (<i>Borago officinalis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Borages",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Borago.html"
+            },
+            {
+                "type": "Family",
+                "name": "Borage",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Boraginaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Boraginales",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Boraginales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Annual, Biennial, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   22 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801539967418370.jpeg",
+        "habitat": "Waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The native range of common borage is Western and Central Mediterranean. It naturally grows in disturbed sites of urban environments. The species was introduced to many European and Asian countries, and much of North America, where it tends to invade disturbed areas. It is considered invasive in Alaska (USA).\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 76.46024476, \"2\": 49.27057327, \"3\": 63.01870203, \"4\": 66.58021584, \"5\": 48.85957957, \"6\": 58.0, \"7\": 43.63233738, \"8\": 73.29064125, \"9\": 77.73582657, \"10\": 107.7238435, \"11\": 138.0711209, \"12\": 105.8374371}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 205.864918, \"2\": 171.668041, \"3\": 223.4404822, \"4\": 241.4994919, \"5\": 268.4332522, \"6\": 276.0, \"7\": 258.862276, \"8\": 308.9356808, \"9\": 321.4388929, \"10\": 348.5641459, \"11\": 394.1656479, \"12\": 313.0821227}, \"flower_month\": 11}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 0.0, \"2\": 3.738798296, \"3\": 4.695030555, \"4\": 8.29205733, \"5\": 11.49349046, \"6\": 7.594063253, \"7\": 4.249142009, \"8\": 5.205090331, \"9\": 3.408329985, \"10\": 3.915949416, \"11\": 1.700918964, \"12\": 5.0}, \"flower_month\": 5}, \"BSk\": {\"trends\": {\"1\": 47.7071502, \"2\": 55.20629082, \"3\": 77.38317974, \"4\": 82.70608426, \"5\": 116.3456858, \"6\": 126.1719488, \"7\": 89.19221519, \"8\": 62.08146885, \"9\": 57.74023442, \"10\": 54.23700499, \"11\": 51.10683613, \"12\": 37.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 55.51268904, \"2\": 55.66517252, \"3\": 72.61849066, \"4\": 95.81175679, \"5\": 129.8001362, \"6\": 128.1976321, \"7\": 104.8402664, \"8\": 66.1029399, \"9\": 61.90985152, \"10\": 69.58277396, \"11\": 33.31277796, \"12\": 40.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 84.25676318, \"2\": 134.7053206, \"3\": 211.5925626, \"4\": 292.2734527, \"5\": 369.8092045, \"6\": 329.9099031, \"7\": 207.2037404, \"8\": 117.4666294, \"9\": 136.168061, \"10\": 144.6188227, \"11\": 150.3970116, \"12\": 113.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 109.9538335, \"2\": 118.4934681, \"3\": 318.6896073, \"4\": 517.5329241, \"5\": 714.9629401, \"6\": 897.8262073, \"7\": 763.2734129, \"8\": 697.1178264, \"9\": 463.7936545, \"10\": 277.3299596, \"11\": 336.0400487, \"12\": 101.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 67.38249151, \"2\": 77.16478218, \"3\": 137.5821575, \"4\": 193.5148872, \"5\": 304.1906626, \"6\": 338.430103, \"7\": 234.1306572, \"8\": 157.9166005, \"9\": 129.4124336, \"10\": 131.9531367, \"11\": 76.26807673, \"12\": 36.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 28.05410042, \"2\": 56.48434806, \"3\": 110.6106719, \"4\": 202.5743069, \"5\": 276.6655753, \"6\": 347.7840051, \"7\": 259.1693346, \"8\": 212.2885931, \"9\": 168.4977709, \"10\": 111.7766757, \"11\": 81.91034415, \"12\": 26.0}, \"flower_month\": 6}, \"BWh\": {\"trends\": {\"1\": 75.0, \"2\": 60.0, \"3\": 95.0, \"4\": 105.0, \"5\": 65.0, \"6\": 53.0, \"7\": 33.0, \"8\": 26.0, \"9\": 46.0, \"10\": 59.0, \"11\": 64.0, \"12\": 50.0}, \"flower_month\": 4}, \"Csa\": {\"trends\": {\"1\": 144.0, \"2\": 154.0, \"3\": 403.0, \"4\": 566.0, \"5\": 529.0, \"6\": 314.0, \"7\": 140.0, \"8\": 146.0, \"9\": 128.0, \"10\": 100.0, \"11\": 111.0, \"12\": 116.0}, \"flower_month\": 4}, \"Default\": {\"trends\": {\"1\": 655.4926505, \"2\": 741.8629642, \"3\": 1315.760994, \"4\": 1845.741499, \"5\": 2560.114918, \"6\": 2871.03849, \"7\": 2101.200814, \"8\": 1696.6534, \"9\": 1263.147854, \"10\": 986.149323, \"11\": 959.1780163, \"12\": 624.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Borage seeds can be refined into essential oil and its flowers can be made into candies.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The common borage is an edible plant widely grown as a bed and border plant within edible herb, cottage, and pollinator gardens. In addition to being edible, the common borage is prized for being low care as it is both pest and disease free. It can be accompanied by a range of companion plants, such as cornflower, chives, annual sage, and common poppy.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Courage, romantic longing, domestic tranquility",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, one should hold up a common borage in both hands, silently recite the name of ones' love, then let the common borage fall into the water. If the common borage moves with the water, then the love is destined for nothing; if the common borage floats quietly in the middle of the water, then the love will last forever.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common borage",
+                "values": [
+                    "Borage is considered as its common name and its genus name. Borago comes from medieval Latin, meaning \"short wool, rough hair\" in which the stems and leaves are covered with hairs. Borage is a very common plant and it is one of the vegetables and herbs that can be grown in many places, so it is called common borage."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Common borage contains toxins harmful to cats and dogs, targeting stems, leaves, seeds, and roots. <strong>Cats face kidney and liver failure</strong> with symptoms like diarrhea, vomiting, and fever. <strong>Dogs experience gastrointestinal distress</strong> including vomiting, bloody diarrhea, and tremors. Immediate treatment is crucial as severe cases can be fatal.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Borago_officinalis.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Star-shaped blue flowers with white-haired sepals",
+            "Coarse, wrinkled, gray-green leaves with bristly hairs",
+            "Highly branched stem covered in white bristly hairs",
+            "Distinctive cucumber-like fragrance in blooms",
+            "Blooms from late spring to early fall"
+        ],
+        "title": "Quickly Identify Common borage",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Borago-officinalis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from a Mediterranean climate, common borage prefers moderate humidity and occasional drying. It requires consistent moisture, with watering twice a week, and demonstrates moderate drought tolerance. Best grown outdoors, common borage flourishes with evenly moist soil during its active growing season for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common borage thrives with balanced NPK fertilizers (10-10-10) applied every 4-6 weeks during growth. High nitrogen boosts foliage early on. Avoid over-fertilization and reduce feeding in dormancy. Slow-release formulas and post-application watering help prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common borage features bright blue flowers and has medicinal uses. Prune in early to late spring for healthy growth, remove dead stems, and promote air circulation. Post-bloom pruning may foster a second flowering. Use clean tools to prevent diseases and ensure effective cuts.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common borage propagates mainly by sowing in Spring, which is moderate in difficulty. Indicators of successful propagation include the appearance of seedlings and strong growth. For best results, sow seeds shallowly and ensure proper spacing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Provide common borage with excellent drainage in pots to ensure optimal growth and prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Borago_officinalis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How big is common borage?",
+            "link": "/ask/Borago_officinalis-0.html"
+        },
+        {
+            "q": "What is common borage good for?",
+            "link": "/ask/Borago_officinalis-1.html"
+        },
+        {
+            "q": "How do you take care of common borage?",
+            "link": "/ask/Borago_officinalis-2.html"
+        },
+        {
+            "q": "Is common borage annual or perennial?",
+            "link": "/ask/Borago_officinalis-3.html"
+        },
+        {
+            "q": "Is common borage a good companion plant?",
+            "link": "/ask/Borago_officinalis-4.html"
+        },
+        {
+            "q": "Is common borage related to the cucumber plant?",
+            "link": "/ask/Borago_officinalis-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Borago-officinalis-Thrips.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Borago-officinalis-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Borago-officinalis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Borago-officinalis-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Borago-officinalis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Borago-officinalis-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Borago-officinalis-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Borago-officinalis-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Borago-officinalis-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Borago-officinalis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Borago-officinalis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Borago-officinalis-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Borago-officinalis-Notch.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Borago-officinalis-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Borago-officinalis-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Borago-officinalis-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Borago-officinalis-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Borago-officinalis-Mealybug.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Borago-officinalis-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Borago-officinalis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Borago-officinalis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Borago-officinalis-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Borago-officinalis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Borago-officinalis-Whitefly.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Borago-officinalis-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Borago-officinalis-Aphid.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Borago-officinalis-Dodder.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Borago-officinalis-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Borago-officinalis-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Borago-officinalis-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Borago-officinalis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Borago-officinalis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Borago-officinalis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Borago-officinalis-Weevil.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Borago-officinalis-Spots.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Solanum elaeagnifolium",
+                "link": "/wiki/Solanum_elaeagnifolium.html",
+                "imageUrl": "/wiki-image/1080/154092723563921426.jpeg",
+                "displayName": "Silverleaf nightshade"
+            },
+            {
+                "scientificName": "Alocasia cucullata",
+                "link": "/wiki/Alocasia_cucullata.html",
+                "imageUrl": "/wiki-image/1080/153840978350833709.jpeg",
+                "displayName": "Chinese taro"
+            },
+            {
+                "scientificName": "Clerodendrum trichotomum",
+                "link": "/wiki/Clerodendrum_trichotomum.html",
+                "imageUrl": "/wiki-image/1080/153433866990780416.jpeg",
+                "displayName": "Harlequin glorybower"
+            },
+            {
+                "scientificName": "Frangula caroliniana",
+                "link": "/wiki/Frangula_caroliniana.html",
+                "imageUrl": "/wiki-image/1080/153438273627226135.jpeg",
+                "displayName": "Carolina buckthorn"
+            },
+            {
+                "scientificName": "Toxicodendron radicans",
+                "link": "/wiki/Toxicodendron_radicans.html",
+                "imageUrl": "/wiki-image/1080/154156740051468329.jpeg",
+                "displayName": "Poison ivy"
+            },
+            {
+                "scientificName": "Punica granatum",
+                "link": "/wiki/Punica_granatum.html",
+                "imageUrl": "/wiki-image/1080/317736741356273664.jpeg",
+                "displayName": "Pomegranate"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Borago_officinalis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Borago_officinalis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Borago_officinalis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Borago_officinalis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Borago_officinalis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Borago_officinalis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Borago_officinalis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Borago_officinalis.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Borago_officinalis.html",
+            "values": [
+                "Care Common borage",
+                "Care Common borage",
+                "Grow Common borage",
+                "Maintain Common borage",
+                "Common borage Care",
+                "Common borage Grow",
+                "Common borage Maintain",
+                "Common borage Cares",
+                "Growth Common borage",
+                "Maintains Common borage",
+                "Common borage Growth",
+                "Common borage Maintains",
+                "Common borage Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Borago-officinalis-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Borago_officinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Borago_officinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Borago_officinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Borago_officinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Borago_officinalis.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Borago_officinalis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Borago_officinalis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Borago_officinalis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Borago_officinalis.html"
+        }
+    ]
+}

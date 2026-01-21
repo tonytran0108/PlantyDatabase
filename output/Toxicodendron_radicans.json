@@ -1,0 +1,630 @@
+{
+    "title": "Poison ivy (Toxicodendron radicans) - PictureThis",
+    "displayName": "Poison ivy",
+    "otherCommonName": "Climbing poison ivy",
+    "mainImage": {
+        "copyright": {
+            "width": 762,
+            "height": 762,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154156740051468329.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23239778",
+                "authorLink": "https://www.inaturalist.org/people/rpburkert",
+                "author": "rpburkert",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665189634375715.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 380,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5171460",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153930378095099932.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13575204",
+                "authorLink": "https://www.inaturalist.org/people/judygva",
+                "author": "judygva",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881114820214827.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23909179",
+                "authorLink": "https://www.inaturalist.org/people/sdz456",
+                "author": "sdz456",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881209309495314.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   In pop culture, poison ivy is a symbol of an obnoxious weed because, despite its unthreatening looks, it gives a highly unpleasant contact rash to the unfortunate person who touches it. Still, it is commonly eaten by many animals, and the seeds are a favorite with birds. The leaves turn bright red in fall. Its sister species,&nbsp;<span class=\"theme_li_link\" onclick=\"jumpToPage(1, '5qpy810l', '5qpy810l')\">Western poison ivy</span>&nbsp;(<em>Toxicodendron rydbergii</em>), is not considered to be invasive in the United States, but is noxious in Australia and New Zealand.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "In pop culture, poison ivy is a symbol of an obnoxious weed because, despite its unthreatening looks, it gives a highly unpleasant contact rash to the unfortunate person who touches it. Still, it is commonly eaten by many animals, and the seeds are a favorite with birds. The leaves turn bright red in fall. Its sister species,&nbsp;Western poison ivy&nbsp;(Toxicodendron rydbergii), is not considered to be invasive in the United States, but is noxious in Australia and New Zealand.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Poison ivy (<i>Toxicodendron radicans</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Toxicodendron",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Toxicodendron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cashew",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Anacardiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm to 1.2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802467680354307.jpeg",
+        "habitat": "Woods, rocky slopes, wooded swamps",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Poison ivy is native to eastern North America, from Guatemala to Quebec, growing in habitats ranging from shady forests to disturbed areas. This plant is considered a weed throughout much of its range and is officially listed as a noxious weed in some parts of Canada and the United States. Poison ivy has also been introduced to parts of Central Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "74",
+                "106",
+                "126",
+                "124",
+                "156",
+                "98",
+                "115",
+                "162",
+                "153",
+                "111",
+                "89",
+                "123"
+            ],
+            "north": [
+                "4907",
+                "12238",
+                "83025",
+                "230103",
+                "233906",
+                "143912",
+                "109193",
+                "70341",
+                "40283",
+                "8201",
+                "2965",
+                "3758"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "Berries are a food source for many species of wildlife.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "In some countries, poison ivy is considered an ornamental plant for its attractive leaves and climbing vines, but is very toxic. Poison ivy is a poisonous and weedy plant that is not recommended for growing in the garden. If this plant are found growing in your garden, remove it immediately with gloves to protect the skin.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Trouble, tread lightly in the natural world, discernment",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Poison ivy is a deciduous shrub with a hairless trunk that is mainly distributed across the swamps of southeastern North America. As its name suggests, this plant is harmful to the skin. Touching poison ivy causes skin irritation and rashes, with severe symptoms sticking around for a few weeks.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Climbing poison ivy||Poison ivy",
+                "values": [
+                    "Toxicodendron radicans is a wall-climbing master, having very strong climbing capabilities. It is frequently seen covering an entire wall, and sometimes even enveloping a whole house. In addition to climbing walls, it is also toxic, as a way to protect itself from touch. Touching the plant may cause dermatitis, so people call it Climbing poison ivy, or poison ivy for short."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Poison ivy contains a toxic oil (urushiol)</strong> causing severe skin irritation in humans on contact and via smoke. It is also <strong>harmful to cats and dogs</strong>; ingestion or contact leads to gastrointestinal upset and other symptoms, necessitating immediate veterinary care. <strong>Avoid exposure</strong> to protect human and pet health. Poison ivy thrives in varied environments including forests and roadsides. Poison ivy thrives in varied environments, increasing accidental contact risk. Poison ivy's leaves, stems, and other parts pose similar threats.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Toxicodendron_radicans.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Poison ivy is native to North America and Canada where it is classed as an aggressive (not invasive) weed due to its ability to thrive in various soil and light conditions. What's more, poison ivy is infamous for the highly unpleasant itchy rash (dermatitis) it causes upon contact due to the presence of urushiol, an irritating oil present in the plantÃ¢ÂÂs sap. When poison ivy spreads, uninvited, into a garden, there is an increased risk that humans will come into accidental contact with the plant, so it's a good idea to remove it. To remove the weed, it is possible to use herbicides, but care should be taken to avoid skin contact.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of 'poison ivy' is spring because the plants are easily identifiable and haven't produced seeds yet. The removal should be completed by mid-summer, prior to the weed flowering and producing seeds. The methods of controlling or removing 'poison ivy' are:\n  </div> \n  <ol> \n   <li>Digging: Use a shovel to dig up the roots of the plant. Be sure to dig deeply enough to remove all roots, as 'poison ivy' can grow back from even small root pieces.</li> \n   <li>Smothering: Cover the poison ivy area with thick plastic or a tarp to block sunlight and starve the plant. Leave the cover in place for at least a year to ensure all plant parts have died.</li> \n   <li>Organic Herbicides: You can use vinegar-based or citrus oil-based organic herbicides. Spray it directed on the plant and be patient, it wonÃ¢ÂÂt kill the poison ivy overnight but it will with continuous applications.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Trifoliate leaves with glossy deep green color, transitioning to vibrant red in autumn.",
+            "Yellowish green flowers in panicles up to 4 inches; petals triangular and recurved.",
+            "Dull white drupes, 0.5 inches in diameter, with waxy smooth texture and grey stripes.",
+            "Woody stems initially reddish green, developing aerial rootlets for climbing.",
+            "Every part secretes urushiol; causes severe allergic reactions upon contact."
+        ],
+        "title": "Quickly Identify Poison ivy",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Toxicodendron-radicans.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Poison ivy flourishes in moderate humidity, favoring evenly moist soil and showing drought tolerance once established. Water every three weeks to maintain moisture. Well-suited for outdoor growth, it adapts to varying rainfall, making it a resilient, low-maintenance choice for gardeners.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Poison ivy is propagated via softwood cuttings and layering in spring and summer, with moderate difficulty. Successful signs include root and foliage growth. Due to its toxic properties, gloves and precautions are recommended when handling poison ivy.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Toxicodendron_radicans.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of poison ivy fast?",
+            "link": "/ask/Toxicodendron_radicans-0.html"
+        },
+        {
+            "q": "Is poison ivy dangerous?",
+            "link": "/ask/Toxicodendron_radicans-1.html"
+        },
+        {
+            "q": "Can poison ivy kill you?",
+            "link": "/ask/Toxicodendron_radicans-2.html"
+        },
+        {
+            "q": "Can a poison ivy rash spread?",
+            "link": "/ask/Toxicodendron_radicans-3.html"
+        },
+        {
+            "q": "How long does it take for poison ivy to stop spreading?",
+            "link": "/ask/Toxicodendron_radicans-4.html"
+        },
+        {
+            "q": "Will alcohol dry up poison ivy?",
+            "link": "/ask/Toxicodendron_radicans-5.html"
+        },
+        {
+            "q": "Why does hot water feel so good on poison ivy?",
+            "link": "/ask/Toxicodendron_radicans-6.html"
+        },
+        {
+            "q": "Is aloe vera gel good for poison ivy?",
+            "link": "/ask/Toxicodendron_radicans-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Jatropha integerrima",
+                "link": "/wiki/Jatropha_integerrima.html",
+                "imageUrl": "/wiki-image/1080/154128496346529800.jpeg",
+                "displayName": "Peregrina"
+            },
+            {
+                "scientificName": "Philodendron xanadu",
+                "link": "/wiki/Philodendron_xanadu.html",
+                "imageUrl": "/wiki-image/1080/153821565098655778.jpeg",
+                "displayName": "Xanadu"
+            },
+            {
+                "scientificName": "Solanum americanum",
+                "link": "/wiki/Solanum_americanum.html",
+                "imageUrl": "/wiki-image/1080/153937112603820054.jpeg",
+                "displayName": "American black nightshade"
+            },
+            {
+                "scientificName": "Sansevieria cylindrica",
+                "link": "/wiki/Sansevieria_cylindrica.html",
+                "imageUrl": "/wiki-image/1080/202656094833868800.jpeg",
+                "displayName": "Cylindrical snake plant"
+            },
+            {
+                "scientificName": "Cordyline australis",
+                "link": "/wiki/Cordyline_australis.html",
+                "imageUrl": "/wiki-image/1080/153412362089529354.jpeg",
+                "displayName": "Cabbage tree"
+            },
+            {
+                "scientificName": "Cestrum nocturnum",
+                "link": "/wiki/Cestrum_nocturnum.html",
+                "imageUrl": "/wiki-image/1080/154067542170664975.jpeg",
+                "displayName": "Night-blooming jasmine"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Toxicodendron_radicans.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Toxicodendron_radicans.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Toxicodendron_radicans.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Toxicodendron_radicans.html",
+            "values": [
+                "Care Poison ivy",
+                "Care Poison ivy",
+                "Grow Poison ivy",
+                "Maintain Poison ivy",
+                "Poison ivy Care",
+                "Poison ivy Grow",
+                "Poison ivy Maintain",
+                "Poison ivy Cares",
+                "Growth Poison ivy",
+                "Maintains Poison ivy",
+                "Poison ivy Growth",
+                "Poison ivy Maintains",
+                "Poison ivy Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Toxicodendron_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Toxicodendron_radicans.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Toxicodendron_radicans.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Toxicodendron_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Toxicodendron_radicans.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Toxicodendron_radicans.html"
+        }
+    ]
+}

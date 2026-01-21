@@ -1,0 +1,762 @@
+{
+    "title": "Annual bluegrass (Poa annua) - PictureThis",
+    "displayName": "Annual bluegrass",
+    "otherCommonName": "Wintergrass, Low spear grass",
+    "mainImage": {
+        "copyright": {
+            "width": 1376,
+            "height": 1375,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154045423089090582.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6989739",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152522084088545282.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11892749",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152503203412312066.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4211640",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153901430015524899.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16326646",
+                "authorLink": "https://www.inaturalist.org/people/qgroom",
+                "author": "qgroom",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153867710227283984.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Annual bluegrass (Poa annua) is a low-growing grass native to Europe and Asia. Poa annua is known commonly as both annual bluegrass and poa. The Latin name is derived from the Greek word poa, which is a type of fodder grass.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Annual bluegrass (Poa annua) is a low-growing grass native to Europe and Asia. Poa annua is known commonly as both annual bluegrass and poa. The Latin name is derived from the Greek word poa, which is a type of fodder grass.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Annual bluegrass (<i>Poa annua</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Meadow-grasses",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Poa.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Grass",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Mid summer, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Early summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 25 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804928696614914.jpeg",
+        "habitat": "Waste places, cultivated land, grassland",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Annual bluegrass is native to Eurasia and northern and eastern Africa, where it grows in disturbed, moist areas. With a now nearly worldwide distribution, it is widely considered invasive or weedy throughout much of the world, even in Antarctica.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "370",
+                "395",
+                "590",
+                "607",
+                "725",
+                "902",
+                "1638",
+                "2638",
+                "2107",
+                "1222",
+                "608",
+                "526"
+            ],
+            "north": [
+                "11454",
+                "23937",
+                "47086",
+                "56394",
+                "29392",
+                "10728",
+                "8549",
+                "6798",
+                "5858",
+                "4303",
+                "3457",
+                "5344"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Annual bluegrass is a popular turf in cool and warm climates since it spreads readily. It's often used in lawns or causeways, where its vibrant green clumps are pleasant to the eye. This grass sprouts tall whispy seed stalks in the summer months, which can be raked away. It grows in full sun but will turn brown in hotter weather during the summer.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Psychic powers, Protection. It symbolizes food, concealment and hardiness.",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Annual bluegrass is a weed found in many lawns and turfs in North America. It spreads easily, and mowing does not prevent it from forming seeds. Each clump of grass can form 100 seeds over the course of eight weeks. The best form of control is to remove the entire plant from the lawn because herbicides will also kill the surrounding grass.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Annual bluegrass",
+                "values": [
+                    "Annua refers to the meaning of annual. The bluegrass in the common name refers to the bluish appearance of the massed grass in late Spring. Although Poa annua is commonly considered as a solely annual plant for its name, perennial biotypes do exist."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Annual bluegrass is native to temperate Eurasia but has been introduced to much of the rest of the world. It is considered a nuisance within its native range and invasive outside of it. This large range is partially due to high phenotypic plasticity, which allows annual bluegrass to adapt more readily to a variety of habitats. Additionally, each plant can produce thousands of seeds annually that can be spread by livestock, birds, wind, water, and clothes/boots. While a variety of herbicides have been shown to be effective in controlling annual bluegrass, some populations have evolved resistances. Thus, a rotation of different herbicides can be more effective. Alternatively, hand pulling can be effective at controlling small infestations, while mulching can also help suppress weed development.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to manage annual bluegrass is before it sets seed in late spring or early summer. It's crucial to take action during or before this growth stage to prevent the plant from spreading.\n  </div> \n  <ol> \n   <li>Hand pulling: Regularly inspect the garden for annual bluegrass and gently pull it out by hand, making sure to remove the entire root system to prevent regrowth.</li> \n   <li>Mulching: Apply a thick layer of organic mulch around desired plants to suppress annual bluegrass by blocking sunlight and hindering its ability to germinate.</li> \n   <li>Mowing: If annual bluegrass is in a lawn, keep the grass at a healthy height to outcompete annual bluegrass. Do not mow too short, as this can weaken the desired grasses and give annual bluegrass an advantage.</li> \n   <li>Boiling water: Pour boiling water over annual bluegrass to kill the plant without the use of chemicals. Please exercise caution to avoid damage to surrounding plants.</li> \n   <li>Vinegar spray: Mix a solution of vinegar, water, and a drop of dish soap to spray directly onto annual bluegrass, which will help to kill it Ã¢ÂÂ this is best used in areas where you donÃ¢ÂÂt want any plants to grow, as it can harm other vegetation.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Prow-shaped leaf tip distinguishes annual bluegrass from other grass species.",
+            "Whitish inflorescence atop slender stalks enhances annual bluegrass's recognition.",
+            "Stalked, awnless spikelets with pale green flowers characterize annual bluegrass's blooms.",
+            "Distinctive 'tramlines' and 'boat-shaped tips' mark annual bluegrass's smooth, green leaves.",
+            "Transverse wrinkles and smooth texture highlight annual bluegrass's keeled leaves."
+        ],
+        "title": "Quickly Identify Annual bluegrass",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Poa-annua.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Annual bluegrass originates from temperate climates, thriving in consistently moist environments. It requires watering twice weekly and good soil drainage to prevent waterlogging. Adaptable to different sunlight levels, annual bluegrass is best grown outdoors during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Annual bluegrass is a cool-season grass with dense growth. Prune in early to mid-spring, trimming to 1-2 inches to prevent invasive seed heads. Regular mowing once a week supports healthy growth, maintaining aesthetics and reducing disease risk.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   In spring, annual bluegrass is propagated mainly by sowing. This process is straightforward, with germination and healthy seedling growth indicating success. Ensuring regular watering and proper spacing contributes to optimal results in propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Poa_annua.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of annual bluegrass?",
+            "link": "/ask/Poa_annua-0.html"
+        },
+        {
+            "q": "Is annual bluegrass bad?",
+            "link": "/ask/Poa_annua-1.html"
+        },
+        {
+            "q": "What herbicide will kill annual bluegrass?",
+            "link": "/ask/Poa_annua-2.html"
+        },
+        {
+            "q": "How do you kill annual bluegrass in Bermuda grass?",
+            "link": "/ask/Poa_annua-3.html"
+        },
+        {
+            "q": "Is annual bluegrass invasive?",
+            "link": "/ask/Poa_annua-4.html"
+        },
+        {
+            "q": "When does annual bluegrass flower?",
+            "link": "/ask/Poa_annua-5.html"
+        },
+        {
+            "q": "Why is it called annual bluegrass?",
+            "link": "/ask/Poa_annua-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Poa-annua-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Poa-annua-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Poa-annua-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Poa-annua-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Poa-annua-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Poa-annua-Leaf-rot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bidens pilosa",
+                "link": "/wiki/Bidens_pilosa.html",
+                "imageUrl": "/wiki-image/1080/153405498731790344.jpeg",
+                "displayName": "Hairy beggarticks"
+            },
+            {
+                "scientificName": "Kalanchoe delagoensis",
+                "link": "/wiki/Kalanchoe_delagoensis.html",
+                "imageUrl": "/wiki-image/1080/154165463130046475.jpeg",
+                "displayName": "Chandelier plant"
+            },
+            {
+                "scientificName": "Amaranthus blitum",
+                "link": "/wiki/Amaranthus_blitum.html",
+                "imageUrl": "/wiki-image/1080/152640423322451970.jpeg",
+                "displayName": "Purple amaranth"
+            },
+            {
+                "scientificName": "Acer palmatum",
+                "link": "/wiki/Acer_palmatum.html",
+                "imageUrl": "/wiki-image/1080/347099938110734336.jpeg",
+                "displayName": "Japanese maple"
+            },
+            {
+                "scientificName": "Euphorbia hirta",
+                "link": "/wiki/Euphorbia_hirta.html",
+                "imageUrl": "/wiki-image/1080/153936360984543269.jpeg",
+                "displayName": "Asthma-plant"
+            },
+            {
+                "scientificName": "Phymatosorus scolopendria",
+                "link": "/wiki/Phymatosorus_scolopendria.html",
+                "imageUrl": "/wiki-image/1080/153405348407934998.jpeg",
+                "displayName": "Monarch fern"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Poa_annua.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Poa_annua.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Poa_annua.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Poa_annua.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Poa_annua.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Poa_annua.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Poa_annua.html",
+            "values": [
+                "Care Annual bluegrass",
+                "Care Annual bluegrass",
+                "Grow Annual bluegrass",
+                "Maintain Annual bluegrass",
+                "Annual bluegrass Care",
+                "Annual bluegrass Grow",
+                "Annual bluegrass Maintain",
+                "Annual bluegrass Cares",
+                "Growth Annual bluegrass",
+                "Maintains Annual bluegrass",
+                "Annual bluegrass Growth",
+                "Annual bluegrass Maintains",
+                "Annual bluegrass Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-annua-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-annua-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Poa-annua-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Poa_annua.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Poa_annua.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Poa_annua.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Poa_annua.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Poa_annua.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Poa_annua.html"
+        }
+    ]
+}

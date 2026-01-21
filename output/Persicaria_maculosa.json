@@ -1,0 +1,556 @@
+{
+    "title": "Lady's thumb (Persicaria maculosa) - PictureThis",
+    "displayName": "Lady's thumb",
+    "otherCommonName": "Red leg, Jesusplant",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153963333379162148.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/31370483",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153988042326016028.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 683,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/17701149",
+                "authorLink": "https://www.inaturalist.org/people/1515879",
+                "author": "Judy Gallagher",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/154111007239700515.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/13849551",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/153740729519177740.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4669561",
+                "authorLink": "https://www.inaturalist.org/people/alvarosaurus",
+                "author": "alvarosaurus",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153729519654535204.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Persicaria maculosa is an annual plant that can grow up to 80 cm tall. It is native to Eurasia with a range from Iceland to Japan and has become an invasive species in North America. As it is considered a weed, it is almost never cultivated.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Persicaria maculosa is an annual plant that can grow up to 80 cm tall. It is native to Eurasia with a range from Iceland to Japan and has become an invasive species in North America. As it is considered a weed, it is almost never cultivated.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Lady's thumb (<i>Persicaria maculosa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Persicaria\n",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Persicaria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckwheat",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Polygonaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Late spring, Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   80 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   13 cm to 36 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736099175858176.png",
+        "habitat": "Moist soils",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Lady's thumb is native to temperate Europe, Asia, and North Africa, where it grows in grasslands, croplands, and disturbed areas. The species is considered invasive in many countries throughout the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "625",
+                "537",
+                "521",
+                "332",
+                "313",
+                "303",
+                "378",
+                "515",
+                "825",
+                "1069",
+                "771",
+                "875"
+            ],
+            "north": [
+                "829",
+                "1443",
+                "6592",
+                "38141",
+                "71776",
+                "49747",
+                "35773",
+                "18173",
+                "5972",
+                "1497",
+                "1010",
+                "846"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Restoration, binding, restriction, drawing love",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "A member of the buckwheat family, lady's thumb is an important food source for many wild animals. It was introduced to the United States in the 1800s and may be considered invasive. However, American Indians may have used this plant as a medicine. They used it to treat stomach aches and poison ivy. It was also used as an insect repellant for horses.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Lady's thumb",
+                "values": [
+                    "If you observe the leaves closely, you will notice that there is a black \"stain\" on the leaves. This \"stain\" does not come from any dye, it is actually natural. People think that the black spots on the leaves look like a thumbprint, so they are called the lady's thumb."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to Eurasia, lady's thumb is classified as a noxious weed or invasive species in North America, western and northern Europe, Afghanistan, the Philippines, Japan, New Zealand, Argentina, and Chile. It has taken a significant economic toll on farmers since it is so competitive with crops. It grows so well in moist soil that it can explosively spread and wipe out native species. Lady's thumb is also known as a \"smartweed\", due to the oxalates within the plant, causing a burning sensation and irritation. When handling, be sure to keep it away from the eyes.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removing lady's thumb is late spring to early summer, before it progresses to the flowering stage as this prevents the weed from producing seeds, which would otherwise result in further propagation of the weed.\n  </div> \n  <ol> \n   <li>Hand Pulling: This is a simple method suitable for small infestations. Dampening the soil first can make this task easier. Grip the lady's thumb plant firmly and gently pull from the root upwards.</li> \n   <li>Solarization: A method suitable for larger infestations. Cover the infested area with a clear plastic sheet for 4-6 weeks during hot weather. The heat under the plastic kills the lady's thumb plants and their seeds.</li> \n   <li>Smothering: This involves covering the area with a dense, light-blocking material like cardboard, which prevents lady's thumb from getting sunlight and water, causing it to die.</li> \n   <li>Planting Competitive Plants: Grow plants that can out compete lady's thumb for resources. They will take up the nutrients, water, and space that lady's thumb needs to grow.</li> \n   <li>Regular Mowing: This method is sustainable for lawns. By mowing the vegetation regularly, you are able to control lady's thumb's growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lady's thumb originates from humid environments and prefers consistent moisture, being moderately drought-tolerant. It should be watered weekly and flourishes in evenly damp soil during its growing season, showcasing its adaptability to varying soil moisture levels.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Lady's thumb propagates by sowing in Spring, displaying moderate difficulty. Signs of successful propagation include new growth or budding. Proper attention to water and light requirements is essential for successful sowing.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Persicaria_maculosa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is lady's thumb a weed?",
+            "link": "/ask/Persicaria_maculosa-0.html"
+        },
+        {
+            "q": "Why is it called lady's thumb?",
+            "link": "/ask/Persicaria_maculosa-1.html"
+        },
+        {
+            "q": "How do I get rid of lady's thumb?",
+            "link": "/ask/Persicaria_maculosa-2.html"
+        },
+        {
+            "q": "How tall is lady's thumb?",
+            "link": "/ask/Persicaria_maculosa-3.html"
+        },
+        {
+            "q": "What is lady's thumb used for?",
+            "link": "/ask/Persicaria_maculosa-4.html"
+        },
+        {
+            "q": "When does lady's thumb bloom?",
+            "link": "/ask/Persicaria_maculosa-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Centratherum punctatum",
+                "link": "/wiki/Centratherum_punctatum.html",
+                "imageUrl": "/wiki-image/1080/153858261299232771.jpeg",
+                "displayName": "Larkdaisy"
+            },
+            {
+                "scientificName": "Dichondra micrantha",
+                "link": "/wiki/Dichondra_micrantha.html",
+                "imageUrl": "/wiki-image/1080/153906437947392012.jpeg",
+                "displayName": "Asian ponysfoot"
+            },
+            {
+                "scientificName": "Rubus hispidus",
+                "link": "/wiki/Rubus_hispidus.html",
+                "imageUrl": "/wiki-image/1080/153433652242415642.jpeg",
+                "displayName": "Swamp dewberry"
+            },
+            {
+                "scientificName": "Salix discolor",
+                "link": "/wiki/Salix_discolor.html",
+                "imageUrl": "/wiki-image/1080/154202030481604628.jpeg",
+                "displayName": "Pussy willow"
+            },
+            {
+                "scientificName": "Euphorbia serpens",
+                "link": "/wiki/Euphorbia_serpens.html",
+                "imageUrl": "/wiki-image/1080/153847584010534951.jpeg",
+                "displayName": "Matted Sandmat"
+            },
+            {
+                "scientificName": "Celastrus orbiculatus",
+                "link": "/wiki/Celastrus_orbiculatus.html",
+                "imageUrl": "/wiki-image/1080/201171599517384704.jpeg",
+                "displayName": "Oriental bittersweet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Persicaria_maculosa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Persicaria_maculosa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Persicaria_maculosa.html",
+            "values": [
+                "Care Lady's thumb",
+                "Care Lady's thumb",
+                "Grow Lady's thumb",
+                "Maintain Lady's thumb",
+                "Lady's thumb Care",
+                "Lady's thumb Grow",
+                "Lady's thumb Maintain",
+                "Lady's thumb Cares",
+                "Growth Lady's thumb",
+                "Maintains Lady's thumb",
+                "Lady's thumb Growth",
+                "Lady's thumb Maintains",
+                "Lady's thumb Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Persicaria_maculosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Persicaria_maculosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Persicaria_maculosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Persicaria_maculosa.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Persicaria_maculosa.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Persicaria_maculosa.html"
+        }
+    ]
+}

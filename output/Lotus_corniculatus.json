@@ -1,0 +1,730 @@
+{
+    "title": "Common bird's-foot trefoil (Lotus corniculatus) - PictureThis",
+    "displayName": "Common bird's-foot trefoil",
+    "otherCommonName": "Ground honeysuckle",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153867199126175761.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9641402",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665915483848737.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25323961",
+                "authorLink": "https://www.inaturalist.org/people/askalotl",
+                "author": "askalotl",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153668393679978530.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21872112",
+                "authorLink": "https://www.inaturalist.org/people/al_kordesch",
+                "author": "al_kordesch",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153886303140708389.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4109344",
+                "authorLink": "https://www.inaturalist.org/people/etotin",
+                "author": "etotin",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153930760347189272.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil (Lotus corniculatus) is a common flowering perennial plant that grows widely throughout Europe and North America. Commercially, it is often added to livestock feed to prevent bloating. In Britain, common bird's-foot trefoil is often referred to as \"butter and eggs\" due to its flowering appearance and golden color. It attracts bumblebees and is considered an invasive species in North America and Australia.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common bird's-foot trefoil (Lotus corniculatus) is a common flowering perennial plant that grows widely throughout Europe and North America. Commercially, it is often added to livestock feed to prevent bloating. In Britain, common bird's-foot trefoil is often referred to as \"butter and eggs\" due to its flowering appearance and golden color. It attracts bumblebees and is considered an invasive species in North America and Australia.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common bird's-foot trefoil (<i>Lotus corniculatus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Lotus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Lotus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Legume Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Fabaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Legumes, milkworts and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fabales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer, Early fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800938671996931.jpeg",
+        "habitat": "Pastures, banks of streams",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil enjoys a wide geographical presence, stretching across major regions from Europe, Asia, to Africa, and has been introduced to both Americas as well as Oceania. While cultivated for various purposes, in certain areas common bird's-foot trefoil may be considered to gently establish itself within local ecosystems. Particularly in some South American regions, it is sometimes thought to subtly influence native flora. Despite these instances, common bird's-foot trefoil remains a species whose cultivation and global spread do not generally cause severe ecological disruption.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 38.47676833, \"2\": 18.64291962, \"3\": 13.72684599, \"4\": 12.30286597, \"5\": 4.72834641, \"6\": 7.0, \"7\": 10.90808434, \"8\": 19.59254766, \"9\": 27.31258771, \"10\": 15.0531135, \"11\": 18.33757075, \"12\": 36.13961267}, \"flower_month\": 1}, \"Default\": {\"trends\": {\"1\": 91.4955191, \"2\": 40.79240578, \"3\": 31.59764395, \"4\": 35.09681198, \"5\": 17.78264447, \"6\": 20.0, \"7\": 47.58497721, \"8\": 59.29068621, \"9\": 61.06667903, \"10\": 52.81274938, \"11\": 84.41163782, \"12\": 95.98138067}, \"flower_month\": 12}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 1.673935095, \"2\": 3.067016156, \"3\": 8.051429106, \"4\": 18.16665435, \"5\": 28.6457181, \"6\": 41.83150516, \"7\": 36.21155331, \"8\": 21.10158301, \"9\": 16.55220053, \"10\": 6.981000642, \"11\": 3.586444641, \"12\": 6.0}, \"flower_month\": 6}, \"Csa\": {\"trends\": {\"1\": 9.593338449, \"2\": 13.41166501, \"3\": 18.5150221, \"4\": 29.47401761, \"5\": 36.60983713, \"6\": 53.81114202, \"7\": 31.8957517, \"8\": 14.82809635, \"9\": 9.940206659, \"10\": 4.977725642, \"11\": 5.204320957, \"12\": 5.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 4.382580713, \"2\": 6.626806252, \"3\": 8.758008923, \"4\": 34.79096112, \"5\": 79.16381933, \"6\": 128.3461809, \"7\": 105.4292566, \"8\": 59.88148674, \"9\": 34.16882516, \"10\": 15.41094994, \"11\": 9.750081354, \"12\": 5.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 15.69488726, \"2\": 15.13542928, \"3\": 18.43321711, \"4\": 38.49306795, \"5\": 68.47350642, \"6\": 146.7716754, \"7\": 100.2770348, \"8\": 65.87217064, \"9\": 31.20518065, \"10\": 18.84427084, \"11\": 12.97842232, \"12\": 24.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 29.98740913, \"2\": 28.49023276, \"3\": 43.75522176, \"4\": 82.0659351, \"5\": 191.1287067, \"6\": 352.0621694, \"7\": 280.9442855, \"8\": 148.9849056, \"9\": 81.92975464, \"10\": 52.2211807, \"11\": 29.11822436, \"12\": 33.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 14.2692335, \"2\": 14.14687673, \"3\": 24.5682424, \"4\": 55.73933358, \"5\": 109.4073101, \"6\": 326.9291854, \"7\": 230.302908, \"8\": 114.3714914, \"9\": 69.55312441, \"10\": 33.64244278, \"11\": 31.64313822, \"12\": 19.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 14.85217081, \"2\": 12.31069124, \"3\": 22.85344461, \"4\": 53.35662547, \"5\": 174.4963612, \"6\": 389.8428438, \"7\": 310.8555266, \"8\": 157.7490121, \"9\": 110.4491906, \"10\": 49.82293685, \"11\": 36.13691654, \"12\": 31.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 105.620587, \"2\": 120.0169418, \"3\": 174.6786147, \"4\": 377.5660308, \"5\": 880.6489813, \"6\": 1954.274407, \"7\": 1454.285948, \"8\": 752.4654823, \"9\": 433.550748, \"10\": 209.6927347, \"11\": 151.1033861, \"12\": 143.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "Bird's-foot trefoil can improve soil.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Bird's-foot trefoil is not only a good feed, but also a good nectariferous plant.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The common bird's-foot trefoil is a resilient groundcover that can be planted in areas where it may be mowed. It also does well in containers and borders as well as rock gardens and butterfly gardens. The common bird's-foot trefoil is prized for its blue-green foliage and yellow flowers that make it an attractive groundcover. It is well accompanied by plants such as dianthus, lamium, and sedum.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Reunion",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Bird's-foot trefoils have five petals, and are regarded as lucky plants. It is said that a Japanese child was taken hostage. He prayed at the local shrine and saw bird's-foot trefoil on the steps of the shrine. He picked the flower, brought it to the shrine, and made a wish that he would become a respectable warrior. Years later, his wish came true, and he became the famous Japanese man, Tokugawa Ieyasu.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common bird's-foot trefoil",
+                "values": [
+                    "It is a perennial herbaceous plant and it has a similar appearance to some clovers. The name \"bird's foot\" refers to the appearance of the seed pods on their stalk. It is featured with five leaflets in which the central three held conspicuously above the others, hence the use of the name \"trefoil\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil is moderately toxic to cats and dogs if ingested. <strong>All parts</strong> contain cyanogenic glycosides, causing symptoms like vomiting, diarrhea, and severe cases leading to death. In humans, <strong>large quantities</strong> of common bird's-foot trefoil must be ingested for serious illness. Immediate veterinary care is crucial if pets consume any part of common bird's-foot trefoil.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Lotus_corniculatus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   The common bird's-foot trefoil is a weed native to Eurasia but has spread to much of the world It occurs in disturbed lands such as roadsides and grasslands in USDA zones 4 to 9. It is recorded as an invasive weed in fourteen countries including the United States of America, Australia, South Africa, and Norway. It has been identified as a problematic weed in the American states of Minnesota, Washington, and New York. The common bird's-foot trefoil forms dense mats that prohibit shade and choke out native vegetation. However, it can also be used to fight roadside soil erosion and to improve pastures because it promotes nitrogen restoration in the soil. This species can be controlled with herbicides or by persistent mowing.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   To best manage common bird's-foot trefoil, removal or control should typically be done in the spring or early summer, before it sets seed.\n  </div> \n  <ol> \n   <li>Hand-pulling: Remove common bird's-foot trefoil by grasping the plant firmly at the base and pulling gently to ensure the removal of the root system.</li> \n   <li>Mowing: Regularly cut the foliage before common bird's-foot trefoil flowers to prevent seed formation and spread. Adjust the mower to a low setting to stress the plant and inhibit its growth.</li> \n   <li>Mulching: Apply a thick layer of organic mulch around the area to suppress common bird's-foot trefoil growth by blocking sunlight and reducing weed emergence.</li> \n   <li>Plant competition: Introduce vigorous ground-cover plants that will outcompete common bird's-foot trefoil by providing shade and monopolizing resources.</li> \n   <li>Vinegar solution spray: Apply a diluted vinegar solution directly onto common bird's-foot trefoil during a hot, sunny day to desiccate and kill the above-ground parts of the plant.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil thrives in temperate regions, favoring moderate moisture with brief drought tolerance. It requires watering every 1-2 weeks, preferring consistent hydration without excess. As an herbaceous perennial from meadows, it flourishes when water is available and recedes during dry spells.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For common bird's-foot trefoil, use a balanced fertilizer every 4-6 weeks during growth to enhance vitality and blooms. Reduce frequency in dormancy and apply minimally to young plants. Always water after fertilization to prevent root burn and ensure nutrient absorption for healthy development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil, with its small yellow flowers and slender stems, benefits from strategic pruning in early to late spring. Remove dead stems to encourage growth, while light trimming maintains shape. Use clean tools to reduce disease risk, enhancing vitality and promoting a healthy display during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common bird's-foot trefoil propagates best by sowing in spring, with moderate difficulty. Indicators of success include germination and strong growth. Optimal conditions involve using well-drained soil to enhance propagation effectiveness.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Lotus_corniculatus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is common bird's-foot trefoil invasive?",
+            "link": "/ask/Lotus_corniculatus-0.html"
+        },
+        {
+            "q": "Why is common bird's-foot trefoil endangered?",
+            "link": "/ask/Lotus_corniculatus-1.html"
+        },
+        {
+            "q": "What is common bird's-foot trefoil used for?",
+            "link": "/ask/Lotus_corniculatus-2.html"
+        },
+        {
+            "q": "Is common bird's-foot trefoil edible?",
+            "link": "/ask/Lotus_corniculatus-3.html"
+        },
+        {
+            "q": "Are common bird's-foot trefoil poisonous?",
+            "link": "/ask/Lotus_corniculatus-4.html"
+        },
+        {
+            "q": "Is common bird's-foot trefoil poisonous to horses?",
+            "link": "/ask/Lotus_corniculatus-5.html"
+        },
+        {
+            "q": "How does common bird's-foot trefoil spread?",
+            "link": "/ask/Lotus_corniculatus-6.html"
+        },
+        {
+            "q": "How tall is common bird's-foot trefoil?",
+            "link": "/ask/Lotus_corniculatus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Lotus-corniculatus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Lotus-corniculatus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Lotus-corniculatus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Lotus-corniculatus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Lotus-corniculatus-Weevil.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Lotus-corniculatus-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Lotus-corniculatus-Whitefly.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Lotus-corniculatus-Thrips.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Lotus-corniculatus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Lotus-corniculatus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Lotus-corniculatus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Lotus-corniculatus-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Snail and slug",
+                "link": "/disease/Lotus-corniculatus-Snail-and-slug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Lotus-corniculatus-Aphid.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Lotus-corniculatus-Dodder.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Lotus-corniculatus-Leaf-beetle.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Punica granatum",
+                "link": "/wiki/Punica_granatum.html",
+                "imageUrl": "/wiki-image/1080/317736741356273664.jpeg",
+                "displayName": "Pomegranate"
+            },
+            {
+                "scientificName": "Cydonia oblonga",
+                "link": "/wiki/Cydonia_oblonga.html",
+                "imageUrl": "/wiki-image/1080/153440348096430103.jpeg",
+                "displayName": "Quince"
+            },
+            {
+                "scientificName": "Solanum tuberosum",
+                "link": "/wiki/Solanum_tuberosum.html",
+                "imageUrl": "/wiki-image/1080/317741933971734528.jpeg",
+                "displayName": "Potato"
+            },
+            {
+                "scientificName": "Ananas comosus",
+                "link": "/wiki/Ananas_comosus.html",
+                "imageUrl": "/wiki-image/1080/317755128111267840.jpeg",
+                "displayName": "Pineapple"
+            },
+            {
+                "scientificName": "Carica papaya",
+                "link": "/wiki/Carica_papaya.html",
+                "imageUrl": "/wiki-image/1080/317748866048950272.jpeg",
+                "displayName": "Papaya"
+            },
+            {
+                "scientificName": "Abelmoschus esculentus",
+                "link": "/wiki/Abelmoschus_esculentus.html",
+                "imageUrl": "/wiki-image/1080/153413427241418771.jpeg",
+                "displayName": "Okra"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Lotus_corniculatus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Lotus_corniculatus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Lotus_corniculatus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Lotus_corniculatus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Lotus_corniculatus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Lotus_corniculatus.html",
+            "values": [
+                "Care Common bird's-foot trefoil",
+                "Care Common bird's-foot trefoil",
+                "Grow Common bird's-foot trefoil",
+                "Maintain Common bird's-foot trefoil",
+                "Common bird's-foot trefoil Care",
+                "Common bird's-foot trefoil Grow",
+                "Common bird's-foot trefoil Maintain",
+                "Common bird's-foot trefoil Cares",
+                "Growth Common bird's-foot trefoil",
+                "Maintains Common bird's-foot trefoil",
+                "Common bird's-foot trefoil Growth",
+                "Common bird's-foot trefoil Maintains",
+                "Common bird's-foot trefoil Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lotus-corniculatus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lotus-corniculatus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lotus-corniculatus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lotus-corniculatus-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Lotus_corniculatus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Lotus_corniculatus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Lotus_corniculatus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Lotus_corniculatus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Lotus_corniculatus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Lotus_corniculatus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Lotus_corniculatus.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Lotus_corniculatus.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Lotus_corniculatus.html"
+        }
+    ]
+}

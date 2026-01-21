@@ -1,0 +1,955 @@
+{
+    "title": "Garden lettuce (Lactuca sativa) - PictureThis",
+    "displayName": "Garden lettuce",
+    "otherCommonName": "Lettuce",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "wmaster890",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317728422004621312.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/64124390",
+                "authorLink": "https://www.inaturalist.org/people/gen_ok",
+                "author": "Gennadiy Okatov",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422710054219251719.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/72032466",
+                "authorLink": "https://www.inaturalist.org/people/vinckymarie",
+                "author": "vinckymarie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422710054219251725.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/43621436",
+                "authorLink": "https://www.inaturalist.org/people/astra_the_dragon",
+                "author": "Astra",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/422710058514219019.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 576,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32899471",
+                "authorLink": "https://www.inaturalist.org/people/taiwan_reevesia",
+                "author": "taiwan_reevesia",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/422710075694088197.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Garden lettuce 'Lollo Rossa'",
+            "link": "/wiki/Lactuca_sativa_var._crispa__Lollo_Rossa_.html"
+        },
+        {
+            "displayName": "Garden lettuce 'All Year Round'",
+            "link": "/wiki/Lactuca_sativa__All_Year_Round_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce (*Lactuca sativa*) is a hardy annual plant commonly cultivated as a leafy vegetable. The earliest evidence of its cultivation goes all the way back to Ancient Egypt. Its leaves are often used for making salads, and they are an excellent source of vitamins K and A.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Garden lettuce (*Lactuca sativa*) is a hardy annual plant commonly cultivated as a leafy vegetable. The earliest evidence of its cultivation goes all the way back to Ancient Egypt. Its leaves are often used for making salads, and they are an excellent source of vitamins K and A.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Garden lettuce (<i>Lactuca sativa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Lactuca",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Lactuca.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual, Biennial, Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   7 mm to 1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802033888657412.jpeg",
+        "habitat": "Rich, well-drained soil",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce in its present cultivated form is native to West Asia, though its predecessors might have been Mediterranean. It can be found in light woodlands but is most commonly grown for food in cultivated beds, preferring sandy, loamy, well-drained soils. It has been introduced across much of Eurasia, Africa, and North and South America.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2013",
+                "1837",
+                "2101",
+                "2174",
+                "2450",
+                "2500",
+                "3343",
+                "4871",
+                "5684",
+                "5265",
+                "2663",
+                "2763"
+            ],
+            "north": [
+                "5927",
+                "10938",
+                "19431",
+                "36323",
+                "47459",
+                "30828",
+                "19615",
+                "12258",
+                "10453",
+                "7788",
+                "4533",
+                "5518"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Garden lettuce is one of the world's most popular salad plants and has been a mainstay of vegetable gardens since the time of the ancient Egyptians. The plant doesn't really have great aesthetic appeal, so it is grown purely for its edible leaves. It grows well in vegetable gardens with peas, peppers, onions, and tomatoes.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Chastity, remorse, sleep, fertility",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Garden lettuce has historically been a symbol of sexual virility. The ancient Egyptians believed consuming garden lettuce increased sexual prowess and fertility in women. The Romans believed it increased fertility as well. The ancient Greek myth of Adonis views lettuce in a different light. Adonis dies in a field of lettuce, and he is a symbol of inappropriate overt sexuality and immaturity. To the ancient Greeks, lettuce symbolized impotent.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Garden lettuce",
+                "values": [
+                    "Lettuce is related to the Old French word, latue and comes from the Latin word, lactÃÂ«ca in which lac means milk because it has milky white saps in its stem. Since it is often grown as a garden vegetable, it is called garden lettuce."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Garden lettuce may cause skin irritation</strong> when touched. To avoid reactions and contaminants like E. coli or Salmonella, rinse lettuce before handling. <strong>Garden lettuce can accumulate arsenic</strong> from the soil; ensure to use high-quality soil for its cultivation.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Lactuca_sativa.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Leaves vary in shapes, from lobed to elongated, with colors ranging from green to reddish-purple.",
+            "Flowers are small yellow compound heads with 7-15 florets and finely toothed petals.",
+            "Fruits are tiny achenes, narrow obovate in shape, with a plumose pappus for wind dispersal.",
+            "Stems are initially short, elongating up to 12-20 inches with a contorted branching pattern.",
+            "Overall height and width can reach up to 12 inches, displaying vibrant foliage with unique colors."
+        ],
+        "title": "Quickly Identify Garden lettuce",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Lactuca-sativa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce prefers consistently moist soil and benefits from watering twice a week. While it shows moderate drought tolerance, maintaining moisture is crucial for robust leaf production and to prevent bolting. Typically cultivated outdoors, it requires attentive irrigation during the active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce thrives with regular high nitrogen fertilization every two weeks during growth, using half-strength solutions to prevent root burn. Transition to phosphorus-rich fertilizers as harvest approaches for improved quality. Adjust methods based on plant maturity for optimal results and health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce is a leafy green vegetable with a crisp texture and mild flavor. Prune regularly, especially in early to late spring, to remove damaged leaves, enhance airflow, and promote healthy growth. This practice reduces disease risk and improves harvest quality for a bountiful yield.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garden lettuce should be propagated by sowing seeds in spring for optimal growth. Success is marked by seedling emergence, requiring consistent watering and adequate light to promote healthy development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Lactuca_sativa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What can you do with garden lettuce?",
+            "link": "/ask/Lactuca_sativa-0.html"
+        },
+        {
+            "q": "How do you keep garden lettuce crisp?",
+            "link": "/ask/Lactuca_sativa-1.html"
+        },
+        {
+            "q": "How long does it take for garden lettuce to grow?",
+            "link": "/ask/Lactuca_sativa-2.html"
+        },
+        {
+            "q": "How does washing garden lettuce kill bacteria?",
+            "link": "/ask/Lactuca_sativa-3.html"
+        },
+        {
+            "q": "Does garden lettuce need full sun?",
+            "link": "/ask/Lactuca_sativa-4.html"
+        },
+        {
+            "q": "What is the best time to grow garden lettuce?",
+            "link": "/ask/Lactuca_sativa-5.html"
+        },
+        {
+            "q": "What can garden lettuce be planted with?",
+            "link": "/ask/Lactuca_sativa-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Lactuca-sativa-Wilting.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Lactuca-sativa-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Lactuca-sativa-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Lactuca-sativa-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Lactuca-sativa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Lactuca-sativa-Thrips.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Lactuca-sativa-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Lactuca-sativa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Lactuca-sativa-Spots.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Lactuca-sativa-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Lactuca-sativa-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Lactuca-sativa-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Lactuca-sativa-Dodder.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Lactuca-sativa-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Lactuca-sativa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Lactuca-sativa-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Lactuca-sativa-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Lactuca-sativa-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Lactuca-sativa-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Lactuca-sativa-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Lactuca-sativa-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Lactuca-sativa-Notch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Lactuca-sativa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Lactuca-sativa-Mealybug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Echium candicans",
+                "link": "/wiki/Echium_candicans.html",
+                "imageUrl": "/wiki-image/1080/153906674170593307.jpeg",
+                "displayName": "Pride of madeira"
+            },
+            {
+                "scientificName": "Gomphocarpus physocarpus",
+                "link": "/wiki/Gomphocarpus_physocarpus.html",
+                "imageUrl": "/wiki-image/1080/153411662009860104.jpeg",
+                "displayName": "Balloon plant"
+            },
+            {
+                "scientificName": "Eriocapitella vitifolia",
+                "link": "/wiki/Eriocapitella_vitifolia.html",
+                "imageUrl": "/wiki-image/1080/201206435997155328.jpeg",
+                "displayName": "Grape leaf anemone"
+            },
+            {
+                "scientificName": "Clematis virginiana",
+                "link": "/wiki/Clematis_virginiana.html",
+                "imageUrl": "/wiki-image/1080/154103074435104801.jpeg",
+                "displayName": "Devil's darning needles"
+            },
+            {
+                "scientificName": "Robinia pseudoacacia",
+                "link": "/wiki/Robinia_pseudoacacia.html",
+                "imageUrl": "/wiki-image/1080/347107484368273408.jpeg",
+                "displayName": "Black locust"
+            },
+            {
+                "scientificName": "Quercus nigra",
+                "link": "/wiki/Quercus_nigra.html",
+                "imageUrl": "/wiki-image/1080/202645640883470336.jpeg",
+                "displayName": "Water oak"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Lactuca_sativa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Lactuca_sativa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Lactuca_sativa.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Lactuca_sativa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Lactuca_sativa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Lactuca_sativa.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Lactuca_sativa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Lactuca_sativa.html",
+            "values": [
+                "Care Garden lettuce",
+                "Care Garden lettuce",
+                "Grow Garden lettuce",
+                "Maintain Garden lettuce",
+                "Garden lettuce Care",
+                "Garden lettuce Grow",
+                "Garden lettuce Maintain",
+                "Garden lettuce Cares",
+                "Growth Garden lettuce",
+                "Maintains Garden lettuce",
+                "Garden lettuce Growth",
+                "Garden lettuce Maintains",
+                "Garden lettuce Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lactuca-sativa-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Lactuca_sativa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Lactuca_sativa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Lactuca_sativa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Lactuca_sativa.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Lactuca_sativa.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Lactuca_sativa.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Lactuca_sativa.html"
+        }
+    ]
+}

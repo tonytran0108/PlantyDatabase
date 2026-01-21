@@ -1,0 +1,628 @@
+{
+    "title": "Field bindweed (Convolvulus arvensis) - PictureThis",
+    "displayName": "Field bindweed",
+    "otherCommonName": "Possession vine, Cornbind",
+    "mainImage": {
+        "copyright": {
+            "width": 1464,
+            "height": 1464,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "license": "CC-BY-SA-4.0"
+        },
+        "imageUrl": "/wiki-image/1080/201175439218147328.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/12674491",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152369436655878146.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7761883",
+                "authorLink": "https://www.inaturalist.org/people/brucewbailey",
+                "author": "brucewbailey",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152372876924682243.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/22147154",
+                "authorLink": "https://www.inaturalist.org/people/wouterkoch",
+                "author": "wouterkoch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153869385264529421.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/36008536",
+                "authorLink": "https://www.inaturalist.org/people/joergmlpts",
+                "author": "joergmlpts",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153883524296867840.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Field bindweed (*Convolvulus arvensis*) is a native Eurasian plant related to morning glory. It is considered an invasive species in non-native areas because it competes with other plants for sunlight and moisture. Field bindweed is very hard to eradicate because its taproots grow so deep, and its seeds can remain viable for decades.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Field bindweed (*Convolvulus arvensis*) is a native Eurasian plant related to morning glory. It is considered an invasive species in non-native areas because it competes with other plants for sunlight and moisture. Field bindweed is very hard to eradicate because its taproots grow so deep, and its seeds can remain viable for decades.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Field bindweed (<i>Convolvulus arvensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Bindweed",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Convolvulus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Morning-glory",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Convolvulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251762835347275777.png",
+        "habitat": "Hedgerows, Fields, Waste places, Fences",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Native to temperate, subtropical, and tropical Europe, Asia and North Africa, field bindweed is found mainly in disturbed ground. The species was accidentally introduced as a contaminant in crop seed to many parts of the world, where it escaped cultivation. It is declared as a noxious weed in many US states because of its tendency to outcompete native vegetation and interfere with agricultural crops.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "222",
+                "186",
+                "176",
+                "133",
+                "175",
+                "141",
+                "102",
+                "257",
+                "527",
+                "603",
+                "301",
+                "327"
+            ],
+            "north": [
+                "1043",
+                "1721",
+                "7383",
+                "30763",
+                "61241",
+                "42956",
+                "18795",
+                "7827",
+                "3820",
+                "1517",
+                "1140",
+                "942"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Field bindweed is liked for its heart-shaped leaves and pretty flowers. It is a spreading plant that can be grown as ground cover or as a hedge plant. It can also be grown over trellises or to cover unsightly areas. It may also be grown as an indoor plant. However, care must be taken to not allow it to strangle other plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Humility, constancy",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Legend has it that bindweed is also called - Our Lady's Little Glass. As the story goes, the Virgin Mary happened upon a wagoner whose cart was stuck. She offered to help him release his cart if he gave her a glass of wine. Since he didn't have a glass, she handed him a field bindweed. He filled it with wine, and she helped him set his cart free.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Field bindweed",
+                "values": [
+                    "This trumpet-shaped flower blossoms everywhere in the garden and has become one of the grass weeds that annoy gardeners. Although the flowers are similar to the morning glory, they are actually not related to each other. The plant continues to spread by winding its stems on other plants in a counterclockwise fashion. Also, it often appears in field areas. So it is called field bindweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Field bindweed is toxic to cats and dogs</strong>, with all parts of the plant containing harmful toxins. Ingestion can lead to <strong>gastrointestinal distress</strong> and severe symptoms. Pet owners should monitor their pets and restrict access to areas where field bindweed grows. Immediate veterinary attention is crucial if ingestion is suspected to ensure their safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Convolvulus_arvensis.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Convolvulus arvensis is native to Eurasia, but can be found in nearly every country in the world. It is considered noxious in the US, Kenya, Tanzania, and Uganda, and is illegal to import into Australia. Field bindweed grows extremely fast and can produce up to 500 seeds per plant, making it incredibly smothering to native species. It also greatly competes for nutrients, moisture, and light. The seeds can last in the soil for up to 20 years, making it nearly impossible to fully eliminate. Controlling the seedlings and shoots of growth can help keep it contained, but years of intense herbicide use seems to be the only way to fully eliminate field bindweed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of field bindweed is late spring or early summer, before the weed begins to flower or set seeds. It's crucial to ensure that the weed does not spread due to the dispersal of seeds. For effective removal or control, consider the following methods:\n  </div> \n  <ol> \n   <li>Digging: One of the simplest, yet effective, ways to control field bindweed is by removing it manually. With a garden fork or trowel, dig up the plant ensuring you get as much of the root system as possible. Dispose of the removed weed properly to prevent it from reseeding.</li> \n   <li>Smothering: A good organic way to control field bindweed is by smothering. Use a thick layer of mulch, cardboard, or landscape fabric to block out light and cut off the weed's access to nutrients. Make sure to patch any holes and check on the mulch layer regularly.</li> \n   <li>Vinegar spray: A common household item, vinegar, can be used to control field bindweed. In a spray bottle, mix a solution of half water and half vinegar. Spray it directly onto the weed. Be mindful not to spray on other plants as it can potentially harm them too.</li> \n   <li>Boiling water treatment: Another organic method is using boiling water. Pour it directly onto the base of the weed. This is most effective for weeds in paths or driveways, as it can kill other plants in the vicinity.</li> \n   <li>Crop rotation: By changing the types of crops planted in the infested area each season, you can help deplete the weed's seedbank and discourage its growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Arrow-shaped leaves up to 2 inches (5 cm) long.",
+            "Trumpet-shaped white to pale pink flowers, 1 inch (2.5 cm) wide.",
+            "Vines capable of reaching 6-7 feet (1.8-2.1 meters) in length.",
+            "Funnel-shaped flowers with radial symmetry and green bracts.",
+            "Small round seed capsules with 2 seeds, lasting up to 20 years in soil."
+        ],
+        "title": "Quickly Identify Field bindweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Convolvulus-arvensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Field bindweed thrives in fields and open areas, requiring moderate water. It balances drought resistance with moisture needs, benefiting from weekly watering. Typically grown outdoors, this herbaceous plant has heightened water requirements during its active growing season for optimal development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Field bindweed can be propagated via herbaceous cuttings in spring and summer, requiring skill and patience. Success is indicated by root formation and new growth. Use healthy stems and sterile tools to avoid disease during propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Convolvulus_arvensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you get rid of field bindweed?",
+            "link": "/ask/Convolvulus_arvensis-0.html"
+        },
+        {
+            "q": "Why is it called field bindweed?",
+            "link": "/ask/Convolvulus_arvensis-1.html"
+        },
+        {
+            "q": "Is field bindweed invasive?",
+            "link": "/ask/Convolvulus_arvensis-2.html"
+        },
+        {
+            "q": "Is field bindweed the same as morning glory?",
+            "link": "/ask/Convolvulus_arvensis-3.html"
+        },
+        {
+            "q": "Where is field bindweed native?",
+            "link": "/ask/Convolvulus_arvensis-4.html"
+        },
+        {
+            "q": "Does field bindweed die in winter?",
+            "link": "/ask/Convolvulus_arvensis-5.html"
+        },
+        {
+            "q": "Is field bindweed poisonous to pets?",
+            "link": "/ask/Convolvulus_arvensis-6.html"
+        },
+        {
+            "q": "Will boiling water kill field bindweed?",
+            "link": "/ask/Convolvulus_arvensis-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Rivina humilis",
+                "link": "/wiki/Rivina_humilis.html",
+                "imageUrl": "/wiki-image/1080/154037898306387969.jpeg",
+                "displayName": "Pigeonberry"
+            },
+            {
+                "scientificName": "Malva sylvestris",
+                "link": "/wiki/Malva_sylvestris.html",
+                "imageUrl": "/wiki-image/1080/153405511616692253.jpeg",
+                "displayName": "Common mallow"
+            },
+            {
+                "scientificName": "Verbascum thapsus",
+                "link": "/wiki/Verbascum_thapsus.html",
+                "imageUrl": "/wiki-image/1080/347086413258719232.jpeg",
+                "displayName": "Common mullein"
+            },
+            {
+                "scientificName": "Acalypha australis",
+                "link": "/wiki/Acalypha_australis.html",
+                "imageUrl": "/wiki-image/1080/153711472201957408.jpeg",
+                "displayName": "Asian copperleaf"
+            },
+            {
+                "scientificName": "Hibiscus syriacus",
+                "link": "/wiki/Hibiscus_syriacus.html",
+                "imageUrl": "/wiki-image/1080/347091940881629184.jpeg",
+                "displayName": "Rose of sharon"
+            },
+            {
+                "scientificName": "Erythrina variegata",
+                "link": "/wiki/Erythrina_variegata.html",
+                "imageUrl": "/wiki-image/1080/153453318897664027.jpeg",
+                "displayName": "Indian coral tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Convolvulus_arvensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Convolvulus_arvensis.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Convolvulus_arvensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Convolvulus_arvensis.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Convolvulus_arvensis.html",
+            "values": [
+                "Care Field bindweed",
+                "Care Field bindweed",
+                "Grow Field bindweed",
+                "Maintain Field bindweed",
+                "Field bindweed Care",
+                "Field bindweed Grow",
+                "Field bindweed Maintain",
+                "Field bindweed Cares",
+                "Growth Field bindweed",
+                "Maintains Field bindweed",
+                "Field bindweed Growth",
+                "Field bindweed Maintains",
+                "Field bindweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Convolvulus_arvensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Convolvulus_arvensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Convolvulus_arvensis.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Convolvulus_arvensis.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Convolvulus_arvensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Convolvulus_arvensis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Convolvulus_arvensis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Convolvulus_arvensis.html"
+        }
+    ]
+}

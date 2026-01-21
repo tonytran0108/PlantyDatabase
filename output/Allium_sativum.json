@@ -1,0 +1,895 @@
+{
+    "title": "Garlic (Allium sativum) - PictureThis",
+    "displayName": "Garlic",
+    "otherCommonName": "Common garlic, Churl's treacle",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "DNY59",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/380135782874808320.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 4128,
+                "height": 3096,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Allium_sativum_sl8.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153921113850642455.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3096,
+                "height": 4128,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Allium_sativum_sl6.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153919352914051086.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1936,
+                "height": 1296,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Knoblauch_Bluete_2.JPG",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Kickof",
+                "author": "Kickof",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/152434170402963459.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3888,
+                "height": 2592,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157340831236227080.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic (Allium sativum) is an extremely popular garden plant because of its use for flavoring dishes, as well as its ease of care and growth. It is traditionally planted in autumn and harvested in mid-summer. This plant is also called the stinking rose, and it is useful as an insect repellent in gardens. Garlic is important to Korean creation myths, and is believed to ward off vampires and other spirits in European folklore.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Garlic (Allium sativum) is an extremely popular garden plant because of its use for flavoring dishes, as well as its ease of care and growth. It is traditionally planted in autumn and harvested in mid-summer. This plant is also called the stinking rose, and it is useful as an insect repellent in gardens. Garlic is important to Korean creation myths, and is believed to ward off vampires and other spirits in European folklore.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Garlic (<i>Allium sativum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Onions",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Allium.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaryllis",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaryllidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   23 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805207869489152.jpeg",
+        "habitat": "Cultivated Beds",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic, native to Central Asia, has expanded far beyond its origins. It is now cultivated and introduced across multiple continents, including Europe, Africa, North and South America, and parts of Asia. Adaptable to various climates, garlic thrives in areas as diverse as the Mediterranean basin, the subtropics, and even temperate regions, making it a truly global species.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "716",
+                "910",
+                "956",
+                "1072",
+                "1109",
+                "1020",
+                "1413",
+                "1750",
+                "1861",
+                "1524",
+                "811",
+                "839"
+            ],
+            "north": [
+                "10881",
+                "19486",
+                "41394",
+                "48291",
+                "41510",
+                "19946",
+                "12190",
+                "10341",
+                "10008",
+                "7375",
+                "6301",
+                "8286"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "One of the most popularly grown plants in veggie gardens, garlic is an extremely aromatic, tasty, and easy-to-grow bulb. Garlic is a staple plant for growing in food and herb gardens and is widely used for its various culinary purposes, rather than for its ornamental appearance.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Healing, Exorcism",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Garlic",
+                "values": [
+                    "The name garlic comes from garleac, an old Anglo-Saxon word meaning \"spear leek\". This garlic is believed to be the descendant of the Allium longicuspis, wild Asian garlic."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   While garlic is a culinary treat, it is highly toxic to <strong>cats</strong>, causing symptoms like vomiting, discolored urine, and pale gums. It is also moderately toxic to <strong>dogs</strong> with symptoms such as vomiting and anemia. Bulbs are the most toxic part. Seek veterinary advice if ingestion occurs.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Allium_sativum.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Segmented bulbs with cloves enclosed in papery sheaths, forming a spherical structure (2-4 inches / 5-10 cm).",
+            "Umbel inflorescence with small white or pinkish flowers protected by a membranous spathe (2-4 inches / 5-10 cm).",
+            "Linear-lanceolate leaves with parallel venation, bright green color, measuring 1 inch wide and 8-16 inches long.",
+            "Short, flattened stem forming a disk at the base, surrounded by a pseudostem from overlapping leaf bases.",
+            "Capsule fruit perched atop flowering stalk, changing texture and color at maturity, splitting open when ripe."
+        ],
+        "title": "Quickly Identify Garlic",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Allium-sativum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic thrives in arid conditions with drought tolerance. Water every 1-2 weeks for optimal growth, avoiding excessive moisture. As a bulbous plant, it is usually grown outdoors in well-drained soil to prevent waterlogging.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic thrives with phosphorus and potassium-rich fertilizer, applied at planting and during key growth stages. Follow dosage guidelines to prevent burn; frequency increases in spring. Incorporate thoroughly and water afterward. Over-fertilization can be detrimental, so use slow-release formulas for lasting nutrients.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic thrives with minimal pruning, mainly removing yellowing leaves in spring to promote bulb health. Cut flower stalks to redirect energy to bulb formation and ensure good air circulation by spacing plants apart to prevent disease. Proper pruning fosters vigorous growth and enhances overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic propagation is primarily done using tubers in Spring, with moderate difficulty. Successful propagation is indicated by new shoots. Careful handling of tubers during transplanting is essential for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Garlic requires excellent drainage in pots to thrive, ensuring that roots do not become waterlogged, which can lead to rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Allium_sativum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is garlic used for?",
+            "link": "/ask/Allium_sativum-0.html"
+        },
+        {
+            "q": "What does garlic mean?",
+            "link": "/ask/Allium_sativum-1.html"
+        },
+        {
+            "q": "What is the health benefit of garlic?",
+            "link": "/ask/Allium_sativum-2.html"
+        },
+        {
+            "q": "Is it safe to eat raw garlic?",
+            "link": "/ask/Allium_sativum-3.html"
+        },
+        {
+            "q": "When should I eat raw garlic?",
+            "link": "/ask/Allium_sativum-4.html"
+        },
+        {
+            "q": "Does garlic help sexually?",
+            "link": "/ask/Allium_sativum-5.html"
+        },
+        {
+            "q": "What is the best way to eat garlic?",
+            "link": "/ask/Allium_sativum-6.html"
+        },
+        {
+            "q": "Does garlic burn fat?",
+            "link": "/ask/Allium_sativum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Allium-sativum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Allium-sativum-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Allium-sativum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Allium-sativum-Thrips.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Allium-sativum-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Allium-sativum-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Allium-sativum-Wilting.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Allium-sativum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Allium-sativum-Spots.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Allium-sativum-Scars.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Allium-sativum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Allium-sativum-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Allium-sativum-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Allium-sativum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Allium-sativum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Allium-sativum-Lack-of-fertilizer.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            },
+            {
+                "scientificName": "Convallaria majalis",
+                "link": "/wiki/Convallaria_majalis.html",
+                "imageUrl": "/wiki-image/1080/201175374793637888.jpeg",
+                "displayName": "Lily of the valley"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Allium_sativum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Allium_sativum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Allium_sativum.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Allium_sativum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Allium_sativum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Allium_sativum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Allium_sativum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Allium_sativum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Allium_sativum.html",
+            "values": [
+                "Care Garlic",
+                "Care Garlic",
+                "Grow Garlic",
+                "Maintain Garlic",
+                "Garlic Care",
+                "Garlic Grow",
+                "Garlic Maintain",
+                "Garlic Cares",
+                "Growth Garlic",
+                "Maintains Garlic",
+                "Garlic Growth",
+                "Garlic Maintains",
+                "Garlic Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Allium-sativum-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Allium_sativum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Allium_sativum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Allium_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Allium_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Allium_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Allium_sativum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Allium_sativum.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Allium_sativum.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Allium_sativum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Allium_sativum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Allium_sativum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Allium_sativum.html"
+        }
+    ]
+}

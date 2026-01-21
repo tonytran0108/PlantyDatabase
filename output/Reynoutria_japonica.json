@@ -1,0 +1,686 @@
+{
+    "title": "Japanese knotweed (Reynoutria japonica) - PictureThis",
+    "displayName": "Japanese knotweed",
+    "otherCommonName": "Fleeceflower, Elephant ears",
+    "mainImage": {
+        "copyright": {
+            "width": 4016,
+            "height": 4016,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "janstudio",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202702437530992640.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 373,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/2883604",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152501459655589890.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20188211",
+                "authorLink": "https://www.inaturalist.org/people/peterdesmet",
+                "author": "peterdesmet",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152485581161496581.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 360,
+                "height": 480,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/122382",
+                "authorLink": "https://www.inaturalist.org/people/marie",
+                "author": "marie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660057148456996.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/11478749",
+                "authorLink": "https://www.inaturalist.org/people/peterdesmet",
+                "author": "peterdesmet",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929239928766477.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Hearing the name of japanese knotweed can strike fear in the heart of homeowners. When this aggressive and invasive weed is identified on a property, mortgage lenders sometimes deny loans or demand extensive chemical treatment. This is due to the fact that the root system of japanese knotweed is so extensive that once established, it can be nearly impossible to eradicate.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Hearing the name of japanese knotweed can strike fear in the heart of homeowners. When this aggressive and invasive weed is identified on a property, mortgage lenders sometimes deny loans or demand extensive chemical treatment. This is due to the fact that the root system of japanese knotweed is so extensive that once established, it can be nearly impossible to eradicate.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Japanese knotweed (<i>Reynoutria japonica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Reynoutria",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Reynoutria.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckwheat",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Polygonaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/377852539605516288.jpeg",
+        "habitat": "Forests, Humid areas, Wetlands",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The japanese knotweed plant has a distribution range that includes parts of East Asia and Russia, where it grows in sunny areas with disturbed soil. It is an invasive species in other countries, including most of the United States, where it pushes out native plants.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "78",
+                "79",
+                "88",
+                "98",
+                "79",
+                "76",
+                "92",
+                "127",
+                "124",
+                "92",
+                "53",
+                "72"
+            ],
+            "north": [
+                "2475",
+                "5002",
+                "29145",
+                "52937",
+                "36527",
+                "23057",
+                "22632",
+                "28764",
+                "14654",
+                "5001",
+                "1614",
+                "1971"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Originally introduced in some areas as a garden ornamental, japanese knotweed is considered an invasive weed in some nations. If you are planning on planting this attractive plant, check your local laws and by-laws first. When planting, keep it away from foundations as its root system can cause damage to structures.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Binding, Health, endurance, hope",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Japanese knotweed is considered such a feared invasive species that in the United Kingdom, it has affected the real estate market. In 2012, several mortgage lenders were reported to have denied mortgage applications due to japanese knotweed being discovered on the home's property or on neighboring property. Since the report, many institutions have lobbied to relax lending restrictions based on the presence of japanese knotweed, arguing that it can be treated and controlled.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Japanese knotweed",
+                "values": [
+                    "If you see this plant in a garden or yard, you must be careful. It is listed by the World Conservation Union as one of the most critical invasive species in the world. It is originated from Japan. The most obvious feature is that it has hollow stems and obvious protruding nodes like bamboo, so it is called Japanese knotweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Japanese knotweed</strong> contains oxalic acid in its stem and leaves, leading to mineral deficiency when over-consumed. <strong>Excessive intake can worsen rheumatism, kidney stones, hyperacidity, gout, and arthritis</strong>. Other Reynoutria species may cause extreme UV sensitivity after consumption.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Reynoutria_japonica.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to East Asia in Japan, China, and Korea, japanese knotweed has established itself around the world. The World Conservation Union lists it as one of the world's most invasive species due to its aggressive root system and its ability to completely take over environments Ã¢ÂÂ so much so that in the UK and Scotland, it is actually illegal to plant or grow it. Japanese knotweed can damage all manner of modern architecture, from roads to foundations to buildings. Its roots grow so deep and re-sprout so vigorously that removing japanese knotweed is nearly impossible.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of japanese knotweed is late summer to early autumn, specifically, before the plant transitions into its winter dormancy stage. This timing is crucial because it corresponds to the translocation of nutrients within the plant, which allows any applied treatments to be more effective. Here are some methodologies for its control:\n  </div> \n  <ol> \n   <li>Digging: Firstly, make sure you have protective gardening gloves and a shovel. Start by digging around the plant, aiming to remove as much of the root system as possible. Ensure to dispose of all parts of the plant in a responsible way to prevent any regrowth.</li> \n   <li>Smothering: This is a less labor-intensive, yet equally effective method of control. Firstly, cut the japanese knotweed down to ground level. Then, cover the area with cardboard or a thick layer of newspapers, followed by a generous level of mulch. The covering will block light and choke out the plant, eventually killing it.</li> \n   <li>Biological Control: This involves introducing a pest or disease that specifically targets japanese knotweed, such as the psyllid insect, Aphalara itadori, used in the UK. Keep in mind that this method requires careful planning and implementation to ensure the balance of your local ecosystem isn't negatively affected. It's advised to consult with a local horticulturist or ecologist first.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Heart-shaped green leaves with rippled edges, up to 6 inches (15 cm) long.",
+            "Hollow bamboo-like stems, 6 to 9 feet (2 to 3 meters) tall.",
+            "Small creamy white flowers in branched clusters during late summer.",
+            "Distinct triangular-shaped dark brown to black fruit with winged achenes.",
+            "Large, hollow, jointed stem with mottled pattern resembling bamboo, reaching up to 10 feet (3 meters)."
+        ],
+        "title": "Quickly Identify Japanese knotweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Reynoutria-japonica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in humid environments, japanese knotweed balances moisture retention with drought resilience. It needs moderate hydration, ideally watered weekly and prefers consistent soil moisture without waterlogging. As a perennial herb, consider natural rainfall in its watering routine during the vigorous growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagate japanese knotweed in spring and autumn via division. It is moderately challenging, requiring soil remoistening. Success is marked by new growth. For optimal results, divisions should include both roots and shoots.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Reynoutria_japonica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How dangerous is japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-0.html"
+        },
+        {
+            "q": "Can you get rid of japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-1.html"
+        },
+        {
+            "q": "Does glyphosate kill japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-2.html"
+        },
+        {
+            "q": "Does salt kill japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-3.html"
+        },
+        {
+            "q": "What insects eat japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-4.html"
+        },
+        {
+            "q": "How long does it take to kill japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-5.html"
+        },
+        {
+            "q": "What's so bad about japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-6.html"
+        },
+        {
+            "q": "Why should you not cut japanese knotweed?",
+            "link": "/ask/Reynoutria_japonica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Coleus amboinicus",
+                "link": "/wiki/Coleus_amboinicus.html",
+                "imageUrl": "/wiki-image/1080/153933693809852443.jpeg",
+                "displayName": "Mexican mint"
+            },
+            {
+                "scientificName": "Solanum torvum",
+                "link": "/wiki/Solanum_torvum.html",
+                "imageUrl": "/wiki-image/1080/153876338816581657.jpeg",
+                "displayName": "Turkey berry"
+            },
+            {
+                "scientificName": "Clematis vitalba",
+                "link": "/wiki/Clematis_vitalba.html",
+                "imageUrl": "/wiki-image/1080/154046273492615182.jpeg",
+                "displayName": "Old man's beard"
+            },
+            {
+                "scientificName": "Jacquemontia tamnifolia",
+                "link": "/wiki/Jacquemontia_tamnifolia.html",
+                "imageUrl": "/wiki-image/1080/153722420073594898.png",
+                "displayName": "Hairy clustervine"
+            },
+            {
+                "scientificName": "Parthenocissus vitacea",
+                "link": "/wiki/Parthenocissus_vitacea.html",
+                "imageUrl": "/wiki-image/1080/153682236359573540.jpeg",
+                "displayName": "Woodbine"
+            },
+            {
+                "scientificName": "Amaranthus spinosus",
+                "link": "/wiki/Amaranthus_spinosus.html",
+                "imageUrl": "/wiki-image/1080/153459245952532494.jpeg",
+                "displayName": "Spiny amaranth"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Reynoutria_japonica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Reynoutria_japonica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Reynoutria_japonica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Reynoutria_japonica.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Reynoutria_japonica.html",
+            "values": [
+                "Care Japanese knotweed",
+                "Care Japanese knotweed",
+                "Grow Japanese knotweed",
+                "Maintain Japanese knotweed",
+                "Japanese knotweed Care",
+                "Japanese knotweed Grow",
+                "Japanese knotweed Maintain",
+                "Japanese knotweed Cares",
+                "Growth Japanese knotweed",
+                "Maintains Japanese knotweed",
+                "Japanese knotweed Growth",
+                "Japanese knotweed Maintains",
+                "Japanese knotweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Reynoutria_japonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Reynoutria_japonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Reynoutria_japonica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Reynoutria_japonica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Reynoutria_japonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Reynoutria_japonica.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Reynoutria_japonica.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Reynoutria_japonica.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Reynoutria_japonica.html"
+        }
+    ]
+}

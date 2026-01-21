@@ -1,0 +1,612 @@
+{
+    "title": "Annual ragweed (Ambrosia artemisiifolia) - PictureThis",
+    "displayName": "Annual ragweed",
+    "otherCommonName": "Common ragweed, Tassel weed",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153847957672689676.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19812464",
+                "authorLink": "https://www.inaturalist.org/people/taco2000",
+                "author": "taco2000",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152487775889784835.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24642962",
+                "authorLink": "https://www.inaturalist.org/people/nonenmac",
+                "author": "nonenmac",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152359910418415619.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4128,
+                "height": 3096,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Ambrosia_artemisiifolia_sl3.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Stefan.lefnaer",
+                "author": "Stefan.lefnaer",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659155205324841.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3646219",
+                "authorLink": "https://www.inaturalist.org/people/ksandsman",
+                "author": "ksandsman",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153869247825575965.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Annual ragweed (Ambrosia artemisiifolia) is one of the most notorious weeds in the world. It is an annual herbaceous plant with highly allergenic pollen and a very vigorous spread. Annual ragweed is a very competitive species, which is why its presence in cultivated plants is highly undesirable.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Annual ragweed (Ambrosia artemisiifolia) is one of the most notorious weeds in the world. It is an annual herbaceous plant with highly allergenic pollen and a very vigorous spread. Annual ragweed is a very competitive species, which is why its presence in cultivated plants is highly undesirable.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Annual ragweed (<i>Ambrosia artemisiifolia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "ragweed",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ambrosia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251735802823114755.png",
+        "habitat": "Disturbed sites",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Annual ragweed is native to North America. It has spread to many regions of the world: South America, Eurasia, Africa, and parts of Australia. It is considered a nuisance, a weed, or an invasive species almost everywhere it has naturalized. It grows in disturbed areas like roadsides, grasslands, and in cultivated areas like fields.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "305",
+                "246",
+                "244",
+                "155",
+                "134",
+                "162",
+                "241",
+                "308",
+                "427",
+                "448",
+                "326",
+                "374"
+            ],
+            "north": [
+                "1847",
+                "4073",
+                "12304",
+                "42608",
+                "73519",
+                "65833",
+                "55407",
+                "25179",
+                "6992",
+                "1764",
+                "1182",
+                "1335"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Tenacious vitality, irritation",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "When annual ragweed blossom pollen comes into contact with skin, it releases water-soluble proteins, causing allergic reactions. Every year there are 14.6 million people in the United States suffering allergic reactions to annual ragweed.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Annual ragweed",
+                "values": [
+                    "Ragweed is the common name for any of the various wind-pollinated. Its pollen and seeds can be spread via the wind distributing them everywhere. As it is the type of plant that grows in a year, it is called annual ragweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Annual ragweed is toxic to cats and dogs.</strong> The sap, juice, and pollen of annual ragweed can cause allergic reactions in humans (hay fever) and severe symptoms in pets. <strong>Immediate veterinary care</strong> is crucial if an animal ingests or contacts annual ragweed to prevent prolonged discomfort or more serious health issues. Symptoms in pets include skin irritation, gastrointestinal upset, and respiratory issues.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ambrosia_artemisiifolia.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to certain parts of the Americas and the Caribbean, annual ragweed is a widespread noxious weed in most temperate regions of the world, as well as in the Indian subcontinent. It is a prolific seed producer with a strong root system - a mature plant is nearly impossible to pull out and regrows after being cut back. Annual ragweed thrives in disturbed land where it quickly outcompetes any native vegetation, so it frequently appears in tilled fields, abandoned construction sites, wastelands, and burned areas. Additionally, the wind-carried pollen is highly allergenic, and it causes allergic reactions from August well into the fall.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of annual ragweed is in the spring or early summer when the plants have germinated but not yet flowered. You should aim to remove this weed before it enters the flowering state as it can spread its seeds widely at that time. Here are some control methods:\n  </div> \n  <ol> \n   <li>Hand-Pulling: Pull annual ragweed out by the root, ensuring no part of the root is left behind as it may regrow. Make sure to wear gloves to protect your skin from potential irritation. Dispose of the plants properly so they can't reseed in your garden.</li> \n   <li>Mowing: Since annual ragweed is an annual weed, mowing the plant before it flowers can prevent it from spreading. Be sure to frequently mow your lawn or garden area during its growing season.</li> \n   <li>Smothering: Cover the infested area with a thick layer of landscape fabric, mulch, or cardboard to block sunlight and impede the growth of annual ragweed. Keep the cover in place for at least one whole growing season.</li> \n   <li>Vinegar Spray: Fill a spray bottle with undiluted 5% to 20% vinegar and a teaspoon of dish soap. Spray it on annual ragweed on a dry, sunny day when rain is not expected for at least 24 hours. The vinegar will cause the plant to dry out, and the dish soap will help the vinegar to stick to the plant.</li> \n   <li>Regular Crop Rotation: Regularly rotating crops can help reduce annual ragweed infestation in agricultural areas as their seeds can't survive without light for more than 2 years. Interplanting with cover crops like wheat or rye can also help suppress the annual ragweed growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Deeply lobed, fern-like leaves create fine-textured appearance.",
+            "Male flowers in elongated clusters release abundant pollen.",
+            "Woody achene fruits with crown-like 4-7 spine projections.",
+            "Pinkish-red stem with grooves, fine hairs, and slender form.",
+            "Green leaves up to 6 inches (15 cm) long with deeply lobed base."
+        ],
+        "title": "Quickly Identify Annual ragweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ambrosia-artemisiifolia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Annual ragweed thrives in varied moisture, showcasing drought tolerance and a strong response to consistent watering. Ideal watering is weekly. As an annual herb, it grows robustly during the rainy season, effectively utilizing increased water availability to complete its life cycle.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of annual ragweed is best done by sowing in Spring, which is simple and yields successful results. Indicators of success include germination and vigorous growth, supported by optimal soil moisture and temperature.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ambrosia_artemisiifolia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What are the symptoms of annual ragweed allergy?",
+            "link": "/ask/Ambrosia_artemisiifolia-0.html"
+        },
+        {
+            "q": "Why is it called annual ragweed?",
+            "link": "/ask/Ambrosia_artemisiifolia-1.html"
+        },
+        {
+            "q": "What does ragweed smell like?",
+            "link": "/ask/Ambrosia_artemisiifolia-2.html"
+        },
+        {
+            "q": "How do I get rid of annual ragweed?",
+            "link": "/ask/Ambrosia_artemisiifolia-3.html"
+        },
+        {
+            "q": "What is in the same family as ragweed?",
+            "link": "/ask/Ambrosia_artemisiifolia-4.html"
+        },
+        {
+            "q": "Where do you find annual ragweed?",
+            "link": "/ask/Ambrosia_artemisiifolia-5.html"
+        },
+        {
+            "q": "Is annual ragweed poisonous?",
+            "link": "/ask/Ambrosia_artemisiifolia-6.html"
+        },
+        {
+            "q": "Is annual ragweed invasive?",
+            "link": "/ask/Ambrosia_artemisiifolia-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Trifolium repens",
+                "link": "/wiki/Trifolium_repens.html",
+                "imageUrl": "/wiki-image/1080/202692159674253312.jpeg",
+                "displayName": "White clover"
+            },
+            {
+                "scientificName": "Ficus elastica",
+                "link": "/wiki/Ficus_elastica.html",
+                "imageUrl": "/wiki-image/1080/154078743445372950.jpeg",
+                "displayName": "Rubber tree"
+            },
+            {
+                "scientificName": "Phormium tenax",
+                "link": "/wiki/Phormium_tenax.html",
+                "imageUrl": "/wiki-image/1080/154034616951373848.jpeg",
+                "displayName": "New zealand flax"
+            },
+            {
+                "scientificName": "Helianthus annuus",
+                "link": "/wiki/Helianthus_annuus.html",
+                "imageUrl": "/wiki-image/1080/153840158012080172.jpeg",
+                "displayName": "Common sunflower"
+            },
+            {
+                "scientificName": "Tabebuia aurea",
+                "link": "/wiki/Tabebuia_aurea.html",
+                "imageUrl": "/wiki-image/1080/351941087807897600.jpeg",
+                "displayName": "Caribbean trumpet tree"
+            },
+            {
+                "scientificName": "Leucaena leucocephala",
+                "link": "/wiki/Leucaena_leucocephala.html",
+                "imageUrl": "/wiki-image/1080/154025610404954115.jpeg",
+                "displayName": "White leadtree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ambrosia_artemisiifolia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ambrosia_artemisiifolia.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ambrosia_artemisiifolia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ambrosia_artemisiifolia.html",
+            "values": [
+                "Care Annual ragweed",
+                "Care Annual ragweed",
+                "Grow Annual ragweed",
+                "Maintain Annual ragweed",
+                "Annual ragweed Care",
+                "Annual ragweed Grow",
+                "Annual ragweed Maintain",
+                "Annual ragweed Cares",
+                "Growth Annual ragweed",
+                "Maintains Annual ragweed",
+                "Annual ragweed Growth",
+                "Annual ragweed Maintains",
+                "Annual ragweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ambrosia_artemisiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ambrosia_artemisiifolia.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ambrosia_artemisiifolia.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ambrosia_artemisiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ambrosia_artemisiifolia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ambrosia_artemisiifolia.html"
+        }
+    ]
+}

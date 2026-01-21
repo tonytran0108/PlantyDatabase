@@ -1,0 +1,876 @@
+{
+    "title": "Maize (Zea mays) - PictureThis",
+    "displayName": "Maize",
+    "otherCommonName": "Indian corn, Flint corn",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153466251044192267.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5445578",
+                "authorLink": "https://www.inaturalist.org/people/zapoliopvp",
+                "author": "zapoliopvp",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153797981433233437.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/33255735",
+                "authorLink": "https://www.inaturalist.org/people/tereso30",
+                "author": "tereso30",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153445746870321193.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2121,
+                "height": 1414,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/raw-organic-yellow-corn-on-the-cob-gm811632642-131323901",
+                "authorLink": "",
+                "author": "Raw Organic Yellow Corn On The Cob Stock Photo - Download Image Now - Agriculture, Backgrounds, Cereal Plant",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/619373222271975424.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/37572106",
+                "authorLink": "https://www.inaturalist.org/people/tereso30",
+                "author": "tereso30",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153713924628283405.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Maize (Zea mays)&nbsp;is a well known domesticated cereal grain first domesticated in Mexico. In much of the world it is also called corn. Worldwide cultivation of maize surpasses other prominent grains like wheat and rice. Maize must be planted in the spring due to its intolerance for cold weather.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Maize (Zea mays)&nbsp;is a well known domesticated cereal grain first domesticated in Mexico. In much of the world it is also called corn. Worldwide cultivation of maize surpasses other prominent grains like wheat and rice. Maize must be planted in the spring due to its intolerance for cold weather.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Maize (<i>Zea mays</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Zea",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Zea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Grass",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Poaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Grasses, sedges and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Poales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Grass",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 4 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Variegated",
+                        "name": "variegated"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 25 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806436230135811.jpeg",
+        "habitat": "Cultivated Beds",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Maize (Zea mays) is native to most well-drained meadows in Mexico and Guatemala, but this vital food crop has been introduced to most countries on Earth.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 152.201055, \"2\": 127.3165362, \"3\": 109.3082246, \"4\": 99.03589387, \"5\": 79.61266901, \"6\": 79.0, \"7\": 79.08937589, \"8\": 71.89601877, \"9\": 117.9326369, \"10\": 139.5744269, \"11\": 155.1478104, \"12\": 168.7887038}, \"fruit_month\": 12}, \"Csa\": {\"trends\": {\"1\": 30.8932869, \"2\": 32.21204594, \"3\": 28.61057729, \"4\": 20.9378565, \"5\": 11.33856781, \"6\": 17.0, \"7\": 11.97105292, \"8\": 20.56027538, \"9\": 20.45831785, \"10\": 30.91724774, \"11\": 40.51550742, \"12\": 31.69720367}, \"fruit_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 177.0, \"2\": 94.0, \"3\": 64.0, \"4\": 51.0, \"5\": 30.0, \"6\": 36.0, \"7\": 20.0, \"8\": 28.0, \"9\": 72.0, \"10\": 120.0, \"11\": 195.0, \"12\": 173.0}, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 615.5153103, \"2\": 516.7038065, \"3\": 470.203035, \"4\": 403.6133377, \"5\": 337.8702449, \"6\": 336.0, \"7\": 289.3166614, \"8\": 300.3541341, \"9\": 413.3744427, \"10\": 534.9620849, \"11\": 629.0502053, \"12\": 632.2583012}, \"fruit_month\": 12}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 30.5242587, \"2\": 37.25462502, \"3\": 41.5559385, \"4\": 71.69355635, \"5\": 125.1023269, \"6\": 155.63838, \"7\": 158.7369968, \"8\": 133.8430802, \"9\": 109.3422732, \"10\": 65.81659459, \"11\": 31.22592574, \"12\": 21.0}, \"fruit_month\": 7}, \"Csb\": {\"trends\": {\"1\": 8.765161427, \"2\": 19.88041876, \"3\": 18.61076896, \"4\": 29.69071551, \"5\": 74.88469397, \"6\": 108.7377366, \"7\": 134.4861095, \"8\": 109.1346576, \"9\": 73.07392311, \"10\": 41.0958665, \"11\": 21.93768305, \"12\": 28.0}, \"fruit_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "While maize is used almost exclusively as an agricultural food crop, some colorful varieties can be grown in a domestic garden. Gardeners who cultivate these are primarily keeping them for their attractive colors and shapes. Companion plants are often other food crops, like Pumpkin, Basil, or Dill; these can be grown among corn to repel pests and fill in spaces in the garden.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Luck, Divination.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Maize",
+                "values": [
+                    "The word maize is derived from the Spanish form of the indigenous TaÃÂ­no word for the plant, mahiz. However, it is known by different names based on different parts of the world."
+                ]
+            },
+            {
+                "key": "Corn||Flint corn||Indian corn",
+                "values": [
+                    "In the United States, Canada, Australia, and New Zealand, corn primarily means maize. The usage of corn started as a shortening of \"Indian corn\". \"Indian corn\" primarily means maize which is referring to the staple grain of indigenous Americans but can refer more specifically to multicolored \"flint corn\" mainly for decoration."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinct sexual dimorphism in flowers with tassels and ears",
+            "Kernels in various colors (yellow, white, red, and blue)",
+            "Large lanceolate leaves with waxy surface and parallel venation",
+            "Robust annual plant with erect stem, reaching over 6 feet (183 cm)",
+            "Harvestable maturity within 70-200 days post-planting, depending on cultivar"
+        ],
+        "title": "Quickly Identify Maize",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Zea-mays.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Maize prefers a humid environment and requires regular watering, ideally twice a week, to maintain balance. As an outdoor plant, it needs consistent hydration during its growing season for optimal growth, exhibiting both drought tolerance and humidity appreciation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Maize thrives with frequent high-phosphorus fertilization for root development during pre-planting and reproduction. Apply balanced N-P-K fertilizer every 2-3 weeks in active growth, adjusting based on soil tests. Reduce application post-harvest, ensuring even distribution to prevent root burn for optimal yield.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Maize propagates well by sowing seeds directly in the soil in Spring. It has a moderate difficulty level, with success indicated by germination and seedlings. Ensure proper seed-to-soil contact and maintain consistent soil moisture during the germination process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Zea_mays.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is maize used for?",
+            "link": "/ask/Zea_mays-0.html"
+        },
+        {
+            "q": "Are maize and corn the same thing?",
+            "link": "/ask/Zea_mays-1.html"
+        },
+        {
+            "q": "Why is corn called maize?",
+            "link": "/ask/Zea_mays-2.html"
+        },
+        {
+            "q": "Can you eat maize?",
+            "link": "/ask/Zea_mays-3.html"
+        },
+        {
+            "q": "Is maize a fruit?",
+            "link": "/ask/Zea_mays-4.html"
+        },
+        {
+            "q": "Where is maize originally from?",
+            "link": "/ask/Zea_mays-5.html"
+        },
+        {
+            "q": "Why is maize so important to the world?",
+            "link": "/ask/Zea_mays-6.html"
+        },
+        {
+            "q": "Is maize gluten free?",
+            "link": "/ask/Zea_mays-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Zea-mays-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Zea-mays-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Zea-mays-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Zea-mays-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Zea-mays-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Zea-mays-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Zea-mays-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Zea-mays-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Zea-mays-Wilting.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Zea-mays-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Zea-mays-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Rust mold",
+                "link": "/disease/Zea-mays-Rust-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Zea-mays-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Zea-mays-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Zea-mays-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Zea-mays-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Zea-mays-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Zea-mays-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Zea-mays-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Zea-mays-Aphid.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Zea-mays-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Zea-mays-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Zea-mays-Leafminer-stripe.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Clerodendrum thomsoniae",
+                "link": "/wiki/Clerodendrum_thomsoniae.html",
+                "imageUrl": "/wiki-image/1080/154208107860328481.jpeg",
+                "displayName": "Bleeding-heart vine"
+            },
+            {
+                "scientificName": "Dracaena fragrans",
+                "link": "/wiki/Dracaena_fragrans.html",
+                "imageUrl": "/wiki-image/1080/154131794881413123.jpeg",
+                "displayName": "Corn plant"
+            },
+            {
+                "scientificName": "Heterocentron elegans",
+                "link": "/wiki/Heterocentron_elegans.html",
+                "imageUrl": "/wiki-image/1080/153422708665745439.jpeg",
+                "displayName": "Spanish shawl"
+            },
+            {
+                "scientificName": "Phalaenopsis amabilis",
+                "link": "/wiki/Phalaenopsis_amabilis.html",
+                "imageUrl": "/wiki-image/1080/153889026149974041.jpeg",
+                "displayName": "Moth orchid"
+            },
+            {
+                "scientificName": "Ceiba pentandra",
+                "link": "/wiki/Ceiba_pentandra.html",
+                "imageUrl": "/wiki-image/1080/154197233003135005.jpeg",
+                "displayName": "Kapok tree"
+            },
+            {
+                "scientificName": "Melaleuca alternifolia",
+                "link": "/wiki/Melaleuca_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/154169612068454428.jpeg",
+                "displayName": "Tea tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Zea_mays.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Zea_mays.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Zea_mays.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Zea_mays.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Zea_mays.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Zea_mays.html",
+            "values": [
+                "Care Maize",
+                "Care Maize",
+                "Grow Maize",
+                "Maintain Maize",
+                "Maize Care",
+                "Maize Grow",
+                "Maize Maintain",
+                "Maize Cares",
+                "Growth Maize",
+                "Maintains Maize",
+                "Maize Growth",
+                "Maize Maintains",
+                "Maize Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Rust-mold.html",
+            "values": [
+                "Rust mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Zea-mays-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Zea_mays.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Zea_mays.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Zea_mays.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Zea_mays.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Zea_mays.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Zea_mays.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Zea_mays.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Zea_mays.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Zea_mays.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Zea_mays.html"
+        }
+    ]
+}

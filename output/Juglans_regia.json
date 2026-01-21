@@ -1,0 +1,921 @@
+{
+    "title": "English walnut (Juglans regia) - PictureThis",
+    "displayName": "English walnut",
+    "otherCommonName": "Persian walnut, Madeira walnut",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154037902601355282.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7797621",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153884778427318293.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8720553",
+                "authorLink": "https://www.inaturalist.org/people/portioid",
+                "author": "portioid",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153902473692577811.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157456297137012738.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2560,
+                "height": 1920,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157439478045081613.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The english walnut is a large deciduous tree. There are many superstitious beliefs tied to it, one of which originates from the island of Skopelos: people believe that the planter of a walnut tree will die once the english walnut grows tall enough to see the sea.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The english walnut is a large deciduous tree. There are many superstitious beliefs tied to it, one of which originates from the island of Skopelos: people believe that the planter of a walnut tree will die once the english walnut grows tall enough to see the sea.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "English walnut (<i>Juglans regia</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Walnuts",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Juglans.html"
+            },
+            {
+                "type": "Family",
+                "name": "Walnut",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Juglandaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Beeches, walnuts, and allied trees",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Fagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Early summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 m to 25 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m to 18 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804516379754499.jpeg",
+        "habitat": "Forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   English walnut is native to most of the Middle East and the Mediterranean. It has been introduced widely across southern and central Europe and into southeast Asia as far as Korea. It thrives in grasslands and in loose forests and is also widely cultivated for its nuts.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "711",
+                "547",
+                "511",
+                "389",
+                "406",
+                "371",
+                "373",
+                "569",
+                "912",
+                "1212",
+                "867",
+                "1066"
+            ],
+            "north": [
+                "2474",
+                "3623",
+                "11307",
+                "34766",
+                "52932",
+                "47848",
+                "40329",
+                "28678",
+                "22531",
+                "10768",
+                "3177",
+                "2638"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Persian walnut seeds contain oil and oil can also be extracted from it, and its wood is also a good building material.",
+                "icon": ""
+            },
+            {
+                "title": "Beauty Improvement Value",
+                "type": "String",
+                "value": "Vitamin B and E in Persian walnuts can prevent cell aging and delay aging.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "English walnut can be planted as courtyard trees and sidewalk trees. It is commonly seen and used as a shade tree because of its broad crown and heavy foliage. Further, it is used and prized in gardens for the nuts that it produces. It does well in cottage gardens and woodland gardens. Companion plants include Canadian hemlock and Eastern redbud, which both grow well alongside the english walnut as long as the plants are given plenty of room between them.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Wisdom, strategy, knowledge, discernment, abundance",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "English walnuts are always made into exquisite hollowed-out crafts, and health preserving products. There is a saying in China that people can live to 99 without english walnuts leaving their hands.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "English walnut",
+                "values": [
+                    "It is called English walnut to distinguish it from the native hazelnut. This is because walnut comes from the Anglo-Saxon word walhnutu, meaning a foreign nut. As it is also widely cultivated in Europe, it is called English walnut."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>English walnut poses a mild toxicity risk to cats and dogs</strong>. The stems, roots, and seeds are the toxic parts. After ingestion, pets may show varying symptoms of discomfort. <strong>Immediate veterinary care is essential</strong> if signs of distress appear following consumption. Monitoring and preventing access to toxic parts of english walnut is crucial to pet safety.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Juglans_regia.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Deciduous tree reaching 40-60 feet (12-18 meters) in height, with spreading rounded crown.",
+            "Odd-pinnately compound leaves, 12-18 inches (30-45 cm) long, exuding citrus scent when crushed.",
+            "Male flowers in single-stemmed greenish-yellow catkins, up to 6 inches (15 cm) long.",
+            "Round nuts in thin, brown husks surrounded by green, semi-fleshy cover as fruit.",
+            "Smooth stems with buff-colored pith, stout and growing up to 1 inch (2.5 cm) in diameter."
+        ],
+        "title": "Quickly Identify English walnut",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Juglans-regia.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   English walnut thrives in temperate regions, preferring moderate moisture and can endure short droughts. Water it every 1-2 weeks, allowing soil to dry slightly. In dormancy, its water needs decrease. Consider climate zones for outdoor cultivation, as water requirements vary with temperature changes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   English walnut requires annual fertilization with balanced fertilizers, using high-nitrogen in spring for leaf growth. Apply in root zones according to package rates, avoiding excess. Adjust as english walnut matures, use slow-release formulas, and water post-application to enhance nutrient uptake. Reduce fall applications to prevent frost damage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   English walnut features a broad canopy and yields valuable nuts. Prune in early spring to enhance shape and remove dead wood, focusing on overcrowded branches for better air circulation. Use sharp tools for clean cuts; avoid heavy pruning to prevent stress and ensure optimal nut production.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Proliferating english walnut involves using cuttings from healthy parent trees. Select vigorous shoots with several nodes and consider pre-treating with rooting hormones. Maintain a moist, well-draining soil mix under indirect light for optimal root development. With care, cuttings establish a strong root system.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Juglans_regia.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is english walnut used for?",
+            "link": "/ask/Juglans_regia-0.html"
+        },
+        {
+            "q": "What is english walnut extract?",
+            "link": "/ask/Juglans_regia-1.html"
+        },
+        {
+            "q": "What is the difference between english walnut and black walnuts?",
+            "link": "/ask/Juglans_regia-2.html"
+        },
+        {
+            "q": "Can you eat english walnut?",
+            "link": "/ask/Juglans_regia-3.html"
+        },
+        {
+            "q": "Where do english walnut trees grow?",
+            "link": "/ask/Juglans_regia-4.html"
+        },
+        {
+            "q": "Are english walnut trees self pollinating?",
+            "link": "/ask/Juglans_regia-5.html"
+        },
+        {
+            "q": "Is english walnut wood worth anything?",
+            "link": "/ask/Juglans_regia-6.html"
+        },
+        {
+            "q": "How long does an english walnut tree live?",
+            "link": "/ask/Juglans_regia-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Juglans-regia-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Juglans-regia-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Juglans-regia-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Juglans-regia-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Juglans-regia-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Juglans-regia-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Juglans-regia-Black-mold.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Juglans-regia-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Juglans-regia-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Juglans-regia-Black-spot.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Juglans-regia-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Juglans-regia-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Juglans-regia-Spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Juglans-regia-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Juglans-regia-Scars.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Juglans-regia-Wilting.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Juglans-regia-Aphid.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Juglans-regia-Wounds.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Juglans-regia-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Juglans-regia-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Juglans-regia-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Juglans-regia-Yellow-edges.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Limonium sinense",
+                "link": "/wiki/Limonium_sinense.html",
+                "imageUrl": "/wiki-image/1080/154083377715085330.jpeg",
+                "displayName": "Sea lavender"
+            },
+            {
+                "scientificName": "Ruellia nudiflora",
+                "link": "/wiki/Ruellia_nudiflora.html",
+                "imageUrl": "/wiki-image/1080/153697870040530946.jpeg",
+                "displayName": "Violet wild petunia"
+            },
+            {
+                "scientificName": "Bulbine bulbosa",
+                "link": "/wiki/Bulbine_bulbosa.html",
+                "imageUrl": "/wiki-image/1080/154165712238149641.jpeg",
+                "displayName": "Golden lily"
+            },
+            {
+                "scientificName": "Hippeastrum reginae",
+                "link": "/wiki/Hippeastrum_reginae.html",
+                "imageUrl": "/wiki-image/1080/153756818466668570.jpeg",
+                "displayName": "Mexican lily"
+            },
+            {
+                "scientificName": "Linaria purpurea",
+                "link": "/wiki/Linaria_purpurea.html",
+                "imageUrl": "/wiki-image/1080/235294569227681792.jpeg",
+                "displayName": "Purple toadflax"
+            },
+            {
+                "scientificName": "Capsicum baccatum",
+                "link": "/wiki/Capsicum_baccatum.html",
+                "imageUrl": "/wiki-image/1080/317743458685124608.jpeg",
+                "displayName": "Aji peanut pepper"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Juglans_regia.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Juglans_regia.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Juglans_regia.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Juglans_regia.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Juglans_regia.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Juglans_regia.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Juglans_regia.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Juglans_regia.html",
+            "values": [
+                "Care English walnut",
+                "Care English walnut",
+                "Grow English walnut",
+                "Maintain English walnut",
+                "English walnut Care",
+                "English walnut Grow",
+                "English walnut Maintain",
+                "English walnut Cares",
+                "Growth English walnut",
+                "Maintains English walnut",
+                "English walnut Growth",
+                "English walnut Maintains",
+                "English walnut Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Juglans-regia-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Juglans_regia.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Juglans_regia.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Juglans_regia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Juglans_regia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Juglans_regia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Juglans_regia.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Juglans_regia.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Juglans_regia.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Juglans_regia.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Juglans_regia.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Juglans_regia.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Juglans_regia.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Juglans_regia.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Juglans_regia.html"
+        }
+    ]
+}

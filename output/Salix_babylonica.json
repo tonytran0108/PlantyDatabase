@@ -1,0 +1,934 @@
+{
+    "title": "Weeping willow (Salix babylonica) - PictureThis",
+    "displayName": "Weeping willow",
+    "otherCommonName": "Chinese weeping willow, Babylon willow",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202654806343680000.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 3456,
+                "height": 4608,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157575340745555968.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2592,
+                "height": 4608,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157685635505717256.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157121775019229188.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157522473993109512.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Weeping willow 'Chrysocoma'",
+            "link": "/wiki/Salix_ÃÂ_sepulcralis__Chrysocoma_.html"
+        },
+        {
+            "displayName": "Corkscrew willow",
+            "link": "/wiki/Salix_babylonica_var._pekinensis__Tortuosa_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Weeping willow (Salix babylonica) is a willow tree that originates in China. Now, it grows widely around the globe due to being traded on the Silk Road. This tree is planted ornamentally in parks and gardens.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Weeping willow (Salix babylonica) is a willow tree that originates in China. Now, it grows widely around the globe due to being traded on the Silk Road. This tree is planted ornamentally in parks and gardens.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Weeping willow (<i>Salix babylonica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Willows",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Salix.html"
+            },
+            {
+                "type": "Family",
+                "name": "Willow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Salicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m to 18 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   9 m to 15 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801707471142913.jpeg",
+        "habitat": "Woodland Garden Canopy",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Weeping willow grows naturally in dry steppes of China and Korea, but this tree has escaped cultivation to grow as an introduced species in parts of all other continents except Antarctica. It is considered an invasive species in Australia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "542",
+                "573",
+                "514",
+                "458",
+                "322",
+                "244",
+                "375",
+                "811",
+                "1010",
+                "939",
+                "403",
+                "587"
+            ],
+            "north": [
+                "3899",
+                "9655",
+                "21600",
+                "28203",
+                "27619",
+                "21411",
+                "19601",
+                "15991",
+                "13105",
+                "7130",
+                "2707",
+                "2964"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Weeping willow is most commonly used as an ornamental in parks and gardens because of its beautiful, drooping foliage. In open areas, it is deployed as a windbreak tree. It can also be used to help mitigate erosion by wind and rain. Perennial ground covers like Creeping myrtle or Carpet bugle can be planted around the base of a weeping willow.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, Divination, Protection",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Weeping willow",
+                "values": [
+                    "Salix plants are called willow. In order to distinguish each species, they are given different names according to their characteristics. This plant has a history of thousands of years and its biggest feature is its drooping branches. Hence, it is called a weeping willow. Also for its unique branches, it has been introduced into various countries."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Weeping habit with branches cascading to the ground, creating a rounded crown.",
+            "Male catkins measuring 1 to 2 inches (2.5 to 5 cm) long, more prominent than female catkins.",
+            "Distinct color transition of fruit from green to brown, releasing cottony seeds for dispersal.",
+            "Alternate, linear-lanceolate leaves with finely serrated margins, turning golden yellow in fall.",
+            "Smooth stems with reddish to yellowish-brown color, exhibiting elegant drooping appearance."
+        ],
+        "title": "Quickly Identify Weeping willow",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Salix-babylonica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from northern China, weeping willow exhibits high drought tolerance, needing water every 1-2 weeks. Its water requirements increase during spring and summer to support foliage growth, reflecting seasonal fluctuations typical of a deciduous tree grown outdoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of weeping willow, apply a balanced, slow-release fertilizer (N-P-K 10-10-10) in early spring, followed by monthly high nitrogen doses during the growing season. Use 2 pounds per inch of trunk diameter and stop fertilization in late fall to support winter dormancy, avoiding over-fertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Weeping willow features drooping branches and needs regular pruning for health and structure. Key techniques include removing damaged wood and thinning for air circulation. Best done in early spring to minimize sap loss, pruning promotes vigorous regrowth and prevents diseases, enhancing the tree's attractiveness.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Weeping willow features graceful branches and is best propagated through cuttings using healthy young stems with leaf nodes. Place cuttings in moist soil or water with warmth and indirect light. Careful moisture management is essential to prevent rot. Once established, weeping willow prefers moist, well-drained soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot 'weeping willow' every 2-3 years, preferably in spring, to manage its extensive root system. Use a spacious container and provide adequate water while avoiding direct sunlight post-repotting. Monitor soil moisture and apply mulch to maintain conditions. Ample space is essential for healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Salix_babylonica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How long does it take for a weeping willow to grow?",
+            "link": "/ask/Salix_babylonica-0.html"
+        },
+        {
+            "q": "How long do weeping willow live?",
+            "link": "/ask/Salix_babylonica-1.html"
+        },
+        {
+            "q": "How fast does a weeping willow grow?",
+            "link": "/ask/Salix_babylonica-2.html"
+        },
+        {
+            "q": "Where do weeping willow trees grow best?",
+            "link": "/ask/Salix_babylonica-3.html"
+        },
+        {
+            "q": "How far should I plant a weeping willow from the house?",
+            "link": "/ask/Salix_babylonica-4.html"
+        },
+        {
+            "q": "Can you keep a weeping willow small?",
+            "link": "/ask/Salix_babylonica-5.html"
+        },
+        {
+            "q": "Do weeping willow need a lot of water?",
+            "link": "/ask/Salix_babylonica-6.html"
+        },
+        {
+            "q": "Why are weeping willow called weeping willow?",
+            "link": "/ask/Salix_babylonica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Salix-babylonica-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Salix-babylonica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Salix-babylonica-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Salix-babylonica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Salix-babylonica-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Salix-babylonica-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Salix-babylonica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Salix-babylonica-Black-mold.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Salix-babylonica-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Salix-babylonica-Spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Salix-babylonica-Wounds.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Salix-babylonica-Scars.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Salix-babylonica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Salix-babylonica-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Salix-babylonica-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Salix-babylonica-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Salix-babylonica-Underwatering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Salix-babylonica-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Salix-babylonica-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Salix-babylonica-Aphid.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Salix-babylonica-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Salix-babylonica-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Salix-babylonica-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Erythrina variegata",
+                "link": "/wiki/Erythrina_variegata.html",
+                "imageUrl": "/wiki-image/1080/153453318897664027.jpeg",
+                "displayName": "Indian coral tree"
+            },
+            {
+                "scientificName": "Crocosmia crocosmiiflora",
+                "link": "/wiki/Crocosmia_crocosmiiflora.html",
+                "imageUrl": "/wiki-image/1080/348127925648130048.jpeg",
+                "displayName": "Montbretia"
+            },
+            {
+                "scientificName": "Ipomoea cordatotriloba",
+                "link": "/wiki/Ipomoea_cordatotriloba.html",
+                "imageUrl": "/wiki-image/1080/154200037616779295.jpeg",
+                "displayName": "Tievine"
+            },
+            {
+                "scientificName": "Callisia fragrans",
+                "link": "/wiki/Callisia_fragrans.html",
+                "imageUrl": "/wiki-image/1080/153873169130717209.jpeg",
+                "displayName": "Basket plant"
+            },
+            {
+                "scientificName": "Canna indica",
+                "link": "/wiki/Canna_indica.html",
+                "imageUrl": "/wiki-image/1080/154076621731528708.jpeg",
+                "displayName": "Indian shot"
+            },
+            {
+                "scientificName": "Peperomia pellucida",
+                "link": "/wiki/Peperomia_pellucida.html",
+                "imageUrl": "/wiki-image/1080/154041145301663773.jpeg",
+                "displayName": "Pepper elder"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Salix_babylonica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Salix_babylonica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Salix_babylonica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Salix_babylonica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Salix_babylonica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Salix_babylonica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Salix_babylonica.html",
+            "values": [
+                "Care Weeping willow",
+                "Care Weeping willow",
+                "Grow Weeping willow",
+                "Maintain Weeping willow",
+                "Weeping willow Care",
+                "Weeping willow Grow",
+                "Weeping willow Maintain",
+                "Weeping willow Cares",
+                "Growth Weeping willow",
+                "Maintains Weeping willow",
+                "Weeping willow Growth",
+                "Weeping willow Maintains",
+                "Weeping willow Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Salix-babylonica-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Salix_babylonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Salix_babylonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Salix_babylonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Salix_babylonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Salix_babylonica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Salix_babylonica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Salix_babylonica.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Salix_babylonica.html"
+        }
+    ]
+}

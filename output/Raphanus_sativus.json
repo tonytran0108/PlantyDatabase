@@ -1,0 +1,889 @@
+{
+    "title": "Radish (Raphanus sativus) - PictureThis",
+    "displayName": "Radish",
+    "otherCommonName": "Cultivated radish, Garden radish",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "egal",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/380133270318940160.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/1707238",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662380725764098.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 373,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/128832",
+                "authorLink": "https://www.inaturalist.org/people/loarie",
+                "author": "loarie",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153657450103308295.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6615724",
+                "authorLink": "https://www.inaturalist.org/people/nataliebee",
+                "author": "nataliebee",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153902658376171541.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16481674",
+                "authorLink": "https://www.inaturalist.org/people/leafxeater",
+                "author": "leafxeater",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153865283570761755.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Radish 'French Breakfast 3'",
+            "link": "/wiki/Raphanus_sativus__French_Breakfast_3_.html"
+        },
+        {
+            "displayName": "Radish 'Ping Pong'",
+            "link": "/wiki/Raphanus_sativus__Ping_Pong_.html"
+        },
+        {
+            "displayName": "Radish 'Rudi'",
+            "link": "/wiki/Raphanus_sativus__Rudi_.html"
+        },
+        {
+            "displayName": "Radish 'Escala'",
+            "link": "/wiki/Raphanus_sativus__Escala_.html"
+        },
+        {
+            "displayName": "Radish 'Bluemoon'",
+            "link": "/wiki/Raphanus_sativus__Bluemoon_.html"
+        },
+        {
+            "displayName": "Radish 'Pink Beauty'",
+            "link": "/wiki/Raphanus_sativus__Pink_Beauty_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Radish (Raphanus sativus) is a plant species that represents a food staple in many cultures around the world. The radish has a wide range of variations, including variants that grow in the spring, summer and winter. The root is generally eaten raw and can be used in salads or as a garnish.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Radish (Raphanus sativus) is a plant species that represents a food staple in many cultures around the world. The radish has a wide range of variations, including variants that grow in the spring, summer and winter. The root is generally eaten raw and can be used in salads or as a garnish.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Radish (<i>Raphanus sativus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Radishes",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Raphanus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cruciferae",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Brassicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mustards, capers, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Brassicales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Fall, Late winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm to 1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805199279554560.jpeg",
+        "habitat": "Cultivated Beds",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Radish is an ancient crop native to Europe Asia and North Africa. This important food crop has been introduced in all non-arctic continents of the world and prefers disturbed meadows and prairies. It is classified as an invasive species in Alaska and California.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 103.1239801, \"2\": 125.7250795, \"3\": 183.4030613, \"4\": 222.4377616, \"5\": 275.4598348, \"6\": 275.0, \"7\": 268.1766194, \"8\": 203.9499308, \"9\": 290.3868948, \"10\": 268.9098032, \"11\": 205.1106646, \"12\": 132.9211042}, \"flower_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 112.9638455, \"2\": 109.1942435, \"3\": 127.2852992, \"4\": 107.1073037, \"5\": 107.9639097, \"6\": 107.0, \"7\": 102.7177942, \"8\": 165.4481802, \"9\": 147.5930221, \"10\": 161.3505603, \"11\": 280.4569644, \"12\": 162.628257}, \"flower_month\": 11}, \"Csa\": {\"trends\": {\"1\": 30.8932869, \"2\": 27.43989098, \"3\": 35.08844385, \"4\": 54.14962889, \"5\": 59.71645711, \"6\": 56.0, \"7\": 72.74716774, \"8\": 99.12989918, \"9\": 94.75431427, \"10\": 104.2880297, \"11\": 65.24575221, \"12\": 41.49452117}, \"flower_month\": 10}, \"Csb\": {\"trends\": {\"1\": 9.412730672, \"2\": 11.13059361, \"3\": 29.88068646, \"4\": 27.9388713, \"5\": 31.30273296, \"6\": 22.0, \"7\": 13.78733032, \"8\": 28.68494371, \"9\": 28.9180639, \"10\": 36.94194451, \"11\": 37.26044149, \"12\": 16.16445623}, \"flower_month\": 11}, \"Default\": {\"trends\": {\"1\": 452.6255604, \"2\": 466.5631411, \"3\": 633.4575287, \"4\": 690.2373022, \"5\": 735.862764, \"6\": 746.0, \"7\": 766.118133, \"8\": 800.4242639, \"9\": 889.8287516, \"10\": 939.4456126, \"11\": 946.1443578, \"12\": 621.5937034}, \"flower_month\": 11}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 8.357277728, \"2\": 21.68503012, \"3\": 27.77893078, \"4\": 48.87021022, \"5\": 36.03688153, \"6\": 31.48372057, \"7\": 17.70475837, \"8\": 15.03692762, \"9\": 17.04164993, \"10\": 29.8591143, \"11\": 22.11194653, \"12\": 18.0}, \"flower_month\": 4}, \"BSk\": {\"trends\": {\"1\": 141.4475155, \"2\": 120.3803841, \"3\": 212.0209664, \"4\": 238.5568558, \"5\": 297.3278637, \"6\": 249.8035227, \"7\": 160.8862301, \"8\": 126.6094981, \"9\": 116.2503386, \"10\": 141.768013, \"11\": 127.3187848, \"12\": 109.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 251.171043, \"2\": 274.9391326, \"3\": 325.4529441, \"4\": 308.8133557, \"5\": 248.8570524, \"6\": 207.7937946, \"7\": 124.2450793, \"8\": 113.1617879, \"9\": 193.3822023, \"10\": 170.9019137, \"11\": 167.4056575, \"12\": 241.0}, \"flower_month\": 3}, \"Csb\": {\"trends\": {\"1\": 176.0336587, \"2\": 165.6701563, \"3\": 225.5187298, \"4\": 237.8900273, \"5\": 269.8226275, \"6\": 265.3081934, \"7\": 197.3117373, \"8\": 141.0196051, \"9\": 118.0685147, \"10\": 120.9526071, \"11\": 160.0638356, \"12\": 156.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 128.4076237, \"2\": 191.6615658, \"3\": 387.9399976, \"4\": 629.7266687, \"5\": 674.3466393, \"6\": 708.6360283, \"7\": 507.8695169, \"8\": 408.0011081, \"9\": 342.3238879, \"10\": 344.761193, \"11\": 204.6145496, \"12\": 131.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 294.8974923, \"2\": 376.1783131, \"3\": 539.7993831, \"4\": 591.8686799, \"5\": 632.4810582, \"6\": 684.9732564, \"7\": 439.8083789, \"8\": 290.1258475, \"9\": 307.2939434, \"10\": 333.4339885, \"11\": 378.0949336, \"12\": 258.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 86.63766307, \"2\": 138.3142369, \"3\": 287.953402, \"4\": 450.366093, \"5\": 530.3231448, \"6\": 515.4869696, \"7\": 335.775655, \"8\": 236.7458042, \"9\": 196.4238447, \"10\": 205.3571484, \"11\": 154.1841772, \"12\": 101.0}, \"flower_month\": 5}, \"Dfc\": {\"trends\": {\"1\": 2.31332202, \"2\": 0.696493581, \"3\": 9.547276749, \"4\": 25.82338431, \"5\": 28.13776913, \"6\": 14.05466284, \"7\": 10.26495017, \"8\": 7.454611255, \"9\": 4.203353432, \"10\": 2.096913758, \"11\": 6.25030705, \"12\": 3.0}, \"flower_month\": 5}, \"BWh\": {\"trends\": {\"1\": 344.0, \"2\": 390.0, \"3\": 488.0, \"4\": 481.0, \"5\": 399.0, \"6\": 258.0, \"7\": 131.0, \"8\": 140.0, \"9\": 249.0, \"10\": 397.0, \"11\": 351.0, \"12\": 320.0}, \"flower_month\": 3}, \"Default\": {\"trends\": {\"1\": 2343.00325, \"2\": 2840.840578, \"3\": 3613.427534, \"4\": 4342.11201, \"5\": 4517.264195, \"6\": 4374.084895, \"7\": 2910.753325, \"8\": 2184.674144, \"9\": 2266.765329, \"10\": 2575.659816, \"11\": 2844.685487, \"12\": 2490.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 711.0, \"2\": 1435.0, \"3\": 3038.0, \"4\": 5738.0, \"5\": 6013.0, \"6\": 3383.0, \"7\": 1629.0, \"8\": 1104.0, \"9\": 1408.0, \"10\": 1430.0, \"11\": 1149.0, \"12\": 682.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "There are more than 60 kinds of dishes that use radish as the main ingredient.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Radish is mostly planted in fields. This plant also can be spotted in vegetable gardens, where it is appreciated for its nutritious produce. Called a \"gardener's helper\", it pulls pests like aphids and flea beetles away from peppers, squash, and other vegetables. For this reason, it does very well in vegetable patches and is a good choice in cottage gardens. Companion plants include those listed above, with the radish being planted alongside those to act as a sacrificial plant to pests.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Pure and beautiful",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Thousands of years ago, a huge wild radish was presented to the palace. The emperor ordered the people to cook it into a dish. Cooks used exquisite sculpting skills to make soup from the radish. The emperor gave endless praise for the dish. Eventually, wild radish became a dish served at banquets.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Radish",
+                "values": [
+                    "Regardless of their color, what these radishes have in common is the part we consume is actually the plant's root. Therefore, this is how the radish got its name. Radish comes from the latin word radix meaning \"root\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Twice per week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Radish thrives in fertile soils with consistent moisture. It prefers evenly moist soil and should be watered twice a week. While moderately drought-tolerant, regular irrigation and seasonal rainfall are crucial for its optimal growth and yield as an annual vegetable.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, radish requires high-nitrogen fertilization every 4-6 weeks during the growing season, following label instructions. This promotes root development and foliage health. Reduce frequency in cooler months, ensure even distribution, and water thoroughly post-application. Adjust based on soil tests for best results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Radish produces crisp, edible roots. Prune crowded or yellowing leaves in early spring to improve airflow and prevent disease. Regular thinning promotes root development and larger harvests. Avoid heavy pruning to maintain yield, as it encourages healthier foliage and supports robust growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Radish is cultivated for its edible root and primarily propagated by sowing seeds in well-drained, fertile soil. For optimal germination, maintain consistent moisture, thin seedlings to avoid overcrowding, and ensure regular watering and full sun exposure for vigorous growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Radish requires excellent drainage in pots to thrive and prevent waterlogging, which can lead to root rot and other health issues.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Raphanus_sativus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What benefits does radish have for humans?",
+            "link": "/ask/Raphanus_sativus-0.html"
+        },
+        {
+            "q": "Is it bad to eat a lot of radish?",
+            "link": "/ask/Raphanus_sativus-1.html"
+        },
+        {
+            "q": "What are the side effects of radish?",
+            "link": "/ask/Raphanus_sativus-2.html"
+        },
+        {
+            "q": "What does radish symbolize?",
+            "link": "/ask/Raphanus_sativus-3.html"
+        },
+        {
+            "q": "How many radish per day should I eat?",
+            "link": "/ask/Raphanus_sativus-4.html"
+        },
+        {
+            "q": "Are radish good for weight loss?",
+            "link": "/ask/Raphanus_sativus-5.html"
+        },
+        {
+            "q": "Why does radish taste spicy?",
+            "link": "/ask/Raphanus_sativus-6.html"
+        },
+        {
+            "q": "Are radish anti inflammatory?",
+            "link": "/ask/Raphanus_sativus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Raphanus-sativus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Raphanus-sativus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Raphanus-sativus-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Raphanus-sativus-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Raphanus-sativus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Raphanus-sativus-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Raphanus-sativus-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Raphanus-sativus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Raphanus-sativus-Wilting.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Raphanus-sativus-Aphid.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Raphanus-sativus-Whitefly.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Raphanus-sativus-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Raphanus-sativus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Raphanus-sativus-Wounds.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Raphanus-sativus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Raphanus-sativus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Raphanus-sativus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Raphanus-sativus-Leaf-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Mangifera indica",
+                "link": "/wiki/Mangifera_indica.html",
+                "imageUrl": "/wiki-image/1080/317750884683579392.jpeg",
+                "displayName": "Mango tree"
+            },
+            {
+                "scientificName": "Calyptocarpus vialis",
+                "link": "/wiki/Calyptocarpus_vialis.html",
+                "imageUrl": "/wiki-image/1080/201171036876668928.jpeg",
+                "displayName": "Straggler daisy"
+            },
+            {
+                "scientificName": "Kalanchoe pinnata",
+                "link": "/wiki/Kalanchoe_pinnata.html",
+                "imageUrl": "/wiki-image/1080/154095334904037403.jpeg",
+                "displayName": "Life plant"
+            },
+            {
+                "scientificName": "Rosa canina",
+                "link": "/wiki/Rosa_canina.html",
+                "imageUrl": "/wiki-image/1080/202648157734305792.jpeg",
+                "displayName": "Dog rose"
+            },
+            {
+                "scientificName": "Casuarina equisetifolia",
+                "link": "/wiki/Casuarina_equisetifolia.html",
+                "imageUrl": "/wiki-image/1080/153752098297610279.jpeg",
+                "displayName": "Beach sheoak"
+            },
+            {
+                "scientificName": "Euphorbia prostrata",
+                "link": "/wiki/Euphorbia_prostrata.html",
+                "imageUrl": "/wiki-image/1080/154013086280319008.jpeg",
+                "displayName": "Prostrate sandmat"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Raphanus_sativus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Raphanus_sativus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Raphanus_sativus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Raphanus_sativus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Raphanus_sativus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Raphanus_sativus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Raphanus_sativus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Raphanus_sativus.html",
+            "values": [
+                "Care Radish",
+                "Care Radish",
+                "Grow Radish",
+                "Maintain Radish",
+                "Radish Care",
+                "Radish Grow",
+                "Radish Maintain",
+                "Radish Cares",
+                "Growth Radish",
+                "Maintains Radish",
+                "Radish Growth",
+                "Radish Maintains",
+                "Radish Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Raphanus-sativus-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Raphanus_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Raphanus_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Raphanus_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Raphanus_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Raphanus_sativus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Raphanus_sativus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Raphanus_sativus.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Raphanus_sativus.html"
+        }
+    ]
+}

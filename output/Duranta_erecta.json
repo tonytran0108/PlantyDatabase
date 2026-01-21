@@ -1,0 +1,945 @@
+{
+    "title": "Golden dewdrops (Duranta erecta) - PictureThis",
+    "displayName": "Golden dewdrops",
+    "otherCommonName": "Skyflower, Forget-me-not bush",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Mian Condro",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348114628429381632.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13495071",
+                "authorLink": "https://www.inaturalist.org/people/gio",
+                "author": "gio",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665541821693986.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/27634135",
+                "authorLink": "https://www.inaturalist.org/people/chuckdavis",
+                "author": "chuckdavis",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153912511031148561.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 480,
+                "height": 360,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/226762",
+                "authorLink": "https://www.inaturalist.org/people/sterling",
+                "author": "sterling",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153944534307307554.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 358,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9439005",
+                "authorLink": "https://www.inaturalist.org/people/portioid",
+                "author": "portioid",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154016638218272791.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Golden dewdrops (Duranta erecta) is an ornamental sprawling shrub commonly found in subtropical and tropical gardens all over the world. Its gentle purple blossoms are often visited by butterflies and hummingbirds. Golden dewdrops is considered a weed in Australia, South Africa and certain parts of East Asia.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Golden dewdrops (Duranta erecta) is an ornamental sprawling shrub commonly found in subtropical and tropical gardens all over the world. Its gentle purple blossoms are often visited by butterflies and hummingbirds. Golden dewdrops is considered a weed in Australia, South Africa and certain parts of East Asia.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Golden dewdrops (<i>Duranta erecta</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Golden dewdrops",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Duranta.html"
+            },
+            {
+                "type": "Family",
+                "name": "Verbena",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Verbenaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring, Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 7 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802111198068738.jpeg",
+        "habitat": "Sandy, Coastal areas, Disturbed sites",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The golden dewdrops plant originated in Mexico, Central and South America, and the Caribbean. It is also native to the southwestern United States where it grows in sunny locations along forest edges. It is also cultivated globally as a garden plant and is naturalized in many parts of the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 505.0590111, \"2\": 537.1166372, \"3\": 581.0208983, \"4\": 551.7714087, \"5\": 474.4915073, \"6\": 449.0, \"7\": 423.6281513, \"8\": 388.0917748, \"9\": 390.5407422, \"10\": 389.622821, \"11\": 543.6747424, \"12\": 536.6074208}, \"flower_month\": 3, \"fruit_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 64.12794722, \"2\": 69.91094856, \"3\": 63.64264958, \"4\": 52.82995387, \"5\": 37.82677128, \"6\": 37.0, \"7\": 25.4521968, \"8\": 35.55684575, \"9\": 49.37275471, \"10\": 34.81032497, \"11\": 55.01271224, \"12\": 60.40478117}, \"flower_month\": 2, \"fruit_month\": 2}, \"Csa\": {\"trends\": {\"1\": 40.64906171, \"2\": 38.773759, \"3\": 45.88488811, \"4\": 32.48977733, \"5\": 39.30703506, \"6\": 42.0, \"7\": 36.83400898, \"8\": 39.65195967, \"9\": 28.53396964, \"10\": 41.99208275, \"11\": 53.14371752, \"12\": 25.35776294}, \"flower_month\": 11, \"fruit_month\": 11}, \"Csb\": {\"trends\": {\"1\": 73.32021787, \"2\": 60.59989853, \"3\": 74.70171615, \"4\": 53.21689772, \"5\": 40.9343431, \"6\": 36.0, \"7\": 49.24046542, \"8\": 66.6731124, \"9\": 71.97384794, \"10\": 59.67544882, \"11\": 62.46603426, \"12\": 76.65080859}, \"flower_month\": 12, \"fruit_month\": 12}, \"Default\": {\"trends\": {\"1\": 1349.558907, \"2\": 1355.49765, \"3\": 1364.717289, \"4\": 1313.623534, \"5\": 1183.816046, \"6\": 1138.0, \"7\": 1025.932109, \"8\": 1158.508803, \"9\": 1248.176077, \"10\": 1119.00896, \"11\": 1332.969863, \"12\": 1379.541908}, \"flower_month\": 12, \"fruit_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 270.290857, \"2\": 328.509762, \"3\": 292.4735094, \"4\": 365.3992699, \"5\": 375.4617399, \"6\": 368.7367107, \"7\": 325.6126253, \"8\": 407.4004697, \"9\": 452.1994157, \"10\": 453.1472248, \"11\": 433.6014893, \"12\": 338.0}, \"flower_month\": 10, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 123.8412782, \"2\": 84.19545253, \"3\": 82.70043206, \"4\": 103.2918275, \"5\": 134.086336, \"6\": 141.8406513, \"7\": 169.8634218, \"8\": 174.0350255, \"9\": 229.9802359, \"10\": 209.0644769, \"11\": 153.5274682, \"12\": 138.0}, \"flower_month\": 9, \"fruit_month\": 9}, \"Csb\": {\"trends\": {\"1\": 45.28666737, \"2\": 57.65321439, \"3\": 32.84253346, \"4\": 28.96210899, \"5\": 29.47841921, \"6\": 33.12638697, \"7\": 30.62749355, \"8\": 40.43944559, \"9\": 46.34781234, \"10\": 55.57281947, \"11\": 49.56291355, \"12\": 44.0}, \"flower_month\": 10, \"fruit_month\": 2}, \"Cfa\": {\"trends\": {\"1\": 308.941465, \"2\": 363.754817, \"3\": 368.6643422, \"4\": 296.5335551, \"5\": 266.4455717, \"6\": 311.0738939, \"7\": 334.8774187, \"8\": 408.8617488, \"9\": 528.3604451, \"10\": 570.5869914, \"11\": 517.6100196, \"12\": 511.0}, \"flower_month\": 10, \"fruit_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 214.0, \"2\": 201.0, \"3\": 286.0, \"4\": 380.0, \"5\": 433.0, \"6\": 370.0, \"7\": 281.0, \"8\": 271.0, \"9\": 337.0, \"10\": 294.0, \"11\": 213.0, \"12\": 194.0}, \"flower_month\": 5, \"fruit_month\": 9}, \"Dfb\": {\"trends\": {\"1\": 42.0, \"2\": 42.0, \"3\": 43.0, \"4\": 102.0, \"5\": 166.0, \"6\": 158.0, \"7\": 128.0, \"8\": 108.0, \"9\": 110.0, \"10\": 109.0, \"11\": 51.0, \"12\": 31.0}, \"flower_month\": 5, \"fruit_month\": 9}, \"Default\": {\"trends\": {\"1\": 3070.0, \"2\": 3551.0, \"3\": 5091.0, \"4\": 6774.0, \"5\": 7904.0, \"6\": 6724.0, \"7\": 5718.0, \"8\": 5390.0, \"9\": 5616.0, \"10\": 5152.0, \"11\": 3442.0, \"12\": 2777.0}, \"flower_month\": 5, \"fruit_month\": 9}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "The golden dewdrop has a well-developed root system, strong water absorption and water retention capacity, and has good soil and water conservation effect.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Golden dewdrops can be clustered in flowerbeds, yards, at the poolside, and so on, and can also be used as a hedge. It is a popular choice as an annual plant due to its bright, appealing blooms that appear throughout the summer, remaining all year long in tropical regions. This plant is a good choice for tropical landscaping, Mediterranean gardens, and container plantings, and pairs well with larger-flowered plants like Canna and African lilies.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Cruelty, toxicity, evil, aggressive protection",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Golden dewdrops",
+                "values": [
+                    "Nobody believed that it was a grass weed when they saw this plant because its blooming pale blue or lilac flowers were extremely beautiful. In fact, his berries were more attractive than its flowers. His berries were round and orange, hanging on the branches like grapes and they were more glittering and translucent under sunlight like dewdrops. As they were like dewdrops, it's called golden dewdrops."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   If ingested, <strong>golden dewdrops can harm humans</strong>, cats, and dogs due to its extremely toxic <strong>fruits and leaves</strong>. Symptoms include severe vomiting, diarrhea, and abdominal pain. Immediate veterinary attention is essential for pets showing signs of poisoning.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Duranta_erecta.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Vibrant yellow-orange drupes, 0.5 inches (1.3 cm) wide, cluster in pendulous bunches.",
+            "Ovate to obovate serrated leaves, 1-3 inches (2.5-7.5 cm), thorn on rachis underside.",
+            "Long, vine-like green stems, 0.2 inches (5 mm) diameter, smooth texture with slight ridges.",
+            "Light brown trunk with slightly furrowed bark, developing weathered appearance over time.",
+            "Blue to violet flowers with white edging, 0.5 inches (1.3 cm) wide, arranged in racemes."
+        ],
+        "title": "Quickly Identify Golden dewdrops",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Duranta-erecta.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Golden dewdrops thrives in moist, humid conditions typical of tropical environments. Watering should be adjusted to once every 1-2 weeks, considering its moderate drought tolerance. Preferably grown outdoors, golden dewdrops benefits from mulching to retain moisture during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Golden dewdrops benefits from regular high-nitrogen fertilization every 4-6 weeks during the growing season, using 1-2 pounds per 100 square feet. Reduce frequency in winter. Avoid over-fertilization; ensure moist soil and no leaf contact. Juveniles need balanced feed for root establishment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Golden dewdrops can grow up to 6m (19.7 ft) high and wide, requiring annual pruning for management. It may bloom twice yearly. Pruning in early spring encourages flowers, while small poisonous orange fruits should be removed. Wear gloves due to thorns and potential allergic reactions from sap.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Golden dewdrops, native to tropical regions, is valued for its vibrant flowers. Propagation is best achieved through vigorous stem cuttings treated with rooting hormone, planted in well-draining soil. Proper light, temperature, moisture, and humidity management will ensure healthy growth and retain the plantÃ¢ÂÂs ornamental traits.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot golden dewdrops every 2-3 years to support bushy growth and vibrant blooms, ideally in spring. Use a pot one size larger and provide bright indirect light and even moisture post-repotting. A deep pot is essential for the plant's root system and overall vitality.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Duranta_erecta.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you prune a golden dewdrops tree?",
+            "link": "/ask/Duranta_erecta-0.html"
+        },
+        {
+            "q": "What is golden dewdrops?",
+            "link": "/ask/Duranta_erecta-1.html"
+        },
+        {
+            "q": "Does golden dewdrops need a lot of sunlight?",
+            "link": "/ask/Duranta_erecta-2.html"
+        },
+        {
+            "q": "How often should golden dewdrops be watered?",
+            "link": "/ask/Duranta_erecta-3.html"
+        },
+        {
+            "q": "Is golden dewdrops a perennial?",
+            "link": "/ask/Duranta_erecta-4.html"
+        },
+        {
+            "q": "How fast does golden dewdrops grow?",
+            "link": "/ask/Duranta_erecta-5.html"
+        },
+        {
+            "q": "Are golden dewdrops berries poisonous?",
+            "link": "/ask/Duranta_erecta-6.html"
+        },
+        {
+            "q": "How do you know if a cutting has rooted?",
+            "link": "/ask/Duranta_erecta-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Duranta-erecta-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Duranta-erecta-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Sooty mold",
+                "link": "/disease/Duranta-erecta-Sooty-mold.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Duranta-erecta-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Duranta-erecta-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Duranta-erecta-Scars.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Duranta-erecta-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Duranta-erecta-White-blotch.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Duranta-erecta-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Duranta-erecta-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Duranta-erecta-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Duranta-erecta-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Duranta-erecta-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Duranta-erecta-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Duranta-erecta-Spots.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Duranta-erecta-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Duranta-erecta-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Duranta-erecta-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Duranta-erecta-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Duranta-erecta-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Duranta-erecta-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Duranta-erecta-Mealybug.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Duranta-erecta-Branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Allium ampeloprasum",
+                "link": "/wiki/Allium_ampeloprasum.html",
+                "imageUrl": "/wiki-image/1080/154176698764492803.jpeg",
+                "displayName": "Broadleaf wild leek"
+            },
+            {
+                "scientificName": "Nicotiana glauca",
+                "link": "/wiki/Nicotiana_glauca.html",
+                "imageUrl": "/wiki-image/1080/153841485156974623.jpeg",
+                "displayName": "Tree tobacco"
+            },
+            {
+                "scientificName": "Kalanchoe marmorata",
+                "link": "/wiki/Kalanchoe_marmorata.html",
+                "imageUrl": "/wiki-image/1080/153757376812417039.jpeg",
+                "displayName": "Penwiper plant"
+            },
+            {
+                "scientificName": "Croton capitatus",
+                "link": "/wiki/Croton_capitatus.html",
+                "imageUrl": "/wiki-image/1080/154171660767854601.jpeg",
+                "displayName": "Hogwort"
+            },
+            {
+                "scientificName": "Kalmia latifolia",
+                "link": "/wiki/Kalmia_latifolia.html",
+                "imageUrl": "/wiki-image/1080/201214175528222720.jpeg",
+                "displayName": "Mountain laurel"
+            },
+            {
+                "scientificName": "Myrtus communis",
+                "link": "/wiki/Myrtus_communis.html",
+                "imageUrl": "/wiki-image/1080/347113789380263936.jpeg",
+                "displayName": "Common myrtle"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Duranta_erecta.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Duranta_erecta.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Duranta_erecta.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Duranta_erecta.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Duranta_erecta.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Duranta_erecta.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Duranta_erecta.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Duranta_erecta.html",
+            "values": [
+                "Care Golden dewdrops",
+                "Care Golden dewdrops",
+                "Grow Golden dewdrops",
+                "Maintain Golden dewdrops",
+                "Golden dewdrops Care",
+                "Golden dewdrops Grow",
+                "Golden dewdrops Maintain",
+                "Golden dewdrops Cares",
+                "Growth Golden dewdrops",
+                "Maintains Golden dewdrops",
+                "Golden dewdrops Growth",
+                "Golden dewdrops Maintains",
+                "Golden dewdrops Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Duranta-erecta-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Duranta_erecta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Duranta_erecta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Duranta_erecta.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Duranta_erecta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Duranta_erecta.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Duranta_erecta.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Duranta_erecta.html"
+        }
+    ]
+}

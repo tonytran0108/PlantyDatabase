@@ -1,0 +1,664 @@
+{
+    "title": "Petty spurge (Euphorbia peplus) - PictureThis",
+    "displayName": "Petty spurge",
+    "otherCommonName": "Cancer weed",
+    "mainImage": {
+        "copyright": {
+            "width": 1409,
+            "height": 1409,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154146204496691231.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19149823",
+                "authorLink": "https://www.inaturalist.org/people/kemper",
+                "author": "kemper",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660624084140061.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/2123743",
+                "authorLink": "https://www.inaturalist.org/people/joepb",
+                "author": "joepb",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153869144746360852.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32983941",
+                "authorLink": "https://www.inaturalist.org/people/silk128",
+                "author": "silk128",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153886062622539801.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 495,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6285375",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153879744725647380.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Petty spurge (Euphorbia peplus) is an annual plant from Europe, Asia, and Africa. It is fast-growing and has become invasive in some countries because it outcompetes other species for resources such as moisture and sunlight. Petty spurge latex is mildly toxic, has nevertheless attracted the attention of researchers in the US and Germany who hope to isolate useful compounds from it.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Petty spurge (Euphorbia peplus) is an annual plant from Europe, Asia, and Africa. It is fast-growing and has become invasive in some countries because it outcompetes other species for resources such as moisture and sunlight. Petty spurge latex is mildly toxic, has nevertheless attracted the attention of researchers in the US and Germany who hope to isolate useful compounds from it.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Petty spurge (<i>Euphorbia peplus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Spurges",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Euphorbia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Spurge",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Euphorbiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Early winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251757011371622400.png",
+        "habitat": "Cultivated arable land, gardens, other disturbed land",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The petty spurge has been widely distributed across the world where it is native to the regions of Europe, the Middle East, and Africa. It has since been introduced to the Americas, Asia, and Siberia. However, the petty spurge is considered invasive in Alaska. Its native habitat includes shrublands and riverine bushland. Some gardeners prize it for its ability to grown in areas where other plants will not thrive.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "645",
+                "693",
+                "686",
+                "643",
+                "699",
+                "664",
+                "969",
+                "1736",
+                "1945",
+                "1738",
+                "944",
+                "968"
+            ],
+            "north": [
+                "4362",
+                "6647",
+                "10509",
+                "18474",
+                "30336",
+                "22934",
+                "18273",
+                "11857",
+                "6774",
+                "3655",
+                "3027",
+                "3605"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Petty spurge can be suitable for lawns since it's drought tolerant, requires little pruning, it's generally disease and pest free, and produces dainty green flowers during the summer. However, care must be taken to stop it from becoming weedy.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purity, protection and wisdom",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "A common trait of all spurges is the milky, latex-like sap that leaks from the leaves and stems when crushed. This white, sticky substance can cause severe pain if it comes in contact with a personÃ¢ÂÂs eyes. Wear gloves when handling the spurge plant because the latex can irritate the skin and if not washed off, will become congealed, requiring an emulsion like milk or cream to remove.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Petty spurge",
+                "values": [
+                    "It is a species of Euphorbia that is native to most of Europe, northern Africa, and western Asia, where it typically grows in cultivated arable land, gardens, and other disturbed lands. When compared with the common plants in the Euphorbia genus, its flowers seem petty compared to the other plants. Therefore, it is called the petty spurge."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Petty spurge</strong> causes moderate toxicity after contact with broken parts or ingestion of its sap. <strong>Cats and dogs</strong> can experience symptoms like vomiting, diarrhea, and gastrointestinal distress. Contact with the milky sap may cause intense dermatitis and eye inflammation in animals. Immediate veterinary assistance is crucial if ingestion or contact occurs to aid in recovery. No airborne allergies linked to petty spurge exist.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Euphorbia_peplus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Petty spurge is a weed in the United States and the rest of North America, Europe, northern Africa, Western Asia, Australia, New Zealand, and the Pacific islands. It typically grows in gardens and agricultural fields. It is on AlaskaÃ¢ÂÂs invasive species list and in the U.S. Invasive Plant Atlas. Use gloves to remove due to the plantÃ¢ÂÂs sap, pulling straight up to remove the roots, or use an herbicide. The plantÃ¢ÂÂs sap can cause contact dermatitis and severe eye pain and is toxic if ingested. It is also called cancer weed because its sap is being studied for potential skin cancer treatments.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal season for the removal of petty spurge is late spring to early summer. The plant should ideally be removed before it starts to flower and set seeds, usually before late summer to fall.\n  </div> \n  <ol> \n   <li>Hand Pulling: This method involves physically removing petty spurge from the soil. Ensure you grab the plant from the base, near the root system, and pull upwards with a firm, steady pressure. This method is best done when the soil is moist, as it makes the plant easier to uproot completely.</li> \n   <li>Solarization: This is a process that uses the sun's energy to kill petty spurge. First, irrigate the area where the plant grows, then cover it with a clear plastic tarp. Leave the tarp in place for at least 4 to 6 weeks during the hottest part of summer. The heat trapped beneath the tarp will effectively kill the plant.</li> \n   <li>Smothering: This method involves covering petty spurge with a mat, tarp, or even old carpet, denying the plant access to sunlight and effectively starving it. The cover should be left in place for a full growing season to ensure the complete death of the plant.</li> \n   <li>Vinegar spray: In a spray bottle, mix equal portions of water and white vinegar. Spray this mixture directly onto the petty spurge on a hot sunny day. The acidity of the vinegar will help to kill the plant, while the hot sun will amplify the effects.</li> \n   <li>Planting Cover Crops: Plant a cover crop that can outcompete petty spurge for resources. This method requires that you plant the cover crop as soon as petty spurge is removed, depriving it of the opportunity to repopulate the area.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Tiny yellowish-green flowers in three-rayed umbels from June to September.",
+            "Smooth red-to-green gradient stem with thin branching habit.",
+            "Diminutive spherical fruit with three-lobed appearance, containing textured seeds.",
+            "Oval to rounded pale green leaves, 1 inch (2.5 cm) in length.",
+            "Adaptable herbaceous annual, growing upright to about a foot (30 cm) tall."
+        ],
+        "title": "Quickly Identify Petty spurge",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Euphorbia-peplus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from temperate regions, petty spurge thrives in consistent moisture and moderate drought tolerance. Watering should occur weekly, with increased frequency during active growth phases to maintain its herbaceous form, particularly when grown outdoors.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Petty spurge requires minimal fertilizer for healthy growth, thriving even in poor, well-drained soils. Fertilizer should be added only when lower leaves exhibit yellowing due to nutrient deficiency. In such cases, apply half-strength liquid fertilizer to nourish the plant for several months.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Petty spurge propagates easily by sowing in Spring. Successful outcomes are indicated by healthy roots and new leaf growth. Maintaining proper soil moisture and warmth is essential for optimal propagation results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Petty spurge requires excellent drainage in pots to thrive effectively.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Euphorbia_peplus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is petty spurge poisonous?",
+            "link": "/ask/Euphorbia_peplus-0.html"
+        },
+        {
+            "q": "Is petty spurge edible?",
+            "link": "/ask/Euphorbia_peplus-1.html"
+        },
+        {
+            "q": "How do I get rid of petty spurge?",
+            "link": "/ask/Euphorbia_peplus-2.html"
+        },
+        {
+            "q": "Where is petty spurge native?",
+            "link": "/ask/Euphorbia_peplus-3.html"
+        },
+        {
+            "q": "Where does petty spurge grow?",
+            "link": "/ask/Euphorbia_peplus-4.html"
+        },
+        {
+            "q": "Is petty spurge poisonous to pets?",
+            "link": "/ask/Euphorbia_peplus-5.html"
+        },
+        {
+            "q": "How tall can petty spurge get?",
+            "link": "/ask/Euphorbia_peplus-6.html"
+        },
+        {
+            "q": "Is petty spurge a weed?",
+            "link": "/ask/Euphorbia_peplus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Cassia fistula",
+                "link": "/wiki/Cassia_fistula.html",
+                "imageUrl": "/wiki-image/1080/154069088358891559.jpeg",
+                "displayName": "Golden shower tree"
+            },
+            {
+                "scientificName": "Hippeastrum striatum",
+                "link": "/wiki/Hippeastrum_striatum.html",
+                "imageUrl": "/wiki-image/1080/153844444389441561.jpeg",
+                "displayName": "Striped barbados lily"
+            },
+            {
+                "scientificName": "Philodendron hederaceum",
+                "link": "/wiki/Philodendron_hederaceum.html",
+                "imageUrl": "/wiki-image/1080/201221120490340352.jpeg",
+                "displayName": "Heartleaf philodendron"
+            },
+            {
+                "scientificName": "Caladium bicolor",
+                "link": "/wiki/Caladium_bicolor.html",
+                "imageUrl": "/wiki-image/1080/154122277233885212.jpeg",
+                "displayName": "Heart of jesus"
+            },
+            {
+                "scientificName": "Acacia dealbata",
+                "link": "/wiki/Acacia_dealbata.html",
+                "imageUrl": "/wiki-image/1080/152552840349351938.jpeg",
+                "displayName": "Silver wattle"
+            },
+            {
+                "scientificName": "Delonix regia",
+                "link": "/wiki/Delonix_regia.html",
+                "imageUrl": "/wiki-image/1080/153410137296470041.jpeg",
+                "displayName": "Royal poinciana"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Euphorbia_peplus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Euphorbia_peplus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Euphorbia_peplus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Euphorbia_peplus.html",
+            "values": [
+                "Care Petty spurge",
+                "Care Petty spurge",
+                "Grow Petty spurge",
+                "Maintain Petty spurge",
+                "Petty spurge Care",
+                "Petty spurge Grow",
+                "Petty spurge Maintain",
+                "Petty spurge Cares",
+                "Growth Petty spurge",
+                "Maintains Petty spurge",
+                "Petty spurge Growth",
+                "Petty spurge Maintains",
+                "Petty spurge Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Euphorbia_peplus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Euphorbia_peplus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Euphorbia_peplus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Euphorbia_peplus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Euphorbia_peplus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Euphorbia_peplus.html"
+        }
+    ]
+}

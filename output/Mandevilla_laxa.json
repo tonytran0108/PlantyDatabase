@@ -1,0 +1,909 @@
+{
+    "title": "Chilean jasmine (Mandevilla laxa) - PictureThis",
+    "displayName": "Chilean jasmine",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 5472,
+            "height": 3648,
+            "copyrightType": "Authorized",
+            "referral": "",
+            "authorLink": "",
+            "author": "alsages",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/157601909413249024.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 960,
+                "height": 639,
+                "copyrightType": "CC",
+                "referral": "https://pixabay.com/nl/photos/mandevilla-bloesem-kelk-bloem-4477857/",
+                "authorLink": "https://pixabay.com/ko/users/didgeman-153208/",
+                "author": "Didgeman",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154188759032659983.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3264,
+                "height": 2448,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Mandevilla_laxa_(15010367158).jpg",
+                "authorLink": "",
+                "author": "Mandevilla laxa",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154155601885134848.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3648,
+                "height": 2736,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "maple",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157521937122197509.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5472,
+                "height": 3648,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "alsages",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157601909413249024.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Chilean jasmine 'Alice du Pont'",
+            "link": "/wiki/Mandevilla_ÃÂ_amabilis__Alice_du_Pont_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Chilean jasmine (Mandevilla laxa) is a flowering plant species that grows best in full sunlight and well-drained soil. Chilean jasmine is native to Chile and Argentina. This species produces masses of heavily-scented white flowers in the summer months, which smell like vanilla.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Chilean jasmine (Mandevilla laxa) is a flowering plant species that grows best in full sunlight and well-drained soil. Chilean jasmine is native to Chile and Argentina. This species produces masses of heavily-scented white flowers in the summer months, which smell like vanilla.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Chilean jasmine (<i>Mandevilla laxa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Rocktrumpets",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Mandevilla.html"
+            },
+            {
+                "type": "Family",
+                "name": "Dogbane",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Apocynaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Gentians, dogbanes, madders, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Gentianales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 cm to 9 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen, Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805512812167168.jpeg",
+        "habitat": "Grazed ridgetop with some remnants of forest in ravines",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Chilean jasmine, a vine species, is indigenous to the high altitude regions of South America. This flowering plant has spread beyond its native spectrum and has since been introduced to various parts of the world. Acknowledging a broad adaptation range, chilean jasmine has been widely cultivated due to its ornamental appeal, enhancing its presence across multiple continents.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 130.229062, \"2\": 114.5207919, \"3\": 99.83160718, \"4\": 65.85651784, \"5\": 87.47440859, \"6\": 60.0, \"7\": 60.90347092, \"8\": 74.01629116, \"9\": 71.43292171, \"10\": 80.44007527, \"11\": 87.3731312, \"12\": 126.4886443}, \"flower_month\": 1}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 87.21216772, \"2\": 107.29332, \"3\": 166.223754, \"4\": 233.9334191, \"5\": 278.2796823, \"6\": 365.9157657, \"7\": 291.1414544, \"8\": 239.5908199, \"9\": 187.9602714, \"10\": 155.4156561, \"11\": 142.2514395, \"12\": 110.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 64.43164243, \"2\": 55.49657401, \"3\": 83.07928839, \"4\": 118.3699876, \"5\": 142.8273712, \"6\": 217.6398286, \"7\": 194.7023594, \"8\": 187.8817084, \"9\": 191.4863358, \"10\": 154.2600775, \"11\": 197.7300812, \"12\": 97.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 17.0, \"2\": 12.0, \"3\": 40.0, \"4\": 66.0, \"5\": 102.0, \"6\": 137.0, \"7\": 104.0, \"8\": 97.0, \"9\": 70.0, \"10\": 48.0, \"11\": 36.0, \"12\": 15.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 9.0, \"2\": 13.0, \"3\": 46.0, \"4\": 70.0, \"5\": 77.0, \"6\": 88.0, \"7\": 69.0, \"8\": 45.0, \"9\": 45.0, \"10\": 17.0, \"11\": 10.0, \"12\": 5.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Creeping, twining chilean jasmine is perfect for trellises, unsightly fencing, or to hide eyesores. This generally disease-free climber can bloom for much of the year creating long-term vertical garden interest. However, as it is prone to wind damage, it is not advised to keep it in exposed or coastal areas.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Thoughtlessness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Mandevilla laxa is the only mandevilla with a strong perfume, reminiscent of vanilla. It is a member of the dogbane family, which contains compounds that are toxic to people and animals, so it is best not ingested.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Chilean jasmine",
+                "values": [
+                    "Mandevillas commemorate Henry Mandeville (1773 Ã¢ÂÂ 1861), at one time the British Minister in Buenos Aires. Laxa means Ã¢ÂÂlooseÃ¢ÂÂ in Latin, referring to its growth form if not supported by a trellis or pergola.. Although it is called chilean jasmine, this plant is not a jasmine and only resembles it because of its heady perfume."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Chilean jasmine poses <strong>moderate toxicity risks</strong> to humans, cats, and dogs. Contact with sap can cause allergic skin reactions, while ingestion of the whole plant leads to symptoms like gastrointestinal distress, drooling, vomiting, and diarrhea. <strong>Saponins</strong> are the primary toxic substances. Immediate veterinary care is recommended if pets are affected.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Mandevilla_laxa.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Vine reaching 12 feet (3.65 meters) in height and width.",
+            "Bright green leaves with elongated, tapering point up to 6 inches (15 cm) long.",
+            "White, tubular flowers blooming 2 inches (5 cm) long and 2.5 inches (6.35 cm) wide.",
+            "Vanilla-scented flowers abundant in summer, particularly noticeable in the evenings.",
+            "Development of long bean-like fruit pods after flowering period."
+        ],
+        "title": "Quickly Identify Chilean jasmine",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Mandevilla-laxa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from tropical regions, chilean jasmine thrives in consistently moist, humid conditions. It prefers weekly watering and tolerates short dry spells. As an evergreen, chilean jasmine flourishes outdoors with sufficient rainfall, supporting its growth during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Regular fertilization is essential for chilean jasmine, promoting growth and blooms. Use balanced fertilizers like 10-10-10 bi-weekly in spring/summer, tapering to monthly in fall, and stop in winter. Young chilean jasmines need more frequent feeding; always water thoroughly after fertilizing to avoid root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chilean jasmine thrives with early spring pruning, focusing on removing dead stems and shaping for bushier growth. This practice supports healthy growth, improved blooming, enhanced air circulation, and light penetration. Always use clean, sharp tools for effective trimming.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chilean jasmine can be propagated through cuttings of healthy, non-flowering shoots, measuring 3-5 inches. Use a rooting hormone, plant in well-draining soil, and maintain humidity with a ventilated plastic cover. Once roots develop, transplant into a permanent pot or garden for further growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot chilean jasmine every 2-3 years in spring using a larger trellis-supportive pot to support its growth. After repotting, provide partial shade and maintain moist soil. Its resilience simplifies care, making chilean jasmine an aromatic and appealing addition to any garden.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Mandevilla_laxa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Where is chilean jasmine native?",
+            "link": "/ask/Mandevilla_laxa-0.html"
+        },
+        {
+            "q": "Is the chilean jasmine an evergreen?",
+            "link": "/ask/Mandevilla_laxa-1.html"
+        },
+        {
+            "q": "Is chilean jasmine tolerant to cold?",
+            "link": "/ask/Mandevilla_laxa-2.html"
+        },
+        {
+            "q": "How tall is chilean jasmine?",
+            "link": "/ask/Mandevilla_laxa-3.html"
+        },
+        {
+            "q": "When does chilean jasmine bloom?",
+            "link": "/ask/Mandevilla_laxa-4.html"
+        },
+        {
+            "q": "What is the lowest temperature a chilean jasmine can tolerate?",
+            "link": "/ask/Mandevilla_laxa-5.html"
+        },
+        {
+            "q": "How fast does chilean jasmine grow?",
+            "link": "/ask/Mandevilla_laxa-6.html"
+        },
+        {
+            "q": "Do all mandevilla plants climb?",
+            "link": "/ask/Mandevilla_laxa-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Mandevilla-laxa-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Mandevilla-laxa-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Mandevilla-laxa-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Mandevilla-laxa-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Mandevilla-laxa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Mandevilla-laxa-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Mandevilla-laxa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Mandevilla-laxa-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Mandevilla-laxa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Mandevilla-laxa-Wounds.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Mandevilla-laxa-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Mandevilla-laxa-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Mandevilla-laxa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Mandevilla-laxa-Spots.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Mandevilla-laxa-Aphid.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Betula alleghaniensis",
+                "link": "/wiki/Betula_alleghaniensis.html",
+                "imageUrl": "/wiki-image/1080/153930068857454606.jpeg",
+                "displayName": "Yellow Birch"
+            },
+            {
+                "scientificName": "Abies concolor",
+                "link": "/wiki/Abies_concolor.html",
+                "imageUrl": "/wiki-image/1080/153795563366645788.jpeg",
+                "displayName": "White fir"
+            },
+            {
+                "scientificName": "Neomarica gracilis",
+                "link": "/wiki/Neomarica_gracilis.html",
+                "imageUrl": "/wiki-image/1080/153685844132102161.jpeg",
+                "displayName": "Walking Iris"
+            },
+            {
+                "scientificName": "Pinus virginiana",
+                "link": "/wiki/Pinus_virginiana.html",
+                "imageUrl": "/wiki-image/1080/154158904714985501.jpeg",
+                "displayName": "Virginia pine"
+            },
+            {
+                "scientificName": "Aechmea fasciata",
+                "link": "/wiki/Aechmea_fasciata.html",
+                "imageUrl": "/wiki-image/1080/154195111289290794.jpeg",
+                "displayName": "Urn plant"
+            },
+            {
+                "scientificName": "Clethra alnifolia",
+                "link": "/wiki/Clethra_alnifolia.html",
+                "imageUrl": "/wiki-image/1080/154243983722151961.jpeg",
+                "displayName": "Summersweet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Mandevilla_laxa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Mandevilla_laxa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Mandevilla_laxa.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Mandevilla_laxa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Mandevilla_laxa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Mandevilla_laxa.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Mandevilla_laxa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Mandevilla_laxa.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Mandevilla_laxa.html",
+            "values": [
+                "Care Chilean jasmine",
+                "Care Chilean jasmine",
+                "Grow Chilean jasmine",
+                "Maintain Chilean jasmine",
+                "Chilean jasmine Care",
+                "Chilean jasmine Grow",
+                "Chilean jasmine Maintain",
+                "Chilean jasmine Cares",
+                "Growth Chilean jasmine",
+                "Maintains Chilean jasmine",
+                "Chilean jasmine Growth",
+                "Chilean jasmine Maintains",
+                "Chilean jasmine Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mandevilla-laxa-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Mandevilla_laxa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Mandevilla_laxa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Mandevilla_laxa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Mandevilla_laxa.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Mandevilla_laxa.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Mandevilla_laxa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Mandevilla_laxa.html"
+        }
+    ]
+}

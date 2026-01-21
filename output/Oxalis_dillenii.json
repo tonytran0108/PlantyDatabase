@@ -1,0 +1,606 @@
+{
+    "title": "Slender yellow woodsorrel (Oxalis dillenii) - PictureThis",
+    "displayName": "Slender yellow woodsorrel",
+    "otherCommonName": "Common yellow woodsorrel",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1383,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154497597246013442.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4765187",
+                "authorLink": "https://www.inaturalist.org/people/lkholt",
+                "author": "lkholt",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153742889887727644.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 374,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/36729559",
+                "authorLink": "https://www.inaturalist.org/people/rozzychan",
+                "author": "rozzychan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153678714486390813.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 450,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20844332",
+                "authorLink": "https://www.inaturalist.org/people/edanko",
+                "author": "edanko",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153829265975017473.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/29349965",
+                "authorLink": "https://www.inaturalist.org/people/tentoedsloth",
+                "author": "tentoedsloth",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153450497104150571.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The slender yellow woodsorrel flowers have five yellow petals that are between 5 mm and 1.02 cm. The easily distinguishable leaves come in threes and are 1.02 to 2 cm wide. The slender yellow woodsorrel can be found globally with likely origins somewhere in North America.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The slender yellow woodsorrel flowers have five yellow petals that are between 5 mm and 1.02 cm. The easily distinguishable leaves come in threes and are 1.02 to 2 cm wide. The slender yellow woodsorrel can be found globally with likely origins somewhere in North America.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Slender yellow woodsorrel (<i>Oxalis dillenii</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Wood sorrels",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Oxalis.html"
+            },
+            {
+                "type": "Family",
+                "name": "Wood sorrel",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Oxalidaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Woodsorrels, quandongs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Oxalidales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 mm to 8 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251755306269605889.png",
+        "habitat": "Fields, Lawns, Woodland edges, Disturbed sites",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The slender yellow woodsorrel's range runs from Central and Eastern Canada to East Mexico, where its found in grasslands, prairies, and disturbed ecosystems. It has been introduced to other parts of North America and many European countries, as well as Korea. It is often considered a weed even within its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "125",
+                "124",
+                "129",
+                "109",
+                "69",
+                "84",
+                "101",
+                "147",
+                "228",
+                "264",
+                "145",
+                "139"
+            ],
+            "north": [
+                "833",
+                "5003",
+                "25835",
+                "47239",
+                "39259",
+                "28694",
+                "18669",
+                "9730",
+                "4733",
+                "1192",
+                "473",
+                "411"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Slender yellow woodsorrel is used in landscapes as ornamental ground cover. This plant may be seen as an unwanted weed by some, but by others, its beauty in a pot gives the garden space a sense of grace. In warm areas, this plant will produce year-round blooms.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Joy, good-heartedness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Like other members of the genus Oxalis, slender yellow woodsorrel is an edible plant, rich in oxalic acid. The acid, responsible for the name of the genus, gives the leaves their refreshing, sour taste. However, because of the high oxalic acid content, slender yellow woodsorrel should not be consumed in large quantities.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Slender yellow woodsorrel",
+                "values": [
+                    "Although it is considered as a grass weed, it has a lovely appearance similar to clover heart-shaped leaves sprouting bright yellow flowers. It also has a slender stem that sets off its tenderness. People gathered all these qualities and decided to call it the slender yellow woodsorrel."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Slender yellow woodsorrel</strong> is mildly toxic, containing oxalic acid and potassium oxalate. It poses significant risks if ingested by <strong>cats and dogs</strong>, leading to physical discomfort and distress. All parts of the plant are toxic. Negative side effects are rare in humans if consumed in small amounts, but caution is advised for those with kidney issues, arthritis, gout, and hyperacidity.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Oxalis_dillenii.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Native to the majority of states in the US, slender yellow woodsorrel is a weed found worldwide. While not considered strictly invasive, Oxalis dillenii is quite a pain to contain and is considered a weed in most countries. The taproots are tough, and colonies arise from the widespread root system. Slender yellow woodsorrel is problematic in lawns and gardens as it can completely take over any unoccupied space and is nearly impossible to completely eradicate. Hand pulling is the most effective means of removal, as the plant cannot re-sprout from damaged roots. Herbicides are typically not very effective.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to remove 'slender yellow woodsorrel' is usually in the early spring or summer, before it has had a chance to spread or go to seed. Here are some organic and interesting methods to control or remove slender yellow woodsorrel:\n  </div> \n  <ol> \n   <li>Hand Pulling: Dig up the whole plant with its roots using a gardening tool. Be sure to remove as any tiny root fragments can potentially regrow. Dispose of the plants properly to prevent them from re-rooting.</li> \n   <li>Smothering: Cover the area with newspaper or cardboard, making sure no sunlight reaches the soil below. This will suffocate the plants and prevent them from growing.</li> \n   <li>Vinegar Spray: Combine equal parts of water and vinegar in a spray bottle. Spray it directly on the plant, specifically on warm, sunny days for the best results. The acetic acid will cause it to dry out and die.</li> \n   <li>Constant Mowing: Regularly mow or cut the plant close to the ground before it has a chance to seed. This gradually weakens the plant over time and restricts its growth.</li> \n   <li>Plant Competition: Plant dense, competitive species in the area to outcompete slender yellow woodsorrel. The more robust plants will absorb nutrients and block sunlight, limiting the resources available for slender yellow woodsorrel to grow.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Slender yellow woodsorrel prefers consistent moisture with well-drained soil, requiring weekly watering to thrive. This drought-sensitive species flourishes indoors where humidity and hydration are manageable, essential for its vigorous growth and lush foliage during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Slender yellow woodsorrel is a light feeder, requiring minimal fertilization if grown in balanced soil. Use half-strength liquid fertilizer every couple of months, avoiding feeding during winter dormancy. When repotting, incorporate organic compost for enhanced growth during the sprouting period.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune slender yellow woodsorrel during winter dormancy when foliage withers. Remove dead leaves, a normal process, as they will regrow in 2 to 4 weeks. Always disinfect pruning tools to minimize cross-contamination.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Slender yellow woodsorrel propagates easily via adventitious buds on its stems, making spring, summer, or autumn ideal for propagation. Successful signs include new growth from the stem. Selecting and preparing a healthy stem is crucial for effective propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Slender yellow woodsorrel requires outstanding drainage in pots to thrive, preventing waterlogging and ensuring healthy root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Oxalis_dillenii.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a slender yellow woodsorrel?",
+            "link": "/ask/Oxalis_dillenii-0.html"
+        },
+        {
+            "q": "How often should slender yellow woodsorrel be watered?",
+            "link": "/ask/Oxalis_dillenii-1.html"
+        },
+        {
+            "q": "Is slender yellow woodsorrel a perennial?",
+            "link": "/ask/Oxalis_dillenii-2.html"
+        },
+        {
+            "q": "How do you get rid of slender yellow woodsorrel?",
+            "link": "/ask/Oxalis_dillenii-3.html"
+        },
+        {
+            "q": "Is slender yellow woodsorrel poisonous to humans?",
+            "link": "/ask/Oxalis_dillenii-4.html"
+        },
+        {
+            "q": "Does oxalis need sun or shade?",
+            "link": "/ask/Oxalis_dillenii-5.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Halesia carolina",
+                "link": "/wiki/Halesia_carolina.html",
+                "imageUrl": "/wiki-image/1080/153907039242813461.jpeg",
+                "displayName": "Carolina Silverbell"
+            },
+            {
+                "scientificName": "Halesia tetraptera",
+                "link": "/wiki/Halesia_tetraptera.html",
+                "imageUrl": "/wiki-image/1080/153857539744727046.jpeg",
+                "displayName": "Carolina Silverbell"
+            },
+            {
+                "scientificName": "Platanus racemosa",
+                "link": "/wiki/Platanus_racemosa.html",
+                "imageUrl": "/wiki-image/1080/154255949501038599.jpeg",
+                "displayName": "California sycamore"
+            },
+            {
+                "scientificName": "Symphyotrichum lateriflorum",
+                "link": "/wiki/Symphyotrichum_lateriflorum.html",
+                "imageUrl": "/wiki-image/1080/202658654634377216.jpeg",
+                "displayName": "Calico aster"
+            },
+            {
+                "scientificName": "Pachyphytum 'Blue Haze'",
+                "link": "/wiki/Pachyphytum__Blue_Haze_.html",
+                "imageUrl": "/wiki-image/1080/393496283671691264.jpeg",
+                "displayName": "Blue haze"
+            },
+            {
+                "scientificName": "Haemanthus coccineus",
+                "link": "/wiki/Haemanthus_coccineus.html",
+                "imageUrl": "/wiki-image/1080/153818060405342220.jpeg",
+                "displayName": "Blood flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Oxalis_dillenii.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Oxalis_dillenii.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Oxalis_dillenii.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Oxalis_dillenii.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Oxalis_dillenii.html",
+            "values": [
+                "Care Slender yellow woodsorrel",
+                "Care Slender yellow woodsorrel",
+                "Grow Slender yellow woodsorrel",
+                "Maintain Slender yellow woodsorrel",
+                "Slender yellow woodsorrel Care",
+                "Slender yellow woodsorrel Grow",
+                "Slender yellow woodsorrel Maintain",
+                "Slender yellow woodsorrel Cares",
+                "Growth Slender yellow woodsorrel",
+                "Maintains Slender yellow woodsorrel",
+                "Slender yellow woodsorrel Growth",
+                "Slender yellow woodsorrel Maintains",
+                "Slender yellow woodsorrel Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Oxalis_dillenii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Oxalis_dillenii.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Oxalis_dillenii.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Oxalis_dillenii.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Oxalis_dillenii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Oxalis_dillenii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Oxalis_dillenii.html"
+        }
+    ]
+}

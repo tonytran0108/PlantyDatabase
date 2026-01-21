@@ -1,0 +1,626 @@
+{
+    "title": "Purple amaranth (Amaranthus blitum) - PictureThis",
+    "displayName": "Purple amaranth",
+    "otherCommonName": "Pigweed, Wild blite, Slender amaranth",
+    "mainImage": {
+        "copyright": {
+            "width": 1412,
+            "height": 1412,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/152640423322451970.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1158,
+                "height": 1700,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Amaranthus_lividus_(6896677687).jpg",
+                "authorLink": "https://www.flickr.com/people/47108884@N07",
+                "author": "Ton Rulkens",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153819250111283216.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/199119023",
+                "authorLink": "https://www.inaturalist.org/people/vreinkymov",
+                "author": "Vasily Reinkymov",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/349647046990823430.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23646769",
+                "authorLink": "https://www.inaturalist.org/people/susanhewitt",
+                "author": "Susan J. Hewitt",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422715745050918913.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 768,
+                "copyrightType": "CC",
+                "referral": "https://inaturalist-open-data.s3.amazonaws.com/photos/53573417/large.jpg",
+                "authorLink": "https://www.inaturalist.org/people/jim_keesling",
+                "author": "jim_keesling",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422715766525755397.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Purple amaranth (Amaranthus blitum) is an annual plant that often grows as a weed. It is not often cultivated, but some people around the world gather the leaves and stems to be eaten as boiled vegetables. It is particularly common in Greek and Lebanese kitchens.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Purple amaranth (Amaranthus blitum) is an annual plant that often grows as a weed. It is not often cultivated, but some people around the world gather the leaves and stems to be eaten as boiled vegetables. It is particularly common in Greek and Lebanese kitchens.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Purple amaranth (<i>Amaranthus blitum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Amaranths",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Amaranthus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Amaranth",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Amaranthaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pinks, cacti, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Caryophyllales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Early fall, Mid fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 38 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251756938357178368.png",
+        "habitat": "Waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Although the introduction purple amaranth has been worldwide, it originated from Eurasia, South America and Africa. This plant's natural habitat is wastelands. It's considered a weed in some countries in Europe and Asia and in Mozambique and Nigeria. Purple amaranth seems to cause the most trouble in Japan, particularly in warm upland farms.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1772",
+                "1611",
+                "1424",
+                "1138",
+                "898",
+                "798",
+                "945",
+                "1443",
+                "2141",
+                "2427",
+                "1939",
+                "1901"
+            ],
+            "north": [
+                "2147",
+                "3127",
+                "6401",
+                "18975",
+                "48120",
+                "26223",
+                "12682",
+                "8024",
+                "5469",
+                "2998",
+                "2442",
+                "2276"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Stems and leaves of the purple amaranth can be used as pig feed.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Purple amaranth is an annual summer weed. Its vigorous growth and prolific seed production can choke out garden plants, especially in containers and garden beds. The infestations usually begin on the borders of the beds. Purple amaranth is also known to attract aphids; otherwise, the plant doesn't have any adverse effect on soil or wildlife - in fact, it is edible to mammals, so in some cultures, it is harvested for this purpose.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Subtle love, immortality",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Purple amaranth is a humble and ordinary wild vegetable. Many people have never even noticed it. It grows in weeds and farmland. It permeates into your life like invisible love does around you.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Purple amaranth",
+                "values": [
+                    "Amaranthus is derived from its latin name Amaranthus, meaning eternal, undying and everlasting flower. Also, the plant produces red or purplish-red flowers, so it is called purple amaranth."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Purple amaranth is a \"pigweed\" that has been distributed around the world, favoring tropical areas. This species is considered a weed in Europe, Asia, and Africa (Nigeria and Mozambique, specifically). It has a negative impact on farms in Japan and Brazil and is considered one of the chief recurring weeds in crops there. It can outcompete commercial crops such as mulberries, cassava, pineapples, maize, and others. _Common_Name_ also has been reported as poisonous to livestock because of its high nitrate content. The weed can also outcompete native plants in grasslands and islands. In Africa, Central and North America, Asia, and the South Pacific Islands, it is eaten as a minor crop.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   Removing purple amaranth is best done in the fall season, before the weed has a chance to go to seed and spread further. Doing so will drastically limit its ability to re-emerge the following year. Here are a few methods of removal:\n  </div> \n  <ol> \n   <li>Hand Pulling: Wearing a pair of gardening gloves, grip the main stem near the soil surface and slowly pull the plant up, roots and all, which will prevent it from growing back.</li> \n   <li>Solarization: In a sunny area, cover the ground with a clear plastic sheet after watering it thoroughly. The heat from the sun will kill the weed seedlings that are trying to sprout. Do it for several weeks to ensure its effectiveness.</li> \n   <li>Organic Herbicides: Use vinegar as a natural herbicide, apply it directly onto the leaves of the weed, ensuring not to get it on your desired plants. This method is suitable for small infestations.</li> \n   <li>Mulching: Mulch the area with compost or straw to prevent light from reaching the soil surface, inhibiting the weed's growth.</li> \n   <li>Introduce a Ground Cover: Choosing a fast-growing, robust ground cover can smother the weed, blocking the light and therefore preventing the weed from growing.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Horizontal growth habit distinguishes purple amaranth from upright relatives.",
+            "Leaves with notched tips unique to purple amaranth.",
+            "Spirally arranged ovate leaves with reticulate veins, 2-6 inches (5-15 cm) long.",
+            "Green stems, slender, branching from the base to form a mat-like structure.",
+            "Flowers in leaf axils, small (&lt;0.1 inches/2.5 mm), greenish without noticeable fragrance."
+        ],
+        "title": "Quickly Identify Purple amaranth",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Amaranthus-blitum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Purple amaranth prefers a moist habitat, requiring consistent hydration while tolerating moderate drought. Weekly watering is essential for its vitality, and it benefits from rainwater during the growing season, aligning with its natural environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Purple amaranth propagates easily through sowing in Spring, with successful growth indicated by seedling emergence. Use a well-draining soil mix and maintain consistent moisture for optimal development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Amaranthus_blitum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is purple amaranth a weed?",
+            "link": "/ask/Amaranthus_blitum-0.html"
+        },
+        {
+            "q": "How do I get rid of purple amaranth?",
+            "link": "/ask/Amaranthus_blitum-1.html"
+        },
+        {
+            "q": "Is purple amaranth annual or perennial?",
+            "link": "/ask/Amaranthus_blitum-2.html"
+        },
+        {
+            "q": "Where is purple amaranth native?",
+            "link": "/ask/Amaranthus_blitum-3.html"
+        },
+        {
+            "q": "Is purple amaranth edible?",
+            "link": "/ask/Amaranthus_blitum-4.html"
+        },
+        {
+            "q": "Is amaranth or quinoa better to eat?",
+            "link": "/ask/Amaranthus_blitum-5.html"
+        },
+        {
+            "q": "What does purple amaranth taste like?",
+            "link": "/ask/Amaranthus_blitum-6.html"
+        },
+        {
+            "q": "What is purple amaranth good for?",
+            "link": "/ask/Amaranthus_blitum-7.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bidens frondosa",
+                "link": "/wiki/Bidens_frondosa.html",
+                "imageUrl": "/wiki-image/1080/154063242908401683.jpeg",
+                "displayName": "Devil's beggarticks"
+            },
+            {
+                "scientificName": "Rivina humilis",
+                "link": "/wiki/Rivina_humilis.html",
+                "imageUrl": "/wiki-image/1080/154037898306387969.jpeg",
+                "displayName": "Pigeonberry"
+            },
+            {
+                "scientificName": "Malva sylvestris",
+                "link": "/wiki/Malva_sylvestris.html",
+                "imageUrl": "/wiki-image/1080/153405511616692253.jpeg",
+                "displayName": "Common mallow"
+            },
+            {
+                "scientificName": "Verbascum thapsus",
+                "link": "/wiki/Verbascum_thapsus.html",
+                "imageUrl": "/wiki-image/1080/347086413258719232.jpeg",
+                "displayName": "Common mullein"
+            },
+            {
+                "scientificName": "Acalypha australis",
+                "link": "/wiki/Acalypha_australis.html",
+                "imageUrl": "/wiki-image/1080/153711472201957408.jpeg",
+                "displayName": "Asian copperleaf"
+            },
+            {
+                "scientificName": "Hibiscus syriacus",
+                "link": "/wiki/Hibiscus_syriacus.html",
+                "imageUrl": "/wiki-image/1080/347091940881629184.jpeg",
+                "displayName": "Rose of sharon"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Amaranthus_blitum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Amaranthus_blitum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Amaranthus_blitum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Amaranthus_blitum.html",
+            "values": [
+                "Care Purple amaranth",
+                "Care Purple amaranth",
+                "Grow Purple amaranth",
+                "Maintain Purple amaranth",
+                "Purple amaranth Care",
+                "Purple amaranth Grow",
+                "Purple amaranth Maintain",
+                "Purple amaranth Cares",
+                "Growth Purple amaranth",
+                "Maintains Purple amaranth",
+                "Purple amaranth Growth",
+                "Purple amaranth Maintains",
+                "Purple amaranth Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Amaranthus_blitum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Amaranthus_blitum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Amaranthus_blitum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Amaranthus_blitum.html"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Amaranthus_blitum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Amaranthus_blitum.html"
+        }
+    ]
+}

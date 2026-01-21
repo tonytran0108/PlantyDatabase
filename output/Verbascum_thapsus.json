@@ -1,0 +1,774 @@
+{
+    "title": "Common mullein (Verbascum thapsus) - PictureThis",
+    "displayName": "Common mullein",
+    "otherCommonName": "Greater Mullein, Blanket Leaf, Candlewick, Duffle, Feltwort, Flannel Leaf, Fluffweed, Hare's Beard, High Taper, King's Taper, Lady's Foxglove, Light of the Lord, Old Man's Flannel, Shepherd's Club, Torches, Velvet Leaf, White Mullein, Woundweed, Aaron's rod, Jupiter's staff",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Whiteway",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347086413258719232.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20410054",
+                "authorLink": "https://www.inaturalist.org/people/birds_bugs_botany",
+                "author": "birds_bugs_botany",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152528251661582338.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21349574",
+                "authorLink": "https://www.inaturalist.org/people/askalotl",
+                "author": "askalotl",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152528573784129542.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/28387423",
+                "authorLink": "https://www.inaturalist.org/people/conradaltmann",
+                "author": "conradaltmann",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152484254016602116.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/4948930",
+                "authorLink": "https://www.inaturalist.org/people/ck2az",
+                "author": "ck2az",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152506776825102340.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein (Verbascum thapsus) has been cultivated by farmers and gardeners since colonial times. This herb has a thick stem and leaves covered with a layer of Ã¢ÂÂfurÃ¢ÂÂ that feels like flannel. Today, it grows wild in many areas of the U.S., including roadsides and vacant lots. Flowers of common mullein are occasionally brewed into a tea.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common mullein (Verbascum thapsus) has been cultivated by farmers and gardeners since colonial times. This herb has a thick stem and leaves covered with a layer of Ã¢ÂÂfurÃ¢ÂÂ that feels like flannel. Today, it grows wild in many areas of the U.S., including roadsides and vacant lots. Flowers of common mullein are occasionally brewed into a tea.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common mullein (<i>Verbascum thapsus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mullein",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Verbascum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Figwort",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Scrophulariaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Biennial, Perennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805147739947009.jpeg",
+        "habitat": "Uncultivated fields, waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein is native to Europe, northern Africa, and Asia, where it can be found on rocky hillsides, open woodlands, and disturbed ground. It was introduced to the United States and Australia, and has also spread to New Zealand, Japan, and many Pacific and Caribbean islands. It is considered invasive outside its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 34.53043312, \"2\": 34.622565, \"3\": 29.32553461, \"4\": 28.94791993, \"5\": 14.18503923, \"6\": 23.0, \"7\": 12.7260984, \"8\": 15.96429809, \"9\": 14.18153593, \"10\": 21.63885066, \"11\": 32.36041896, \"12\": 37.68845321}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 137.9364265, \"2\": 130.8756352, \"3\": 93.28828214, \"4\": 91.92022184, \"5\": 66.89661491, \"6\": 84.0, \"7\": 70.42576627, \"8\": 71.77293594, \"9\": 60.39561663, \"10\": 79.52978731, \"11\": 130.6545351, \"12\": 143.210314}, \"flower_month\": 12}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 28.89316058, \"2\": 20.58780525, \"3\": 25.13923246, \"4\": 38.07344057, \"5\": 52.72231781, \"6\": 77.29532424, \"7\": 45.6172277, \"8\": 54.85788503, \"9\": 29.82420389, \"10\": 36.05383536, \"11\": 19.42817263, \"12\": 29.0}, \"flower_month\": 6}, \"BWk\": {\"trends\": {\"1\": 4.178638864, \"2\": 6.729836933, \"3\": 15.2588493, \"4\": 15.7019809, \"5\": 18.19802656, \"6\": 21.6747222, \"7\": 17.23263148, \"8\": 18.79615953, \"9\": 20.79081291, \"10\": 16.15329134, \"11\": 5.953216374, \"12\": 8.0}, \"flower_month\": 6}, \"BSk\": {\"trends\": {\"1\": 23.43509133, \"2\": 35.2706858, \"3\": 54.12349565, \"4\": 131.708244, \"5\": 167.0265717, \"6\": 252.3438975, \"7\": 291.6366709, \"8\": 246.1851351, \"9\": 243.6637892, \"10\": 165.3960152, \"11\": 68.14244818, \"12\": 42.0}, \"flower_month\": 7}, \"Csa\": {\"trends\": {\"1\": 32.26850206, \"2\": 35.01934751, \"3\": 38.67582395, \"4\": 58.41697184, \"5\": 88.26788953, \"6\": 122.7997856, \"7\": 111.6351309, \"8\": 75.70133397, \"9\": 93.07648053, \"10\": 74.112804, \"11\": 45.97150179, \"12\": 32.0}, \"flower_month\": 6}, \"Csb\": {\"trends\": {\"1\": 26.29548428, \"2\": 21.86846063, \"3\": 50.35855131, \"4\": 79.96456508, \"5\": 110.1874783, \"6\": 177.961487, \"7\": 166.0952535, \"8\": 157.0916925, \"9\": 139.3817422, \"10\": 95.26769052, \"11\": 34.93779152, \"12\": 25.0}, \"flower_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 167.6874797, \"2\": 201.3012094, \"3\": 202.2461427, \"4\": 260.9312709, \"5\": 329.8227676, \"6\": 500.5529564, \"7\": 446.3259004, \"8\": 305.6728313, \"9\": 258.151949, \"10\": 276.5287186, \"11\": 203.0741375, \"12\": 188.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 81.5042402, \"2\": 95.18327762, \"3\": 176.3990042, \"4\": 209.6008342, \"5\": 253.2136236, \"6\": 411.9172499, \"7\": 355.0792217, \"8\": 325.5408718, \"9\": 331.2811818, \"10\": 228.1507895, \"11\": 167.6265348, \"12\": 95.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 130.8013071, \"2\": 177.478999, \"3\": 327.1085989, \"4\": 528.0767112, \"5\": 485.0755897, \"6\": 858.5568735, \"7\": 726.6343829, \"8\": 509.2504327, \"9\": 488.3259432, \"10\": 431.7446824, \"11\": 281.5427939, \"12\": 181.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 28.05410042, \"2\": 59.38098129, \"3\": 133.0070476, \"4\": 317.4267041, \"5\": 292.497817, \"6\": 502.4434057, \"7\": 480.1278057, \"8\": 357.5644275, \"9\": 321.6205125, \"10\": 203.6241767, \"11\": 102.7894515, \"12\": 69.0}, \"flower_month\": 6}, \"Default\": {\"trends\": {\"1\": 566.803608, \"2\": 743.1818317, \"3\": 1153.937515, \"4\": 2058.85381, \"5\": 2376.538408, \"6\": 3943.621059, \"7\": 3464.836271, \"8\": 2564.51295, \"9\": 2319.646519, \"10\": 1747.769161, \"11\": 1000.238719, \"12\": 726.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common mullein is a commonly used border plant thanks to its attractive flowers and foliage. It is a successful self-seeder, and can tolerate a range of conditions so long as it has well-draining soils. Even without its bright yellow flowers, the wooly grey-green foliage is an interesting addition to the garden.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Toughness, courage, protection, health",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Common mullein is very colorful. Common mullein is mentioned in Andersen's fairy tales. It has worldwide influence.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common mullein",
+                "values": [
+                    "It is often called common mullein, where mullein originates from the latin word \"mollis\" meaning \"soft\". Generally, it is used to describe the fluffiness and softness of its leaves, which give a delicate sensation, bringing about the name common mullein."
+                ]
+            },
+            {
+                "key": "Beggar's blanket",
+                "values": [
+                    "It has a lesser-known utility in which its leaves can help keep shoes and clothes warm when the leaves are kept inside them during winter. Thus, it is called beggar's blanket."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein is <strong>toxic to cats and dogs</strong>. Ingestion of its leaves or seeds can cause poisoning, displaying signs of discomfort or serious symptoms like gastrointestinal upset and respiratory distress. Immediate veterinary care is crucial in cases of common mullein poisoning to manage and prevent further complications.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Verbascum_thapsus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein can be found in the Americas, Australia, and other non-native temperate regions as an introduced species. Common mullein usually spreads on degraded land, and although it doesn't grow in great densities, it can overshadow native plants. Although it is easy to remove by hand or tilling, and it doesn't compete with crops, common mullein is still considered an invasive weed because it is a prolific producer of long-living seeds. Also, it can spread in degraded and poor pastures and become dominant over time as cattle and sheep avoid grazing it.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of common mullein is during the spring season or early summer when the plants are still young and budding. It's ideal to remove them before they reach the flowering stage to prevent them from spreading and taking over your garden.\n  </div> \n  <ol> \n   <li>Hand weeding: This involves physically pulling out the plants from the ground. Make sure to wear thick gloves to protect your hands. Get a firm grip on the base of the plant and pull gently to remove the root system along with the plant. Dispose of them properly to prevent them from regrowing.</li> \n   <li>Smothering: This involves covering the ground with a layer of newspaper or landscaping fabric to block sunlight and suppress growth. Layer it around the common mullein plants and hold it down with rocks or garden staples. The plants will eventually die due to lack of sunlight.</li> \n   <li>Solarizing: During a hot period, cover the affected area with a clear plastic sheet. The heat will intensify under the sheet, effectively killing the common mullein plants underneath.</li> \n   <li>Organic herbicides: These are available in any garden store. Ensure it's suitable for common mullein and apply following the product's instructions. Be careful not to get it on other plants in your garden.</li> \n   <li>Animal grazing: Certain types of livestock, like goats and sheep, find common mullein appetizing. If you have access to these animals, this could be a natural and organic solution.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Prominent flower spike reaching 6 to 10 feet (1.8 to 3 meters) tall.",
+            "Yellow flowers with conspicuous, bearded stamens.",
+            "Dense, cylindrical flower cluster 1/2 - 2 feet (15 - 60 cm) long.",
+            "Ovoid fruit capsule covered in hairy texture, releasing abundant seeds.",
+            "Rosettes of soft, velvety leaves with dense woolly hairs."
+        ],
+        "title": "Quickly Identify Common mullein",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Verbascum-thapsus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein thrives in dry, sandy soils and shows high drought tolerance. Watering once a week is adequate, in line with its natural conditions. As a biennial, its growth cycle depends on rainfall, minimizing the need for human watering during its growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common mullein propagates best by sowing in Spring. This simple method results in successful seedlings when soil remains moist and well-draining during germination.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Verbascum_thapsus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is common mullein poisonous?",
+            "link": "/ask/Verbascum_thapsus-0.html"
+        },
+        {
+            "q": "How do you get rid of common mullein?",
+            "link": "/ask/Verbascum_thapsus-1.html"
+        },
+        {
+            "q": "What is common mullein used for?",
+            "link": "/ask/Verbascum_thapsus-2.html"
+        },
+        {
+            "q": "Is common mullein invasive?",
+            "link": "/ask/Verbascum_thapsus-3.html"
+        },
+        {
+            "q": "Why is common mullein such a troublesome invasive plant?",
+            "link": "/ask/Verbascum_thapsus-4.html"
+        },
+        {
+            "q": "How did Common mullein get its name?",
+            "link": "/ask/Verbascum_thapsus-5.html"
+        },
+        {
+            "q": "Can common mullein be transplanted?",
+            "link": "/ask/Verbascum_thapsus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Verbascum-thapsus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Verbascum-thapsus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Verbascum-thapsus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Verbascum-thapsus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Verbascum-thapsus-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Verbascum-thapsus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Verbascum-thapsus-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Verbascum-thapsus-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Verbascum-thapsus-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Verbascum-thapsus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Verbascum-thapsus-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Verbascum-thapsus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Verbascum-thapsus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Verbascum-thapsus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Verbascum-thapsus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Verbascum-thapsus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Verbascum-thapsus-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Verbascum-thapsus-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Verbascum-thapsus-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Verbascum-thapsus-Leaf-white-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Terminalia catappa",
+                "link": "/wiki/Terminalia_catappa.html",
+                "imageUrl": "/wiki-image/1080/153462046271209513.jpeg",
+                "displayName": "Tropical almond"
+            },
+            {
+                "scientificName": "Malus prunifolia",
+                "link": "/wiki/Malus_prunifolia.html",
+                "imageUrl": "/wiki-image/1080/153975290568114187.jpeg",
+                "displayName": "Plumleaf crab apple"
+            },
+            {
+                "scientificName": "Alternanthera brasiliana",
+                "link": "/wiki/Alternanthera_brasiliana.html",
+                "imageUrl": "/wiki-image/1080/201162859258904576.jpeg",
+                "displayName": "Brazilian joyweed"
+            },
+            {
+                "scientificName": "Erigeron canadensis",
+                "link": "/wiki/Erigeron_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153461895947354149.jpeg",
+                "displayName": "Horseweed"
+            },
+            {
+                "scientificName": "Solidago canadensis",
+                "link": "/wiki/Solidago_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153846660592566302.jpeg",
+                "displayName": "Canada goldenrod"
+            },
+            {
+                "scientificName": "Pyrus communis",
+                "link": "/wiki/Pyrus_communis.html",
+                "imageUrl": "/wiki-image/1080/153847584010534954.jpeg",
+                "displayName": "Common pear"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Verbascum_thapsus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Verbascum_thapsus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Verbascum_thapsus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Verbascum_thapsus.html",
+            "values": [
+                "Care Common mullein",
+                "Care Common mullein",
+                "Grow Common mullein",
+                "Maintain Common mullein",
+                "Common mullein Care",
+                "Common mullein Grow",
+                "Common mullein Maintain",
+                "Common mullein Cares",
+                "Growth Common mullein",
+                "Maintains Common mullein",
+                "Common mullein Growth",
+                "Common mullein Maintains",
+                "Common mullein Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Verbascum-thapsus-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Verbascum_thapsus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Verbascum_thapsus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Verbascum_thapsus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Verbascum_thapsus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Verbascum_thapsus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Verbascum_thapsus.html"
+        }
+    ]
+}

@@ -1,0 +1,842 @@
+{
+    "title": "Common asparagus fern (Asparagus setaceus) - PictureThis",
+    "displayName": "Common asparagus fern",
+    "otherCommonName": "Feathered Asparagus Fern, Asparagus Fern, Climbing asparagus fern, Climbing asparagus",
+    "mainImage": {
+        "copyright": {
+            "width": 1500,
+            "height": 1500,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153722132310786048.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/7325501",
+                "authorLink": "https://www.inaturalist.org/people/silversea_starsong",
+                "author": "silversea_starsong",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153940518512885797.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1600,
+                "height": 1200,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157398143279824910.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1600,
+                "height": 1200,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157481615969222662.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2112,
+                "height": 2816,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Starr_080117-1772_Asparagus_setaceus.jpg",
+                "authorLink": "http://www.hear.org/starr/",
+                "author": "Forest & Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154000330227449868.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common asparagus fern is not a true fern but does resemble one. This perennial clumping herb gets its Latin name, *Asparagus setaceus*, from the Latin '*seta*', which means hair or hairy. The leaves of the common asparagus fern are often described as hairy or lacy. The flowers are greenish-white and bell-shaped.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common asparagus fern is not a true fern but does resemble one. This perennial clumping herb gets its Latin name, *Asparagus setaceus*, from the Latin '*seta*', which means hair or hairy. The leaves of the common asparagus fern are often described as hairy or lacy. The flowers are greenish-white and bell-shaped.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common asparagus fern (<i>Asparagus setaceus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Asparagus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Asparagus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Asparagus",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asparagaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asparagus and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asparagales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid spring, Early summer, Mid summer, Mid fall, Late fall, Early winter, Mid winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805229344325632.jpeg",
+        "habitat": "Moist forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common asparagus fern is a plant with a broad geographic presence, native to various regions of the African continent. It is cultivated in certain areas for ornamental purposes. Beyond its native range, common asparagus fern has been introduced to multiple continents, including North and South America, Asia, and Oceania. While it is sometimes thought to be invasive in countries of the Mediterranean, as well as in parts of the Americas and New Zealand, it may have an impact on ecosystems in these regions.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1093",
+                "1143",
+                "1131",
+                "984",
+                "907",
+                "872",
+                "1200",
+                "1496",
+                "1708",
+                "1544",
+                "928",
+                "1168"
+            ],
+            "north": [
+                "8702",
+                "9437",
+                "11868",
+                "13312",
+                "12775",
+                "11175",
+                "11151",
+                "9855",
+                "8705",
+                "6843",
+                "6137",
+                "8595"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common asparagus fern is a creeping plant often used as ground cover in outdoor garden beds or in hanging containers with access to full sun or partial shade. The foliage is bright green and soft like feathers, making it an attractive addition to flower arrangements.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Eternity, pure friendship",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Although the common asparagus fern is not a bamboo, it has soft leaves that grow densely like feathers. It grows in layers and in an elegant shape. There are knots on its branches like bamboo. Compared to the bamboo, it has an elegant posture and unique charm.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common asparagus fern",
+                "values": [
+                    "It is a climbing plant in the Asparagus genus. Despite its common name, it is not a true fern but it appears like one. Since is one of the most common plant in the genus, it is called common asparagus fern."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Common asparagus fern<strong> is toxic to both cats and dogs</strong>. Ingesting any part of the plant can cause <strong>vomiting, diarrhea, and abdominal pain</strong> in pets. Immediate veterinary care is crucial if symptoms occur.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Asparagus_setaceus.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Africa, common asparagus fern thrives in humid, moisture-rich conditions and prefers consistently moist soil. While moderately drought-tolerant, it benefits from weekly watering. As an evergreen, common asparagus fern maintains year-round greenery, making it ideal for indoor environments with controlled humidity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilize common asparagus fern biweekly with diluted high nitrogen fertilizer in spring and summer, and monthly in fall and winter to enhance foliage density and vigor. Ensure even distribution to prevent root burn and adhere to dosage guidelines for healthy growth without overfertilization.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common asparagus fern features feathery, fern-like foliage. Prune in early spring to enhance growth and maintain shape by removing dead or dense stems. Monitor for overcrowding to prevent pests. Consult horticultural guides for comprehensive care recommendations.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To propagate common asparagus fern, use division in Spring and Autumn. This method has moderate difficulty, with success indicated by new shoots. Keep the soil regularly watered to enhance the chances of successful propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot common asparagus fern every 2-3 years in spring before growth. Use a pot one size larger to support root expansion. After repotting, provide bright indirect light and keep the soil moist. Avoid over-potting as common asparagus fern prefers slightly cramped conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Asparagus_setaceus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How much sun does a common asparagus fern need?",
+            "link": "/ask/Asparagus_setaceus-0.html"
+        },
+        {
+            "q": "Is a common asparagus fern actually a fern?",
+            "link": "/ask/Asparagus_setaceus-1.html"
+        },
+        {
+            "q": "Can a common asparagus fern live indoors?",
+            "link": "/ask/Asparagus_setaceus-2.html"
+        },
+        {
+            "q": "How do you care for a common asparagus fern?",
+            "link": "/ask/Asparagus_setaceus-3.html"
+        },
+        {
+            "q": "What is common asparagus fern good for?",
+            "link": "/ask/Asparagus_setaceus-4.html"
+        },
+        {
+            "q": "Is common asparagus fern poisonous?",
+            "link": "/ask/Asparagus_setaceus-5.html"
+        },
+        {
+            "q": "Why is it called common asparagus fern?",
+            "link": "/ask/Asparagus_setaceus-6.html"
+        },
+        {
+            "q": "Where is common asparagus fern native?",
+            "link": "/ask/Asparagus_setaceus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Asparagus-setaceus-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Asparagus-setaceus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Needles yellowing on branch",
+                "link": "/disease/Asparagus-setaceus-Needles-yellowing-on-branch.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Asparagus-setaceus-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Asparagus-setaceus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Asparagus-setaceus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Asparagus-setaceus-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Partial branch withering",
+                "link": "/disease/Asparagus-setaceus-Partial-branch-withering.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Asparagus-setaceus-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Asparagus-setaceus-Leaf-blight.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Crinum asiaticum",
+                "link": "/wiki/Crinum_asiaticum.html",
+                "imageUrl": "/wiki-image/1080/201176259556900864.jpeg",
+                "displayName": "Poisonbulb"
+            },
+            {
+                "scientificName": "Ledebouria socialis",
+                "link": "/wiki/Ledebouria_socialis.html",
+                "imageUrl": "/wiki-image/1080/153908907553587203.jpeg",
+                "displayName": "Silver squill"
+            },
+            {
+                "scientificName": "Salvia pratensis",
+                "link": "/wiki/Salvia_pratensis.html",
+                "imageUrl": "/wiki-image/1080/152507296516145154.jpeg",
+                "displayName": "Meadow sage"
+            },
+            {
+                "scientificName": "Schinus molle",
+                "link": "/wiki/Schinus_molle.html",
+                "imageUrl": "/wiki-image/1080/202656601640009728.jpeg",
+                "displayName": "Peruvian peppertree"
+            },
+            {
+                "scientificName": "Ipomoea quamoclit",
+                "link": "/wiki/Ipomoea_quamoclit.html",
+                "imageUrl": "/wiki-image/1080/154064548578459652.jpeg",
+                "displayName": "Cypress vine"
+            },
+            {
+                "scientificName": "Dysphania ambrosioides",
+                "link": "/wiki/Dysphania_ambrosioides.html",
+                "imageUrl": "/wiki-image/1080/153743336564326429.jpeg",
+                "displayName": "Mexican tea"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Asparagus_setaceus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Asparagus_setaceus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Asparagus_setaceus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Asparagus_setaceus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Asparagus_setaceus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Asparagus_setaceus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Asparagus_setaceus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Asparagus_setaceus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Asparagus_setaceus.html",
+            "values": [
+                "Care Common asparagus fern",
+                "Care Common asparagus fern",
+                "Grow Common asparagus fern",
+                "Maintain Common asparagus fern",
+                "Common asparagus fern Care",
+                "Common asparagus fern Grow",
+                "Common asparagus fern Maintain",
+                "Common asparagus fern Cares",
+                "Growth Common asparagus fern",
+                "Maintains Common asparagus fern",
+                "Common asparagus fern Growth",
+                "Common asparagus fern Maintains",
+                "Common asparagus fern Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Asparagus-setaceus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Asparagus-setaceus-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Asparagus-setaceus-Needles-yellowing-on-branch.html",
+            "values": [
+                "Needles yellowing on branch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Asparagus-setaceus-Partial-branch-withering.html",
+            "values": [
+                "Partial branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Asparagus-setaceus-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Asparagus_setaceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Asparagus_setaceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Asparagus_setaceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Asparagus_setaceus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Asparagus_setaceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Asparagus_setaceus.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Asparagus_setaceus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Asparagus_setaceus.html"
+        }
+    ]
+}

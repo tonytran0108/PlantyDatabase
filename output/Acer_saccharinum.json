@@ -1,0 +1,924 @@
+{
+    "title": "Silver maple (Acer saccharinum) - PictureThis",
+    "displayName": "Silver maple",
+    "otherCommonName": "Water maple, White maple",
+    "mainImage": {
+        "copyright": {
+            "width": 4912,
+            "height": 4912,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "maple",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201161076847476736.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23415743",
+                "authorLink": "https://www.inaturalist.org/people/treegrow",
+                "author": "treegrow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656367771549714.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 326,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/38699921",
+                "authorLink": "https://www.inaturalist.org/people/kaybi",
+                "author": "kaybi",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153932448269336578.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 477,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/26457031",
+                "authorLink": "https://www.inaturalist.org/people/kenkneidel",
+                "author": "kenkneidel",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153945006753710083.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/2406367",
+                "authorLink": "https://www.inaturalist.org/people/nickmdal",
+                "author": "nickmdal",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153939371756617737.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "The rapid growth rate of silver maple prominently manifests in the Spring and Summer seasons. During these periods, silver maple exhibits a significant increase in leaf production, quickly reaching its maximum canopy spread. There's a notable height increase, yielding tall, robust trunks. The rapid growth facilitates early maturity, resulting in flowering within a few years. As an insightful horticultural fact, silver maple's swift growth rate makes it ideal for landscape settings needing swift canopy closure.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Silver maple (Acer saccharinum) is one of the most common deciduous trees in the United States and southeast Canada. It is a 15 to 25 m tall, fast-growing, sun-loving tree. Its leaves have deeper angular notches between the five lobes than many other maple species. Silver maple is often found along waterways and wetlands, earning it an alternative name 'Water maple'.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Silver maple (Acer saccharinum) is one of the most common deciduous trees in the United States and southeast Canada. It is a 15 to 25 m tall, fast-growing, sun-loving tree. Its leaves have deeper angular notches between the five lobes than many other maple species. Silver maple is often found along waterways and wetlands, earning it an alternative name 'Water maple'.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Silver maple (<i>Acer saccharinum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Maples",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Acer.html"
+            },
+            {
+                "type": "Family",
+                "name": "Soapberry",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Sapindaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802721083424770.jpeg",
+        "habitat": "Banks of rivers, sandy soils, deep often submerged swamps",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The native range of silver maple is the central and eastern regions of North America. Silver maple is found in moist woodland conditions, such as floodplains. This tree has been cultivated as an ornamental in its native range and has been introduced to parts of Asia, Europe, and South America.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 51.9860904, \"2\": 45.8914565, \"3\": 50.40576535, \"4\": 53.48085635, \"5\": 28.79094819, \"6\": 18.0, \"7\": 14.27549316, \"8\": 14.04253095, \"9\": 28.8556835, \"10\": 44.73550536, \"11\": 51.38099693, \"12\": 43.4201484}, \"fall_foliage_month\": 4}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 3.728149752, \"2\": 2.685365902, \"3\": 6.744672124, \"4\": 38.07344057, \"5\": 42.86767897, \"6\": 32.3119798, \"7\": 43.25771592, \"8\": 45.17708179, \"9\": 49.975693, \"10\": 17.67344871, \"11\": 16.77887637, \"12\": 6.0}, \"fall_foliage_month\": 9}, \"BWk\": {\"trends\": {\"1\": 3.342911091, \"2\": 5.234317614, \"3\": 2.738767824, \"4\": 11.11488536, \"5\": 16.52189253, \"6\": 14.08065895, \"7\": 18.41294871, \"8\": 13.5910692, \"9\": 18.74581492, \"10\": 14.19531663, \"11\": 7.654135338, \"12\": 3.0}, \"fall_foliage_month\": 9}, \"BSk\": {\"trends\": {\"1\": 30.96779925, \"2\": 36.03743984, \"3\": 44.28286008, \"4\": 108.0437864, \"5\": 166.2920661, \"6\": 163.0920626, \"7\": 201.7153641, \"8\": 181.0454658, \"9\": 231.7308075, \"10\": 281.3880259, \"11\": 67.24583702, \"12\": 28.0}, \"fall_foliage_month\": 10}, \"Csa\": {\"trends\": {\"1\": 19.1866769, \"2\": 34.27425501, \"3\": 29.21259043, \"4\": 58.15144015, \"5\": 81.08068224, \"6\": 59.05427893, \"7\": 68.61295423, \"8\": 63.60472906, \"9\": 89.46185993, \"10\": 87.38673904, \"11\": 50.30843592, \"12\": 31.0}, \"fall_foliage_month\": 9}, \"Csb\": {\"trends\": {\"1\": 30.67806499, \"2\": 27.83258626, \"3\": 39.41104016, \"4\": 48.27018165, \"5\": 50.63631687, \"6\": 51.10079426, \"7\": 55.56141458, \"8\": 65.84371269, \"9\": 91.68070908, \"10\": 104.1406617, \"11\": 62.56302202, \"12\": 36.0}, \"fall_foliage_month\": 10}, \"Cfa\": {\"trends\": {\"1\": 294.8986711, \"2\": 356.6916166, \"3\": 417.7330469, \"4\": 654.8385948, \"5\": 609.7278263, \"6\": 498.3150147, \"7\": 558.3063557, \"8\": 624.0009071, \"9\": 717.719155, \"10\": 798.4711968, \"11\": 490.8897383, \"12\": 259.0}, \"fall_foliage_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 76.12188472, \"2\": 68.63556073, \"3\": 63.73792146, \"4\": 94.44975864, \"5\": 99.56796016, \"6\": 89.93301038, \"7\": 102.6136007, \"8\": 111.2960245, \"9\": 193.0692479, \"10\": 445.1475403, \"11\": 343.1228601, \"12\": 155.0}, \"fall_foliage_month\": 10}, \"Dfa\": {\"trends\": {\"1\": 481.9829981, \"2\": 946.5546614, \"3\": 692.8244358, \"4\": 1145.738988, \"5\": 1127.415629, \"6\": 876.031136, \"7\": 897.9899538, \"8\": 1059.422775, \"9\": 1514.658633, \"10\": 2017.798957, \"11\": 768.360305, \"12\": 415.0}, \"fall_foliage_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 135.3197785, \"2\": 144.1075034, \"3\": 153.1180789, \"4\": 221.1134733, \"5\": 316.8726351, \"6\": 285.3612349, \"7\": 269.3219794, \"8\": 316.7208848, \"9\": 450.8962697, \"10\": 563.6490508, \"11\": 288.2922897, \"12\": 132.0}, \"fall_foliage_month\": 10}, \"Default\": {\"trends\": {\"1\": 1089.262695, \"2\": 1749.477728, \"3\": 1688.18185, \"4\": 3307.347031, \"5\": 3703.717475, \"6\": 2977.127672, \"7\": 3066.604303, \"8\": 3295.342044, \"9\": 4350.88428, \"10\": 5196.324441, \"11\": 2189.356671, \"12\": 1095.0}, \"fall_foliage_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It is a first-class raw material for furniture, wooden flooring, bookcases and musical instruments; syrup made from silver maple is edible and can be processed into food.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Silver maple is an excellent landscaping tree for streets and parks, but it is also a popular choice for private yards and gardens. It is prized for its quick growth and ability to provide shade much earlier than most other trees, as well as for its small, attractive blooms and green and silvery leaves. Good companions to plant beneath this tree include Columbines, Wintergreen, and St. John's wort.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Persistence, warmth, sincerity, abundance, strength, tapping into the wisdom of dreams",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The maple leaf is a symbol of spirit in the hearts of the Canadian people. Those who can catch its leaves will get good luck and blessings. Those who see the falling of its leaves with their beloved ones will get good blessings.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Silver maple",
+                "values": [
+                    "Compared with the typical maple tree, its most unique feature is that its branches and trunks are silver gray, and its tree bark has a silver-white hairy texture. So, it is called silver maple."
+                ]
+            },
+            {
+                "key": "Water-maple||River maple",
+                "values": [
+                    "In the United States, it is a common tree and is often spotted in parks or gardens. However, if you happen to go to wetlands or riversides, it's still easy to find. As it is adaptable to wet environments, there is no need to worry about rotting roots caused by water. Also, its capability to adapt to wet environments leads to the naming of the water-maple or river maple."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Palmate leaves with deep lobes and silvery undersides, 3 to 6 inches (7.5 to 15 cm) wide.",
+            "Bark transitions from gray to dark brown, developing shaggy textured scales with age.",
+            "Rapid growth habit with weak, brittle branches prone to breakage in high winds.",
+            "Distinctive samara fruit with wing pairs spanning 80 to 90 degrees for wind dispersal.",
+            "Clustered flowers in small greenish-yellow to red blooms from February to April."
+        ],
+        "title": "Quickly Identify Silver maple",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Acer-saccharinum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Silver maple thrives in moist soils along waterways, preferring consistent moisture while being moderately drought-tolerant. Water once every 1-2 weeks, allowing slight soil drying. Typically grown outdoors, silver maple benefits from mulching to retain moisture and replicate its natural habitat's leaf litter.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of silver maple, use balanced fertilizer in spring and high-nitrogen in early fall. Fertilize annually to maintain vigor, adjusting amounts based on silver maple's life stage and conditions. Always water well after fertilizing to enhance nutrient uptake and prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Silver maple thrives with early spring pruning, removing dead or crossing branches for healthy structure. Make cuts outside the branch collar to prevent disease. This practice promotes sunlight and air circulation, reduces pests, and maintains size, ensuring an attractive landscape. Follow expert guidelines for optimal care.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Silver maple is a fast-growing, adaptable ornamental tree ideal for larger landscapes. Propagate via semi-hardwood cuttings in active growth with rooting hormone, ensuring a well-draining medium and adequate moisture while protecting from intense sunlight until rooting is established.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Acer_saccharinum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does a silver maple grow?",
+            "link": "/ask/Acer_saccharinum-0.html"
+        },
+        {
+            "q": "What is silver maple good for?",
+            "link": "/ask/Acer_saccharinum-1.html"
+        },
+        {
+            "q": "Why is it called a Silver maple?",
+            "link": "/ask/Acer_saccharinum-2.html"
+        },
+        {
+            "q": "What is the lifespan of a silver maple?",
+            "link": "/ask/Acer_saccharinum-3.html"
+        },
+        {
+            "q": "How can you tell if a silver maple is dying?",
+            "link": "/ask/Acer_saccharinum-4.html"
+        },
+        {
+            "q": "Is silver maple hard or soft?",
+            "link": "/ask/Acer_saccharinum-5.html"
+        },
+        {
+            "q": "What is the difference between a Red maple and a silver maple?",
+            "link": "/ask/Acer_saccharinum-6.html"
+        },
+        {
+            "q": "Where is the silver maple native to?",
+            "link": "/ask/Acer_saccharinum-7.html"
+        },
+        {
+            "q": "How do you care for silver maple?",
+            "link": "/ask/Acer_saccharinum-8.html"
+        },
+        {
+            "q": "How much sun does silver maple need?",
+            "link": "/ask/Acer_saccharinum-9.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Acer-saccharinum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Acer-saccharinum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Acer-saccharinum-Aphid.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Acer-saccharinum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black blotch",
+                "link": "/disease/Acer-saccharinum-Black-spot.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Acer-saccharinum-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Acer-saccharinum-Spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Acer-saccharinum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Acer-saccharinum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Acer-saccharinum-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Acer-saccharinum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Acer-saccharinum-Underwatering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Acer-saccharinum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Acer-saccharinum-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Acer-saccharinum-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Acer-saccharinum-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Acer-saccharinum-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Acer-saccharinum-Scars.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Acer-saccharinum-Gall.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Acer-saccharinum-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Acer-saccharinum-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Acer-saccharinum-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Acer-saccharinum-Wilting.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Acer-saccharinum-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Lilium bulbiferum",
+                "link": "/wiki/Lilium_bulbiferum.html",
+                "imageUrl": "/wiki-image/1080/221935795006504960.jpeg",
+                "displayName": "Orange lily"
+            },
+            {
+                "scientificName": "Opuntia microdasys",
+                "link": "/wiki/Opuntia_microdasys.html",
+                "imageUrl": "/wiki-image/1080/154126546431377426.jpeg",
+                "displayName": "Angel's-wings"
+            },
+            {
+                "scientificName": "Alocasia sanderiana",
+                "link": "/wiki/Alocasia_sanderiana.html",
+                "imageUrl": "/wiki-image/1080/222004243900334080.jpeg",
+                "displayName": "Kris plant"
+            },
+            {
+                "scientificName": "Parodia lenninghausii",
+                "link": "/wiki/Parodia_lenninghausii.html",
+                "imageUrl": "/wiki-image/1080/153815058223202319.jpeg",
+                "displayName": "Lemon ball cactus"
+            },
+            {
+                "scientificName": "Geranium macrorrhizum",
+                "link": "/wiki/Geranium_macrorrhizum.html",
+                "imageUrl": "/wiki-image/1080/200469715961708544.jpeg",
+                "displayName": "Bigroot geranium"
+            },
+            {
+                "scientificName": "Jatropha multifida",
+                "link": "/wiki/Jatropha_multifida.html",
+                "imageUrl": "/wiki-image/1080/209414298889158656.jpeg",
+                "displayName": "Coral plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Acer_saccharinum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Acer_saccharinum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Acer_saccharinum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Acer_saccharinum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Acer_saccharinum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Acer_saccharinum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Acer_saccharinum.html",
+            "values": [
+                "Care Silver maple",
+                "Care Silver maple",
+                "Grow Silver maple",
+                "Maintain Silver maple",
+                "Silver maple Care",
+                "Silver maple Grow",
+                "Silver maple Maintain",
+                "Silver maple Cares",
+                "Growth Silver maple",
+                "Maintains Silver maple",
+                "Silver maple Growth",
+                "Silver maple Maintains",
+                "Silver maple Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Acer-saccharinum-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Acer_saccharinum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Acer_saccharinum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Acer_saccharinum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Acer_saccharinum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Acer_saccharinum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Acer_saccharinum.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Acer_saccharinum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Acer_saccharinum.html"
+        }
+    ]
+}

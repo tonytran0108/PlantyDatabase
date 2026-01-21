@@ -1,0 +1,866 @@
+{
+    "title": "White spruce (Picea glauca) - PictureThis",
+    "displayName": "White spruce",
+    "otherCommonName": "Canadian spruce",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154149558866149400.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25676284",
+                "authorLink": "https://www.inaturalist.org/people/reuvenm",
+                "author": "reuvenm",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153885598766071833.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/15732290",
+                "authorLink": "https://www.inaturalist.org/people/jenna_arv",
+                "author": "jenna_arv",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153925043745718310.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 488,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/20863585",
+                "authorLink": "https://www.inaturalist.org/people/brewbooks",
+                "author": "brewbooks",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153712309720580133.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6367891",
+                "authorLink": "https://www.inaturalist.org/people/hannawacker",
+                "author": "hannawacker",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153395667551649796.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "White spruce's growth speed is slow, particularly becoming evident during summer, its active growing season. The limited growth speed results in incremental height gain and leaf production, displaying a seasonal rhythm of calculated development. Interestingly, despite its slow-growing nature, white spruce maintains resilience to environmental stressors, symbolizing quintessential adaptation. However, a milder growth speed is observed in other seasons compared to summer.",
+    "cultivars": [
+        {
+            "displayName": "White spruce 'Conica'",
+            "link": "/wiki/Picea_glauca_var._albertiana__Conica_.html"
+        },
+        {
+            "displayName": "White spruce 'J.W. Daisy's White'",
+            "link": "/wiki/Picea_glauca_var._albertiana__J.W._Daisy_s_White_.html"
+        },
+        {
+            "displayName": "White spruce 'Pendula'",
+            "link": "/wiki/Picea_glauca__Pendula_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   White spruce (Picea glauca) is a tree native to North America and growing widely throughout Alaska and Canada. White spruce is the symbolic tree of Canada's Manitoba province and the state of South Dakota in the United States. Commercially, its wood is used to make paper and materials for construction projects. This tree can be grown as a bonsai.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "White spruce (Picea glauca) is a tree native to North America and growing widely throughout Alaska and Canada. White spruce is the symbolic tree of Canada's Manitoba province and the state of South Dakota in the United States. Commercially, its wood is used to make paper and materials for construction projects. This tree can be grown as a bonsai.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "White spruce (<i>Picea glauca</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Spruces",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Picea.html"
+            },
+            {
+                "type": "Family",
+                "name": "Pine",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Pinaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Pines and Allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Pinales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Conifers",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Pinopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 m to 40 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 6 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 25 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802295881662464.jpeg",
+        "habitat": "Woods, along streams and lakes, rocky hills, slopes",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   White spruce is a cold-loving tree native to the riversides and uplands of the northern US and Canada. It also grows as an introduced species in Iceland, Norway, Finland and Austria.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "87",
+                "87",
+                "89",
+                "75",
+                "86",
+                "71",
+                "81",
+                "132",
+                "121",
+                "109",
+                "137",
+                "166"
+            ],
+            "north": [
+                "5200",
+                "7207",
+                "17249",
+                "34921",
+                "38676",
+                "25078",
+                "20618",
+                "18098",
+                "14934",
+                "9422",
+                "6252",
+                "5195"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "White spruce is an evergreen conifer that has attractive year-round needles that offer good ornamental appeal. This tree doesn't thrive in polluted urban environments and salty coastal conditions, so it is best suited to rural inland plantings in large ornamental gardens and parks. This is a tall tree that needs lots of space, so it makes a good specimen tree and can also be grown as a windbreak because of its dense foliage. White spruce pairs well with hydrangeas and ornamental grasses.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Eternal life, resilience, strength",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "A cold tolerant tree, the white spruce has a wide geographic range. Historically used by Native Americans for culinary as well as medicinal practices, it was often utilized for construction, fuel and recreation. A common source in modern day construction, the white spruce is an abundant species that has provided food and shelter for centuries.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "White spruce",
+                "values": [
+                    "The genus name, Picea is reportedly derived from the latin word pix meaning pitch which is in reference to the sticky resin typically found in spruce bark. Its specific epithet is in reference to the fact that the mature needles of this tree become glaucous with age. Also, the white flowers give rise to the name white spruce."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "4-sided needles, blue-green above and blue-white below, 0.5-1 inch (1.3-2.5 cm) long.",
+            "Distinctive odor when disturbed, resembling skunk or cat urine.",
+            "Inconspicuous male flowers are reddish, female flowers greenish, 0.4-1 inch (1-2.5 cm).",
+            "Thin, scaly trunk bark peels in circular plates, 2-4 inches (5-10 cm) in diameter.",
+            "Needles have a fine texture, firm and needle-like, contributing to the overall aesthetic appeal."
+        ],
+        "title": "Quickly Identify White spruce",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Picea-glauca.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 25 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White spruce thrives in cold, boreal climates with moderate moisture and prefers consistent humidity. Watering should occur every 1-2 weeks, especially during growth cycles. It is typically grown outdoors and requires careful attention to soil moisture for optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For white spruce, apply balanced fertilizers biannually in spring and late summer, adjusting for size. Young white spruce need more frequent feeding. Use slow-release formulations and water thoroughly after fertilization to enhance absorption and minimize root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   White spruce is an evergreen conifer with a pyramidal shape and blue-green needles. Prune in winter while dormant to minimize sap loss. Remove damaged branches first, then thin out overcrowded ones to enhance air circulation and light penetration, promoting healthier growth and maintaining natural form.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of white spruce is typically achieved through semi-hardwood cuttings treated with rooting hormones. Utilize healthy parent trees and plant in well-draining, nutrient-rich soil with high humidity and indirect light. Careful handling during the rooting process increases the chances of successful growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot white spruce every 2-3 years in early spring using a larger container with good drainage. Maintain consistently moist soil and ample sunlight post-repotting. Handle white spruce delicately to prevent root disruption during the process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Picea_glauca.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does a white spruce tree grow?",
+            "link": "/ask/Picea_glauca-0.html"
+        },
+        {
+            "q": "How big do white spruce trees get?",
+            "link": "/ask/Picea_glauca-1.html"
+        },
+        {
+            "q": "How do you take care of a white spruce tree?",
+            "link": "/ask/Picea_glauca-2.html"
+        },
+        {
+            "q": "What eats a white spruce?",
+            "link": "/ask/Picea_glauca-3.html"
+        },
+        {
+            "q": "What is the white spruce used for?",
+            "link": "/ask/Picea_glauca-4.html"
+        },
+        {
+            "q": "How long does a white spruce live?",
+            "link": "/ask/Picea_glauca-5.html"
+        },
+        {
+            "q": "What is the difference between a white spruce and a Norway spruce?",
+            "link": "/ask/Picea_glauca-6.html"
+        },
+        {
+            "q": "How can you tell a white spruce from a black spruce?",
+            "link": "/ask/Picea_glauca-7.html"
+        },
+        {
+            "q": "How far apart do you plant white spruce?",
+            "link": "/ask/Picea_glauca-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dieback",
+                "link": "/disease/Picea-glauca-Dieback.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Picea-glauca-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Picea-glauca-Wilting.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Picea-glauca-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Picea-glauca-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Picea-glauca-Mealybug.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Picea-glauca-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Witches broom",
+                "link": "/disease/Picea-glauca-Witches--broom.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Picea-glauca-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Picea-glauca-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Picea-glauca-Branch-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Choisya ternata",
+                "link": "/wiki/Choisya_ternata.html",
+                "imageUrl": "/wiki-image/1080/153943941601820695.jpeg",
+                "displayName": "Mexican orange"
+            },
+            {
+                "scientificName": "Sorbus aria",
+                "link": "/wiki/Sorbus_aria.html",
+                "imageUrl": "/wiki-image/1080/200423021077200896.jpeg",
+                "displayName": "Whitebeam"
+            },
+            {
+                "scientificName": "Rubus idaeus",
+                "link": "/wiki/Rubus_idaeus.html",
+                "imageUrl": "/wiki-image/1080/317740555287232512.jpeg",
+                "displayName": "Red raspberry"
+            },
+            {
+                "scientificName": "Chamaedorea cataractarum",
+                "link": "/wiki/Chamaedorea_cataractarum.html",
+                "imageUrl": "/wiki-image/1080/154115521250328585.jpeg",
+                "displayName": "Cat palm"
+            },
+            {
+                "scientificName": "Nepenthes mirabilis",
+                "link": "/wiki/Nepenthes_mirabilis.html",
+                "imageUrl": "/wiki-image/1080/154075157147680769.jpeg",
+                "displayName": "Common swamp pitcher-plant"
+            },
+            {
+                "scientificName": "Schizolobium parahyba",
+                "link": "/wiki/Schizolobium_parahyba.html",
+                "imageUrl": "/wiki-image/1080/222358278054641664.jpeg",
+                "displayName": "Brazilian fern tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Picea_glauca.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Picea_glauca.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Picea_glauca.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Picea_glauca.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Picea_glauca.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Picea_glauca.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Picea_glauca.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Picea_glauca.html",
+            "values": [
+                "Care White spruce",
+                "Care White spruce",
+                "Grow White spruce",
+                "Maintain White spruce",
+                "White spruce Care",
+                "White spruce Grow",
+                "White spruce Maintain",
+                "White spruce Cares",
+                "Growth White spruce",
+                "Maintains White spruce",
+                "White spruce Growth",
+                "White spruce Maintains",
+                "White spruce Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Picea-glauca-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Picea-glauca-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Picea-glauca-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Picea-glauca-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Picea_glauca.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Picea_glauca.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Picea_glauca.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Picea_glauca.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Picea_glauca.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Picea_glauca.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Picea_glauca.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Picea_glauca.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Picea_glauca.html"
+        }
+    ]
+}

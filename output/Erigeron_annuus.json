@@ -1,0 +1,555 @@
+{
+    "title": "Annual fleabane (Erigeron annuus) - PictureThis",
+    "displayName": "Annual fleabane",
+    "otherCommonName": "White top, Sweet scabious",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154210216689270785.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5418787",
+                "authorLink": "https://www.inaturalist.org/people/eric_v",
+                "author": "eric_v",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665614836137991.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/6974845",
+                "authorLink": "https://www.inaturalist.org/people/kennedy9094",
+                "author": "kennedy9094",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153669136709320704.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5785699",
+                "authorLink": "https://www.inaturalist.org/people/anro",
+                "author": "anro",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153949834296950826.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8616943",
+                "authorLink": "https://www.inaturalist.org/people/paul_luap",
+                "author": "paul_luap",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153866374492454924.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While native to North America, the annual fleabane has been introduced to other places around the world, as well as in 43 states of the United States. It is a popular choice for bees, flies, wasps, and butterflies as a source of nectar, but is invasive and is threatening the native ecosystem where they grow.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While native to North America, the annual fleabane has been introduced to other places around the world, as well as in 43 states of the United States. It is a popular choice for bees, flies, wasps, and butterflies as a source of nectar, but is invasive and is threatening the native ecosystem where they grow.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Annual fleabane (<i>Erigeron annuus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Fleabanes",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Erigeron.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual, Biennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid summer, Late summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 to 150 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736842205200386.png",
+        "habitat": "Fields, Waste places",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The native range of the annual fleabane runs from Canada, USA, and Nicaragua to Panama. The species has been introduced to much of Europe, as well as to several East Asian countries, including Korea, where it's considered invasive. It naturally occurs in waste areas and disturbed sites and tends to invade similar habitats outside of its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "23",
+                "28",
+                "49",
+                "80",
+                "95",
+                "66",
+                "55",
+                "63",
+                "48",
+                "28",
+                "18",
+                "47"
+            ],
+            "north": [
+                "880",
+                "2099",
+                "37627",
+                "150309",
+                "126836",
+                "62170",
+                "37602",
+                "24757",
+                "15256",
+                "5643",
+                "1327",
+                "901"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "It is grown on hillsides, roadsides and fields.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Vitality, innocence",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Annual fleabane often grows along urban and rural roadsides. Experts say that the annual fleabane is a \"pioneer species\", as they can open up, take root, bloom and bear fruit even in the wasteland! After crossing oceans and seas from the United States to China, annual fleabane quickly occupies a country with the spirit of a pioneer. Most little white flowers along the roadside are annual fleabane !",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Eastern daisy fleabane",
+                "values": [
+                    "It is very similar to the real daisy, but it has more ray flowers than the real daisy. It is widespread in many areas, especially in the eastern region where it gets more active. It is often introduced as a pioneer species to combat the widespread of weed. Also, the flowers are similar to daisies and are easy to attract fleas, so it is called Eastern daisy fleabane."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Annual fleabane may cause <strong>dermatitis</strong> if its juice, sap, or thorns contact skin, leading to symptoms like red, itchy, or blistered skin. <strong>Toxic to cats and dogs</strong> if ingested, causing potential poisoning symptoms such as vomiting or diarrhea. Immediate veterinary care is essential for pets that consume any part of annual fleabane. Protective equipment is advised when handling this plant.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Erigeron_annuus.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Annual fleabane is native to North America and is categorized as invasive in parts of Asia and Europe. The plant is recognizable by its daisy-like clumps of flowers and sudden appearance in gardens. Its unsightly leaves and crooked stems exude the appearance of a weed, which can greatly detract from the look of an ornamental garden. Annual fleabane is also an aggressive spreader due to its high re-seeding rate and ability to self-pollinate. The plant directly competes with other plants in the vicinity, causing problems for native species and vegetable beds alike. Manually pulling for a couple of years will wear away the root system and lead to elimination.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for the removal of annual fleabane is in early spring before it has a chance to flower and set seed. This is typically before mid-summer.\n  </div> \n  <ol> \n   <li>Hand Pulling: Wear a pair of gardening gloves. Use your hands to physically pull out the plant from the ground, making sure you remove the entire root system to prevent it from regrowing. Dispose of the plant in your green waste bin.</li> \n   <li>Hoeing: Using a garden hoe, dig around the base of annual fleabane to loosen the soil. Once the soil is loose, pull the plant and its root system out. Make sure to hoe regularly to keep the plant from returning.</li> \n   <li>Mulching: Shred organic material like leaves, wood chips, or straw and distribute it around the area where annual fleabane is growing. The mulch should be 2-3 inches thick to effectively block sunlight and suppress the growth of the plant.</li> \n   <li>Solarization: This is a longer method taking a full season but effective for large infestations. Wet the soil and cover it with a clear plastic tarp during the hottest part of the year. The sun will heat the soil under the plastic, killing the plant and its seeds.</li> \n   <li>Planting Competitive Species: Choose plants that are local to your area and known to grow well. Plant these in the same area as annual fleabane to naturally compete for resources and space, discouraging the growth of annual fleabane.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Annual fleabane thrives in moisture-rich environments similar to temperate regions. It tolerates moderate drought and requires weekly watering to maintain hydration. Typically grown outdoors, annual fleabane benefits from natural rainfall, ensuring soil remains evenly moist but not waterlogged during its active growth season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Annual fleabane propagates easily through spring sowing, exhibiting low difficulty. Successful growth is signified by healthy root establishment, and no specific additional tips are necessary for effective propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Erigeron_annuus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Do you cut back Erigeron?",
+            "link": "/ask/Erigeron_annuus-0.html"
+        },
+        {
+            "q": "Where is annual fleabane native?",
+            "link": "/ask/Erigeron_annuus-1.html"
+        },
+        {
+            "q": "Is annual fleabane invasive?",
+            "link": "/ask/Erigeron_annuus-2.html"
+        },
+        {
+            "q": "How do I get rid of annual fleabane?",
+            "link": "/ask/Erigeron_annuus-3.html"
+        },
+        {
+            "q": "Is annual fleabane an annual plant?",
+            "link": "/ask/Erigeron_annuus-4.html"
+        },
+        {
+            "q": "Is the annual fleabane poisonous?",
+            "link": "/ask/Erigeron_annuus-5.html"
+        },
+        {
+            "q": "What is the lowest temperature annual fleabane can tolerate?",
+            "link": "/ask/Erigeron_annuus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Alpinia purpurata",
+                "link": "/wiki/Alpinia_purpurata.html",
+                "imageUrl": "/wiki-image/1080/201162696050147328.jpeg",
+                "displayName": "Red ginger"
+            },
+            {
+                "scientificName": "Panicum maximum",
+                "link": "/wiki/Panicum_maximum.html",
+                "imageUrl": "/wiki-image/1080/157206214076268553.jpeg",
+                "displayName": "Guinea grass"
+            },
+            {
+                "scientificName": "Ipomoea lacunosa",
+                "link": "/wiki/Ipomoea_lacunosa.html",
+                "imageUrl": "/wiki-image/1080/152561520478257155.jpeg",
+                "displayName": "White morning-glory"
+            },
+            {
+                "scientificName": "Murraya paniculata",
+                "link": "/wiki/Murraya_paniculata.html",
+                "imageUrl": "/wiki-image/1080/153785788021080065.jpeg",
+                "displayName": "Orange jasmine"
+            },
+            {
+                "scientificName": "Clerodendrum bungei",
+                "link": "/wiki/Clerodendrum_bungei.html",
+                "imageUrl": "/wiki-image/1080/153819490629451796.jpeg",
+                "displayName": "Rose glory bower"
+            },
+            {
+                "scientificName": "Convolvulus arvensis",
+                "link": "/wiki/Convolvulus_arvensis.html",
+                "imageUrl": "/wiki-image/1080/201175439218147328.jpeg",
+                "displayName": "Field bindweed"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Erigeron_annuus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Erigeron_annuus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Erigeron_annuus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Erigeron_annuus.html",
+            "values": [
+                "Care Annual fleabane",
+                "Care Annual fleabane",
+                "Grow Annual fleabane",
+                "Maintain Annual fleabane",
+                "Annual fleabane Care",
+                "Annual fleabane Grow",
+                "Annual fleabane Maintain",
+                "Annual fleabane Cares",
+                "Growth Annual fleabane",
+                "Maintains Annual fleabane",
+                "Annual fleabane Growth",
+                "Annual fleabane Maintains",
+                "Annual fleabane Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Erigeron_annuus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Erigeron_annuus.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Erigeron_annuus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Erigeron_annuus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Erigeron_annuus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Erigeron_annuus.html"
+        }
+    ]
+}

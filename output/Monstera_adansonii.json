@@ -1,0 +1,835 @@
+{
+    "title": "Swiss cheese-plant (Monstera adansonii) - PictureThis",
+    "displayName": "Swiss cheese-plant",
+    "otherCommonName": "Monkey Mask, Swiss cheese vine",
+    "mainImage": {
+        "copyright": {
+            "width": 2912,
+            "height": 2912,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Zidan - Dailer",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/216486761407283200.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 335,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/14180454",
+                "authorLink": "https://www.inaturalist.org/people/tomopteris",
+                "author": "tomopteris",
+                "licenseLink": "",
+                "license": "ALL RIGHTS RESERVED"
+            },
+            "imageUrl": "/wiki-image/1080/153696109103939607.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/241215058",
+                "authorLink": "https://www.inaturalist.org/people/soetjipto",
+                "author": "Soetjipto Verkuijl",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/349647721300688898.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/245397129",
+                "authorLink": "https://www.inaturalist.org/people/emily_abrego",
+                "author": "Emily Abrego",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349647729890623488.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/204461788",
+                "authorLink": "https://www.inaturalist.org/people/geralg",
+                "author": "geralg",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/349647669761081344.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Swiss cheese-plant is a popular houseplant prized for its unique and attractive foliage. Its heart-shaped leaves also give the plant its common name (Swiss cheese-plant), the leaves gradually develop holes resembling the cheese.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Swiss cheese-plant is a popular houseplant prized for its unique and attractive foliage. Its heart-shaped leaves also give the plant its common name (Swiss cheese-plant), the leaves gradually develop holes resembling the cheese.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Swiss cheese-plant (<i>Monstera adansonii</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Monsteras",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Monstera.html"
+            },
+            {
+                "type": "Family",
+                "name": "Arum",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Araceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Water plantains and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Alismatales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Monocotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Liliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 3.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   13 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800689563893765.jpeg",
+        "habitat": "Dense rain forest",
+        "distributionSummary": "",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "0",
+                "6",
+                "2",
+                "0",
+                "0",
+                "0",
+                "0",
+                "102",
+                "98",
+                "1090",
+                "0",
+                "0"
+            ],
+            "north": [
+                "164",
+                "646",
+                "752",
+                "3712",
+                "8516",
+                "10091",
+                "11084",
+                "10305",
+                "9313",
+                "7605",
+                "0",
+                "41"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Swiss cheese-plant contains calcium oxalate, causing <strong>toxicity in humans, cats, and dogs</strong> upon ingestion. Symptoms include oral irritation, pain, swelling of lips, tongue, throat, drooling, vomiting, and difficulty swallowing. <strong>Immediate care is necessary for pets</strong>.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Monstera_adansonii.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Swiss cheese-plant thrives in high humidity and consistent moisture, requiring weekly watering to maintain lush foliage. Well-adapted to tropical rainforests, it also flourishes indoors with regular misting to mimic its native environment, showcasing resilience during brief dry spells.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal care, swiss cheese-plant benefits from high nitrogen fertilizer monthly in spring and summer, reducing frequency in fall and ceasing in winter. Use a diluted, balanced, water-soluble formula to prevent over-fertilization, promoting healthy growth and vibrant foliage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Swiss cheese-plant has decorative perforated leaves. Key pruning methods involve removing yellow leaves, trimming leggy stems for bushiness, and controlling aerial roots. Early spring is ideal for pruning, enhancing light, air circulation, and encouraging vigorous growth while managing size.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Swiss cheese-plant is a tropical vining plant distinguished by its unique perforated leaves. Propagate using stem cuttings with at least one node, keeping them moist in soil or water. Rooting occurs in a few weeks, followed by potting in well-draining soil for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot swiss cheese-plant in spring to support its growth, using a pot 2-3 inches larger with good drainage. After repotting, position swiss cheese-plant in indirect light and maintain consistent watering. Use a supportive, aerated potting mix for optimal recovery of this climbing aroid.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Monstera_adansonii.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you care for swiss cheese-plant?",
+            "link": "/ask/Monstera_adansonii-0.html"
+        },
+        {
+            "q": "Is swiss cheese-plant rare?",
+            "link": "/ask/Monstera_adansonii-1.html"
+        },
+        {
+            "q": "Can swiss cheese-plant take full sun?",
+            "link": "/ask/Monstera_adansonii-2.html"
+        },
+        {
+            "q": "How fast does swiss cheese-plant grow?",
+            "link": "/ask/Monstera_adansonii-3.html"
+        },
+        {
+            "q": "Does swiss cheese-plant like to be misted?",
+            "link": "/ask/Monstera_adansonii-4.html"
+        },
+        {
+            "q": "How do you know when swiss cheese-plant needs water?",
+            "link": "/ask/Monstera_adansonii-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Monstera-adansonii-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Monstera-adansonii-Thrips.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Monstera-adansonii-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Monstera-adansonii-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Aerial root",
+                "link": "/disease/Monstera-adansonii-Aerial-root.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Monstera-adansonii-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Monstera-adansonii-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Monstera-adansonii-Wounds.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Monstera-adansonii-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Monstera-adansonii-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Monstera-adansonii-White-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Monstera-adansonii-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Monstera-adansonii-Black-mold.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Monstera-adansonii-Spots.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Monstera-adansonii-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Monstera-adansonii-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Monstera-adansonii-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Monstera-adansonii-Notch.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Monstera-adansonii-Scars.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Monstera-adansonii-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Monstera-adansonii-Whole-leaf-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Cupressus sempervirens",
+                "link": "/wiki/Cupressus_sempervirens.html",
+                "imageUrl": "/wiki-image/1080/157553298973392900.jpeg",
+                "displayName": "Mediterranean cypress"
+            },
+            {
+                "scientificName": "Graptopetalum paraguayense",
+                "link": "/wiki/Graptopetalum_paraguayense.html",
+                "imageUrl": "/wiki-image/1080/154147789339623453.jpeg",
+                "displayName": "Ghost plant"
+            },
+            {
+                "scientificName": "Cleretum bellidiforme",
+                "link": "/wiki/Cleretum_bellidiforme.html",
+                "imageUrl": "/wiki-image/1080/154056555644321799.jpeg",
+                "displayName": "Bokbaai vygie"
+            },
+            {
+                "scientificName": "Chrysothemis pulchella",
+                "link": "/wiki/Chrysothemis_pulchella.html",
+                "imageUrl": "/wiki-image/1080/154236729522389008.jpeg",
+                "displayName": "Sunset bells"
+            },
+            {
+                "scientificName": "Brachychiton rupestris",
+                "link": "/wiki/Brachychiton_rupestris.html",
+                "imageUrl": "/wiki-image/1080/153864381627629574.jpeg",
+                "displayName": "Queensland bottle tree"
+            },
+            {
+                "scientificName": "Brugmansia arborea",
+                "link": "/wiki/Brugmansia_arborea.html",
+                "imageUrl": "/wiki-image/1080/153777146546880547.jpeg",
+                "displayName": "Angel's trumpet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Monstera_adansonii.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Monstera_adansonii.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Monstera_adansonii.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Monstera_adansonii.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Monstera_adansonii.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Monstera_adansonii.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Monstera_adansonii.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Monstera_adansonii.html",
+            "values": [
+                "Care Swiss cheese-plant",
+                "Care Swiss cheese-plant",
+                "Grow Swiss cheese-plant",
+                "Maintain Swiss cheese-plant",
+                "Swiss cheese-plant Care",
+                "Swiss cheese-plant Grow",
+                "Swiss cheese-plant Maintain",
+                "Swiss cheese-plant Cares",
+                "Growth Swiss cheese-plant",
+                "Maintains Swiss cheese-plant",
+                "Swiss cheese-plant Growth",
+                "Swiss cheese-plant Maintains",
+                "Swiss cheese-plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monstera-adansonii-Aerial-root.html",
+            "values": [
+                "Aerial root"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Monstera_adansonii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Monstera_adansonii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Monstera_adansonii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Monstera_adansonii.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Monstera_adansonii.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Monstera_adansonii.html"
+        }
+    ]
+}

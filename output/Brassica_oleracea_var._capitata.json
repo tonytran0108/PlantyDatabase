@@ -1,0 +1,764 @@
+{
+    "title": "Cabbage (Brassica oleracea var. capitata) - PictureThis",
+    "displayName": "Cabbage",
+    "otherCommonName": "White cabbage",
+    "mainImage": {
+        "copyright": {
+            "width": 2037,
+            "height": 1471,
+            "copyrightType": "Stock",
+            "referral": "https://www.istockphoto.com/photo/organic-cabbage-gm503512036-82568549",
+            "authorLink": "",
+            "author": "pidjoe",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317758899092553728.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157462567789264898.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5184,
+                "height": 3888,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157410010274463752.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157675031231463428.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157621120801964035.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   A member of the brassica family, cabbage grows well in cool weather and full sun. It can be eaten raw, shredded in salads, or in soup, and is fermented to make sauerkraut.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "A member of the brassica family, cabbage grows well in cool weather and full sun. It can be eaten raw, shredded in salads, or in soup, and is fermented to make sauerkraut.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cabbage (<i>Brassica oleracea var. capitata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Kales",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Brassica.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cruciferae",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Brassicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mustards, capers, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Brassicales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "All year round",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 61 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   38 cm to 45 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 cm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800908607225857.jpeg",
+        "habitat": "Cultivated land",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage, native to the coastal southern and western regions of Europe, has been introduced and cultivated in a variety of temperate regions globally. Its adaptable nature allows it to thrive in diverse environments, and it is now commonly cultivated as a food crop outside its native range, including major regions in Asia.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1274",
+                "1415",
+                "1854",
+                "2372",
+                "2588",
+                "2674",
+                "3274",
+                "2717",
+                "2415",
+                "1848",
+                "1676",
+                "1656"
+            ],
+            "north": [
+                "11741",
+                "14716",
+                "23888",
+                "35722",
+                "37890",
+                "20698",
+                "12338",
+                "10589",
+                "11054",
+                "8340",
+                "9638",
+                "9923"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Luck",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Adapted to moderate moisture, cabbage requires consistent, non-excessive watering, ideally every 1-2 weeks. When grown outdoors, consider natural rainfall in its schedule, particularly during the active growing season when water needs increase for optimal health and vigor.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of cabbage, use high nitrogen fertilizers, applying a balanced mix at planting and nitrogen-rich feed every 4-6 weeks. Monitor cabbage's response for adjustments, increase in warm seasons, and ensure thorough watering post-application to enhance vitality and yield.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Prune cabbage from early to late spring by removing yellowed or damaged leaves to improve air circulation and light penetration, promoting healthier growth. Early pruning encourages robust head formation, ensuring better yield and quality. Consult horticultural guides for region-specific care advice.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal propagation of cabbage takes place in Spring through sowing. It has moderate difficulty, with success indicated by healthy seedlings. Ensure ample light and moisture for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage requires excellent drainage when planted in pots to ensure healthy growth and prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Brassica_oleracea_var._capitata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is cabbage good for weight loss?",
+            "link": "/ask/Brassica_oleracea_var._capitata-0.html"
+        },
+        {
+            "q": "Is cabbage a Superfood?",
+            "link": "/ask/Brassica_oleracea_var._capitata-1.html"
+        },
+        {
+            "q": "Who should not eat cabbage?",
+            "link": "/ask/Brassica_oleracea_var._capitata-2.html"
+        },
+        {
+            "q": "How big is cabbage?",
+            "link": "/ask/Brassica_oleracea_var._capitata-3.html"
+        },
+        {
+            "q": "How do you care for cabbage?",
+            "link": "/ask/Brassica_oleracea_var._capitata-4.html"
+        },
+        {
+            "q": "How often should cabbage be watered?",
+            "link": "/ask/Brassica_oleracea_var._capitata-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Brassica-oleracea-var--capitata-Spots.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Brassica-oleracea-var--capitata-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Brassica-oleracea-var--capitata-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Brassica-oleracea-var--capitata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Brassica-oleracea-var--capitata-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Brassica-oleracea-var--capitata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Brassica-oleracea-var--capitata-Aphid.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Brassica-oleracea-var--capitata-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Brassica-oleracea-var--capitata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Brassica-oleracea-var--capitata-Whitefly.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Brassica-oleracea-var--capitata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Brassica-oleracea-var--capitata-Wounds.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Brassica-oleracea-var--capitata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Brassica-oleracea-var--capitata-Leaf-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bombax ceiba",
+                "link": "/wiki/Bombax_ceiba.html",
+                "imageUrl": "/wiki-image/1080/393492379546419200.jpeg",
+                "displayName": "Red Silk Cotton Tree"
+            },
+            {
+                "scientificName": "Liatris spicata",
+                "link": "/wiki/Liatris_spicata.html",
+                "imageUrl": "/wiki-image/1080/201217074631147520.jpeg",
+                "displayName": "Dense blazing star"
+            },
+            {
+                "scientificName": "Gazania rigens",
+                "link": "/wiki/Gazania_rigens.html",
+                "imageUrl": "/wiki-image/1080/201211594252877824.jpeg",
+                "displayName": "Treasure flower"
+            },
+            {
+                "scientificName": "Begonia coccinea",
+                "link": "/wiki/Begonia_coccinea.html",
+                "imageUrl": "/wiki-image/1080/154510344708947971.jpeg",
+                "displayName": "Scarlet begonia"
+            },
+            {
+                "scientificName": "Brachychiton acerifolius",
+                "link": "/wiki/Brachychiton_acerifolius.html",
+                "imageUrl": "/wiki-image/1080/154503275192778756.jpeg",
+                "displayName": "Illawarra flame tree"
+            },
+            {
+                "scientificName": "Dianella tasmanica",
+                "link": "/wiki/Dianella_tasmanica.html",
+                "imageUrl": "/wiki-image/1080/154488113958223874.jpeg",
+                "displayName": "Tasmanian flax-lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Brassica_oleracea_var._capitata.html",
+            "values": [
+                "Care Cabbage",
+                "Care Cabbage",
+                "Grow Cabbage",
+                "Maintain Cabbage",
+                "Cabbage Care",
+                "Cabbage Grow",
+                "Cabbage Maintain",
+                "Cabbage Cares",
+                "Growth Cabbage",
+                "Maintains Cabbage",
+                "Cabbage Growth",
+                "Cabbage Maintains",
+                "Cabbage Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-var--capitata-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Brassica_oleracea_var._capitata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Brassica_oleracea_var._capitata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Brassica_oleracea_var._capitata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Brassica_oleracea_var._capitata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Brassica_oleracea_var._capitata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Brassica_oleracea_var._capitata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Brassica_oleracea_var._capitata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Brassica_oleracea_var._capitata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Brassica_oleracea_var._capitata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Brassica_oleracea_var._capitata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Brassica_oleracea_var._capitata.html"
+        }
+    ]
+}

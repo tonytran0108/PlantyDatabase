@@ -1,0 +1,964 @@
+{
+    "title": "Mandarin orange (Citrus reticulata) - PictureThis",
+    "displayName": "Mandarin orange",
+    "otherCommonName": "Clementine tree, Mandarine",
+    "mainImage": {
+        "copyright": {
+            "width": 2231,
+            "height": 2232,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153936137646243865.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/249990582",
+                "authorLink": "https://www.inaturalist.org/people/wildlife_lore",
+                "author": "Hayes Valentine",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349647193019711491.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 5760,
+                "height": 3840,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157452246982852618.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157624986272530439.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157509146709590018.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The mandarin orange (Citrus reticulata) is a citrus fruit tree. It is famed for its Mandarin oranges, a commonly consumed fruit which can be eaten plain or used in salads. During the Chinese New Year, the fruit is considered a symbol of good fortune.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The mandarin orange (Citrus reticulata) is a citrus fruit tree. It is famed for its Mandarin oranges, a commonly consumed fruit which can be eaten plain or used in salads. During the Chinese New Year, the fruit is considered a symbol of good fortune.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Mandarin orange (<i>Citrus reticulata</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Citrus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Citrus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rue",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rutaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Maples, mangos, mahogany, citrus, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Sapindales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub, Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Mid spring, Late spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288813851764097024.jpeg",
+        "habitat": "Coastal",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange is native to China and Japan and has been introduced widely across subtropical and temperate regions. Because of its widespread cultivation and hybridization, its native habitat is unclear. The tree is widely cultivated for its fruit and as a garden or houseplant, including in the parts of US.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BSk\": {\"trends\": {\"1\": 43.51570107, \"2\": 29.28582399, \"3\": 38.97891913, \"4\": 39.88211135, \"5\": 44.72556685, \"6\": 45.0, \"7\": 40.13726258, \"8\": 34.98086331, \"9\": 33.31480129, \"10\": 36.77344702, \"11\": 35.14375987, \"12\": 34.25911407}, \"flower_month\": 10, \"fruit_month\": 6}, \"Cfa\": {\"trends\": {\"1\": 703.2309971, \"2\": 746.3931936, \"3\": 782.7642658, \"4\": 660.2392924, \"5\": 622.5710716, \"6\": 611.0, \"7\": 582.7159764, \"8\": 685.2130769, \"9\": 651.8889476, \"10\": 619.7320113, \"11\": 660.6930061, \"12\": 636.4740706}, \"flower_month\": 11, \"fruit_month\": 3}, \"Csa\": {\"trends\": {\"1\": 104.061598, \"2\": 100.215254, \"3\": 116.601598, \"4\": 93.13736169, \"5\": 106.5825374, \"6\": 142.0, \"7\": 125.2356305, \"8\": 141.719041, \"9\": 128.6720518, \"10\": 115.3628647, \"11\": 128.3868027, \"12\": 110.6520564}, \"flower_month\": 11, \"fruit_month\": 6}, \"Csb\": {\"trends\": {\"1\": 35.66929518, \"2\": 36.48361238, \"3\": 36.52083901, \"4\": 32.59534985, \"5\": 41.73697728, \"6\": 34.0, \"7\": 36.43794441, \"8\": 42.63978118, \"9\": 46.91152589, \"10\": 37.41555918, \"11\": 58.63040058, \"12\": 29.72174211}, \"flower_month\": 11, \"fruit_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 452.0, \"2\": 310.0, \"3\": 343.0, \"4\": 269.0, \"5\": 273.0, \"6\": 236.0, \"7\": 321.0, \"8\": 337.0, \"9\": 418.0, \"10\": 447.0, \"11\": 323.0, \"12\": 370.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 2023.991786, \"2\": 2052.367916, \"3\": 2199.797879, \"4\": 1865.144865, \"5\": 1902.742958, \"6\": 1880.0, \"7\": 1914.819483, \"8\": 2159.429203, \"9\": 1908.501485, \"10\": 1848.446228, \"11\": 1926.787385, \"12\": 1889.919091}, \"flower_month\": 11, \"fruit_month\": 3}}",
+            "north": "{\"Cfb\": {\"trends\": {\"1\": 336.0127638, \"2\": 342.5302984, \"3\": 277.69062, \"4\": 219.0273268, \"5\": 202.7333641, \"6\": 259.572535, \"7\": 238.4523099, \"8\": 243.3335809, \"9\": 293.1660351, \"10\": 357.9432386, \"11\": 333.6791116, \"12\": 383.0}, \"flower_month\": 6, \"fruit_month\": 12}, \"Dfa\": {\"trends\": {\"1\": 411.4295658, \"2\": 356.8871176, \"3\": 256.5626457, \"4\": 141.4244039, \"5\": 98.58981639, \"6\": 106.6286626, \"7\": 103.859594, \"8\": 113.4970916, \"9\": 147.1036464, \"10\": 209.3307551, \"11\": 465.7220856, \"12\": 439.0}, \"flower_month\": 6, \"fruit_month\": 11}, \"Cfa\": {\"trends\": {\"1\": 1235.0, \"2\": 1675.0, \"3\": 2226.0, \"4\": 3273.0, \"5\": 2902.0, \"6\": 2061.0, \"7\": 1474.0, \"8\": 1235.0, \"9\": 1362.0, \"10\": 1486.0, \"11\": 1513.0, \"12\": 1182.0}, \"flower_month\": 4, \"fruit_month\": 11}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "Mandarin oranges can produce oxygen and absorb carbon dioxide.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Essence can be extracted from the flowers, leaves and fruit peels of the Mandarin orange, which is used in cosmetic products.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Mandarin orange can be a delightful addition to the yard. This small tree produces a sweet, brightly colored citrus fruit whose flavor is a real treat and a welcome reward for the hard-working gardener. These trees are often planted in gardens for their hardiness, fruits, and their small size, which makes them an easy addition. Planting with marigolds, petunias, and borage may help keep away citrus pests.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Auspiciousness and good luck",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, God sent a follower down to save the poor people. The follower taught them to plant mandarin oranges. Because of this mandarin orange, people never got sick, and had financial income. People regarded it as a lucky fruit.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Mandarin orange",
+                "values": [
+                    "It is a small citrus tree with fruit resembling an orange. The form \"mandarine\" is derived from the French name for this fruit. The reason for the specific epithet \"mandarin\" is not clear is because it may relate to the yellow color robes worn by mandarin dignitaries."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange is toxic to <strong>cats and dogs</strong>, primarily through ingestion of its fruits. Symptoms of poisoning include gastrointestinal upset, vomiting, and diarrhea. Immediate veterinary care is crucial if pets exhibit any ill effects.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Citrus_reticulata.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Potting Mix, Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange thrives in moderate water conditions, needing watering every 1-2 weeks to maintain health. As an evergreen typically grown outdoors, it benefits from rainfall akin to its subtropical origins during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange requires balanced nutrition for optimal growth and fruiting. Use a 1:1:1 NPK fertilizer quarterly, adjusting for the growing season. Water mandarin orange before and after fertilization to enhance nutrient uptake, and reduce application in winter while increasing it in spring.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange requires annual pruning to enhance health and fruit yield. This involves removing dead or diseased branches, thinning for airflow, and shaping to prevent overcrowding. Optimal pruning occurs in early spring, boosting fruit quality, reducing pests, and improving sunlight access for a fruitful harvest.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Mandarin orange thrives in home gardens and orchards, propagating well through semi-woody stem cuttings. Ensure high humidity and moderate temperatures for rooting in well-draining mediums. Utilizing rooting hormone can enhance success, leading to robust, fruit-bearing plants with proper care and monitoring.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot the bushy mandarin orange every 2-3 years in spring, using a container 2 inches larger. Employ well-draining soil and minimize watering until new growth appears post-repotting. Placing mandarin orange in a sunny location enhances its adaptation and overall health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Citrus_reticulata.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is the difference between a mandarin orange and a Clementine?",
+            "link": "/ask/Citrus_reticulata-0.html"
+        },
+        {
+            "q": "What is mandarin orange good for?",
+            "link": "/ask/Citrus_reticulata-1.html"
+        },
+        {
+            "q": "How tall is mandarin orange?",
+            "link": "/ask/Citrus_reticulata-2.html"
+        },
+        {
+            "q": "Where are mandarin orange grown?",
+            "link": "/ask/Citrus_reticulata-3.html"
+        },
+        {
+            "q": "Should mandarin orange be refrigerated?",
+            "link": "/ask/Citrus_reticulata-4.html"
+        },
+        {
+            "q": "Are mandarin orange high in sugar?",
+            "link": "/ask/Citrus_reticulata-5.html"
+        },
+        {
+            "q": "How do you eat a mandarin orange?",
+            "link": "/ask/Citrus_reticulata-6.html"
+        },
+        {
+            "q": "What is considered a citrus fruit?",
+            "link": "/ask/Citrus_reticulata-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Citrus-reticulata-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Citrus-reticulata-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Citrus-reticulata-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf miners",
+                "link": "/disease/Citrus-reticulata-Leaf-miners.html"
+            },
+            {
+                "diseaseName": "Aphids",
+                "link": "/disease/Citrus-reticulata-Aphids.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Citrus-reticulata-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Citrus-reticulata-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Citrus-reticulata-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Citrus-reticulata-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Citrus-reticulata-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Citrus-reticulata-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Citrus-reticulata-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Citrus-reticulata-Aphid.html"
+            },
+            {
+                "diseaseName": "psyllid",
+                "link": "/disease/Citrus-reticulata-psyllid.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Citrus-reticulata-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Citrus-reticulata-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Citrus-reticulata-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Citrus-reticulata-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Citrus-reticulata-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Citrus-reticulata-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Citrus-reticulata-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Citrus-reticulata-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Citrus-reticulata-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Citrus-reticulata-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Citrus-reticulata-Mealybug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Osteospermum ecklonis",
+                "link": "/wiki/Osteospermum_ecklonis.html",
+                "imageUrl": "/wiki-image/1080/201219939374333952.jpeg",
+                "displayName": "Cape marguerite"
+            },
+            {
+                "scientificName": "Hackelia virginiana",
+                "link": "/wiki/Hackelia_virginiana.html",
+                "imageUrl": "/wiki-image/1080/201212388821827584.jpeg",
+                "displayName": "Beggar's lice"
+            },
+            {
+                "scientificName": "Hymenocallis littoralis",
+                "link": "/wiki/Hymenocallis_littoralis.html",
+                "imageUrl": "/wiki-image/1080/153872585015164949.jpeg",
+                "displayName": "Beach spider lily"
+            },
+            {
+                "scientificName": "Ficus macrophylla",
+                "link": "/wiki/Ficus_macrophylla.html",
+                "imageUrl": "/wiki-image/1080/154480911298068482.jpeg",
+                "displayName": "Moreton bay fig"
+            },
+            {
+                "scientificName": "Acer rubrum",
+                "link": "/wiki/Acer_rubrum.html",
+                "imageUrl": "/wiki-image/1080/347128443808677888.jpeg",
+                "displayName": "Red maple"
+            },
+            {
+                "scientificName": "Sandoricum koetjape",
+                "link": "/wiki/Sandoricum_koetjape.html",
+                "imageUrl": "/wiki-image/1080/367125145819185152.jpeg",
+                "displayName": "Cotton fruit"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Citrus_reticulata.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Citrus_reticulata.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Citrus_reticulata.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Citrus_reticulata.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Citrus_reticulata.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Citrus_reticulata.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Citrus_reticulata.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Citrus_reticulata.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Citrus_reticulata.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Citrus_reticulata.html",
+            "values": [
+                "Care Mandarin orange",
+                "Care Mandarin orange",
+                "Grow Mandarin orange",
+                "Maintain Mandarin orange",
+                "Mandarin orange Care",
+                "Mandarin orange Grow",
+                "Mandarin orange Maintain",
+                "Mandarin orange Cares",
+                "Growth Mandarin orange",
+                "Maintains Mandarin orange",
+                "Mandarin orange Growth",
+                "Mandarin orange Maintains",
+                "Mandarin orange Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Citrus-reticulata-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Citrus_reticulata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Citrus_reticulata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Citrus_reticulata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Citrus_reticulata.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Citrus_reticulata.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Citrus_reticulata.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Citrus_reticulata.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Citrus_reticulata.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Citrus_reticulata.html"
+        }
+    ]
+}

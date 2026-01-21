@@ -1,0 +1,986 @@
+{
+    "title": "Bush honeysuckle (Lonicera morrowii) - PictureThis",
+    "displayName": "Bush honeysuckle",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 750,
+            "height": 750,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153752502024536068.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/331578",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153917355754258467.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21718779",
+                "authorLink": "https://www.inaturalist.org/people/birds_bugs_botany",
+                "author": "birds_bugs_botany",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153985753108447262.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/128940",
+                "authorLink": "https://www.inaturalist.org/people/botanygirl",
+                "author": "botanygirl",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153733342175428623.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/55293",
+                "authorLink": "https://www.inaturalist.org/people/wingedwolfpsion",
+                "author": "wingedwolfpsion",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153713327627829278.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Bush honeysuckle was introduced to the United States in the late 1800s as an ornamental shrub, prized for its fragrance and its white, pink, or even crimson flowers. Due to its aggressive and quick growing nature, however, bush honeysuckle has been identified as an invasive species that competes with native plants for soil moisture, pollination, and light.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Bush honeysuckle was introduced to the United States in the late 1800s as an ornamental shrub, prized for its fragrance and its white, pink, or even crimson flowers. Due to its aggressive and quick growing nature, however, bush honeysuckle has been identified as an invasive species that competes with native plants for soil moisture, pollination, and light.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Bush honeysuckle (<i>Lonicera morrowii</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Honeysuckles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Lonicera.html"
+            },
+            {
+                "type": "Family",
+                "name": "Honeysuckle",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Caprifoliaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Honeysuckles, moschatels and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Dipsacales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall, Winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.8 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278806371805626369.jpeg",
+        "habitat": "Meadows, River sides, Sandy coasts, Deciduous forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The bush honeysuckle is native to Northeastern China, South Korea and Japan, and it can be found in forest margins, floodplains, and pastures. It has been introduced to North America as an ornamental, where it has escaped cultivation. It invades disturbed sites and waste areas. Bush honeysuckle is considered invasive in many eastern and northeastern US states, and it's even prohibited by the law in the states of Maine, Massachusetts, Connecticut, New Hampshire, and Vermont.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3",
+                "2",
+                "5",
+                "22",
+                "23",
+                "36",
+                "14",
+                "16",
+                "13",
+                "11",
+                "3",
+                "4"
+            ],
+            "north": [
+                "184",
+                "905",
+                "17721",
+                "47713",
+                "41306",
+                "44796",
+                "14418",
+                "6643",
+                "5570",
+                "2621",
+                "158",
+                "53"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Bush honeysuckle is an easy to grow shrub that produces fragrant blooms from late spring through to late summer. It is suitable for pollinator gardens, although check your local laws and by-laws before planting as it has been declared as invasive in some parts of the USA.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Generosity, devoted affection",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Bush honeysuckle is one of the first blooming shrubs in early spring. Its flowers are small, and its berries are considered poisonous to humans. It is often found along tree borders and the edges of woods and forests. It is considered allelopathic, which means it may prohibit the growth of other plants near it. This makes it detrimental to native plants.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Bush honeysuckle",
+                "values": [
+                    "When the flowers bloom, the plant will sprout yellow and white flowers that produce sweet fragrant. These beautiful flowers are the source of food for most animals. As it also a shrub, it is called bush honeysuckle. Don't be deceived by its beautiful flowers, it is a critically invasive species and this shrub often hinders the growth of other plants."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Bush honeysuckle is mildly toxic</strong> to both dogs and cats if they consume its fruits or leaves in high amounts. Primary symptoms include gastrointestinal distress like vomiting and diarrhea. Human toxicity is rare but can be <strong>severe, especially in children</strong>, leading to symptoms like abdominal pain, vomiting, and, in extreme cases, respiratory failure or convulsions. Immediate veterinary care is vital for pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Lonicera_morrowii.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bush honeysuckle thrives in moderate moisture environments, requiring watering every 1-2 weeks. It prefers well-drained soil and naturally regulates water intake through seasonal changes. As a deciduous plant, it conserves water by shedding leaves in cooler temperatures and less light during autumn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of bush honeysuckle, use balanced fertilizer (10-10-10) annually in early spring, starting with 2 ounces. In poor soils, switch to high nitrogen fertilizer. Reduce feeding with maturity, focusing on phosphorus for root development. Water bush honeysuckle after fertilizing to prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bush honeysuckle is a fast-growing, dense deciduous shrub that produces abundant yellow flowers. Prune in early spring to maintain shape, remove dead branches, and thin crowded stems to enhance air circulation. Use sharp, sterilized tools for cutting to prevent disease and ensure optimal health.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Bush honeysuckle is a vigorous deciduous shrub that propagates well through stem cuttings. Choose healthy, semi-hardwood segments, trim below a leaf node, remove lower leaves, and use rooting hormone. Plant in well-draining medium, maintaining moisture until roots develop, effectively cloning the desirable traits of the parent.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The plant bush honeysuckle requires excellent drainage when planted in pots to thrive effectively.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Lonicera_morrowii.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a bush honeysuckle?",
+            "link": "/ask/Lonicera_morrowii-0.html"
+        },
+        {
+            "q": "Is bush honeysuckle invasive?",
+            "link": "/ask/Lonicera_morrowii-1.html"
+        },
+        {
+            "q": "Is the bush honeysuckle poisonous?",
+            "link": "/ask/Lonicera_morrowii-2.html"
+        },
+        {
+            "q": "How do I get rid of bush honeysuckle?",
+            "link": "/ask/Lonicera_morrowii-3.html"
+        },
+        {
+            "q": "Where does bush honeysuckle from?",
+            "link": "/ask/Lonicera_morrowii-4.html"
+        },
+        {
+            "q": "How big does a bush honeysuckle get?",
+            "link": "/ask/Lonicera_morrowii-5.html"
+        },
+        {
+            "q": "Will bush honeysuckle have fallen leaves in winter?",
+            "link": "/ask/Lonicera_morrowii-6.html"
+        },
+        {
+            "q": "How often should bush honeysuckle be watered?",
+            "link": "/ask/Lonicera_morrowii-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Lonicera-morrowii-Dodder.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Lonicera-morrowii-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Lonicera-morrowii-Lichen.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Lonicera-morrowii-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Lonicera-morrowii-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Lonicera-morrowii-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Lonicera-morrowii-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Lonicera-morrowii-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Lonicera-morrowii-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Lonicera-morrowii-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Lonicera-morrowii-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Lonicera-morrowii-Whitefly.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Lonicera-morrowii-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Lonicera-morrowii-Moss.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Lonicera-morrowii-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Lonicera-morrowii-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Lonicera-morrowii-Scars.html"
+            },
+            {
+                "diseaseName": "Witches broom",
+                "link": "/disease/Lonicera-morrowii-Witches--broom.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Lonicera-morrowii-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Lonicera-morrowii-Wounds.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Lonicera-morrowii-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Lonicera-morrowii-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Lonicera-morrowii-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Lonicera-morrowii-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Lonicera-morrowii-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Lonicera-morrowii-Weevil.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Lonicera-morrowii-Black-mold.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Lonicera-morrowii-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Lonicera-morrowii-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Lonicera-morrowii-Mealybug.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Lonicera-morrowii-Aphid.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Lonicera-morrowii-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Lonicera-morrowii-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Lonicera-morrowii-Gall.html"
+            },
+            {
+                "diseaseName": "Stem blackening",
+                "link": "/disease/Lonicera-morrowii-Stem-blackening.html"
+            },
+            {
+                "diseaseName": "Flower rot",
+                "link": "/disease/Lonicera-morrowii-Flower-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Lonicera-morrowii-Spots.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Lonicera-morrowii-Thrips.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Cocculus carolinus",
+                "link": "/wiki/Cocculus_carolinus.html",
+                "imageUrl": "/wiki-image/1080/154151530256138245.jpeg",
+                "displayName": "Carolina coralbead"
+            },
+            {
+                "scientificName": "Quercus robur",
+                "link": "/wiki/Quercus_robur.html",
+                "imageUrl": "/wiki-image/1080/153466916764123152.jpeg",
+                "displayName": "English oak"
+            },
+            {
+                "scientificName": "Jatropha podagrica",
+                "link": "/wiki/Jatropha_podagrica.html",
+                "imageUrl": "/wiki-image/1080/154211273251225636.jpeg",
+                "displayName": "Buddha belly plant"
+            },
+            {
+                "scientificName": "Monstera deliciosa",
+                "link": "/wiki/Monstera_deliciosa.html",
+                "imageUrl": "/wiki-image/1080/347088479137988608.jpeg",
+                "displayName": "Swiss cheese plant"
+            },
+            {
+                "scientificName": "Hylotelephium spectabile",
+                "link": "/wiki/Hylotelephium_spectabile.html",
+                "imageUrl": "/wiki-image/1080/153421738003136534.jpeg",
+                "displayName": "Showy stonecrop"
+            },
+            {
+                "scientificName": "Artemisia ludoviciana",
+                "link": "/wiki/Artemisia_ludoviciana.html",
+                "imageUrl": "/wiki-image/1080/153874191332933652.jpeg",
+                "displayName": "White sagebrush"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Lonicera_morrowii.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Lonicera_morrowii.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Lonicera_morrowii.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Lonicera_morrowii.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Lonicera_morrowii.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Lonicera_morrowii.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Lonicera_morrowii.html",
+            "values": [
+                "Care Bush honeysuckle",
+                "Care Bush honeysuckle",
+                "Grow Bush honeysuckle",
+                "Maintain Bush honeysuckle",
+                "Bush honeysuckle Care",
+                "Bush honeysuckle Grow",
+                "Bush honeysuckle Maintain",
+                "Bush honeysuckle Cares",
+                "Growth Bush honeysuckle",
+                "Maintains Bush honeysuckle",
+                "Bush honeysuckle Growth",
+                "Bush honeysuckle Maintains",
+                "Bush honeysuckle Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Flower-rot.html",
+            "values": [
+                "Flower rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Stem-blackening.html",
+            "values": [
+                "Stem blackening"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Lonicera-morrowii-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Lonicera_morrowii.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Lonicera_morrowii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Lonicera_morrowii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Lonicera_morrowii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Lonicera_morrowii.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Lonicera_morrowii.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Lonicera_morrowii.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Lonicera_morrowii.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Lonicera_morrowii.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Lonicera_morrowii.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Lonicera_morrowii.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Lonicera_morrowii.html"
+        }
+    ]
+}

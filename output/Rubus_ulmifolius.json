@@ -1,0 +1,926 @@
+{
+    "title": "Elmleaf blackberry (Rubus ulmifolius) - PictureThis",
+    "displayName": "Elmleaf blackberry",
+    "otherCommonName": "Abraham's bush, Elm-leaved bramble",
+    "mainImage": {
+        "copyright": {
+            "width": 6016,
+            "height": 4016,
+            "copyrightType": "Authorized",
+            "referral": "",
+            "authorLink": "",
+            "author": "janstudio",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/157339486911463428.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.flickr.com/photos/32068404@N05/37525553331",
+                "authorLink": "",
+                "author": "carmona rodriguez.cc",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.0/",
+                "license": "CC-BY-SA-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/153466586051641374.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 800,
+                "height": 600,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Rubus_ulmifolius_bayas_2012-8-05_SierraMadrona.jpg",
+                "authorLink": "",
+                "author": "Javier martin",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154150508053921827.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 800,
+                "height": 600,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Rubus_ulmifolius_Buskett_Gardens_Malta_03.jpg",
+                "authorLink": "",
+                "author": "Denis Barthel",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "license": "CC-BY-SA-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154039736552390693.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 800,
+                "height": 600,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Rubus_ulmifolius_Gavoi_950m_20072014.jpg",
+                "authorLink": "",
+                "author": "Denis Barthel",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154046874788036640.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Elmleaf blackberry (Rubus ulmifolius) is a brambly flowering shrub native to Europe and North Africa. This species grows in hedges and woodland edges on calcareous soils. It bears fruits called drupes that are dark purple.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Elmleaf blackberry (Rubus ulmifolius) is a brambly flowering shrub native to Europe and North Africa. This species grows in hedges and woodland edges on calcareous soils. It bears fruits called drupes that are dark purple.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Elmleaf blackberry (<i>Rubus ulmifolius</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Brambles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rubus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   5 mm to 1.2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251759545402327043.png",
+        "habitat": "Open sunny places.",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Elmleaf blackberry is native to the Mediterranean region and parts of Western Europe. The species has also been introduced to various parts of South America, Africa, Europe, and New Zealand. While elmleaf blackberry is originally part of the flora in these regions, it has also been cultivated in a variety of climates outside its native range.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 171.1722899, \"2\": 117.1840662, \"3\": 107.3189777, \"4\": 68.02761184, \"5\": 73.28936936, \"6\": 62.0, \"7\": 66.35751309, \"8\": 54.4237435, \"9\": 102.4222039, \"10\": 151.4719546, \"11\": 136.4531, \"12\": 183.7957444}, \"flower_month\": 12, \"fruit_month\": 12}, \"Csa\": {\"trends\": {\"1\": 21.67949958, \"2\": 19.08861981, \"3\": 19.43359967, \"4\": 16.60588619, \"5\": 16.62989945, \"6\": 7.0, \"7\": 9.208502246, \"8\": 24.96604868, \"9\": 38.22475178, \"10\": 56.75852943, \"11\": 21.04701684, \"12\": 19.0183222}, \"flower_month\": 10, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 443.6146381, \"2\": 361.1827595, \"3\": 299.4252927, \"4\": 284.9526877, \"5\": 240.4890966, \"6\": 213.0, \"7\": 216.0357965, \"8\": 260.5669631, \"9\": 397.2689449, \"10\": 579.0762638, \"11\": 479.3113, \"12\": 513.4242109}, \"flower_month\": 10, \"fruit_month\": 12}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 47.09457057, \"2\": 42.47027252, \"3\": 49.37339228, \"4\": 67.710581, \"5\": 70.07527108, \"6\": 81.40659946, \"7\": 69.72559673, \"8\": 69.84813805, \"9\": 47.44189542, \"10\": 36.50332137, \"11\": 50.30843592, \"12\": 61.0}, \"flower_month\": 6, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 5.843440951, \"2\": 13.2536125, \"3\": 4.7439215, \"4\": 13.29706891, \"5\": 11.1732718, \"6\": 12.62664974, \"7\": 13.15411582, \"8\": 12.70213355, \"9\": 6.427798792, \"10\": 7.93897421, \"11\": 8.125067795, \"12\": 7.0}, \"flower_month\": 4, \"fruit_month\": 7}, \"Dfa\": {\"trends\": {\"1\": 17.44017427, \"2\": 18.64815569, \"3\": 21.05849349, \"4\": 27.17764346, \"5\": 26.5644783, \"6\": 33.16543686, \"7\": 28.70811873, \"8\": 31.12863222, \"9\": 25.44626503, \"10\": 11.21414759, \"11\": 8.924987703, \"12\": 10.0}, \"flower_month\": 6, \"fruit_month\": 8}, \"Default\": {\"trends\": {\"1\": 423.2886119, \"2\": 464.2413572, \"3\": 631.035948, \"4\": 819.8048728, \"5\": 940.3863599, \"6\": 1158.256564, \"7\": 999.5792083, \"8\": 1037.344587, \"9\": 754.96337, \"10\": 698.3163711, \"11\": 725.1320106, \"12\": 451.0}, \"flower_month\": 6, \"fruit_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Elmleaf blackberry has attractive white or pink-hued pompom-like flowers that bloom in the summer. These sun-loving shrubs are suitable for the sunny edges of woodland gardens but can be trained for hedging and screens, the thorny stems proving an effective border. Gardeners like that it grows well in a variety of soils.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Envy",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The berries of the elmleaf blackberry are edible, much like wild black berries, they can be used to make jellies, desserts or drinks. The dark fruit has been used in making a natural purple dye. The berries are high in antioxidants and have exhibited anti-pyretic benefits. It has been found that honey made from the nectar of the elmleaf blackberry exhibits the same healthy effects.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Elmleaf blackberry thrives in temperate underbrush and moderate moisture conditions, requiring watering every three weeks. It exhibits drought tolerance and adapts to cooler climates, efficiently utilizing natural rainfall, making it ideal for outdoor growth in hedgerows and woodlands with regular precipitation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth, elmleaf blackberry needs balanced NPK fertilizers, applied biannually in spring and fall. Tailor feeding to growth stages, avoiding over-fertilization. Incorporate composted manure or slow-release blends for gradual nourishment, and water thoroughly after application to ensure nutrient distribution and prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Elmleaf blackberry thrives with early spring pruning, removing weak canes to boost growth and fruit yield. Post-harvest, cut flowering canes to ground level, and thin overcrowded stems for better air circulation. Proper pruning promotes vigor and productivity while safety gear is advised due to thorns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Elmleaf blackberry is propagated by sowing mature seeds in well-drained soil. Keep soil moist, avoiding waterlogging, and protect seedlings from harsh conditions. Gradual acclimatization is necessary before outdoor transplanting, with careful handling and attention to soil conditions promoting successful growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rubus_ulmifolius.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is elmleaf blackberry edible?",
+            "link": "/ask/Rubus_ulmifolius-0.html"
+        },
+        {
+            "q": "Where is elmleaf blackberry native?",
+            "link": "/ask/Rubus_ulmifolius-1.html"
+        },
+        {
+            "q": "How tall is elmleaf blackberry?",
+            "link": "/ask/Rubus_ulmifolius-2.html"
+        },
+        {
+            "q": "When does elmleaf blackberry bloom?",
+            "link": "/ask/Rubus_ulmifolius-3.html"
+        },
+        {
+            "q": "Is elmleaf blackberry a tree or shrub?",
+            "link": "/ask/Rubus_ulmifolius-4.html"
+        },
+        {
+            "q": "Do elmleaf blackberry get thorns?",
+            "link": "/ask/Rubus_ulmifolius-5.html"
+        },
+        {
+            "q": "Does elmleaf blackberry grow fast?",
+            "link": "/ask/Rubus_ulmifolius-6.html"
+        },
+        {
+            "q": "What does elmleaf blackberry taste?",
+            "link": "/ask/Rubus_ulmifolius-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Stem withering",
+                "link": "/disease/Rubus-ulmifolius-Stem-withering.html"
+            },
+            {
+                "diseaseName": "Leaf drop",
+                "link": "/disease/Rubus-ulmifolius-Leaf-drop.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Rubus-ulmifolius-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Rubus-ulmifolius-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Rubus-ulmifolius-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Rubus-ulmifolius-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Rubus-ulmifolius-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Rubus-ulmifolius-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Rubus-ulmifolius-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Rubus-ulmifolius-Aphid.html"
+            },
+            {
+                "diseaseName": "Fruit damage",
+                "link": "/disease/Rubus-ulmifolius-Fruit-damage.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Rubus-ulmifolius-Mealybug.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Rubus-ulmifolius-Wounds.html"
+            },
+            {
+                "diseaseName": "Fruit malformation",
+                "link": "/disease/Rubus-ulmifolius-Fruit-malformation.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Rubus-ulmifolius-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Rubus-ulmifolius-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Rubus-ulmifolius-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Rubus-ulmifolius-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Rubus-ulmifolius-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Rubus-ulmifolius-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Rubus-ulmifolius-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Rubus-ulmifolius-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Rubus-ulmifolius-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Rubus-ulmifolius-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Rubus-ulmifolius-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Rubus-ulmifolius-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Rubus-ulmifolius-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Leaf edges turning downwards",
+                "link": "/disease/Rubus-ulmifolius-Leaf-edges-turning-downwards.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Raphanus raphanistrum",
+                "link": "/wiki/Raphanus_raphanistrum.html",
+                "imageUrl": "/wiki-image/1080/153782416471752721.jpeg",
+                "displayName": "Wild radish"
+            },
+            {
+                "scientificName": "Psilotum nudum",
+                "link": "/wiki/Psilotum_nudum.html",
+                "imageUrl": "/wiki-image/1080/153723489520451623.jpeg",
+                "displayName": "Whisk Fern"
+            },
+            {
+                "scientificName": "Salvinia minima",
+                "link": "/wiki/Salvinia_minima.html",
+                "imageUrl": "/wiki-image/1080/349676823999086592.jpeg",
+                "displayName": "Water spangles"
+            },
+            {
+                "scientificName": "Quercus cerris",
+                "link": "/wiki/Quercus_cerris.html",
+                "imageUrl": "/wiki-image/1080/221312711215841280.jpeg",
+                "displayName": "Turkey oak"
+            },
+            {
+                "scientificName": "Echium wildpretii",
+                "link": "/wiki/Echium_wildpretii.html",
+                "imageUrl": "/wiki-image/1080/369708091906359296.jpeg",
+                "displayName": "Tower of jewels"
+            },
+            {
+                "scientificName": "Viola odorata",
+                "link": "/wiki/Viola_odorata.html",
+                "imageUrl": "/wiki-image/1080/202693061617385472.jpeg",
+                "displayName": "Sweet violet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Rubus_ulmifolius.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rubus_ulmifolius.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rubus_ulmifolius.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Rubus_ulmifolius.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Rubus_ulmifolius.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Rubus_ulmifolius.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rubus_ulmifolius.html",
+            "values": [
+                "Care Elmleaf blackberry",
+                "Care Elmleaf blackberry",
+                "Grow Elmleaf blackberry",
+                "Maintain Elmleaf blackberry",
+                "Elmleaf blackberry Care",
+                "Elmleaf blackberry Grow",
+                "Elmleaf blackberry Maintain",
+                "Elmleaf blackberry Cares",
+                "Growth Elmleaf blackberry",
+                "Maintains Elmleaf blackberry",
+                "Elmleaf blackberry Growth",
+                "Elmleaf blackberry Maintains",
+                "Elmleaf blackberry Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-drop.html",
+            "values": [
+                "Leaf drop"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Stem-withering.html",
+            "values": [
+                "Stem withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Leaf-edges-turning-downwards.html",
+            "values": [
+                "Leaf edges turning downwards"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Fruit-malformation.html",
+            "values": [
+                "Fruit malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Fruit-damage.html",
+            "values": [
+                "Fruit damage"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rubus-ulmifolius-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Rubus_ulmifolius.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Rubus_ulmifolius.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rubus_ulmifolius.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rubus_ulmifolius.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Rubus_ulmifolius.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Rubus_ulmifolius.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Rubus_ulmifolius.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Rubus_ulmifolius.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Rubus_ulmifolius.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rubus_ulmifolius.html"
+        }
+    ]
+}

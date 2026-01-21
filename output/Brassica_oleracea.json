@@ -1,0 +1,913 @@
+{
+    "title": "Cabbage (Brassica oleracea) - PictureThis",
+    "displayName": "Cabbage",
+    "otherCommonName": "Brussels sprouts, Cauliflower",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/347096089820037120.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/14752781",
+                "authorLink": "https://www.inaturalist.org/people/deboas",
+                "author": "deboas",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153771352635998253.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2124,
+                "height": 1411,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/close-up-of-curly-kale-growing-in-field-gm172961275-6674452",
+                "authorLink": "",
+                "author": "Closeup Of Curly Kale Growing In Field Stock Photo - Download Image Now - Agriculture, Cabbage, Close-up",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/620033577788702720.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2121,
+                "height": 1414,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/kohlrabi-cabbage-growing-in-garden-kohlrabi-or-turnip-cabbage-in-vegetable-bed-gm1205017324-346956718",
+                "authorLink": "",
+                "author": "Kohlrabi Cabbage Growing In Garden Kohlrabi Or Turnip Cabbage In Vegetable Bed Stock Photo - Download Image Now",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/619995928105385984.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2121,
+                "height": 1414,
+                "copyrightType": "Stock",
+                "referral": "https://www.istockphoto.com/photo/cauliflower-with-leaf-close-up-gm1921936179-555421541",
+                "authorLink": "",
+                "author": "Cauliflower With Leaf Close Up Stock Photo - Download Image Now - Agriculture, Antioxidant, Brassica",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/619904866208776192.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Cabbage 'Noelle'",
+            "link": "/wiki/Brassica_oleracea__Noelle_.html"
+        },
+        {
+            "displayName": "Cabbage 'Green Magic'",
+            "link": "/wiki/Brassica_oleracea__Green_Magic_.html"
+        },
+        {
+            "displayName": "Cabbage 'January King'",
+            "link": "/wiki/Brassica_oleracea__January_King_.html"
+        },
+        {
+            "displayName": "Cabbage 'Redbor'",
+            "link": "/wiki/Brassica_oleracea_var._acephala__Redbor_.html"
+        },
+        {
+            "displayName": "Jersey Kale",
+            "link": "/wiki/Brassica_oleracea_var._palmifolia.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   When you look at a wild cabbage plant, you may be surprised by how many edible vegetables were derived from it. Native peoples selectively cultivated the wild cabbage over centuries to produce broccoli, cauliflower, kale, kohlrabi, and more. The wild form of the plant is also edible.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "When you look at a wild cabbage plant, you may be surprised by how many edible vegetables were derived from it. Native peoples selectively cultivated the wild cabbage over centuries to produce broccoli, cauliflower, kale, kohlrabi, and more. The wild form of the plant is also edible.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cabbage (<i>Brassica oleracea</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Kales",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Brassica.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cruciferae",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Brassicaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mustards, capers, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Brassicales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Early summer, Mid fall, Late fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803124810350594.jpeg",
+        "habitat": "Sea cliffs",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage is native to coastal Europe from the south of England to the Mediterranean, preferring to grow on seaside cliffs. Due to its popularity as an agricultural crop, it is now cultivated around the globe.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 126.7760187, \"2\": 80.56404548, \"3\": 106.0710826, \"4\": 107.8310017, \"5\": 115.8444871, \"6\": 125.0, \"7\": 142.7141035, \"8\": 183.5894281, \"9\": 252.6414364, \"10\": 266.7223549, \"11\": 170.4315399, \"12\": 156.949175}, \"flower_month\": 10}, \"Csb\": {\"trends\": {\"1\": 19.32086822, \"2\": 10.5122273, \"3\": 19.3671116, \"4\": 29.93450497, \"5\": 21.67112282, \"6\": 37.0, \"7\": 52.19489334, \"8\": 103.1107436, \"9\": 69.40335337, \"10\": 51.15038471, \"11\": 20.82201142, \"12\": 14.07871995}, \"flower_month\": 8}, \"Default\": {\"trends\": {\"1\": 402.0257658, \"2\": 266.0004793, \"3\": 378.4194025, \"4\": 540.6580321, \"5\": 596.141986, \"6\": 739.0, \"7\": 1003.09132, \"8\": 1043.828134, \"9\": 1242.136515, \"10\": 1168.093751, \"11\": 603.3597068, \"12\": 519.5182668}, \"flower_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 105.0, \"2\": 70.0, \"3\": 118.0, \"4\": 188.0, \"5\": 267.0, \"6\": 282.0, \"7\": 393.0, \"8\": 433.0, \"9\": 571.0, \"10\": 524.0, \"11\": 164.0, \"12\": 121.0}, \"flower_month\": 9}, \"Csa\": {\"trends\": {\"1\": 30.0, \"2\": 13.0, \"3\": 18.0, \"4\": 35.0, \"5\": 63.0, \"6\": 40.0, \"7\": 88.0, \"8\": 69.0, \"9\": 106.0, \"10\": 133.0, \"11\": 55.0, \"12\": 37.0}, \"flower_month\": 10}}",
+            "north": "{\"BWk\": {\"trends\": {\"1\": 18.0, \"2\": 14.0, \"3\": 38.0, \"4\": 139.0, \"5\": 305.0, \"6\": 246.0, \"7\": 105.0, \"8\": 75.0, \"9\": 91.0, \"10\": 75.0, \"11\": 16.0, \"12\": 26.0}, \"flower_month\": 5}, \"BSk\": {\"trends\": {\"1\": 148.0, \"2\": 109.0, \"3\": 184.0, \"4\": 495.0, \"5\": 1562.0, \"6\": 1468.0, \"7\": 913.0, \"8\": 546.0, \"9\": 434.0, \"10\": 389.0, \"11\": 129.0, \"12\": 146.0}, \"flower_month\": 5}, \"Cfb\": {\"trends\": {\"1\": 205.0, \"2\": 170.0, \"3\": 338.0, \"4\": 776.0, \"5\": 2164.0, \"6\": 1709.0, \"7\": 1262.0, \"8\": 1151.0, \"9\": 944.0, \"10\": 689.0, \"11\": 567.0, \"12\": 350.0}, \"flower_month\": 5}, \"Dfa\": {\"trends\": {\"1\": 124.0, \"2\": 242.0, \"3\": 477.0, \"4\": 2850.0, \"5\": 10778.0, \"6\": 9980.0, \"7\": 5833.0, \"8\": 3405.0, \"9\": 2745.0, \"10\": 2314.0, \"11\": 265.0, \"12\": 144.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 1963.0, \"2\": 2449.0, \"3\": 3680.0, \"4\": 10717.0, \"5\": 29315.0, \"6\": 26005.0, \"7\": 15759.0, \"8\": 10174.0, \"9\": 9870.0, \"10\": 10122.0, \"11\": 2657.0, \"12\": 2059.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Cabbage is one of the more popular plants grown in vegetable gardens. It is prized for its ease of cultivation and even has several ornamental varieties to use as accent plants. Cabbage is typically grown with lettuce, herbs, beans, or celery to promote healthy soil and support each other.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "prosperity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Cabbage's thick leaves help it to retain moisture and nutrients, an important adaptation for its difficult growing conditions. This is because the plant is native to chalky soil and sea cliffs of coastal and southern Europe.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Cabbage",
+                "values": [
+                    "Cabbage comes from the word, caboche from the Middle English language meaning 'head'. Coincidentally, its circled-shaped appearance looks like the shape of a head. Hence, it is called cabbage."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Waxy leaves in varied hues: purple, pink, white.",
+            "Yellow flowers with cross pattern, attracting pollinators.",
+            "Elongated siliques with distinctive dehiscence for seed dispersal.",
+            "Thick stem, pale green to light brown, minimal irregularities.",
+            "Prominent veins on fleshy, glaucous leaves up to 2 feet long."
+        ],
+        "title": "Quickly Identify Cabbage",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Brassica-oleracea.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage thrives in cool, moist climates, requiring consistent moisture without waterlogging. Water weekly to maintain health and utilize rainwater for optimal hydration, avoiding chlorine found in tap water for a pH-balanced environment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal care, fertilize cabbage with high nitrogen fertilizers every 2-4 weeks during its growing season, applying about 1/4 pound per 20 square feet. Avoid over-fertilization, use slow-release formulations, and adjust nutrient ratios based on cabbage's lifecycle to enhance growth and resilience.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Proper pruning of cabbage in early to late spring is essential for healthy growth. Remove damaged leaves to improve airflow, reduce pests, and align with its growth cycle, enhancing nutrient distribution and promoting robust foliage development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage is best propagated by sowing seeds in early spring. This process is typically easy, leading to successful germination when properly cared for. Look for healthy root development and vibrant foliage as indicators of successful propagation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cabbage needs repotting every 2-3 years, ideally in early spring. Use a spacious pot for its roots. After repotting, maintain consistent moisture and avoid direct sunlight until recovery is evident, enhancing the vigor and yield of cabbage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Brassica_oleracea.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "What is cabbage good for?",
+            "link": "/ask/Brassica_oleracea-0.html"
+        },
+        {
+            "q": "Can you eat raw cabbage?",
+            "link": "/ask/Brassica_oleracea-1.html"
+        },
+        {
+            "q": "Is cabbage a vegetable?",
+            "link": "/ask/Brassica_oleracea-2.html"
+        },
+        {
+            "q": "What are the side effects of cabbage?",
+            "link": "/ask/Brassica_oleracea-3.html"
+        },
+        {
+            "q": "Is cabbage hard to digest?",
+            "link": "/ask/Brassica_oleracea-4.html"
+        },
+        {
+            "q": "Is cabbage good for acid reflux?",
+            "link": "/ask/Brassica_oleracea-5.html"
+        },
+        {
+            "q": "Can you freeze cabbage?",
+            "link": "/ask/Brassica_oleracea-6.html"
+        },
+        {
+            "q": "Can cabbage induce defecation?",
+            "link": "/ask/Brassica_oleracea-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Brassica-oleracea-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Brassica-oleracea-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Brassica-oleracea-Wounds.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Brassica-oleracea-Whitefly.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Brassica-oleracea-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Brassica-oleracea-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Brassica-oleracea-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Brassica-oleracea-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Brassica-oleracea-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Brassica-oleracea-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Brassica-oleracea-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Brassica-oleracea-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Brassica-oleracea-Spots.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Brassica-oleracea-Mealybug.html"
+            },
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Brassica-oleracea-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Brassica-oleracea-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Brassica-oleracea-Leaf-yellowing.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Tibouchina urvilleana",
+                "link": "/wiki/Tibouchina_urvilleana.html",
+                "imageUrl": "/wiki-image/1080/202659384778817536.jpeg",
+                "displayName": "Princess flower"
+            },
+            {
+                "scientificName": "Alstonia scholaris",
+                "link": "/wiki/Alstonia_scholaris.html",
+                "imageUrl": "/wiki-image/1080/153655315504562186.jpeg",
+                "displayName": "Blackboard tree"
+            },
+            {
+                "scientificName": "Clematis florida",
+                "link": "/wiki/Clematis_florida.html",
+                "imageUrl": "/wiki-image/1080/153433132551372813.jpeg",
+                "displayName": "Asian virginsbower"
+            },
+            {
+                "scientificName": "Jasminum officinale",
+                "link": "/wiki/Jasminum_officinale.html",
+                "imageUrl": "/wiki-image/1080/153440781888126979.jpeg",
+                "displayName": "Common jasmine"
+            },
+            {
+                "scientificName": "Spathiphyllum cochlearispathum",
+                "link": "/wiki/Spathiphyllum_cochlearispathum.html",
+                "imageUrl": "/wiki-image/1080/154154854560825351.jpeg",
+                "displayName": "Peace lily"
+            },
+            {
+                "scientificName": "Chlorophytum comosum",
+                "link": "/wiki/Chlorophytum_comosum.html",
+                "imageUrl": "/wiki-image/1080/347094865754357760.jpeg",
+                "displayName": "Spider plant"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Brassica_oleracea.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Brassica_oleracea.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Brassica_oleracea.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Brassica_oleracea.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Brassica_oleracea.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Brassica_oleracea.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Brassica_oleracea.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Brassica_oleracea.html",
+            "values": [
+                "Care Cabbage",
+                "Care Cabbage",
+                "Grow Cabbage",
+                "Maintain Cabbage",
+                "Cabbage Care",
+                "Cabbage Grow",
+                "Cabbage Maintain",
+                "Cabbage Cares",
+                "Growth Cabbage",
+                "Maintains Cabbage",
+                "Cabbage Growth",
+                "Cabbage Maintains",
+                "Cabbage Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Brassica-oleracea-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Brassica_oleracea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Brassica_oleracea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Brassica_oleracea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Brassica_oleracea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Brassica_oleracea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Brassica_oleracea.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Brassica_oleracea.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Brassica_oleracea.html"
+        }
+    ]
+}

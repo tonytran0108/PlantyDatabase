@@ -1,0 +1,631 @@
+{
+    "title": "Hedge bindweed (Calystegia sepium) - PictureThis",
+    "displayName": "Hedge bindweed",
+    "otherCommonName": "Bellbind",
+    "mainImage": {
+        "copyright": {
+            "width": 1312,
+            "height": 1312,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154235479686905857.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23856202",
+                "authorLink": "https://www.inaturalist.org/people/erica_barkley",
+                "author": "erica_barkley",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152381230636072964.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8604382",
+                "authorLink": "https://www.inaturalist.org/people/mmcmasters",
+                "author": "mmcmasters",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659494507741226.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/12533734",
+                "authorLink": "https://www.inaturalist.org/people/judygva",
+                "author": "judygva",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153659730730942508.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/6722200",
+                "authorLink": "https://www.inaturalist.org/people/robberfly",
+                "author": "Liam O'Brien",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/154153115099070464.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   This vine is a cousin of the popular Morning Glory, but the trumpet-shaped flowers grow slightly differently. Hedge bindweed is considered a weed by some due to its tendency to overgrow and inhibit other plants, but its numerous flowers can be beautiful on their own. In the UK, children pop the flowers off the plant as part of a game.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "This vine is a cousin of the popular Morning Glory, but the trumpet-shaped flowers grow slightly differently. Hedge bindweed is considered a weed by some due to its tendency to overgrow and inhibit other plants, but its numerous flowers can be beautiful on their own. In the UK, children pop the flowers off the plant as part of a game.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Hedge bindweed (<i>Calystegia sepium</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Bindweeds",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Calystegia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Morning-glory",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Convolvulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nightshades, bindweeds, gooseweeds, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Solanales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Vine, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 4 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 7 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Burgundy",
+                        "name": "burgundy"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804619458969600.jpeg",
+        "habitat": "Hedges, Fences, Edges of woods, Waste ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Hedge bindweed is native to Australia, South Africa, and most temperate and tropical regions of the Northern Hemisphere. Its native habitat includes stream edges, thickets, open woods, and disturbed areas. Hedge bindweed has been introduced across most of South America. It is listed as an invasive and noxious weed in several US states.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 66.10111483, \"2\": 41.28075058, \"3\": 27.45369198, \"4\": 18.09244996, \"5\": 9.456692821, \"6\": 11.0, \"7\": 1.818014057, \"8\": 3.628249567, \"9\": 19.43395664, \"10\": 33.86950538, \"11\": 64.18149761, \"12\": 64.53502262}, \"flower_month\": 1}, \"Default\": {\"trends\": {\"1\": 141.4021659, \"2\": 94.33243836, \"3\": 87.26968329, \"4\": 58.49468663, \"5\": 31.33132597, \"6\": 37.0, \"7\": 12.37209407, \"8\": 23.40421824, \"9\": 62.40880385, \"10\": 83.25774609, \"11\": 132.8565778, \"12\": 129.4986882}, \"flower_month\": 1}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 4.360608386, \"2\": 2.235277501, \"3\": 4.937339228, \"4\": 16.46296479, \"5\": 26.72742711, \"6\": 25.38782085, \"7\": 25.59077752, \"8\": 13.2672441, \"9\": 9.940206659, \"10\": 8.296209403, \"11\": 6.939094609, \"12\": 3.0}, \"flower_month\": 5}, \"Csb\": {\"trends\": {\"1\": 1.460860238, \"2\": 1.32536125, \"3\": 2.919336308, \"4\": 16.21149497, \"5\": 28.17090868, \"6\": 19.31134667, \"7\": 19.82933877, \"8\": 18.40513229, \"9\": 11.84068198, \"10\": 4.669984829, \"11\": 4.062533897, \"12\": 3.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 7.43442028, \"2\": 12.61285773, \"3\": 31.93360148, \"4\": 107.8718782, \"5\": 150.2758252, \"6\": 172.880995, \"7\": 197.3622277, \"8\": 178.1469048, \"9\": 71.63007377, \"10\": 28.92376454, \"11\": 12.97842232, \"12\": 6.0}, \"flower_month\": 7}, \"Cfb\": {\"trends\": {\"1\": 16.91597438, \"2\": 14.24511638, \"3\": 40.65445801, \"4\": 168.9375331, \"5\": 330.8487814, \"6\": 499.7448052, \"7\": 376.3252095, \"8\": 327.0585448, \"9\": 168.1341052, \"10\": 61.34721228, \"11\": 36.98801473, \"12\": 27.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 15.06196869, \"2\": 13.50383688, \"3\": 28.7799411, \"4\": 194.3956442, \"5\": 323.1555093, \"6\": 378.1929655, \"7\": 438.1496876, \"8\": 367.5976681, \"9\": 154.6163532, \"10\": 51.21127402, \"11\": 24.34087555, \"12\": 12.0}, \"flower_month\": 7}, \"Dfb\": {\"trends\": {\"1\": 7.426085406, \"2\": 7.241583084, \"3\": 17.3686179, \"4\": 68.7305684, \"5\": 144.1986902, \"6\": 220.0103178, \"7\": 246.4323801, \"8\": 176.3364926, \"9\": 90.68129571, \"10\": 40.29159241, \"11\": 26.50040546, \"12\": 22.0}, \"flower_month\": 7}, \"Default\": {\"trends\": {\"1\": 76.59508216, \"2\": 75.83488078, \"3\": 165.9824932, \"4\": 768.2719344, \"5\": 1456.610054, \"6\": 1860.922906, \"7\": 1838.459819, \"8\": 1475.180931, \"9\": 645.4505513, \"10\": 237.8825598, \"11\": 133.0366769, \"12\": 99.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Hedge bindweed is a climbing ornamental plant with pretty trumpet-shaped flowers and triangular leaves. It is ideal for trellises or other garden structures that would benefit from a climbing beauty. It will also bring bees and other pollinating species to the garden space.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purity, spirituality, humility, innocence",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The most interesting thing about hedge bindweed is that as it grows over and vines around plants or poles, it always climbs in a clockwise direction. It is related to the more polite and highly cultivated morning glory. As a member of the morning glory family, its flowers open in the early morning and close up when the sun is hot. Unfortunately, this variety can strangle more delicate plants.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Hedge bindweed",
+                "values": [
+                    "As a climbing plant, it will tightly cling and bind to other plants causing interference, so Calystegia plants are called bindweed. Whereas \"hedge\" is related to the plant commonly found in hedges in the Old World, so this plant is called hedge bindweed."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   There is evidence suggesting that <strong>hedge bindweed has a strong laxative effect</strong>, potentially causing severe dehydration if ingested in large quantities. Cats and dogs may experience poisoning through consuming hedge bindweed seeds, leading to symptoms like vomiting, diarrhea, lethargy, or abdominal pain. <strong>Immediate veterinary care</strong> is crucial if pets show signs of illness.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Calystegia_sepium.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   A native plant of the eastern US, hedge bindweed is considered invasive in several US states, including Alaska, Michigan, Ohio, and Washington. It can now be found all across the world, having been cultivated for its delicate, trumpet-like flowers. However, it has proven to be quite the pest, being difficult to manage with its deep roots, copious rhizomes, and aggressive spreading. Elimination is nearly impossible and with hedge bindweed's quick growth along the ground, it has become problematic for crops. Its seeds and roots are also slightly poisonous. Continuous removal of roots over several seasons is one of the few ways of controlling this weed.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of hedge bindweed is during late spring or early summer, before seeds are produced and the plant has completely matured. As soon as you can identify the plant, begin control measures. Here are some organic or interesting methods for controlling hedge bindweed:\n  </div> \n  <ol> \n   <li>Hand Pulling: This method requires you to physically pull out the plant from its roots. Target young plants or those in sandy soil where roots are easier to remove. Always wear gloves and ensure to remove as much root as possible. Persistence is key because root fragments left behind might sprout new plants.</li> \n   <li>Mowing or Cutting: Regularly cut back the plant before it has a chance to flower and produce seeds. This can weaken the plant over time. Remember, this method is more effective when combined with other strategies as hedge bindweed can re-grow from remaining roots.</li> \n   <li>Smothering: Cover the infested area with a thick layer of landscape fabric, old carpets, or heavy-duty garbage bags to block sunlight. Secure the covering with rocks or bricks and leave it in place for at least two growing seasons to choke off the plant.</li> \n   <li>Biocontrol: Introduce plant's natural enemies, like insects, that feed on hedge bindweed in its native habitat. Be cautious, as these methods require careful management to avoid harm to non-target species.</li> \n   <li>Vinegar Spray: Use a strong domestic vinegar or horticultural vinegar (with higher acetic acid concentration) as a spray on the leaves. This method can burn the plant's foliage but may need to be repeated multiple times to be effective, especially on older, established plants.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Large, arrowhead-shaped leaves measuring 2.5-5 inches (6.35-12.7 cm) in length.",
+            "Funnel-shaped white to pale pink flowers, 2.5-3 inches (6.4-7.6 cm) in diameter.",
+            "Oval seed capsules less than 0.5 inches (about 1.3 cm) across, releasing 2-4 seeds.",
+            "Twining light green to red stems reaching up to 10 feet (3 meters) in length.",
+            "Leathery leaves with paler undersides and slightly hairy margins for identification."
+        ],
+        "title": "Quickly Identify Hedge bindweed",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Calystegia-sepium.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from moist meadows, hedge bindweed thrives in consistently moist environments, preferring weekly watering. While it can tolerate brief dryness, natural rainfall supports its growth. This vigorous climber benefits from regular hydration during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Hedge bindweed spreads rapidly via rhizomes and can be propagated through herbaceous cuttings in Spring or Summer, though this method can be challenging. Success is marked by new growth. Maintain moist soil and avoid over-fertilization for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot hedge bindweed every 2-3 years in spring using a large, sturdy pot to support its growth. After repotting, provide ample sunlight, regular watering, and a trellis for optimal thriving conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Calystegia_sepium.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do I get rid of hedge bindweed?",
+            "link": "/ask/Calystegia_sepium-0.html"
+        },
+        {
+            "q": "Does hedge bindweed die in winter?",
+            "link": "/ask/Calystegia_sepium-1.html"
+        },
+        {
+            "q": "Will vinegar kill hedge bindweed?",
+            "link": "/ask/Calystegia_sepium-2.html"
+        },
+        {
+            "q": "What is the lowest temperature hedge bindweed can tolerate?",
+            "link": "/ask/Calystegia_sepium-3.html"
+        },
+        {
+            "q": "Is hedge bindweed a weed?",
+            "link": "/ask/Calystegia_sepium-4.html"
+        },
+        {
+            "q": "Is hedge bindweed a perennial?",
+            "link": "/ask/Calystegia_sepium-5.html"
+        },
+        {
+            "q": "Where does hedge bindweed usually grow?",
+            "link": "/ask/Calystegia_sepium-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Crepis capillaris",
+                "link": "/wiki/Crepis_capillaris.html",
+                "imageUrl": "/wiki-image/1080/153783451558871083.jpeg",
+                "displayName": "Smooth hawksbeard"
+            },
+            {
+                "scientificName": "Cordia dichotoma",
+                "link": "/wiki/Cordia_dichotoma.html",
+                "imageUrl": "/wiki-image/1080/157082312859713542.jpeg",
+                "displayName": "Bird lime tree"
+            },
+            {
+                "scientificName": "Cyanthillium cinereum",
+                "link": "/wiki/Cyanthillium_cinereum.html",
+                "imageUrl": "/wiki-image/1080/157488148614479878.jpeg",
+                "displayName": "Little ironweed"
+            },
+            {
+                "scientificName": "Lamium purpureum",
+                "link": "/wiki/Lamium_purpureum.html",
+                "imageUrl": "/wiki-image/1080/201214656564559872.jpeg",
+                "displayName": "Purple dead-nettle"
+            },
+            {
+                "scientificName": "Sida acuta",
+                "link": "/wiki/Sida_acuta.html",
+                "imageUrl": "/wiki-image/1080/153826538670784541.jpeg",
+                "displayName": "Common Wireweed"
+            },
+            {
+                "scientificName": "Malvastrum coromandelianum",
+                "link": "/wiki/Malvastrum_coromandelianum.html",
+                "imageUrl": "/wiki-image/1080/152594338323365888.jpeg",
+                "displayName": "Three-lobed false mallow"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Calystegia_sepium.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Calystegia_sepium.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Calystegia_sepium.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Calystegia_sepium.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Calystegia_sepium.html",
+            "values": [
+                "Care Hedge bindweed",
+                "Care Hedge bindweed",
+                "Grow Hedge bindweed",
+                "Maintain Hedge bindweed",
+                "Hedge bindweed Care",
+                "Hedge bindweed Grow",
+                "Hedge bindweed Maintain",
+                "Hedge bindweed Cares",
+                "Growth Hedge bindweed",
+                "Maintains Hedge bindweed",
+                "Hedge bindweed Growth",
+                "Hedge bindweed Maintains",
+                "Hedge bindweed Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Calystegia_sepium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Calystegia_sepium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Calystegia_sepium.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Calystegia_sepium.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Calystegia_sepium.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Calystegia_sepium.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Calystegia_sepium.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Calystegia_sepium.html"
+        }
+    ]
+}

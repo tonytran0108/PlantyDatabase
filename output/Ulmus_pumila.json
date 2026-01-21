@@ -1,0 +1,965 @@
+{
+    "title": "Siberian elm (Ulmus pumila) - PictureThis",
+    "displayName": "Siberian elm",
+    "otherCommonName": "Smooth-leaved elm, Dwarf elm",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153747854869921812.png"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25060543",
+                "authorLink": "https://www.inaturalist.org/people/ck2az",
+                "author": "ck2az",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153987969311571989.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 332,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/13664074",
+                "authorLink": "https://www.inaturalist.org/people/knightericm",
+                "author": "knightericm",
+                "licenseLink": "",
+                "license": "ALL RIGHTS RESERVED"
+            },
+            "imageUrl": "/wiki-image/1080/153956130719006739.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24693375",
+                "authorLink": "https://www.inaturalist.org/people/natashamarch",
+                "author": "natashamarch",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153773611788795934.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24987569",
+                "authorLink": "https://www.inaturalist.org/people/rbelshee",
+                "author": "rbelshee",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153806588547694599.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Siberian elm is a deciduous plant recently introduced to Southern Europe from Asia. The plant rapidly resprouts from its roots and is considered invasive. It is planted to break winds and control soil erosion. The plant is quite hardy and can grow in soils that are saline or polluted.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Siberian elm is a deciduous plant recently introduced to Southern Europe from Asia. The plant rapidly resprouts from its roots and is considered invasive. It is planted to break winds and control soil erosion. The plant is quite hardy and can grow in soils that are saline or polluted.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Siberian elm (<i>Ulmus pumila</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Elms",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ulmus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Elm",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Ulmaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   25 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   12 m to 21 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Silver",
+                        "name": "silver"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804082588057603.jpeg",
+        "habitat": "Dry sandy or stony soils, Plains, Valley",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The siberian elm is native to Central Asia, southern Siberia and Korea. Within its natural range, this tree occurs in grasslands and disturbed areas. The species has been introduced to much of North America, Europe, as well as South America. It is considered a noxious weed in many US states, where it invades disturbed sites and waste areas.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "373",
+                "305",
+                "244",
+                "257",
+                "180",
+                "169",
+                "210",
+                "483",
+                "692",
+                "582",
+                "378",
+                "443"
+            ],
+            "north": [
+                "5393",
+                "11183",
+                "34743",
+                "69422",
+                "73201",
+                "50579",
+                "39515",
+                "31189",
+                "22409",
+                "9926",
+                "3460",
+                "3952"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can be planted as part of a windbreak, soil and water conservation forest and saline-alkali land afforestation.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "It can be used for furniture, vehicles, farm tools, utensils, bridges, and building materials.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Gardeners grow the siberian elm for its landscaping value in promoting erosion control along slopes and banks. A very large tree, the siberian elm can also be kept as a specimen plant. It is prized for its resistance to poor soil, pollution, and drought and is most often used in woodland and cottage gardens. The siberian elm does well when accompanied by red elm and will readily hybridize.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Affluence, the dead, an inheritance, the underworld",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, in ancient times, a poor farmer saved an old man and obtained a tree seed. After careful watering, the seed grew into a big tree. During a year of famine, people discovered that the siberian elm leaves were edible. Villagers survived the famine by relying on the siberian elm.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Siberian elm",
+                "values": [
+                    "This plant is the last plant species you can see in the semi-desert area of Central Asia, so it is drought tolerant. As one of its origins is Siberia, its genus name, Ulmus refers to the meaning of elm, so it is also known as Siberian elm."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Distinctive vase-shaped crown at 50-70 feet (15-21 meters) height and 35-50 feet (11-15 meters) breadth.",
+            "Oblique, ovate to lanceolate leaves with doubly serrate margins; dark green above, pale green below.",
+            "Inconspicuous drooping flowers in light green to reddish clusters before leaf bloom.",
+            "Round, winged samara fruit of 0.5-1 inch (1.27-2.54 cm) diameter maturing to hard brown.",
+            "Silver-gray zig-zag stem with scattered lenticels and winter buds; distinctive bark texture and coloration."
+        ],
+        "title": "Quickly Identify Siberian elm",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Ulmus-pumila.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from semi-arid regions, siberian elm is drought-tolerant and requires watering once every 1-2 weeks. It thrives outdoors in well-draining soil that mimics its dry steppe climate, reflecting its ability to withstand low precipitation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of siberian elm, use balanced fertilizers in spring and fall, shifting to high-nitrogen during growth periods. Apply every 4-6 weeks, adjusting for the plantÃ¢ÂÂs size. Avoid over-fertilization to prevent root burn, adapting feeding frequency with seasonal changes.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Thriving in diverse climates, siberian elm features rapid growth and dense foliage. Key pruning techniques include removing dead or crossing branches, ideally done in early spring. This enhances air circulation, light penetration, and overall plant vigor while reducing pest susceptibility. Use sharp, sanitized tools for best results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Siberian elm propagates best through hardwood cuttings, ideally 6-12 inches long, taken during dormancy. Higher humidity and consistent moisture are essential. Using rooting hormone can improve success rates, but regulate light exposure to ensure balanced growth and conservation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot siberian elm every 2-3 years in early spring. Use a spacious, sturdy container with drainage holes. After repotting, water thoroughly and position in full sun to partial shade, maintaining consistent soil moisture for optimal recovery and growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ulmus_pumila.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a siberian elm?",
+            "link": "/ask/Ulmus_pumila-0.html"
+        },
+        {
+            "q": "Why is it called Siberian elmÃ¯Â¼Â",
+            "link": "/ask/Ulmus_pumila-1.html"
+        },
+        {
+            "q": "How fast does siberian elm grow?",
+            "link": "/ask/Ulmus_pumila-2.html"
+        },
+        {
+            "q": "How do you prune a siberian elm?",
+            "link": "/ask/Ulmus_pumila-3.html"
+        },
+        {
+            "q": "How often should siberian elm be watered?",
+            "link": "/ask/Ulmus_pumila-4.html"
+        },
+        {
+            "q": "Is siberian elm invasive?",
+            "link": "/ask/Ulmus_pumila-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Ulmus-pumila-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ulmus-pumila-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Ulmus-pumila-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf gall",
+                "link": "/disease/Ulmus-pumila-Leaf-gall.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ulmus-pumila-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Ulmus-pumila-Gall.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Ulmus-pumila-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Ulmus-pumila-Aphid.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ulmus-pumila-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Ulmus-pumila-Wilting.html"
+            },
+            {
+                "diseaseName": "Canker and gummosis",
+                "link": "/disease/Ulmus-pumila-Canker-and-gummosis.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Ulmus-pumila-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Ulmus-pumila-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Ulmus-pumila-Spots.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Ulmus-pumila-Underwatering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ulmus-pumila-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Ulmus-pumila-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Ulmus-pumila-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Ulmus-pumila-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Ulmus-pumila-Wounds.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Ulmus-pumila-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Ulmus-pumila-Scars.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Ulmus-pumila-Scale-insect.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Phragmites australis",
+                "link": "/wiki/Phragmites_australis.html",
+                "imageUrl": "/wiki-image/1080/153968560354361367.jpeg",
+                "displayName": "Common reed"
+            },
+            {
+                "scientificName": "Senna siamea",
+                "link": "/wiki/Senna_siamea.html",
+                "imageUrl": "/wiki-image/1080/157250078577262597.jpeg",
+                "displayName": "Siamese cassia"
+            },
+            {
+                "scientificName": "Helichrysum luteoalbum",
+                "link": "/wiki/Helichrysum_luteoalbum.html",
+                "imageUrl": "/wiki-image/1080/154084584600895523.png",
+                "displayName": "Jersey cudweed"
+            },
+            {
+                "scientificName": "Hedera rhombea",
+                "link": "/wiki/Hedera_rhombea.html",
+                "imageUrl": "/wiki-image/1080/153786677079310379.jpeg",
+                "displayName": "Japanese ivy"
+            },
+            {
+                "scientificName": "Chasmanthe floribunda",
+                "link": "/wiki/Chasmanthe_floribunda.html",
+                "imageUrl": "/wiki-image/1080/154101180354527267.jpeg",
+                "displayName": "African flag"
+            },
+            {
+                "scientificName": "Ailanthus altissima",
+                "link": "/wiki/Ailanthus_altissima.html",
+                "imageUrl": "/wiki-image/1080/201161622308323328.jpeg",
+                "displayName": "Tree of heaven"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Ulmus_pumila.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ulmus_pumila.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ulmus_pumila.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Ulmus_pumila.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Ulmus_pumila.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Ulmus_pumila.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ulmus_pumila.html",
+            "values": [
+                "Care Siberian elm",
+                "Care Siberian elm",
+                "Grow Siberian elm",
+                "Maintain Siberian elm",
+                "Siberian elm Care",
+                "Siberian elm Grow",
+                "Siberian elm Maintain",
+                "Siberian elm Cares",
+                "Growth Siberian elm",
+                "Maintains Siberian elm",
+                "Siberian elm Growth",
+                "Siberian elm Maintains",
+                "Siberian elm Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Leaf-gall.html",
+            "values": [
+                "Leaf gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Canker-and-gummosis.html",
+            "values": [
+                "Canker and gummosis"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ulmus-pumila-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ulmus_pumila.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ulmus_pumila.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Ulmus_pumila.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Ulmus_pumila.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ulmus_pumila.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ulmus_pumila.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Ulmus_pumila.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ulmus_pumila.html"
+        }
+    ]
+}

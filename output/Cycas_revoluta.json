@@ -1,0 +1,989 @@
+{
+    "title": "Sago palm (Cycas revoluta) - PictureThis",
+    "displayName": "Sago palm",
+    "otherCommonName": "Japanese sago palm, Sotetsu",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154057779710001199.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 960,
+                "height": 1280,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cycas_revoluta_006.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Esculapio",
+                "author": "Esculapio",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153660838832504869.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 1280,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cycas_revoluta_020.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Esculapio",
+                "author": "Esculapio",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/154002894322925577.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 1280,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cycas_revoluta_023.jpg",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Esculapio",
+                "author": "Esculapio",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153718236775448577.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1280,
+                "height": 886,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Cycas_revoluta1327B.JPG",
+                "authorLink": "https://commons.wikimedia.org/wiki/User:Esculapio",
+                "author": "Esculapio",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/2.5/",
+                "license": "CC-BY-SA-2.5"
+            },
+            "imageUrl": "/wiki-image/1080/153689898581229611.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The sago palm is said to be a source of sago, a starch and carbohydrate source eaten in certain countries. Great care must be taken, however, because sago palm is poisonous that could cause vomiting, diarrhea and headache, etc. These palm-like plants are more often kept for their decorative value. But make sure that your pet is away from this plant, which could be fatal to pets if consumed.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The sago palm is said to be a source of sago, a starch and carbohydrate source eaten in certain countries. Great care must be taken, however, because sago palm is poisonous that could cause vomiting, diarrhea and headache, etc. These palm-like plants are more often kept for their decorative value. But make sure that your pet is away from this plant, which could be fatal to pets if consumed.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Sago palm (<i>Cycas revoluta</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Cycas",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Cycas.html"
+            },
+            {
+                "type": "Family",
+                "name": "Cycad",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Cycadaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Cycads",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Cycadales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Cycads",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Cycadopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid fall, Late fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 m to 8 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   8 cm to 15 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Tan",
+                        "name": "tan"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Slow",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278805714675630081.jpeg",
+        "habitat": "Sea shore, Thickets, Forests",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Sago palm is native only to Japan and southern China, growing in hillside thickets. Sago palm has been introduced in the southeastern US and Bangladesh, where it grows in sandy, well-drained soil.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "2727",
+                "2693",
+                "2771",
+                "2424",
+                "2284",
+                "2142",
+                "2489",
+                "3093",
+                "3396",
+                "3010",
+                "2473",
+                "3201"
+            ],
+            "north": [
+                "13712",
+                "17550",
+                "24476",
+                "28473",
+                "29060",
+                "24783",
+                "23585",
+                "19751",
+                "17179",
+                "13174",
+                "9779",
+                "13127"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The tropical and subtropical sago palm does well in home landscapes as a border, accent, or specimen plant, and can also be grown in containers. The sago palm does particularly well in drought-tolerant, Mediterranean, and rock gardens as it requires low maintenance. Companion plants include Canna, Plumbago, Foxtail fern, Jacaranda, and Jatropha plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Good fortune, longevity and wealth",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Sago cycad is also called the sago palm. It is said that in ancient times, the Phoenix was captured and tamed, hoping to show feathers to the public and sing and dance, but the Phoenix did not give in. After the Phoenix was burned to death, it left behind a plant, which is the sago palm.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Sago palm",
+                "values": [
+                    "This plant is featured with a rugged trunk, topped with whorled feathery leaves. These features have inspired the common name \"Sago Palm\". Nevertheless, it is actually related to conifer and Ginko trees. It was believed that all cone-bearing plants which trace their origins back to the past. In the ancient flora of the early Mesozoic era, it is often called \"living fossils\". Weirdly enough, the Cycas plants have changed very little in the last 200 million years."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Sago palm is highly toxic</strong> due to cycasin. All parts, especially seeds, can cause severe symptoms like vomiting, diarrhea, and seizures in cats, dogs, and humans. <strong>Ingesting sago palm can lead to liver failure and death.</strong> Consult a vet immediately if ingestion is suspected, as even small amounts are lethal.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Cycas_revoluta.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Symmetrical rosette of glossy, dark green leaves with pointed, feathery leaflets, up to 5 feet (1.5 m) long.",
+            "Stout, shaggy trunk resembling a scaled bulb, 2-3 feet (0.6-0.9 m) tall.",
+            "Large, golden cone fruit with large seeds, 1-2 inches (2.5-5 cm) in diameter.",
+            "Pinnate, glossy green leaves in circular rosette pattern, 3-7 feet (90 cm to 2.1 m) long.",
+            "Thick, sturdy stem with rough, textured, woody surface, up to 1 foot (30 cm) in diameter."
+        ],
+        "title": "Quickly Identify Sago palm",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Cycas-revoluta.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Partial sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from dry, subtropical regions, sago palm exhibits drought tolerance and prefers minimal moisture. It requires watering every 1-2 weeks, thriving as an evergreen with consistent moisture. Sago palm is resilient to watering schedule variations, effectively handling water stress.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sago palm benefits from balanced nutrition fertilizers with equal NPK ratios to enhance frond growth. Fertilize every 1-2 months in active growth seasons, reducing frequency in fall and winter. Apply granules near the drip line, water deeply afterward to ensure nutrient uptake and prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sago palm features stiff, feather-like leaves and grows slowly. Minimal pruning is required; trim dead fronds in early to late winter using sterilized tools. Avoid cutting green fronds for optimal photosynthesis. Pruning promotes new growth and resilience to pests. Wear gloves for protection against sharp tips.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Sago palm propagates effectively via cutting and layering in spring and summer. Though moderately challenging, successful propagation is indicated by root emergence and new growth. For the best outcomes, utilize only healthy parent material.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot sago palm every 2-3 years in spring to prevent root-bound issues. Use a deep pot for taproot growth and well-draining soil. Avoid immediate watering to prevent root rot, and provide bright, indirect light to support recovery. Careful repotting ensures sustained health for this slow-growing plant.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Cycas_revoluta.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Does sago palm need sun or shade?",
+            "link": "/ask/Cycas_revoluta-0.html"
+        },
+        {
+            "q": "Why are the leaves on my sago palm turning yellow?",
+            "link": "/ask/Cycas_revoluta-1.html"
+        },
+        {
+            "q": "How poisonous is a sago palm?",
+            "link": "/ask/Cycas_revoluta-2.html"
+        },
+        {
+            "q": "What is sago palm good for?",
+            "link": "/ask/Cycas_revoluta-3.html"
+        },
+        {
+            "q": "How often do you need to water a sago palm?",
+            "link": "/ask/Cycas_revoluta-4.html"
+        },
+        {
+            "q": "Can sago palm grow in pots?",
+            "link": "/ask/Cycas_revoluta-5.html"
+        },
+        {
+            "q": "How fast do sago palm grow?",
+            "link": "/ask/Cycas_revoluta-6.html"
+        },
+        {
+            "q": "Is sago palm poisonous to pets?",
+            "link": "/ask/Cycas_revoluta-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Cycas-revoluta-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Cycas-revoluta-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Cycas-revoluta-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Cycas-revoluta-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Cycas-revoluta-Spots.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Cycas-revoluta-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Cycas-revoluta-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Cycas-revoluta-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Cycas-revoluta-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Cycas-revoluta-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Cycas-revoluta-Notch.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Cycas-revoluta-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Cycas-revoluta-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Cycas-revoluta-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Cycas-revoluta-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Cycas-revoluta-Wounds.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Cycas-revoluta-Mealybug.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Dianthus barbatus",
+                "link": "/wiki/Dianthus_barbatus.html",
+                "imageUrl": "/wiki-image/1080/154023140798758929.jpeg",
+                "displayName": "Sweet william"
+            },
+            {
+                "scientificName": "Aphelandra squarrosa",
+                "link": "/wiki/Aphelandra_squarrosa.html",
+                "imageUrl": "/wiki-image/1080/154131966680104993.jpeg",
+                "displayName": "Zebra plant"
+            },
+            {
+                "scientificName": "Oxalis triangularis",
+                "link": "/wiki/Oxalis_triangularis.html",
+                "imageUrl": "/wiki-image/1080/153935974437486623.jpeg",
+                "displayName": "False shamrock"
+            },
+            {
+                "scientificName": "Prunus cerasifera",
+                "link": "/wiki/Prunus_cerasifera.html",
+                "imageUrl": "/wiki-image/1080/202644425407725568.jpeg",
+                "displayName": "Cherry plum"
+            },
+            {
+                "scientificName": "Lilium pensylvanicum",
+                "link": "/wiki/Lilium_pensylvanicum.html",
+                "imageUrl": "/wiki-image/1080/154075148557746194.jpeg",
+                "displayName": "Siberian lily"
+            },
+            {
+                "scientificName": "Brugmansia suaveolens",
+                "link": "/wiki/Brugmansia_suaveolens.html",
+                "imageUrl": "/wiki-image/1080/347102781379084288.jpeg",
+                "displayName": "Angel's trumpet"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Cycas_revoluta.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Cycas_revoluta.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Cycas_revoluta.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Cycas_revoluta.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Cycas_revoluta.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Cycas_revoluta.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Cycas_revoluta.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Cycas_revoluta.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Cycas_revoluta.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Cycas_revoluta.html",
+            "values": [
+                "Care Sago palm",
+                "Care Sago palm",
+                "Grow Sago palm",
+                "Maintain Sago palm",
+                "Sago palm Care",
+                "Sago palm Grow",
+                "Sago palm Maintain",
+                "Sago palm Cares",
+                "Growth Sago palm",
+                "Maintains Sago palm",
+                "Sago palm Growth",
+                "Sago palm Maintains",
+                "Sago palm Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Cycas-revoluta-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Cycas_revoluta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Cycas_revoluta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Cycas_revoluta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Cycas_revoluta.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Cycas_revoluta.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Cycas_revoluta.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Cycas_revoluta.html"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Cycas_revoluta.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Cycas_revoluta.html"
+        }
+    ]
+}

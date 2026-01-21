@@ -1,0 +1,982 @@
+{
+    "title": "Cherry laurel (Prunus laurocerasus) - PictureThis",
+    "displayName": "Cherry laurel",
+    "otherCommonName": "Versailles Laurel, Common laurel",
+    "mainImage": {
+        "copyright": {
+            "width": 2592,
+            "height": 2592,
+            "copyrightType": "CC_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "license": "CC-BY-SA-3.0"
+        },
+        "imageUrl": "/wiki-image/1080/202644562846679040.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/32542553",
+                "authorLink": "https://www.inaturalist.org/people/ave-llan",
+                "author": "ave-llan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153656951887101980.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7639815",
+                "authorLink": "https://www.inaturalist.org/people/jeffreyleeisanaturalist",
+                "author": "jeffreyleeisanaturalist",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153923063765794855.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/34176802",
+                "authorLink": "https://www.inaturalist.org/people/naturewatchwidow",
+                "author": "naturewatchwidow",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153924369435852817.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/25604842",
+                "authorLink": "https://www.inaturalist.org/people/jon_sullivan",
+                "author": "jon_sullivan",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153900373453570052.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Cherry laurel 'Rotundifolia'",
+            "link": "/wiki/Prunus_laurocerasus__Rotundifolia_.html"
+        },
+        {
+            "displayName": "Cherry laurel 'Otto Luyken'",
+            "link": "/wiki/Prunus_laurocerasus__Otto_Luyken_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel (Prunus laurocerasus) is an evergreen species of cherry, commonly cultivated as an ornamental plant. It is a shrub or a small tree with characteristic glossy, dark green leaves with a leathery texture. Leaves and seeds of cherry laurel contain toxic compounds, which can cause serious poisoning if ingested.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Cherry laurel (Prunus laurocerasus) is an evergreen species of cherry, commonly cultivated as an ornamental plant. It is a shrub or a small tree with characteristic glossy, dark green leaves with a leathery texture. Leaves and seeds of cherry laurel contain toxic compounds, which can cause serious poisoning if ingested.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Cherry laurel (<i>Prunus laurocerasus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Prunus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Prunus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Rose",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rosaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 to 12 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2 m to 10 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Cream",
+                        "name": "cream"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804473430081542.jpeg",
+        "habitat": "Woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel is native to the stretch of land from south Europe to Iran. It is now naturalized in western Europe, the West Coast of the United States, and Argentina. This is a tough shrub that copes well with poor soil conditions and can thrive in public areas. It is found in the wild in woodlands and scrublands.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 36.99689263, \"2\": 45.94148048, \"3\": 28.07763952, \"4\": 27.50052393, \"5\": 31.5223094, \"6\": 22.0, \"7\": 21.81616869, \"8\": 27.57469671, \"9\": 35.71646086, \"10\": 40.45524254, \"11\": 36.13580118, \"12\": 42.33497484}, \"flower_month\": 10, \"fruit_month\": 2}, \"Default\": {\"trends\": {\"1\": 244.0, \"2\": 205.0, \"3\": 189.0, \"4\": 169.0, \"5\": 169.0, \"6\": 128.0, \"7\": 162.0, \"8\": 164.0, \"9\": 245.0, \"10\": 255.0, \"11\": 243.0, \"12\": 233.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Cfa\": {\"trends\": {\"1\": 83.0, \"2\": 56.0, \"3\": 61.0, \"4\": 54.0, \"5\": 50.0, \"6\": 38.0, \"7\": 66.0, \"8\": 59.0, \"9\": 80.0, \"10\": 75.0, \"11\": 78.0, \"12\": 68.0}, \"flower_month\": 9, \"fruit_month\": 1}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 55.23985813, \"2\": 58.27330697, \"3\": 78.72508459, \"4\": 100.8727386, \"5\": 66.54620665, \"6\": 62.66257858, \"7\": 62.94491481, \"8\": 92.35765317, \"9\": 95.84878914, \"10\": 69.27300637, \"11\": 57.38311426, \"12\": 46.0}, \"flower_month\": 4, \"fruit_month\": 9}, \"Csa\": {\"trends\": {\"1\": 68.02549082, \"2\": 93.88165504, \"3\": 95.86667, \"4\": 117.6305388, \"5\": 92.08609341, \"6\": 112.5894664, \"7\": 141.3055976, \"8\": 162.7188467, \"9\": 136.9037553, \"10\": 99.55451283, \"11\": 95.41255088, \"12\": 76.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Csb\": {\"trends\": {\"1\": 180.4162394, \"2\": 224.6487319, \"3\": 260.9156825, \"4\": 238.8007855, \"5\": 219.661769, \"6\": 195.6387966, \"7\": 202.6126496, \"8\": 263.634078, \"9\": 220.2366849, \"10\": 171.3884432, \"11\": 158.438822, \"12\": 178.0}, \"flower_month\": 3, \"fruit_month\": 8}, \"Cfa\": {\"trends\": {\"1\": 333.7228659, \"2\": 418.7468767, \"3\": 400.5979437, \"4\": 417.1857404, \"5\": 375.9509122, \"6\": 364.2250089, \"7\": 430.3666906, \"8\": 506.5342777, \"9\": 457.43958, \"10\": 419.8328247, \"11\": 307.6649526, \"12\": 357.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Cfb\": {\"trends\": {\"1\": 604.3616302, \"2\": 912.3349535, \"3\": 947.8001185, \"4\": 991.2603828, \"5\": 779.7169281, \"6\": 755.8583782, \"7\": 802.6010924, \"8\": 1105.118935, \"9\": 976.0327292, \"10\": 864.944993, \"11\": 668.1452023, \"12\": 593.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Dfb\": {\"trends\": {\"1\": 150.1719493, \"2\": 291.11164, \"3\": 397.1928672, \"4\": 401.0790406, \"5\": 251.1517471, \"6\": 212.5568527, \"7\": 227.4192451, \"8\": 324.7917645, \"9\": 279.2607376, \"10\": 309.3354514, \"11\": 234.4884362, \"12\": 180.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Dfa\": {\"trends\": {\"1\": 300.0, \"2\": 481.0, \"3\": 981.0, \"4\": 2377.0, \"5\": 2288.0, \"6\": 1701.0, \"7\": 1342.0, \"8\": 1346.0, \"9\": 903.0, \"10\": 672.0, \"11\": 263.0, \"12\": 222.0}, \"flower_month\": 4, \"fruit_month\": 8}, \"Default\": {\"trends\": {\"1\": 1776.199642, \"2\": 2511.783138, \"3\": 2824.34903, \"4\": 3019.091073, \"5\": 2333.712981, \"6\": 2195.068932, \"7\": 2341.642757, \"8\": 3172.735847, \"9\": 2699.941034, \"10\": 2415.422915, \"11\": 1905.216608, \"12\": 1767.0}, \"flower_month\": 4, \"fruit_month\": 8}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Cherry laurel (Prunus laurocerasus) is a vigorous and spreading evergreen shrub whose growth makes it a popular choice as a hedging plant. The attractive leaves, flowers, and berries also make this a good specimen plant that offers year-round interest. This shrub is well suited to informal and cottage gardens and its colors pair well with Japanese maple or snowdrops.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, Divination, memorial",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Cherry laurel",
+                "values": [
+                    "It is because the plant is from the Prunus genus, it carries the word, cherry in its name. However, the laurel in the name does not mean that it has a kinship with the genus Laurus. The word means that its leaves and shape are very similar to Laurus nobilis (original laurel), and it is also used to make laurel wreaths. So it is called a cherry laurel."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   The cherry laurel plant contains cyanide precursors in every part except its fruit. <strong>When consumed, these cyanotoxins convert to cyanide gas</strong> in the stomach, causing symptoms from agitation to weakness, impaired coordination, muscle spasms, difficulty moving or speaking, <strong>slowed respiration and heartbeat, ultimately leading to death.</strong>\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Prunus_laurocerasus.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Coriaceous leaves emit cherry fragrance when crushed.",
+            "Distinctive purple-black, globose-ovoid drupe fruits under 1 inch (2.54 cm).",
+            "Axillary racemes with white, fragrant flowers boasting 20 stamens.",
+            "Upright, evergreen shrub with glossy, elliptic-oblong leaves up to 10 inches (25 cm) wide.",
+            "Woody stem with pale to brown pith, emitting cherry scent when bruised."
+        ],
+        "title": "Quickly Identify Cherry laurel",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Prunus-laurocerasus.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel prefers moist, fertile soils and requires consistent hydration without waterlogging. Watering every 1-2 weeks supports optimal health. Typically grown outdoors, it benefits from mulching to retain moisture and replicate its natural forest floor habitat.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel thrives with balanced nutrition from spring to summer, using a high nitrogen fertilizer for early growth. Apply every 4-6 weeks, reducing to 8-10 weeks in fall/winter. Water thoroughly after feeding and monitor responses, adjusting for young versus established plants.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel is an evergreen shrub featuring glossy leaves and white flower spikes. Prune in late spring post-flowering for optimal results. Techniques include thinning, shaping, and removing dead branches, which promote denser growth and enhance overall plant health and aesthetics.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Cherry laurel is a hardy evergreen shrub featuring glossy, dark green leaves and fragrant white flowers. Propagation via softwood cuttings involves using disease-free materials, rooting hormone, and well-draining soil. Consistent moisture and warmth are essential, with rooting typically taking several weeks.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot cherry laurel every 2-3 years, ideally in early spring, using a container 2-3 inches larger in diameter. Ensure well-drained soil and ample water post-repotting for recovery. Though resilient, cherry laurel benefits from careful attention during this transition.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Prunus_laurocerasus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How fast does cherry laurel grow?",
+            "link": "/ask/Prunus_laurocerasus-0.html"
+        },
+        {
+            "q": "How do you take care of a cherry laurel?",
+            "link": "/ask/Prunus_laurocerasus-1.html"
+        },
+        {
+            "q": "How tall does a cherry laurel grow?",
+            "link": "/ask/Prunus_laurocerasus-2.html"
+        },
+        {
+            "q": "Does cherry laurel need a lot of sunlight?",
+            "link": "/ask/Prunus_laurocerasus-3.html"
+        },
+        {
+            "q": "How often should cherry laurel be watered?",
+            "link": "/ask/Prunus_laurocerasus-4.html"
+        },
+        {
+            "q": "How poisonous is cherry laurel?",
+            "link": "/ask/Prunus_laurocerasus-5.html"
+        },
+        {
+            "q": "Is Skip laurel the same as cherry laurel?",
+            "link": "/ask/Prunus_laurocerasus-6.html"
+        },
+        {
+            "q": "What eats cherry laurel berries?",
+            "link": "/ask/Prunus_laurocerasus-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Prunus-laurocerasus-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Prunus-laurocerasus-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Prunus-laurocerasus-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf weevils",
+                "link": "/disease/Prunus-laurocerasus-Leaf-weevils.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Prunus-laurocerasus-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Prunus-laurocerasus-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Prunus-laurocerasus-Mealybug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Prunus-laurocerasus-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Prunus-laurocerasus-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Prunus-laurocerasus-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Prunus-laurocerasus-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Prunus-laurocerasus-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Prunus-laurocerasus-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Prunus-laurocerasus-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Prunus-laurocerasus-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Prunus-laurocerasus-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Prunus-laurocerasus-Scars.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Prunus-laurocerasus-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Prunus-laurocerasus-Spots.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Prunus-laurocerasus-Black-mold.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Prunus-laurocerasus-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Prunus-laurocerasus-Notch.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Prunus-laurocerasus-Wilting.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Prunus-laurocerasus-White-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Calluna vulgaris",
+                "link": "/wiki/Calluna_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/201170985337061376.jpeg",
+                "displayName": "Scotch heather"
+            },
+            {
+                "scientificName": "Chamaedorea elegans",
+                "link": "/wiki/Chamaedorea_elegans.html",
+                "imageUrl": "/wiki-image/1080/153845977692766242.jpeg",
+                "displayName": "Parlor palm"
+            },
+            {
+                "scientificName": "Dracaena draco",
+                "link": "/wiki/Dracaena_draco.html",
+                "imageUrl": "/wiki-image/1080/202701548472762368.jpeg",
+                "displayName": "Dragon tree"
+            },
+            {
+                "scientificName": "Dracunculus vulgaris",
+                "link": "/wiki/Dracunculus_vulgaris.html",
+                "imageUrl": "/wiki-image/1080/153825417684320294.jpeg",
+                "displayName": "Dragon arum"
+            },
+            {
+                "scientificName": "Pittosporum tobira",
+                "link": "/wiki/Pittosporum_tobira.html",
+                "imageUrl": "/wiki-image/1080/348124360825274368.jpeg",
+                "displayName": "Japanese pittosporum"
+            },
+            {
+                "scientificName": "Prunus pensylvanica",
+                "link": "/wiki/Prunus_pensylvanica.html",
+                "imageUrl": "/wiki-image/1080/153712945375739917.jpeg",
+                "displayName": "Pin cherry"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Prunus_laurocerasus.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Prunus_laurocerasus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Prunus_laurocerasus.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Prunus_laurocerasus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Prunus_laurocerasus.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Prunus_laurocerasus.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Prunus_laurocerasus.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Prunus_laurocerasus.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Prunus_laurocerasus.html",
+            "values": [
+                "Care Cherry laurel",
+                "Care Cherry laurel",
+                "Grow Cherry laurel",
+                "Maintain Cherry laurel",
+                "Cherry laurel Care",
+                "Cherry laurel Grow",
+                "Cherry laurel Maintain",
+                "Cherry laurel Cares",
+                "Growth Cherry laurel",
+                "Maintains Cherry laurel",
+                "Cherry laurel Growth",
+                "Cherry laurel Maintains",
+                "Cherry laurel Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Prunus-laurocerasus-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Prunus_laurocerasus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Prunus_laurocerasus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Prunus_laurocerasus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Prunus_laurocerasus.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Prunus_laurocerasus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Prunus_laurocerasus.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Prunus_laurocerasus.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Prunus_laurocerasus.html"
+        }
+    ]
+}

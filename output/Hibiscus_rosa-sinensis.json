@@ -1,0 +1,995 @@
+{
+    "title": "Chinese hibiscus (Hibiscus rosa-sinensis) - PictureThis",
+    "displayName": "Chinese hibiscus",
+    "otherCommonName": "Rose mallow, Shoe-flower",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154120121160302616.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24094120",
+                "authorLink": "https://www.inaturalist.org/people/said9",
+                "author": "said9",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153655122231033881.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/39075857",
+                "authorLink": "https://www.inaturalist.org/people/pdbellbutler",
+                "author": "pdbellbutler",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665455922348066.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/19661427",
+                "authorLink": "https://www.inaturalist.org/people/eugeneingerman",
+                "author": "eugeneingerman",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153665172454506508.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 681,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/55453539",
+                "authorLink": "https://www.inaturalist.org/people/knightericm",
+                "author": "knightericm",
+                "licenseLink": "",
+                "license": "ALL RIGHTS RESERVED"
+            },
+            "imageUrl": "/wiki-image/1080/154145873784209432.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus is a small flowering tree. Its fragrant flowers are well known the world over, leading to many cultivated variants. Chinese hibiscus is the national flower of Malaysia and is featured on Malaysian coins. Although the Latin name, Hibiscus rosa-sinensis, means Ã¢ÂÂthe rose of China,Ã¢ÂÂ it is not related to true roses.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Chinese hibiscus is a small flowering tree. Its fragrant flowers are well known the world over, leading to many cultivated variants. Chinese hibiscus is the national flower of Malaysia and is featured on Malaysian coins. Although the Latin name, Hibiscus rosa-sinensis, means Ã¢ÂÂthe rose of China,Ã¢ÂÂ it is not related to true roses.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Chinese hibiscus (<i>Hibiscus rosa-sinensis</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Hibiscus",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Hibiscus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mallow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Malvaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mallows, rock-roses, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malvales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Spring, Summer, Fall, Early winter, Mid winter",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 m to 3 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 cm to 18 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Orange",
+                        "name": "orange"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278801960874213381.jpeg",
+        "habitat": "Disturbed sites",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus is thought to be native to tropical parts of Asia, though this plant is no longer found in the wild, and its original habitat is obscure. Instead, it has been cultivated worldwide as an ornamental and a houseplant, and has naturalized in most tropical and subtropical regions.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"BWk\": {\"trends\": {\"1\": 37.68835042, \"2\": 42.6852251, \"3\": 44.60855546, \"4\": 25.61070215, \"5\": 29.79373487, \"6\": 28.0, \"7\": 21.7466097, \"8\": 25.55794856, \"9\": 22.10176532, \"10\": 18.95993349, \"11\": 29.47922438, \"12\": 18.3460165}, \"flower_month\": 3}, \"Cfa\": {\"trends\": {\"1\": 619.3651096, \"2\": 732.8658116, \"3\": 691.7963474, \"4\": 691.6792587, \"5\": 665.5619129, \"6\": 661.0, \"7\": 534.5350923, \"8\": 526.7483824, \"9\": 506.6955002, \"10\": 543.2085804, \"11\": 648.8596986, \"12\": 643.5069332}, \"flower_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 174.1320413, \"2\": 149.1433569, \"3\": 192.7997914, \"4\": 165.7268416, \"5\": 169.432413, \"6\": 111.0, \"7\": 123.6249559, \"8\": 131.3426343, \"9\": 116.0784978, \"10\": 118.072859, \"11\": 91.14851342, \"12\": 137.3305281}, \"flower_month\": 3}, \"Csa\": {\"trends\": {\"1\": 163.1382343, \"2\": 163.4463072, \"3\": 164.1059528, \"4\": 168.9468421, \"5\": 167.8108035, \"6\": 145.0, \"7\": 141.8109346, \"8\": 163.013612, \"9\": 123.2882839, \"10\": 111.671253, \"11\": 131.5438553, \"12\": 184.9964069}, \"flower_month\": 12}, \"Csb\": {\"trends\": {\"1\": 68.86155597, \"2\": 74.20395738, \"3\": 76.91510034, \"4\": 76.49929047, \"5\": 59.39492921, \"6\": 49.0, \"7\": 48.25565611, \"8\": 43.41504993, \"9\": 54.6230096, \"10\": 64.88521023, \"11\": 47.6714472, \"12\": 91.77239668}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 3152.0, \"2\": 2759.0, \"3\": 3137.0, \"4\": 2815.0, \"5\": 2878.0, \"6\": 2242.0, \"7\": 2080.0, \"8\": 2632.0, \"9\": 2759.0, \"10\": 2982.0, \"11\": 2661.0, \"12\": 2900.0}, \"flower_month\": 1}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 904.0763149, \"2\": 910.3390407, \"3\": 932.6042091, \"4\": 1066.056336, \"5\": 985.4638843, \"6\": 1090.370926, \"7\": 981.5568995, \"8\": 925.3234431, \"9\": 1097.047067, \"10\": 1058.286109, \"11\": 1092.393161, \"12\": 993.0}, \"flower_month\": 9}, \"Csa\": {\"trends\": {\"1\": 422.1068918, \"2\": 398.6244877, \"3\": 357.957094, \"4\": 397.5009402, \"5\": 497.4895046, \"6\": 601.0290631, \"7\": 670.1816665, \"8\": 770.6707969, \"9\": 742.804534, \"10\": 731.7256693, \"11\": 587.2208813, \"12\": 572.0}, \"flower_month\": 8}, \"Csb\": {\"trends\": {\"1\": 145.3555937, \"2\": 133.8614863, \"3\": 124.8016272, \"4\": 112.7518583, \"5\": 101.3914983, \"6\": 123.295521, \"7\": 149.6035262, \"8\": 188.4581855, \"9\": 173.5505674, \"10\": 200.3423492, \"11\": 180.376505, \"12\": 179.0}, \"flower_month\": 10}, \"Cfa\": {\"trends\": {\"1\": 1452.190095, \"2\": 1311.737204, \"3\": 1201.014963, \"4\": 1226.3009, \"5\": 1539.216474, \"6\": 1677.710281, \"7\": 1719.072881, \"8\": 1702.941633, \"9\": 1654.583783, \"10\": 1964.624794, \"11\": 1890.269039, \"12\": 1921.0}, \"flower_month\": 10}, \"Dfc\": {\"trends\": {\"1\": 34.0, \"2\": 48.0, \"3\": 58.0, \"4\": 76.0, \"5\": 96.0, \"6\": 102.0, \"7\": 108.0, \"8\": 104.0, \"9\": 89.0, \"10\": 89.0, \"11\": 49.0, \"12\": 21.0}, \"flower_month\": 7}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can absorb ultraviolet rays.",
+                "icon": ""
+            },
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Indian people use Chinese hibiscus to polish leather shoes, and Indonesia calls it the \"The Shoe Flower\".",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Chinese hibiscus is an evergreen shrub or tree commonly found in tropical gardens. It is prized for its glossy foliage and numerous, exotic-looking flowers. The multiple blooms and rich foliage makes it suitable for hedging, as a stand-alone plant, or as an annual screen. Chinese hibiscus is often a feature ornamental of Pollinator gardens. Plant with Blue Waterfall or Wild Indigo for strong color contrast.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Fresh love, delicate beauty, refinement, cleanliness, fame, glory",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The appearance of the hibiscus is enthusiastic and bold, but it has a unique flower heart, which is formed by the smaller stamens connected and wrapped around the large stamens. The structure is quite delicate, just like the delicate heart under the boldness. It is said that the local girls put it behind their left ear to indicate \"I hope to have a lover\" and behind their right ear to express \"I already have a lover\". So what about behind both ears? Maybe they want to say \"I have a lover, but I hope for another\".",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Dixie rosemallow",
+                "values": [
+                    "It used to be one of the most common flowers in the southeastern part of the United States, and Dixie is the informal name of the land in this area. Hence, it is known by most people as the Dixie rosemallow."
+                ]
+            },
+            {
+                "key": "Shoeblack plant||Shoe-flower",
+                "values": [
+                    "The most attractive part of the plant is its large trumpet-shaped flowers petals which are very distinct. Once blended, its petals produce a delicate yet inconsistent black syrup. Resourceful people have discovered that its black juice can serve the special purpose of shoe polishing. This is how it came to be called the shoe black plant or shoe-flower."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Vigorous shrub, 4 to 10 feet (1.2 to 3 meters) tall and 5 to 8 feet (1.5 to 2.4 meters) wide.",
+            "Large, showy flowers up to 6 inches (15 cm) in diameter with multi-layered bright-colored petals.",
+            "Exquisite array of flower colors - purple, blue, pink, white - single or double-petaled, lasting one day.",
+            "Prominent central tube formed by fused pistil and stamens, encircled by narrow-leaved calyx.",
+            "Simple, lobed dark green glossy leaves with dentate margins and prominent palmate venation, 2 to 6 inches (5 to 15 cm) long."
+        ],
+        "title": "Quickly Identify Chinese hibiscus",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Hibiscus-rosa-sinensis.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus originates from tropical regions and thrives in high humidity. It requires watering every 1-2 weeks, allowing the soil to dry slightly. Best grown outdoors, chinese hibiscus flourishes with ample sunlight and benefits from rain during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus thrives with balanced fertilizers high in nitrogen, phosphorus, and potassium, applied monthly in spring/summer and less frequently in fall/winter. Use water-soluble formulas, adjusting for plant size. Always water thoroughly post-fertilization for optimal nutrient absorption and to prevent root burn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus is a flowering shrub known for its large blossoms. Prune dead or weak stems and shape the plant in late spring after flowering to enhance growth and blooms. Sharp tools are advised for clean cuts, and up to one-third can be removed for rejuvenation.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Chinese hibiscus, a vibrant tropical shrub from the Malvaceae family, is best propagated through stem cuttings. Use healthy, non-flowering shoots, a few inches long, in well-draining soil. Maintain moisture and provide indirect light, allowing several weeks for root establishment.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot chinese hibiscus every 2-3 years in spring to promote growth. Use a pot one size larger for root development. After repotting, maintain consistent moisture and shield from direct sunlight for a week to support recovery. Ensure these steps for optimal health and vigor.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Hibiscus_rosa-sinensis.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is chinese hibiscus edible?",
+            "link": "/ask/Hibiscus_rosa-sinensis-0.html"
+        },
+        {
+            "q": "How do you take care of a chinese hibiscus plant?",
+            "link": "/ask/Hibiscus_rosa-sinensis-1.html"
+        },
+        {
+            "q": "How long do hibiscus flowers last?",
+            "link": "/ask/Hibiscus_rosa-sinensis-2.html"
+        },
+        {
+            "q": "What is chinese hibiscus good for?",
+            "link": "/ask/Hibiscus_rosa-sinensis-3.html"
+        },
+        {
+            "q": "Is chinese hibiscus easy to grow?",
+            "link": "/ask/Hibiscus_rosa-sinensis-4.html"
+        },
+        {
+            "q": "Is China rose and chinese hibiscus same?",
+            "link": "/ask/Hibiscus_rosa-sinensis-5.html"
+        },
+        {
+            "q": "How can I tell if my hibiscus is hardy or tropical?",
+            "link": "/ask/Hibiscus_rosa-sinensis-6.html"
+        },
+        {
+            "q": "How do you prune chinese hibiscus?",
+            "link": "/ask/Hibiscus_rosa-sinensis-7.html"
+        },
+        {
+            "q": "Why does chinese hibiscus not bear fruit?",
+            "link": "/ask/Hibiscus_rosa-sinensis-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Brown blotch yellow edge",
+                "link": "/disease/Hibiscus-rosa-sinensis-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Caterpillars",
+                "link": "/disease/Hibiscus-rosa-sinensis-Caterpillars.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Hibiscus-rosa-sinensis-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Aphids",
+                "link": "/disease/Hibiscus-rosa-sinensis-Aphids.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Hibiscus-rosa-sinensis-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Hibiscus-rosa-sinensis-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Hibiscus-rosa-sinensis-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Hibiscus-rosa-sinensis-Scars.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Hibiscus-rosa-sinensis-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Hibiscus-rosa-sinensis-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Hibiscus-rosa-sinensis-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Hibiscus-rosa-sinensis-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Hibiscus-rosa-sinensis-Notch.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Hibiscus-rosa-sinensis-Spots.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Hibiscus-rosa-sinensis-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Hibiscus-rosa-sinensis-Black-mold.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Hibiscus-rosa-sinensis-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Hibiscus-rosa-sinensis-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Hibiscus-rosa-sinensis-White-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Dracaena angustifolia",
+                "link": "/wiki/Dracaena_angustifolia.html",
+                "imageUrl": "/wiki-image/1080/154135535797927953.jpeg",
+                "displayName": "Rainbow tree"
+            },
+            {
+                "scientificName": "Ficus benghalensis",
+                "link": "/wiki/Ficus_benghalensis.html",
+                "imageUrl": "/wiki-image/1080/201210516216086528.jpeg",
+                "displayName": "Banyan tree"
+            },
+            {
+                "scientificName": "Tabernaemontana divaricata",
+                "link": "/wiki/Tabernaemontana_divaricata.html",
+                "imageUrl": "/wiki-image/1080/202658800663265280.jpeg",
+                "displayName": "Crape jasmine"
+            },
+            {
+                "scientificName": "Gomphrena globosa",
+                "link": "/wiki/Gomphrena_globosa.html",
+                "imageUrl": "/wiki-image/1080/201212199843266560.jpeg",
+                "displayName": "Common globe amaranth"
+            },
+            {
+                "scientificName": "Rhipsalis baccifera",
+                "link": "/wiki/Rhipsalis_baccifera.html",
+                "imageUrl": "/wiki-image/1080/202646521351766016.jpeg",
+                "displayName": "Mistletoe cactus"
+            },
+            {
+                "scientificName": "Osteospermum ecklonis",
+                "link": "/wiki/Osteospermum_ecklonis.html",
+                "imageUrl": "/wiki-image/1080/201219939374333952.jpeg",
+                "displayName": "Cape marguerite"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Hibiscus_rosa-sinensis.html",
+            "values": [
+                "Care Chinese hibiscus",
+                "Care Chinese hibiscus",
+                "Grow Chinese hibiscus",
+                "Maintain Chinese hibiscus",
+                "Chinese hibiscus Care",
+                "Chinese hibiscus Grow",
+                "Chinese hibiscus Maintain",
+                "Chinese hibiscus Cares",
+                "Growth Chinese hibiscus",
+                "Maintains Chinese hibiscus",
+                "Chinese hibiscus Growth",
+                "Chinese hibiscus Maintains",
+                "Chinese hibiscus Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Hibiscus-rosa-sinensis-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Hibiscus_rosa-sinensis.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Hibiscus_rosa-sinensis.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Hibiscus_rosa-sinensis.html"
+        }
+    ]
+}

@@ -1,0 +1,873 @@
+{
+    "title": "Ghost plant (Graptopetalum paraguayense) - PictureThis",
+    "displayName": "Ghost plant",
+    "otherCommonName": "Mother of pearl plant",
+    "mainImage": {
+        "copyright": {
+            "width": 831,
+            "height": 830,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154147789339623453.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1329,
+                "height": 1080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/33590535@N06",
+                "author": "Drew Avery",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154025288282406927.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3888,
+                "height": 2592,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157187771486699529.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2829,
+                "height": 2250,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/64279203@N00",
+                "author": "Dave Pape",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154217200306094080.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4160,
+                "height": 2080,
+                "copyrightType": "CC",
+                "referral": "",
+                "authorLink": "https://www.flickr.com/photos/68387408@N00",
+                "author": "Erich Ferdinand",
+                "licenseLink": "https://creativecommons.org/licenses/by/2.0/",
+                "license": "CC-BY-2.0"
+            },
+            "imageUrl": "/wiki-image/1080/154078653251059719.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Ghost plant (Graptopetalum paraguayense) is a succulent native to the Mexican state of Tamaulipas and commonly grown as a houseplant or garden plant. It features ornamental trailing rosettes that turn yellow-pink when grown in a sunny spot or greenish-to-blueish-gray in the shade. It is sometimes confused with another succulent, Echeveria.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Ghost plant (Graptopetalum paraguayense) is a succulent native to the Mexican state of Tamaulipas and commonly grown as a houseplant or garden plant. It features ornamental trailing rosettes that turn yellow-pink when grown in a sunny spot or greenish-to-blueish-gray in the shade. It is sometimes confused with another succulent, Echeveria.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Ghost plant (<i>Graptopetalum paraguayense</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Leatherpetal",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Graptopetalum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Stonecrop",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Crassulaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Saxifrages, stonecrops and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Saxifragales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Succulent, Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Mid winter, Late winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late summer, Early fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   15 cm to 30 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "White",
+                        "name": "white"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Summer dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804859977138176.jpeg",
+        "habitat": "Garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Ghost plant is native to Mexico, where it thrives in sandy, rocky areas. It has been introduced into the wild in Portugal and Queensland, Australia, but can be found as a houseplant and rock garden plant in many areas of the world.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "4376",
+                "4369",
+                "4140",
+                "4535",
+                "4326",
+                "4187",
+                "5539",
+                "5929",
+                "5723",
+                "4844",
+                "4010",
+                "5024"
+            ],
+            "north": [
+                "19283",
+                "22648",
+                "28447",
+                "31536",
+                "29827",
+                "23553",
+                "22320",
+                "18591",
+                "16251",
+                "13122",
+                "13957",
+                "18142"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Ghost plant is admired for its compact nature and powdery, pearl-colored leaves. This succulent can be an exemplary indoor-potted plant as well as an impressive outdoor plant in xeriscapes, rock gardens, and succulent gardens. It is also a pleasant companion plant for Sempervivum and other similar succulents.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Good fortune, spirituality, endurance",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Ghost plant leaves are light green, with a little purplish-pink on its tips. The plant can also be planted as a hanging bonsai, which is especially lovely and beautiful from a long or close distance.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Ghost plant",
+                "values": [
+                    "It's called ghost plant because its leaves appear to be covered with a powdery layer which gives it a ghost-like appearance."
+                ]
+            },
+            {
+                "key": "Mother of pearl plant",
+                "values": [
+                    "It is a very common yet popular succulent plant not only because it has gorgeous blooms, but also that it is blessed with color changing succulent leaves. With sufficient light exposure, it will turn yellow or purple. In fact, it will turn blue-gray under a shaded environment. However, the top powdery layer will not change like the leaves under different lighting conditions. This powdery layer feature makes the plant look very similar to the Mother of pearl, so it is called Mother of pearl plant."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Rosette of fleshy, triangular leaves ranging from pale blue to light purple.",
+            "Star-shaped white flowers with small red specks, clustered for visual impact.",
+            "Round, grayish succulent stem, branching for new rosettes, up to 20 cm long.",
+            "Distinctive red specks on 5-petaled white blossoms, creating unique patterns.",
+            "Leaves with pointed tips, 1-3 inches long, whitish green to blue-gray in color."
+        ],
+        "title": "Quickly Identify Ghost plant",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Graptopetalum-paraguayense.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ghost plant flourishes in arid conditions with excellent drought tolerance, requiring watering every three weeks. Its fleshy leaves store moisture for extended dry spells. Preferred for indoor cultivation, ghost plant needs well-draining soil to prevent root rot, balancing dry air and moist conditions for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For ghost plant, use a balanced succulents and cacti fertilizer monthly during spring and summer at half strength, and every other month in fall and winter. Apply to soil, avoid leaves, and monitor for signs of over-fertilization to promote healthy growth and root development.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To maintain ghost plant's shape, prune redundant or dense branches in spring and autumn. Use a knife or scissors for pruning and apply sulfur powder on wounds. For propagation, cut stout stems with 5-6 leaves in spring or autumn, then plant after the wound heals, ensuring soil is slightly moist.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Ghost plant belongs to the Crassulaceae family and is a succulent known for easy propagation. Select a healthy leaf or stem, allow it to callous, and then place it in well-draining soil. Keep moisture minimal and avoid direct sunlight while waiting for root growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot ghost plant in spring every two years for its spreading rosette. Use a slightly larger container for drainage. After repotting, provide bright indirect light and water sparingly, allowing soil to dry between waterings, to support healthy growth of its opalescent leaves.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Graptopetalum_paraguayense.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a ghost plant?",
+            "link": "/ask/Graptopetalum_paraguayense-0.html"
+        },
+        {
+            "q": "How do you propagate ghost plant?",
+            "link": "/ask/Graptopetalum_paraguayense-1.html"
+        },
+        {
+            "q": "How often should you water a ghost plant?",
+            "link": "/ask/Graptopetalum_paraguayense-2.html"
+        },
+        {
+            "q": "Where are ghost plants from?",
+            "link": "/ask/Graptopetalum_paraguayense-3.html"
+        },
+        {
+            "q": "Why is my ghost plant dying?",
+            "link": "/ask/Graptopetalum_paraguayense-4.html"
+        },
+        {
+            "q": "Can you grow a ghost plant indoors?",
+            "link": "/ask/Graptopetalum_paraguayense-5.html"
+        },
+        {
+            "q": "Is ghost plant toxic to cats?",
+            "link": "/ask/Graptopetalum_paraguayense-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Soft Rot",
+                "link": "/disease/Graptopetalum-paraguayense-Soft-Rot.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Graptopetalum-paraguayense-Wilting.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Graptopetalum-paraguayense-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Graptopetalum-paraguayense-Brown-spot.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Graptopetalum-paraguayense-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf curling",
+                "link": "/disease/Graptopetalum-paraguayense-Leaf-curling.html"
+            },
+            {
+                "diseaseName": "Waterlogging",
+                "link": "/disease/Graptopetalum-paraguayense-Waterlogging.html"
+            },
+            {
+                "diseaseName": "leaf discolorations",
+                "link": "/disease/Graptopetalum-paraguayense-leaf-discolorations.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Graptopetalum-paraguayense-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Graptopetalum-paraguayense-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Graptopetalum-paraguayense-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Graptopetalum-paraguayense-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Etiolated stem",
+                "link": "/disease/Graptopetalum-paraguayense-Etiolated-stem.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Graptopetalum-paraguayense-Black-mold.html"
+            },
+            {
+                "diseaseName": "Black spot",
+                "link": "/disease/Graptopetalum-paraguayense-Black-spot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Graptopetalum-paraguayense-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wrinkling",
+                "link": "/disease/Graptopetalum-paraguayense-Leaf-wrinkling.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Graptopetalum-paraguayense-Dark-blotch.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Ixora coccinea",
+                "link": "/wiki/Ixora_coccinea.html",
+                "imageUrl": "/wiki-image/1080/201213887765413888.jpeg",
+                "displayName": "Flame of the woods"
+            },
+            {
+                "scientificName": "Symphyotrichum pilosum",
+                "link": "/wiki/Symphyotrichum_pilosum.html",
+                "imageUrl": "/wiki-image/1080/154107073049657351.jpeg",
+                "displayName": "Frost aster"
+            },
+            {
+                "scientificName": "Citrus reticulata",
+                "link": "/wiki/Citrus_reticulata.html",
+                "imageUrl": "/wiki-image/1080/153936137646243865.jpeg",
+                "displayName": "Mandarin orange"
+            },
+            {
+                "scientificName": "Acer saccharum",
+                "link": "/wiki/Acer_saccharum.html",
+                "imageUrl": "/wiki-image/1080/153769505800060949.jpeg",
+                "displayName": "Sugar maple"
+            },
+            {
+                "scientificName": "Vallisneria spiralis",
+                "link": "/wiki/Vallisneria_spiralis.html",
+                "imageUrl": "/wiki-image/1080/154175972915019810.jpeg",
+                "displayName": "Tape grass"
+            },
+            {
+                "scientificName": "Calotropis gigantea",
+                "link": "/wiki/Calotropis_gigantea.html",
+                "imageUrl": "/wiki-image/1080/154060884971356170.jpeg",
+                "displayName": "Crown Flower"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Graptopetalum_paraguayense.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Graptopetalum_paraguayense.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Graptopetalum_paraguayense.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Graptopetalum_paraguayense.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Graptopetalum_paraguayense.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Graptopetalum_paraguayense.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Graptopetalum_paraguayense.html",
+            "values": [
+                "Care Ghost plant",
+                "Care Ghost plant",
+                "Grow Ghost plant",
+                "Maintain Ghost plant",
+                "Ghost plant Care",
+                "Ghost plant Grow",
+                "Ghost plant Maintain",
+                "Ghost plant Cares",
+                "Growth Ghost plant",
+                "Maintains Ghost plant",
+                "Ghost plant Growth",
+                "Ghost plant Maintains",
+                "Ghost plant Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Leaf-curling.html",
+            "values": [
+                "Leaf curling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-leaf-discolorations.html",
+            "values": [
+                "leaf discolorations"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Etiolated-stem.html",
+            "values": [
+                "Etiolated stem"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Leaf-wrinkling.html",
+            "values": [
+                "Leaf wrinkling"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Graptopetalum-paraguayense-Soft-Rot.html",
+            "values": [
+                "Soft Rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Graptopetalum_paraguayense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Graptopetalum_paraguayense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Graptopetalum_paraguayense.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Graptopetalum_paraguayense.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Graptopetalum_paraguayense.html"
+        },
+        {
+            "title": "How to arrange succulents together?",
+            "link": "/succulent-arrangements/Graptopetalum_paraguayense.html",
+            "lmsicon": "/wiki-image/1080/545508842865000448.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Graptopetalum_paraguayense.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Graptopetalum_paraguayense.html"
+        }
+    ]
+}

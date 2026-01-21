@@ -1,0 +1,896 @@
+{
+    "title": "Peppermint (Mentha piperita) - PictureThis",
+    "displayName": "Peppermint",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 3464,
+            "height": 3464,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Claudio Divizia",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/200460451717251072.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3456,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Mentha_%C3%97_piperita_%27Chocolate_Mint%27.JPG",
+                "authorLink": "",
+                "author": "Broly0",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC-ZERO"
+            },
+            "imageUrl": "/wiki-image/1080/154037155277045762.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2816,
+                "height": 2112,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Starr_070906-8847_Mentha_x_piperita.jpg",
+                "authorLink": "",
+                "author": "Forest & Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154091349174386698.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 2816,
+                "height": 2112,
+                "copyrightType": "CC",
+                "referral": "https://commons.wikimedia.org/wiki/File:Starr_070906-8848_Mentha_x_piperita.jpg",
+                "authorLink": "",
+                "author": "Forest & Kim Starr",
+                "licenseLink": "https://creativecommons.org/licenses/by/3.0/",
+                "license": "CC-BY-3.0"
+            },
+            "imageUrl": "/wiki-image/1080/154252723980599324.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 3008,
+                "height": 2000,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157200312791203848.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   A cross between spearmint and watermint plants, peppermint is commonly found growing in herb gardens or containers. Its leaves can be used to extract oil, which can be used as a raw material for cosmetics.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "A cross between spearmint and watermint plants, peppermint is commonly found growing in herb gardens or containers. Its leaves can be used to extract oil, which can be used as a raw material for cosmetics.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Peppermint (<i>Mentha piperita</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mints",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Mentha.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4 mm to 5 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800719628664835.jpeg",
+        "habitat": "Riparian, wetland, disturbed areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Peppermint, a widely cultivated species, is naturally found in Europe and the Middle East. It has been introduced to a range of environments in Africa, Asia, the Pacific Islands, South America, and North America. Its ability to adapt has allowed it to thrive across various continents, and it is commonly cultivated in regions outside its native range for its aromatic properties.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "421",
+                "469",
+                "606",
+                "526",
+                "438",
+                "457",
+                "642",
+                "1174",
+                "1395",
+                "987",
+                "504",
+                "575"
+            ],
+            "north": [
+                "7108",
+                "10694",
+                "21252",
+                "30534",
+                "25176",
+                "20375",
+                "19562",
+                "14535",
+                "10521",
+                "6369",
+                "5255",
+                "6382"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [],
+        "nameStory": [],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Peppermint possesses mild toxicity</strong> to humans, cats, and dogs. Consumption of any part of the plant leads to symptoms like gastrointestinal distress, dizziness, muscle weakness, vomiting, diarrhea, and central nervous system depression due to compounds such as pulegone, menthone, menthol, and menthofuran. <strong>Moderation is crucial</strong> in culinary use, and immediate veterinary care is recommended for pets.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Mentha_piperita.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Vibrant green, crinkled leaves emit strong scent when crushed.",
+            "Pale lavender flowers in upright spikes above leafy vegetation.",
+            "Thrives in moist soil or water's edge, ideal for container cultivation.",
+            "Cold-hardy down to less than 14ÃÂ°F ( -10ÃÂ°C).",
+            "Prune to promote bushier growth habit."
+        ],
+        "title": "Quickly Identify Peppermint",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Mentha-piperita.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peppermint thrives in moist environments, preferring slightly damp soil and consistent moisture without waterlogging. Weekly watering is recommended for optimal growth. As an herbaceous perennial, it grows vigorously outdoors and adapts well to container gardening with proper drainage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Fertilizing peppermint biweekly with balanced nutrition during growth, then monthly in dormancy, supports growth and foliage. Use diluted liquid fertilizer to avoid root burn. Adjust amounts in cold months and wear gloves for protection. Practices change with seasonal variations and peppermint's maturity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Regular pruning of peppermint enhances its shape and promotes bushier growth, ideally in early to late spring. Remove damaged stems above leaf nodes. Sterilize tools to prevent disease, and prune up to one-third of the plant at a time to boost health and essential oil production.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Peppermint propagates efficiently from cuttings of a healthy plant, using well-draining soil and optional rooting hormone. Avoid overwatering to prevent root rot. Once established, peppermint grows rapidly, benefiting from regular pruning for bushiness and to prevent overcrowding.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot peppermint every 2-3 years in spring for optimal growth. Use a medium-sized container with good drainage. Post-repotting, maintain moist soil and provide partial sunlight to enhance recovery, as peppermint thrives in spacious pots for its fragrant leaves.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Mentha_piperita.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Does peppermint need full sun?",
+            "link": "/ask/Mentha_piperita-0.html"
+        },
+        {
+            "q": "Is peppermint easy to grow?",
+            "link": "/ask/Mentha_piperita-1.html"
+        },
+        {
+            "q": "Where does peppermint grow best?",
+            "link": "/ask/Mentha_piperita-2.html"
+        },
+        {
+            "q": "Does peppermint come back every year?",
+            "link": "/ask/Mentha_piperita-3.html"
+        },
+        {
+            "q": "Can peppermint grow indoors?",
+            "link": "/ask/Mentha_piperita-4.html"
+        },
+        {
+            "q": "Does peppermint keep bugs away?",
+            "link": "/ask/Mentha_piperita-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Mentha-piperita-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Mentha-piperita-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Mentha-piperita-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Mentha-piperita-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Mentha-piperita-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Mentha-piperita-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Mentha-piperita-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Mentha-piperita-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Mentha-piperita-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Mentha-piperita-Black-mold.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Mentha-piperita-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Mentha-piperita-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Mentha-piperita-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Mentha-piperita-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Mentha-piperita-Spots.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Mentha-piperita-Wounds.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Mentha-piperita-Notch.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Mentha-piperita-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Mentha-piperita-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Mentha-piperita-Leaf-tip-withering.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Verbesina alternifolia",
+                "link": "/wiki/Verbesina_alternifolia.html",
+                "imageUrl": "/wiki-image/1080/153777142251913216.jpeg",
+                "displayName": "Wingstem"
+            },
+            {
+                "scientificName": "Thespesia populnea",
+                "link": "/wiki/Thespesia_populnea.html",
+                "imageUrl": "/wiki-image/1080/153990060960645148.jpeg",
+                "displayName": "Portia Tree"
+            },
+            {
+                "scientificName": "Phyllanthus urinaria",
+                "link": "/wiki/Phyllanthus_urinaria.html",
+                "imageUrl": "/wiki-image/1080/153982368674218025.jpeg",
+                "displayName": "Chamber bitter"
+            },
+            {
+                "scientificName": "Corynocarpus laevigatus",
+                "link": "/wiki/Corynocarpus_laevigatus.html",
+                "imageUrl": "/wiki-image/1080/152551642053476354.jpeg",
+                "displayName": "New Zealand laurel"
+            },
+            {
+                "scientificName": "Pilea microphylla",
+                "link": "/wiki/Pilea_microphylla.html",
+                "imageUrl": "/wiki-image/1080/154077016868519947.jpeg",
+                "displayName": "Artillery plant"
+            },
+            {
+                "scientificName": "Lagerstroemia indica",
+                "link": "/wiki/Lagerstroemia_indica.html",
+                "imageUrl": "/wiki-image/1080/201214506240704512.jpeg",
+                "displayName": "Crepe myrtle"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Mentha_piperita.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Mentha_piperita.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Mentha_piperita.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Mentha_piperita.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Mentha_piperita.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Mentha_piperita.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Mentha_piperita.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Mentha_piperita.html",
+            "values": [
+                "Care Peppermint",
+                "Care Peppermint",
+                "Grow Peppermint",
+                "Maintain Peppermint",
+                "Peppermint Care",
+                "Peppermint Grow",
+                "Peppermint Maintain",
+                "Peppermint Cares",
+                "Growth Peppermint",
+                "Maintains Peppermint",
+                "Peppermint Growth",
+                "Peppermint Maintains",
+                "Peppermint Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Mentha-piperita-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Mentha_piperita.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Mentha_piperita.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Mentha_piperita.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Mentha_piperita.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Mentha_piperita.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Mentha_piperita.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Mentha_piperita.html"
+        }
+    ]
+}

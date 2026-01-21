@@ -1,0 +1,830 @@
+{
+    "title": "Creeping buttercup (Ranunculus repens) - PictureThis",
+    "displayName": "Creeping buttercup",
+    "otherCommonName": "Creeping crowfoot",
+    "mainImage": {
+        "copyright": {
+            "width": 1414,
+            "height": 1414,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154193032525119510.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/37432550",
+                "authorLink": "https://www.inaturalist.org/people/kai_pirinha",
+                "author": "kai_pirinha",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152491821748977664.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/5367810",
+                "authorLink": "https://www.inaturalist.org/people/john_barkla",
+                "author": "john_barkla",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152367392251445250.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/18607250",
+                "authorLink": "https://www.inaturalist.org/people/pieterprovoost",
+                "author": "pieterprovoost",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152376888424136707.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/2126852",
+                "authorLink": "https://www.inaturalist.org/people/rileypollom",
+                "author": "rileypollom",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153662183157268485.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   While originally used as an ornamental plant around the world, the creeping buttercup is now considered invasive in many places. Distribution usually occurs through the transportation of hay, making control difficult. The creeping buttercup is considered poisonous and can cause skin blistering.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "While originally used as an ornamental plant around the world, the creeping buttercup is now considered invasive in many places. Distribution usually occurs through the transportation of hay, making control difficult. The creeping buttercup is considered poisonous and can cause skin blistering.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Creeping buttercup (<i>Ranunculus repens</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Ranunculus\n",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Ranunculus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buttercup",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Ranunculaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Buttercups, poppies and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Ranunculales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Mid summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   10 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.5 cm to 3 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Summer dormancy, Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278804636638838784.jpeg",
+        "habitat": "Wet meadows, Pastures, Woods, Dune slacks",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Eurasia, and Northwest Africa are the regions where you'll find creeping buttercup naturally. It has seen a widespread introduction to the majority of the world, it is classified as an invasive species in several states in the United States. Its natural habitat includes wetlands, woods, pastures, and dune slacks.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 58.7017363, \"2\": 60.58948875, \"3\": 58.02712167, \"4\": 86.84375979, \"5\": 80.38188898, \"6\": 77.0, \"7\": 82.71963961, \"8\": 80.54714038, \"9\": 96.64454114, \"10\": 129.3626942, \"11\": 88.45181184, \"12\": 59.88850099}, \"flower_month\": 10}, \"Default\": {\"trends\": {\"1\": 117.1419904, \"2\": 109.6295905, \"3\": 90.27898271, \"4\": 127.0170338, \"5\": 126.1720965, \"6\": 125.0, \"7\": 139.899833, \"8\": 125.6026379, \"9\": 171.1209138, \"10\": 242.9386472, \"11\": 174.6953896, \"12\": 126.4516602}, \"flower_month\": 10}}",
+            "north": "{\"BSk\": {\"trends\": {\"1\": 7.532707927, \"2\": 3.833770196, \"3\": 17.44476306, \"4\": 39.67979765, \"5\": 65.22409659, \"6\": 34.04102242, \"7\": 17.01213914, \"8\": 15.59682222, \"9\": 12.31791668, \"10\": 10.74000099, \"11\": 7.172889282, \"12\": 5.0}, \"flower_month\": 5}, \"Csa\": {\"trends\": {\"1\": 19.1866769, \"2\": 27.56842251, \"3\": 31.68126004, \"4\": 45.40591902, \"5\": 44.02164465, \"6\": 22.6282751, \"7\": 9.272020842, \"8\": 10.53575267, \"9\": 10.84386181, \"10\": 11.06161254, \"11\": 8.673868262, \"12\": 20.0}, \"flower_month\": 4}, \"Csb\": {\"trends\": {\"1\": 60.62569987, \"2\": 54.33981127, \"3\": 119.6927886, \"4\": 255.7408869, \"5\": 309.7611309, \"6\": 161.6211167, \"7\": 87.56321874, \"8\": 73.62052915, \"9\": 78.1485011, \"10\": 104.6076602, \"11\": 38.18781864, \"12\": 37.0}, \"flower_month\": 5}, \"Cfa\": {\"trends\": {\"1\": 50.38884857, \"2\": 88.79451842, \"3\": 122.8015732, \"4\": 178.4678605, \"5\": 167.1328525, \"6\": 114.1350258, \"7\": 70.4865099, \"8\": 59.05780816, \"9\": 42.19791475, \"10\": 52.5886628, \"11\": 51.15025267, \"12\": 42.0}, \"flower_month\": 4}, \"Dfa\": {\"trends\": {\"1\": 23.78205583, \"2\": 48.87102871, \"3\": 127.7548605, \"4\": 243.0889221, \"5\": 293.7839598, \"6\": 121.874065, \"7\": 81.14828227, \"8\": 101.6052546, \"9\": 92.57593562, \"10\": 85.97513156, \"11\": 51.11583866, \"12\": 35.0}, \"flower_month\": 5}, \"Dfb\": {\"trends\": {\"1\": 45.38163304, \"2\": 55.03603144, \"3\": 155.4034233, \"4\": 464.1574241, \"5\": 542.9661579, \"6\": 282.2999903, \"7\": 154.5047956, \"8\": 135.9820942, \"9\": 145.2783388, \"10\": 103.1118171, \"11\": 70.66774789, \"12\": 50.0}, \"flower_month\": 5}, \"Dfc\": {\"trends\": {\"1\": 0.77110734, \"2\": 1.392987162, \"3\": 1.50746475, \"4\": 6.814504193, \"5\": 18.14347955, \"6\": 20.50175588, \"7\": 12.22736711, \"8\": 4.823571989, \"9\": 6.004790617, \"10\": 3.145370637, \"11\": 0.892901007, \"12\": 0.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 292.0, \"2\": 506.0, \"3\": 2318.0, \"4\": 6908.0, \"5\": 10397.0, \"6\": 3630.0, \"7\": 1697.0, \"8\": 1842.0, \"9\": 1141.0, \"10\": 788.0, \"11\": 362.0, \"12\": 169.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 454.7329088, \"2\": 652.1799747, \"3\": 1504.807114, \"4\": 2862.028532, \"5\": 3315.970061, \"6\": 1640.543569, \"7\": 1003.214923, \"8\": 1079.715846, \"9\": 921.4828614, \"10\": 830.8580053, \"11\": 541.1800623, \"12\": 383.0}, \"flower_month\": 5}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Creeping buttercup is widely used as a decorative garden plant. In meadow landscapes, this plant has ornamental value and adds pops of color. In the cottage or woodland garden, it brings density and provides ground cover under larger plants or shrubs. It tends to spread easily, so in small garden spaces, it may not be ideal, unless it is in containers.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Neatness, humility, childishness, faithlessness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The yellow flowers of the creeping buttercup (Ranunculus repens) are notably glossy. This aids in attracting pollinating insects, as well as in the thermoregulation of the plantÃ¢ÂÂs reproductive organs.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Creeping buttercup",
+                "values": [
+                    "As this plant produces butter-like flowers, the name buttercup is given to the plant. As for \"creeping\", it is reflected in its ability to spread widely as a grass weed. Also, it can creep to the ground easily, forming a thick layer of mulch. So, it is called creeping buttercup."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Creeping buttercup is toxic to humans</strong>, dogs, and cats. <strong>Ingestion or contact</strong> can result in gastrointestinal discomfort, irregular heartbeat, headache, and skin blistering in humans. Dogs and cats can experience vomiting, diarrhea, and other distressing symptoms if they consume the plant. Immediate veterinary care is essential for pets exposed to creeping buttercup.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Ranunculus_repens.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best season for removal of creeping buttercup is in late spring or early summer before it has a chance to seed. It's easier to handle when the soil is softer and moist, allowing complete removal of the root system.\n  </div> \n  <ol> \n   <li>Hand pulling: Use a garden fork or similar tool to loosen the soil around creeping buttercup and then pull it out, ensuring you get the entire root. Freshly water the area before pulling may help with this. Dispose of the weeds properly so that they can't re-establish.</li> \n   <li>Use of a weed whacker: Mow or cut back the plants as closely as possible to the ground level. This will drain their energy and reduce the ability to produce more plants. Keep repeating this process throughout the growing season for best results.</li> \n   <li>Natural weed killers: Pour boiling water directly onto creeping buttercup. This burns off the weed and kills it. Please handle with care to avoid burning other desired plants.</li> \n   <li>Smothering: For larger infestations, cover creeping buttercup with several layers of wet newspaper or a piece of old carpet. Leave it for a few months. This should kill the weed by blocking out the sunlight, oxygen, and soil nutrients.</li> \n   <li>Biological control: Encourage natural predators like slugs and birds to your garden. They can help controlling creeping buttercup by feeding on it.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping buttercup thrives in moist environments and prefers consistent soil moisture, requiring weekly watering. It is moderately drought-tolerant but performs best with even hydration. Suited for outdoor cultivation, creeping buttercup's growth and flowering are strongly linked to water availability, necessitating effective irrigation during the growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Before planting creeping buttercup, mix 1/3 fully decomposed organic fertilizer into the soil. After planting, use diluted NPK during bloom and potassium/phosphorus after flowering. Continue fertilizing until foliage yellowing occurs, signaling energy storage in underground corms.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Deadhead faded flowers on creeping buttercup to promote blooming. Cease watering when flowering stops and leaves yellow. For winter storage, cut the top, dig out corms, treat with fungicide, and store in a cool, dry place. Hardy corms can remain undisturbed in dry soil.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Creeping buttercup primarily propagates by sowing in spring but can also spread through rhizomes. Healthy growth is characterized by rapid, dense carpet-like coverage, and propagation is straightforward, requiring no specialized techniques.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Ranunculus_repens.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you get rid of creeping buttercup?",
+            "link": "/ask/Ranunculus_repens-0.html"
+        },
+        {
+            "q": "Is creeping buttercup poisonous?",
+            "link": "/ask/Ranunculus_repens-1.html"
+        },
+        {
+            "q": "Does vinegar kill creeping buttercup?",
+            "link": "/ask/Ranunculus_repens-2.html"
+        },
+        {
+            "q": "Is creeping buttercup hardy in the UK?",
+            "link": "/ask/Ranunculus_repens-3.html"
+        },
+        {
+            "q": "Is creeping buttercup invasive?",
+            "link": "/ask/Ranunculus_repens-4.html"
+        },
+        {
+            "q": "Where is creeping buttercup native?",
+            "link": "/ask/Ranunculus_repens-5.html"
+        },
+        {
+            "q": "Is creeping buttercup poisonous for pets?",
+            "link": "/ask/Ranunculus_repens-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Ranunculus-repens-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Ranunculus-repens-Stem-rot.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Ranunculus-repens-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Ranunculus-repens-Scars.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Ranunculus-repens-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Ranunculus-repens-White-blotch.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Ranunculus-repens-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Ranunculus-repens-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Ranunculus-repens-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Ranunculus-repens-Black-mold.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Ranunculus-repens-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Ranunculus-repens-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Ranunculus-repens-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Ranunculus-repens-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Ranunculus-repens-Spots.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Ranunculus-repens-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Ranunculus-repens-Mealybug.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Ranunculus-repens-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Ranunculus-repens-Notch.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Ranunculus-repens-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Ranunculus-repens-Scale-insect.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Viburnum lantana",
+                "link": "/wiki/Viburnum_lantana.html",
+                "imageUrl": "/wiki-image/1080/153934320875077665.jpeg",
+                "displayName": "Wayfaring tree"
+            },
+            {
+                "scientificName": "Philodendron erubescens",
+                "link": "/wiki/Philodendron_erubescens.html",
+                "imageUrl": "/wiki-image/1080/153783026357108753.jpeg",
+                "displayName": "Blushing philodendron"
+            },
+            {
+                "scientificName": "Clematis viticella",
+                "link": "/wiki/Clematis_viticella.html",
+                "imageUrl": "/wiki-image/1080/154081191576731649.jpeg",
+                "displayName": "Italian leather flower"
+            },
+            {
+                "scientificName": "Kalanchoe daigremontiana",
+                "link": "/wiki/Kalanchoe_daigremontiana.html",
+                "imageUrl": "/wiki-image/1080/154176350872141850.jpeg",
+                "displayName": "Mother of thousands"
+            },
+            {
+                "scientificName": "Pieris japonica",
+                "link": "/wiki/Pieris_japonica.html",
+                "imageUrl": "/wiki-image/1080/154122745385320459.jpeg",
+                "displayName": "Japanese pieris"
+            },
+            {
+                "scientificName": "Rhododendron simsii",
+                "link": "/wiki/Rhododendron_simsii.html",
+                "imageUrl": "/wiki-image/1080/153846544628449290.jpeg",
+                "displayName": "Red azalea"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Ranunculus_repens.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Ranunculus_repens.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Ranunculus_repens.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Ranunculus_repens.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Ranunculus_repens.html",
+            "values": [
+                "Care Creeping buttercup",
+                "Care Creeping buttercup",
+                "Grow Creeping buttercup",
+                "Maintain Creeping buttercup",
+                "Creeping buttercup Care",
+                "Creeping buttercup Grow",
+                "Creeping buttercup Maintain",
+                "Creeping buttercup Cares",
+                "Growth Creeping buttercup",
+                "Maintains Creeping buttercup",
+                "Creeping buttercup Growth",
+                "Creeping buttercup Maintains",
+                "Creeping buttercup Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Ranunculus-repens-Leaf-rot.html",
+            "values": [
+                "Leaf rot"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Ranunculus_repens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Ranunculus_repens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Ranunculus_repens.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Ranunculus_repens.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Ranunculus_repens.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Ranunculus_repens.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Ranunculus_repens.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Ranunculus_repens.html"
+        }
+    ]
+}

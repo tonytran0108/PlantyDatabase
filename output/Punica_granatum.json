@@ -1,0 +1,965 @@
+{
+    "title": "Pomegranate (Punica granatum) - PictureThis",
+    "displayName": "Pomegranate",
+    "otherCommonName": "",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "ozgurdonmaz",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/317736741356273664.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/24128768",
+                "authorLink": "https://www.inaturalist.org/people/rdmpage",
+                "author": "rdmpage",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153882094072758309.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/3600581",
+                "authorLink": "https://www.inaturalist.org/people/dcapillae",
+                "author": "dcapillae",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153973203214008339.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 960,
+                "height": 640,
+                "copyrightType": "CC",
+                "referral": "https://pixabay.com/de/photos/blume-granatapfel-punica-granatum-l-1977129/",
+                "authorLink": "https://pixabay.com/de/users/juemi-3034188/",
+                "author": "juemi",
+                "licenseLink": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "license": "CC0"
+            },
+            "imageUrl": "/wiki-image/1080/154127388244967455.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 333,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/23156776",
+                "authorLink": "https://www.inaturalist.org/people/said9",
+                "author": "said9",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153805574935412768.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Pomegranate 'Flore Pleno'",
+            "link": "/wiki/Punica_granatum__Flore_Pleno_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Pomegranate (Punica granatum) is a deciduous shrub or small tree, native to western and southern parts of Asia. It has a long history of cultivation and rich symbolism in polytheistic religions. Fruits of pomegranate play an important role in many West Asian cuisines. Aside from culinary uses, this fruit-bearing shrub is also cultivated for ornamental purposes.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Pomegranate (Punica granatum) is a deciduous shrub or small tree, native to western and southern parts of Asia. It has a long history of cultivation and rich symbolism in polytheistic religions. Fruits of pomegranate play an important role in many West Asian cuisines. Aside from culinary uses, this fruit-bearing shrub is also cultivated for ornamental purposes.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Pomegranate (<i>Punica granatum</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Punica",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Punica.html"
+            },
+            {
+                "type": "Family",
+                "name": "Loosestrife",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lythraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Myrtle order",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Myrtales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Tree, Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.8 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.2 m to 4.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Bronze",
+                        "name": "bronze"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 2 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278802502040092674.jpeg",
+        "habitat": "Parks, gardens",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Pomegranate is native to the Mediterranean region and was introduced into South America by Spanish colonists in the late 1700s. It can also now be found in parts of Africa, some tropical and subtropical islands, parts of Europe, and India. It typically grows wild in low places like river valleys in hot climates but is more commonly found in cultivation.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfa\": {\"trends\": {\"1\": 244.1429168, \"2\": 257.8159858, \"3\": 222.2845104, \"4\": 227.9397557, \"5\": 180.7207586, \"6\": 176.0, \"7\": 169.0876312, \"8\": 203.9499308, \"9\": 233.4947685, \"10\": 253.8206759, \"11\": 272.1660742, \"12\": 239.1173304}, \"flower_month\": 11, \"fruit_month\": 2}, \"Cfb\": {\"trends\": {\"1\": 76.46024476, \"2\": 87.22223106, \"3\": 76.74554802, \"4\": 81.0541758, \"5\": 70.92519616, \"6\": 48.0, \"7\": 51.81340064, \"8\": 58.77764298, \"9\": 90.86687836, \"10\": 78.55843609, \"11\": 77.66500551, \"12\": 116.1630407}, \"flower_month\": 12, \"fruit_month\": 12}, \"Csa\": {\"trends\": {\"1\": 187.0, \"2\": 154.0, \"3\": 165.0, \"4\": 140.0, \"5\": 99.0, \"6\": 51.0, \"7\": 53.0, \"8\": 58.0, \"9\": 171.0, \"10\": 251.0, \"11\": 215.0, \"12\": 178.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Csb\": {\"trends\": {\"1\": 63.0, \"2\": 48.0, \"3\": 48.0, \"4\": 33.0, \"5\": 31.0, \"6\": 20.0, \"7\": 24.0, \"8\": 43.0, \"9\": 56.0, \"10\": 83.0, \"11\": 67.0, \"12\": 62.0}, \"flower_month\": 10, \"fruit_month\": 1}, \"Default\": {\"trends\": {\"1\": 1292.0, \"2\": 1069.0, \"3\": 1150.0, \"4\": 1000.0, \"5\": 873.0, \"6\": 677.0, \"7\": 674.0, \"8\": 967.0, \"9\": 1411.0, \"10\": 1586.0, \"11\": 1308.0, \"12\": 1231.0}, \"flower_month\": 10, \"fruit_month\": 3}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 285.203456, \"2\": 320.4536643, \"3\": 485.0032409, \"4\": 558.4104617, \"5\": 545.45426, \"6\": 477.7104465, \"7\": 476.6213791, \"8\": 473.5526252, \"9\": 479.6054409, \"10\": 479.3039289, \"11\": 447.7310694, \"12\": 354.0}, \"flower_month\": 4, \"fruit_month\": 9}, \"BWk\": {\"trends\": {\"1\": 12.53591659, \"2\": 8.97311591, \"3\": 26.99642569, \"4\": 28.22828027, \"5\": 25.38145809, \"6\": 27.68668894, \"7\": 27.38335961, \"8\": 32.09805704, \"9\": 33.40163386, \"10\": 40.13848151, \"11\": 30.61654135, \"12\": 13.0}, \"flower_month\": 6, \"fruit_month\": 10}, \"BSk\": {\"trends\": {\"1\": 78.67494946, \"2\": 98.91127104, \"3\": 143.583819, \"4\": 171.6270766, \"5\": 133.0924133, \"6\": 137.0108813, \"7\": 136.3401437, \"8\": 159.6380628, \"9\": 187.8482293, \"10\": 203.5230187, \"11\": 154.2171196, \"12\": 105.0}, \"flower_month\": 6, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 154.3655369, \"2\": 97.60711754, \"3\": 252.6271905, \"4\": 316.7793064, \"5\": 437.2966436, \"6\": 433.5246364, \"7\": 437.6393838, \"8\": 433.5267116, \"9\": 490.6847469, \"10\": 485.6047904, \"11\": 320.9331257, \"12\": 197.0}, \"flower_month\": 5, \"fruit_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 176.7739933, \"2\": 214.4185814, \"3\": 274.94052, \"4\": 254.2368243, \"5\": 287.6148619, \"6\": 338.8616698, \"7\": 326.3658402, \"8\": 376.7368971, \"9\": 398.9298663, \"10\": 421.1475413, \"11\": 306.1380794, \"12\": 236.0}, \"flower_month\": 6, \"fruit_month\": 10}, \"Cfb\": {\"trends\": {\"1\": 93.0378591, \"2\": 97.77329878, \"3\": 91.30026587, \"4\": 94.63459183, \"5\": 88.07934938, \"6\": 128.4327606, \"7\": 127.0238845, \"8\": 130.0139923, \"9\": 144.2676114, \"10\": 189.6186561, \"11\": 171.56143, \"12\": 161.0}, \"flower_month\": 6, \"fruit_month\": 10}, \"Dfb\": {\"trends\": {\"1\": 113.0, \"2\": 128.0, \"3\": 210.0, \"4\": 335.0, \"5\": 596.0, \"6\": 525.0, \"7\": 410.0, \"8\": 381.0, \"9\": 342.0, \"10\": 369.0, \"11\": 164.0, \"12\": 128.0}, \"flower_month\": 5, \"fruit_month\": 10}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Environmental Protection Value",
+                "type": "String",
+                "value": "It can purify air and effectively absorb harmful gases such as sulfur dioxide.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The pomegranate is a popular yard and garden plant for its hardiness, attractiveness, and production of sweet, edible fruit. These trees are prized for their long harvest season, very long lifespan (they can live more than 100 years) and ability to flourish even in small yards. This plant does well alongside sago palm, aloes, and agaves.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Mature beauty, wealth, abundant grandchildren, fertility, temporal power, death",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Pomegranate has been cultivated since ancient times, and many civilizations were familiar with the fruit. It has been a symbol of beauty and fertility in many cultures, and it even appears as a motif in Greek myths. The Spanish city of Granade was named after pomegranate.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Pomegranate",
+                "values": [
+                    "The name, pomegranate comes from the ancient latin language, pÃÂmum and grÃÂnÃÂtum meaning Ã¢ÂÂappleÃ¢ÂÂ and Ã¢ÂÂseededÃ¢ÂÂ respectively. Pomegranate may be originated from the Old French, describing the word pomme-grenade. In early English, Punica granatum is known as \"apple of Grenada\"."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Deciduous shrub reaching 6-10 feet (1.8-3 meters) tall and wide.",
+            "Distinct red flowers with tubular bell shape blooming late spring to early summer.",
+            "Large spherical berry, 2-5 inches (5-12 cm) wide with tough rind.",
+            "Leaves are oblong-lanceolate, 1-4 inches (1-9 cm) long, dark green with prominent veins.",
+            "Flowers' thick calyx with 5-7 sepals, bright colors like orange, red, pink."
+        ],
+        "title": "Quickly Identify Pomegranate",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Punica-granatum.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pomegranate thrives in seasonal climates, adapting to wet and dry conditions with moderate drought tolerance. Maintain consistent soil moisture, watering every 1-2 weeks while allowing the topsoil to dry. Watering frequency decreases during dormancy in colder months.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth and fruiting of pomegranate, use a potassium-rich balanced fertilizer, starting biweekly in spring and shifting to quarterly in fall. During active growth, increase feeding frequency, then minimize in winter. Apply fertilizers at the drip line and adjust amounts for young pomegranates.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pomegranate features vibrant red flowers and fruit. Prune in late winter to enhance airflow and sunlight. Thin overcrowded growth for shaping and increased yield. Regular light pruning supports vigorous growth, while heavy pruning may reduce fruit production.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagation of pomegranate involves grafting and layering, best performed in spring and winter. While slightly challenging for beginners, success is indicated by budding growth. Patience and suitable environmental conditions are essential for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Pomegranate is a fruit-bearing shrub needing a spacious pot. Repot every 2-3 years in spring in a large container for root expansion. Post-repotting, provide ample sunlight and moderate watering for stability, ensuring robust growth for your pomegranate.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Punica_granatum.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Are pomegranate seeds healthy?",
+            "link": "/ask/Punica_granatum-0.html"
+        },
+        {
+            "q": "What part of a pomegranate is poisonous?",
+            "link": "/ask/Punica_granatum-1.html"
+        },
+        {
+            "q": "Do you eat the pomegranate seeds or spit them out?",
+            "link": "/ask/Punica_granatum-2.html"
+        },
+        {
+            "q": "What is the right time to eat pomegranate?",
+            "link": "/ask/Punica_granatum-3.html"
+        },
+        {
+            "q": "Does pomegranate have aesthetic value?",
+            "link": "/ask/Punica_granatum-4.html"
+        },
+        {
+            "q": "How can I separate the seeds from the fruit?",
+            "link": "/ask/Punica_granatum-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Punica-granatum-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Punica-granatum-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Punica-granatum-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Punica-granatum-Black-mold.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Punica-granatum-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Punica-granatum-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Punica-granatum-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Punica-granatum-Wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Punica-granatum-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "psyllid",
+                "link": "/disease/Punica-granatum-psyllid.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Punica-granatum-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf blight",
+                "link": "/disease/Punica-granatum-Leaf-blight.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Punica-granatum-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Punica-granatum-Aphid.html"
+            },
+            {
+                "diseaseName": "Large spot mold",
+                "link": "/disease/Punica-granatum-Large-spot-mold.html"
+            },
+            {
+                "diseaseName": "Stem cracking",
+                "link": "/disease/Punica-granatum-Stem-cracking.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Punica-granatum-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Punica-granatum-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Fruit rot",
+                "link": "/disease/Punica-granatum-Fruit-rot.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Punica-granatum-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Interveinal yellowing",
+                "link": "/disease/Punica-granatum-Interveinal-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf malformation",
+                "link": "/disease/Punica-granatum-Leaf-malformation.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Punica-granatum-Leafminer-stripe.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Jatropha integerrima",
+                "link": "/wiki/Jatropha_integerrima.html",
+                "imageUrl": "/wiki-image/1080/154128496346529800.jpeg",
+                "displayName": "Peregrina"
+            },
+            {
+                "scientificName": "Philodendron xanadu",
+                "link": "/wiki/Philodendron_xanadu.html",
+                "imageUrl": "/wiki-image/1080/153821565098655778.jpeg",
+                "displayName": "Xanadu"
+            },
+            {
+                "scientificName": "Solanum americanum",
+                "link": "/wiki/Solanum_americanum.html",
+                "imageUrl": "/wiki-image/1080/153937112603820054.jpeg",
+                "displayName": "American black nightshade"
+            },
+            {
+                "scientificName": "Sansevieria cylindrica",
+                "link": "/wiki/Sansevieria_cylindrica.html",
+                "imageUrl": "/wiki-image/1080/202656094833868800.jpeg",
+                "displayName": "Cylindrical snake plant"
+            },
+            {
+                "scientificName": "Cordyline australis",
+                "link": "/wiki/Cordyline_australis.html",
+                "imageUrl": "/wiki-image/1080/153412362089529354.jpeg",
+                "displayName": "Cabbage tree"
+            },
+            {
+                "scientificName": "Cestrum nocturnum",
+                "link": "/wiki/Cestrum_nocturnum.html",
+                "imageUrl": "/wiki-image/1080/154067542170664975.jpeg",
+                "displayName": "Night-blooming jasmine"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Punica_granatum.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Punica_granatum.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Punica_granatum.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Punica_granatum.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Punica_granatum.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Punica_granatum.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Punica_granatum.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Punica_granatum.html",
+            "values": [
+                "Care Pomegranate",
+                "Care Pomegranate",
+                "Grow Pomegranate",
+                "Maintain Pomegranate",
+                "Pomegranate Care",
+                "Pomegranate Grow",
+                "Pomegranate Maintain",
+                "Pomegranate Cares",
+                "Growth Pomegranate",
+                "Maintains Pomegranate",
+                "Pomegranate Growth",
+                "Pomegranate Maintains",
+                "Pomegranate Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Interveinal-yellowing.html",
+            "values": [
+                "Interveinal yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Leaf-malformation.html",
+            "values": [
+                "Leaf malformation"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Large-spot-mold.html",
+            "values": [
+                "Large spot mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Crown-gall.html",
+            "values": [
+                "Crown gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Stem-cracking.html",
+            "values": [
+                "Stem cracking"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Fruit-rot.html",
+            "values": [
+                "Fruit rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Punica-granatum-Leaf-blight.html",
+            "values": [
+                "Leaf blight"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Punica_granatum.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Punica_granatum.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Punica_granatum.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Punica_granatum.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Punica_granatum.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Punica_granatum.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Punica_granatum.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Punica_granatum.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Punica_granatum.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Punica_granatum.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "title": "Toxicity to Pets",
+            "link": "/toxic-to-pets/Punica_granatum.html",
+            "icon": "img/scenes_article/img/toxic_pets.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Punica_granatum.html"
+        }
+    ]
+}

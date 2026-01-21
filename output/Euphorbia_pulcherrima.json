@@ -1,0 +1,1061 @@
+{
+    "title": "Poinsettia (Euphorbia pulcherrima) - PictureThis",
+    "displayName": "Poinsettia",
+    "otherCommonName": "Painted leaf, Winter rose",
+    "mainImage": {
+        "copyright": {
+            "width": 1534,
+            "height": 1534,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/201207041587544064.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/616739",
+                "authorLink": "https://www.inaturalist.org/people/duarte",
+                "author": "duarte",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153881608741453840.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/243915069",
+                "authorLink": "https://www.inaturalist.org/people/hyacinthus",
+                "author": "Jacek Pietruszewski",
+                "licenseLink": "https://creativecommons.org/licenses/by/1.0/",
+                "license": "CC-BY"
+            },
+            "imageUrl": "/wiki-image/1080/349646961091477512.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1600,
+                "height": 1200,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "arisaema",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157455975014465537.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 4608,
+                "height": 3072,
+                "copyrightType": "Authorized",
+                "referral": "",
+                "authorLink": "",
+                "author": "shyu",
+                "licenseLink": "",
+                "license": ""
+            },
+            "imageUrl": "/wiki-image/1080/157477479915716611.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Poinsettia 'Marbella'",
+            "link": "/wiki/Euphorbia_pulcherrima__Marbella_.html"
+        },
+        {
+            "displayName": "Poinsettia 'Regina'",
+            "link": "/wiki/Euphorbia_pulcherrima__Regina_.html"
+        },
+        {
+            "displayName": "Poinsettia 'Lilo White'",
+            "link": "/wiki/Euphorbia_pulcherrima__Lilo_White_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The poinsettia is a common sight in the United States during Christmastime. It was popularized by Albert Ecke after he emigrated to California from Germany. Today, 70 million poinsettias are sold in a 6-week period.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The poinsettia is a common sight in the United States during Christmastime. It was popularized by Albert Ecke after he emigrated to California from Germany. Today, 70 million poinsettias are sold in a 6-week period.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Poinsettia (<i>Euphorbia pulcherrima</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Spurges",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Euphorbia.html"
+            },
+            {
+                "type": "Family",
+                "name": "Spurge",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Euphorbiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans & Pets",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Mid fall, Late fall, Winter",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 4 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   90 cm to 2 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 mm to 8 mm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Non-dormant",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "20 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring, Winter",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/288810780862480384.jpeg",
+        "habitat": "Garden",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The poinsettia's natural range runs from Mexico to southern Guatemala. It has been introduced to most of the world as an indoor or outdoor ornamental plant. It is found growing in tropical and subtropical forests within its region.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Csa\": {\"trends\": {\"1\": 111.6494228, \"2\": 99.61873465, \"3\": 93.38924286, \"4\": 132.8470895, \"5\": 175.3698487, \"6\": 155.0, \"7\": 111.4228772, \"8\": 56.54075731, \"9\": 48.99228749, \"10\": 77.52384508, \"11\": 95.76392663, \"12\": 171.7412126}, \"flower_month\": 5}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 490.2516924, \"2\": 353.5731771, \"3\": 265.4948209, \"4\": 216.8070922, \"5\": 216.8020545, \"6\": 238.8552233, \"7\": 199.7719972, \"8\": 144.405315, \"9\": 137.8361855, \"10\": 240.3589024, \"11\": 767.4128191, \"12\": 948.0}, \"flower_month\": 12}, \"BWk\": {\"trends\": {\"1\": 101.9587883, \"2\": 78.51476421, \"3\": 36.77773934, \"4\": 15.17270065, \"5\": 12.93017676, \"6\": 10.75825627, \"7\": 11.09498191, \"8\": 13.5910692, \"9\": 12.95165394, \"10\": 24.47468385, \"11\": 125.8680033, \"12\": 193.0}, \"flower_month\": 12}, \"BSk\": {\"trends\": {\"1\": 1047.883369, \"2\": 616.4702474, \"3\": 366.7873259, \"4\": 192.66215, \"5\": 108.1192232, \"6\": 120.2444075, \"7\": 144.8462132, \"8\": 145.5703408, \"9\": 131.2627996, \"10\": 217.48502, \"11\": 1742.115484, \"12\": 2463.0}, \"flower_month\": 12}, \"Csa\": {\"trends\": {\"1\": 1196.550941, \"2\": 635.5639028, \"3\": 359.1914288, \"4\": 239.7751162, \"5\": 177.2095798, \"6\": 195.9277478, \"7\": 208.0641477, \"8\": 191.2044002, \"9\": 179.827375, \"10\": 285.9426841, \"11\": 1479.761925, \"12\": 2818.0}, \"flower_month\": 12}, \"Csb\": {\"trends\": {\"1\": 336.7282848, \"2\": 206.0936744, \"3\": 99.98726854, \"4\": 57.55991473, \"5\": 41.84033695, \"6\": 39.51398626, \"7\": 42.99628902, \"8\": 50.29007977, \"9\": 49.73086434, \"10\": 98.06968141, \"11\": 575.2547999, \"12\": 985.0}, \"flower_month\": 12}, \"Cfa\": {\"trends\": {\"1\": 2336.060061, \"2\": 928.8108433, \"3\": 531.4478229, \"4\": 314.4868437, \"5\": 289.5749813, \"6\": 313.3118356, \"7\": 325.8338665, \"8\": 375.1144299, \"9\": 347.1576348, \"10\": 477.6803538, \"11\": 2794.941418, \"12\": 5557.0}, \"flower_month\": 12}, \"Cfb\": {\"trends\": {\"1\": 1891.513499, \"2\": 973.2004508, \"3\": 477.517617, \"4\": 273.7379502, \"5\": 186.0226575, \"6\": 202.8756371, \"7\": 243.198754, \"8\": 237.0099432, \"9\": 300.6465779, \"10\": 581.5310123, \"11\": 3145.55521, \"12\": 5396.0}, \"flower_month\": 12}, \"Dfa\": {\"trends\": {\"1\": 1820.912741, \"2\": 877.1063574, \"3\": 465.0417312, \"4\": 175.3964583, \"5\": 123.031875, \"6\": 133.1966738, \"7\": 139.4576612, \"8\": 168.9340378, \"9\": 189.5140881, \"10\": 315.4913523, \"11\": 2504.676094, \"12\": 4536.0}, \"flower_month\": 12}, \"Dfb\": {\"trends\": {\"1\": 1628.788066, \"2\": 929.819268, \"3\": 567.679564, \"4\": 271.0787879, \"5\": 151.2605533, \"6\": 149.335497, \"7\": 152.8434537, \"8\": 216.9354632, \"9\": 239.0973956, \"10\": 404.6488958, \"11\": 2395.476045, \"12\": 3959.0}, \"flower_month\": 12}, \"Dfc\": {\"trends\": {\"1\": 37.78425965, \"2\": 20.19831385, \"3\": 15.57713575, \"4\": 8.966452886, \"5\": 4.766507339, \"6\": 3.868255826, \"7\": 6.18916113, \"8\": 8.112371072, \"9\": 7.505988271, \"10\": 7.863426594, \"11\": 62.5030705, \"12\": 70.0}, \"flower_month\": 12}, \"Default\": {\"trends\": {\"1\": 12705.10847, \"2\": 6697.209124, \"3\": 3860.699859, \"4\": 2107.512401, \"5\": 1491.525052, \"6\": 1604.42439, \"7\": 1728.176468, \"8\": 1937.959223, \"9\": 2054.115438, \"10\": 3291.780288, \"11\": 18557.79522, \"12\": 30499.0}, \"flower_month\": 12}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "While typically grown in containers, the poinsettia can also be grown as an ornamental bush, and can be used as a privacy screen as established plants can grow up to 3 m high. It is prized for its showy red blooms and long blooming season. It is also prized for its resistance to drought, pollution, and animals. The poinsettia can be planted alongside the Dracaena, Peace Lily, and Fern.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Purity, good cheer, success, celebration",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "According to legend, in ancient times, a village was seriously short of water because of debris blocking the flow of the river. A brave man in red clothes cut the huge stones to unblock the river risking his own safety. However, he became fatigued and was washed away. Villagers later found that red flowers had grown along the river, and these are now known as the \" poinsettia \".",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Poinsettia",
+                "values": [
+                    "It is particularly well known for its red and green foliage and it is widely used in Christmas floral displays. The name, Poinsettia is derived from Joel Roberts Poinsett, the first United States Minister to go to Mexico, who introduced the plant to the US in 1825."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Poinsettia</strong> may cause mild irritation if its milky sap touches the skin, mouth, or eyes. <strong>Common symptoms</strong> include vomiting or diarrhea after contact. Cats and dogs may experience mouth irritation, nausea, or vomiting, with severe symptoms being rare. The plant's toxins can cause irritation, but fatalities are highly uncommon.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Euphorbia_pulcherrima.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Dark green ovate leaves up to 6 inches long, exhibiting smooth or lobed edges.",
+            "Prominent red, pink, or white bracts surrounding small yellow flowers with a distinct yellow gland.",
+            "Vertical stem exuding milky sap, smooth surface, branching into lateral stems, reaching 2-3 feet tall.",
+            "Compact flower clusters resembling tiny cups, blooming during winter-spring with red or green tips.",
+            "Deciduous shrub rarely surpassing 2-3 feet, with bright red bracts often mistaken for flowers."
+        ],
+        "title": "Quickly Identify Poinsettia",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Euphorbia-pulcherrima.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 1-2 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "20 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from tropical deciduous forests, poinsettia thrives in high humidity and consistent moisture, with a moderate drought tolerance. Water every 1-2 weeks to keep soil moist, and mist regularly to maintain humidity, simulating its native climate.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   To keep poinsettia vibrant, apply a balanced fertilizer biweekly during growth, reducing to monthly in winter. Use half strength to prevent nutrient burn. Water poinsettia before fertilizing and distribute the solution evenly around its base for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Poinsettia thrives with proper pruning, best done in late spring after flowering. Trim stems to 4-6 inches, targeting weak growth to encourage fullness and future blooms. Regular maintenance supports compactness, prevents legginess, and promotes vibrant health for year-round appeal.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For successful propagation of poinsettia, use healthy stem cuttings treated with rooting hormone. Plant in well-draining soil in a humid environment, ensuring consistent moisture without waterlogging. Once rooted, gradually acclimatize poinsettia to normal growing conditions.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Repot poinsettia every 2-3 years when root-bound, preferably in spring. Choose a container 2-3 inches wider, using well-draining soil. After repotting, place poinsettia in bright indirect light and avoid watering for a few days to prevent root rot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Euphorbia_pulcherrima.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How do you take care of a poinsettia?",
+            "link": "/ask/Euphorbia_pulcherrima-0.html"
+        },
+        {
+            "q": "Do poinsettia come back every year?",
+            "link": "/ask/Euphorbia_pulcherrima-1.html"
+        },
+        {
+            "q": "How long can you keep a poinsettia alive?",
+            "link": "/ask/Euphorbia_pulcherrima-2.html"
+        },
+        {
+            "q": "Do poinsettia like sun or shade?",
+            "link": "/ask/Euphorbia_pulcherrima-3.html"
+        },
+        {
+            "q": "Where is the best place to plant a poinsettia?",
+            "link": "/ask/Euphorbia_pulcherrima-4.html"
+        },
+        {
+            "q": "Can poinsettia kill cats?",
+            "link": "/ask/Euphorbia_pulcherrima-5.html"
+        },
+        {
+            "q": "Why are the leaves falling off my poinsettia?",
+            "link": "/ask/Euphorbia_pulcherrima-6.html"
+        },
+        {
+            "q": "Do poinsettia need a lot of water?",
+            "link": "/ask/Euphorbia_pulcherrima-7.html"
+        },
+        {
+            "q": "Will a poinsettia turn red again?",
+            "link": "/ask/Euphorbia_pulcherrima-8.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Euphorbia-pulcherrima-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Euphorbia-pulcherrima-Wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Euphorbia-pulcherrima-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Aphid",
+                "link": "/disease/Euphorbia-pulcherrima-Aphid.html"
+            },
+            {
+                "diseaseName": "Lace bug",
+                "link": "/disease/Euphorbia-pulcherrima-Lace-bug.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf beetle",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-beetle.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Euphorbia-pulcherrima-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Caterpillar",
+                "link": "/disease/Euphorbia-pulcherrima-Caterpillar.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Euphorbia-pulcherrima-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Spider mite",
+                "link": "/disease/Euphorbia-pulcherrima-Spider-mite.html"
+            },
+            {
+                "diseaseName": "Thrips",
+                "link": "/disease/Euphorbia-pulcherrima-Thrips.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Euphorbia-pulcherrima-Scars.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Euphorbia-pulcherrima-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Euphorbia-pulcherrima-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Whitefly",
+                "link": "/disease/Euphorbia-pulcherrima-Whitefly.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Euphorbia-pulcherrima-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Euphorbia-pulcherrima-Mealybug.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Euphorbia-pulcherrima-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Moss",
+                "link": "/disease/Euphorbia-pulcherrima-Moss.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Euphorbia-pulcherrima-White-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Euphorbia-pulcherrima-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Euphorbia-pulcherrima-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Euphorbia-pulcherrima-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Euphorbia-pulcherrima-Spots.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Euphorbia-pulcherrima-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Dodder",
+                "link": "/disease/Euphorbia-pulcherrima-Dodder.html"
+            },
+            {
+                "diseaseName": "Leafhopper",
+                "link": "/disease/Euphorbia-pulcherrima-Leafhopper.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Euphorbia-pulcherrima-Black-mold.html"
+            },
+            {
+                "diseaseName": "Lichen",
+                "link": "/disease/Euphorbia-pulcherrima-Lichen.html"
+            },
+            {
+                "diseaseName": "Weevil",
+                "link": "/disease/Euphorbia-pulcherrima-Weevil.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Gardenia jasminoides",
+                "link": "/wiki/Gardenia_jasminoides.html",
+                "imageUrl": "/wiki-image/1080/201211542713270272.jpeg",
+                "displayName": "Cape jasmine"
+            },
+            {
+                "scientificName": "Papaver rhoeas",
+                "link": "/wiki/Papaver_rhoeas.html",
+                "imageUrl": "/wiki-image/1080/347124084416872448.jpeg",
+                "displayName": "Corn poppy"
+            },
+            {
+                "scientificName": "Podocarpus macrophyllus",
+                "link": "/wiki/Podocarpus_macrophyllus.html",
+                "imageUrl": "/wiki-image/1080/154016908801212424.jpeg",
+                "displayName": "Buddhist pine"
+            },
+            {
+                "scientificName": "Parthenocissus quinquefolia",
+                "link": "/wiki/Parthenocissus_quinquefolia.html",
+                "imageUrl": "/wiki-image/1080/347126635627446272.jpeg",
+                "displayName": "Virginia creeper"
+            },
+            {
+                "scientificName": "Schefflera actinophylla",
+                "link": "/wiki/Schefflera_actinophylla.html",
+                "imageUrl": "/wiki-image/1080/202656545805434880.jpeg",
+                "displayName": "Octopus tree"
+            },
+            {
+                "scientificName": "Amaryllis belladonna",
+                "link": "/wiki/Amaryllis_belladonna.html",
+                "imageUrl": "/wiki-image/1080/347088419008446464.jpeg",
+                "displayName": "Belladonna lily"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Euphorbia_pulcherrima.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Euphorbia_pulcherrima.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Euphorbia_pulcherrima.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Euphorbia_pulcherrima.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Euphorbia_pulcherrima.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Euphorbia_pulcherrima.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Euphorbia_pulcherrima.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Euphorbia_pulcherrima.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "overwinter",
+            "link": "/care/overwinter/Euphorbia_pulcherrima.html",
+            "values": [
+                "Overwintering techniques",
+                "Cold weather adaptation",
+                "Wintering strategies",
+                "Overwintering plants",
+                "Overwintering pests",
+                "Winter preparation",
+                "Frost protection",
+                "Winter survival",
+                "Winter dormancy",
+                "Cold hardiness",
+                "Winter shelter",
+                "Overwintering",
+                "Winter care",
+                "Hibernation",
+                "Dormancy"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Euphorbia_pulcherrima.html",
+            "values": [
+                "Care Poinsettia",
+                "Care Poinsettia",
+                "Grow Poinsettia",
+                "Maintain Poinsettia",
+                "Poinsettia Care",
+                "Poinsettia Grow",
+                "Poinsettia Maintain",
+                "Poinsettia Cares",
+                "Growth Poinsettia",
+                "Maintains Poinsettia",
+                "Poinsettia Growth",
+                "Poinsettia Maintains",
+                "Poinsettia Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Euphorbia-pulcherrima-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Euphorbia_pulcherrima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Euphorbia_pulcherrima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Euphorbia_pulcherrima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Euphorbia_pulcherrima.html"
+        },
+        {
+            "title": "Winter Care",
+            "link": "/care/overwinter/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/winter.png"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Euphorbia_pulcherrima.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Euphorbia_pulcherrima.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Euphorbia_pulcherrima.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Moon garden",
+            "link": "/moon-garden/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/moon_garden.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Repotting",
+            "link": "/repot/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/repot.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Euphorbia_pulcherrima.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Euphorbia_pulcherrima.html"
+        }
+    ]
+}

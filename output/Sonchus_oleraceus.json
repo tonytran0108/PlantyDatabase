@@ -1,0 +1,588 @@
+{
+    "title": "Common sowthistle (Sonchus oleraceus) - PictureThis",
+    "displayName": "Common sowthistle",
+    "otherCommonName": "Hare's colwort, Swinies",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "UserUpload_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/202657778461048832.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 831,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/45082198",
+                "authorLink": "https://www.inaturalist.org/users/9432",
+                "author": "Ashley M Bradford",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/152383528443576323.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 576,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/19870756",
+                "authorLink": "https://www.inaturalist.org/users/515751",
+                "author": "Fred Melgert / Carla Hoegen",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154143679055921175.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 849,
+                "height": 563,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/47759626",
+                "authorLink": "https://www.inaturalist.org/people/finatic",
+                "author": "BJ Stacey",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154152238925742105.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 1024,
+                "height": 683,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/observations/41580587",
+                "authorLink": "https://www.inaturalist.org/people/finatic",
+                "author": "BJ Stacey",
+                "licenseLink": "",
+                "license": "CC-BY-NC"
+            },
+            "imageUrl": "/wiki-image/1080/154141432788025350.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Common sowthistle is a common weed originated in Europe and West Asia. Alongside many sister species that hard to distinguish, it is considered to be an invasive plant in many parts of the world. Its leaves with some bitter taste are editable either green as a part of a salad or cooked in various ways.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Common sowthistle is a common weed originated in Europe and West Asia. Alongside many sister species that hard to distinguish, it is considered to be an invasive plant in many parts of the world. Its leaves with some bitter taste are editable either green as a part of a salad or cooked in various ways.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common sowthistle (<i>Sonchus oleraceus</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Sowthistles",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Sonchus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   30 cm to 1.5 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   6 mm to 2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "15 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/251736408413503488.png",
+        "habitat": "Waysides, Waste, Cultivated ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common sowthistle is native to most of Europe, the Mediterranean, and northern Africa. It grows in varied habitats from roadsides to sand dunes to mountain slopes. Common sowthistle has been introduced across most of the world and is considered invasive in some US states and in Australia, where it brings in pests and disease, reducing yields.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "1746",
+                "1695",
+                "2248",
+                "2685",
+                "3058",
+                "3307",
+                "4830",
+                "6637",
+                "6038",
+                "4046",
+                "2240",
+                "2309"
+            ],
+            "north": [
+                "16659",
+                "26435",
+                "43833",
+                "65497",
+                "62114",
+                "37460",
+                "29810",
+                "22233",
+                "16597",
+                "11406",
+                "9577",
+                "13782"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Economic Value",
+                "type": "String",
+                "value": "Stems and leaves of the common sowthistle are tender and juicy. They are excellent feed.",
+                "icon": ""
+            },
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common sowthistle is grown in nurseries and used in landscaping, although it is commonly viewed as a weed, due to its quick-spreading nature. In gardens and nurseries, this plant serves well as a sacrificial plant because it encourages the appearance of hoverflies, which in turn will help eliminate pesky aphids. It makes a good companion plant to tomatoes, corn, and other garden plants.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "courage, overcoming adversity",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "Ancient botanists believed that the plant was controlled by Mars, the Roman God of War. It would grow thorns all over and looks like armed soldiers.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common sowthistle",
+                "values": [
+                    "From its specific epithet oleraceus, it is known that it tastes good which is also why it is used to lure pigs. Also, the leaves are similar to the young thistle plant, so it is called common sowthistle."
+                ]
+            },
+            {
+                "key": "Hare's colwort",
+                "values": [
+                    "All living creatures have their own rules of survival, and rabbits are no exception. If they happen to faint in hot weather, they will certainly look for this plant and consume it to relieve the heat. So, it will be called hare's colwort."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common sowthistle is native to Eurasia and North Africa and can be found in nearly every part of the world. Common sowthistle is considered a noxious weed in the state of Alaska and an invasive species in parts of every continent. It spreads aggressively due to its small light seeds, which are easily dispersed. One plant can produce up to 6,000 seeds, making it an ecological threat to native plants. It particularly threatens crops with its dense growth and quick flowering. Common sowthistle also dramatically reduces water resources and is known to host 23 different species of pests, which only adds to its weedy invasion.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to remove or control common sowthistle is during the spring, specifically before the plant goes to seed. This minimizes the chance of reinfestation in the following seasons.\n  </div> \n  <ol> \n   <li>Hand pulling: This involves taking hold of the weed at its base and pulling it out from the ground. Ensure you remove the whole root to prevent the plant from growing back.</li> \n   <li>Smothering: Lay down a thick layer of organic mulch (like compost, wood chips, or straw) around your plants. This helps prevent common sowthistle seeds from getting the sunlight they need to grow.</li> \n   <li>Solarizing: This method requires a clear plastic sheet. Spread it over the infested area during the warmest part of the year. The heat trapped underneath the plastic will kill common sowthistle.</li> \n   <li>Biological control: There are certain insects and pathogens that feed on common sowthistle and can naturally control its spread. Research the local organisms that are safe to introduce into your garden.</li> \n   <li>Planting dense ground covers: Establishing competitive plants can help keep common sowthistle from taking hold by denying them the space and resources to grow.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "15 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common sowthistle thrives in moist environments and prefers evenly moist soil. It requires weekly watering and exhibits moderate drought tolerance. Primarily cultivated outdoors, common sowthistle benefits from rainfall, especially during its active growing season, when it needs increased moisture for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Propagating common sowthistle is most effective by sowing seeds in early Spring. It is moderately easy to propagate, with successful germination indicated by emerging seedlings. For optimal growth, provide well-draining soil and sufficient sunlight.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Sonchus_oleraceus.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is common sowthistle edible?",
+            "link": "/ask/Sonchus_oleraceus-0.html"
+        },
+        {
+            "q": "How do I get rid of common sowthistle?",
+            "link": "/ask/Sonchus_oleraceus-1.html"
+        },
+        {
+            "q": "What is common sowthistle good for?",
+            "link": "/ask/Sonchus_oleraceus-2.html"
+        },
+        {
+            "q": "Can rabbits eat common sowthistle?",
+            "link": "/ask/Sonchus_oleraceus-3.html"
+        },
+        {
+            "q": "Will vinegar kill common sowthistle?",
+            "link": "/ask/Sonchus_oleraceus-4.html"
+        },
+        {
+            "q": "What is the meaning of the common sowthistle?",
+            "link": "/ask/Sonchus_oleraceus-5.html"
+        },
+        {
+            "q": "Is common sowthistle a weed?",
+            "link": "/ask/Sonchus_oleraceus-6.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Persea americana",
+                "link": "/wiki/Persea_americana.html",
+                "imageUrl": "/wiki-image/1080/317749875366264832.jpeg",
+                "displayName": "Avocado"
+            },
+            {
+                "scientificName": "Citrullus lanatus",
+                "link": "/wiki/Citrullus_lanatus.html",
+                "imageUrl": "/wiki-image/1080/201174017583972352.jpeg",
+                "displayName": "Watermelon"
+            },
+            {
+                "scientificName": "Psidium guajava",
+                "link": "/wiki/Psidium_guajava.html",
+                "imageUrl": "/wiki-image/1080/317754728679309312.jpeg",
+                "displayName": "Guava"
+            },
+            {
+                "scientificName": "Cucumis melo",
+                "link": "/wiki/Cucumis_melo.html",
+                "imageUrl": "/wiki-image/1080/330366096985260032.jpeg",
+                "displayName": "Cantaloupe"
+            },
+            {
+                "scientificName": "Medicago sativa",
+                "link": "/wiki/Medicago_sativa.html",
+                "imageUrl": "/wiki-image/1080/153462759235780641.jpeg",
+                "displayName": "Alfalfa"
+            },
+            {
+                "scientificName": "Toxicodendron radicans",
+                "link": "/wiki/Toxicodendron_radicans.html",
+                "imageUrl": "/wiki-image/1080/154156740051468329.jpeg",
+                "displayName": "Poison ivy"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Sonchus_oleraceus.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Sonchus_oleraceus.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "pollination",
+            "link": "/care/pollination/Sonchus_oleraceus.html",
+            "values": [
+                "Artificial pollination",
+                "Pollination techniques",
+                "Pollination management",
+                "Pollination services",
+                "Pollination process",
+                "Pollination biology",
+                "Pollination ecology",
+                "Flower pollination",
+                "Insect pollinators",
+                "Cross-pollination",
+                "Wind pollination",
+                "Self-pollination",
+                "Bee pollination",
+                "Pollination",
+                "Pollinators"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Sonchus_oleraceus.html",
+            "values": [
+                "Care Common sowthistle",
+                "Care Common sowthistle",
+                "Grow Common sowthistle",
+                "Maintain Common sowthistle",
+                "Common sowthistle Care",
+                "Common sowthistle Grow",
+                "Common sowthistle Maintain",
+                "Common sowthistle Cares",
+                "Growth Common sowthistle",
+                "Maintains Common sowthistle",
+                "Common sowthistle Growth",
+                "Common sowthistle Maintains",
+                "Common sowthistle Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Sonchus_oleraceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Sonchus_oleraceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/pollination.png",
+            "title": "Pollination",
+            "link": "/care/pollination/Sonchus_oleraceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Sonchus_oleraceus.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Sonchus_oleraceus.html"
+        }
+    ]
+}

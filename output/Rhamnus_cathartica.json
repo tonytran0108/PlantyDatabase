@@ -1,0 +1,920 @@
+{
+    "title": "Common buckthorn (Rhamnus cathartica) - PictureThis",
+    "displayName": "Common buckthorn",
+    "otherCommonName": "Purging buckthorn",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153744302931968020.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9740365",
+                "authorLink": "https://www.inaturalist.org/people/kennedy9094",
+                "author": "kennedy9094",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152369522555224066.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 373,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/117566",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153655053511557150.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/10033046",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153929888468828208.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 373,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/131492",
+                "authorLink": "https://www.inaturalist.org/people/charlie",
+                "author": "charlie",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153922041563578372.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Rhamnus cathartica, colloquially known as common buckthorn, is a deciduous shrub or small tree native to Europe. This plant is hazardous to humans and most animals; all parts of it are mildly poisonous. The fast-growing common buckthorn is considered an invasive species in certain parts of North America.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Rhamnus cathartica, colloquially known as common buckthorn, is a deciduous shrub or small tree native to Europe. This plant is hazardous to humans and most animals; all parts of it are mildly poisonous. The fast-growing common buckthorn is considered an invasive species in certain parts of North America.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common buckthorn (<i>Rhamnus cathartica</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Buckthorns",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Rhamnus.html"
+            },
+            {
+                "type": "Family",
+                "name": "Buckthorn",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Rhamnaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Roses, elms, figs, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Rosales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Shrub",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 m to 10 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   4.5 m to 6 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Black",
+                        "name": "black"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/279086017126268928.jpeg",
+        "habitat": "Fen peat, scrub, hedges, ash and oak woods",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common buckthorn has a large native range stretching from western Europe to Russia and south to the northern tip of Africa. It has become naturalized in Argentina and across much of the United States, where it was introduced as an ornamental plant in the nineteenth century but is now invasive. Common buckthorn favors woodland and scrubland areas.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "36",
+                "51",
+                "53",
+                "88",
+                "45",
+                "58",
+                "69",
+                "128",
+                "164",
+                "68",
+                "39",
+                "60"
+            ],
+            "north": [
+                "7418",
+                "11325",
+                "29476",
+                "75730",
+                "63985",
+                "44595",
+                "44101",
+                "47565",
+                "32775",
+                "14713",
+                "3674",
+                "5525"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common buckthorn has been cultivated for ornamental purposes and has proven to be useful as a hedge and shelter plant. As an ornamental hedge plant, it will grow to form a thicket, creating a strong landscape border. Avoid planting common buckthorn near cereal crops, because they are susceptible to crown rust, which is detrimental to cereal crops.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Protection, Exorcism, Wishes, tenacity, cleansing",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The larva of the common brimstone butterfly (Gonepteryx rhamn) depends on Rhamnus cathartica. This type of butterfly feed only on common buckthorn and the alder buckthorn (Rhamnus frangula). The nectar of common buckthorn is a food source for many other types of incests, particularly bees.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common buckthorn",
+                "values": [
+                    "Any plants that are from the Rhamnus genus will have \"buckthorn\" in their names because the plants from this genus are featured with tiny pricks on their branches. Rhamnus cathartica is the most common plant in the genus, so it is called common buckthorn."
+                ]
+            },
+            {
+                "key": "Purging buckthorn",
+                "values": [
+                    "The seeds and leaves of the plant it slightly toxic towards humans and animal. However, the berries are edible for the birds. As the berries support the defecating system, the birds are spreading the seeds through their faeces. Furthermore, the name, purging buckthorn is given to the plant because it can cause diarrhoea."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>The fruits and leaves of the common buckthorn contain toxic glycosides</strong> causing violent gastrointestinal symptoms and progressive liver damage in humans. <strong>Monitoring and immediate veterinary care are crucial for pets (cats and dogs)</strong> that ingest significant amounts, leading to symptoms like vomiting, diarrhea, and weakness. Keep children away from common buckthorn as ingestion is harmful.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Rhamnus_cathartica.html"
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Elliptical leaves with serrated margins and prominent veins",
+            "Yellowish green flowers with clusters and distinct male/female characteristics",
+            "Glossy black drupes, 1/4 to 1/2 inch (6-13 mm) in diameter with 2-4 seeds",
+            "Crooked stem with thorny texture, brown color, and irregular branching pattern",
+            "Dark brown to gray bark with peeling texture, revealing vibrant orange inner layer"
+        ],
+        "title": "Quickly Identify Common buckthorn",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Rhamnus-cathartica.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every 3 weeks",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common buckthorn prefers moderate moisture and consistent soil hydration without being waterlogged. It requires watering every three weeks and can tolerate brief dryness. As an outdoor plant in temperate regions, it benefits from natural rainfall, minimizing the need for additional watering.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For optimal growth of common buckthorn, use balanced fertilizers, increasing nitrogen during active growth. Start in early spring, fertilizing monthly with half-strength concentrations. Reduce applications in fall and winter to enhance hardiness, ensuring robust growth and vigor for common buckthorn.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   A hardy, deciduous shrub, common buckthorn has dense growth with dark green leaves and black berries. Prune in early spring to remove dead branches and thin crowded areas, enhancing air circulation. Regular pruning improves health and shape while managing invasive tendencies.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common buckthorn propagates effectively in Autumn and Winter using techniques such as cutting and layering. It exhibits moderate propagation difficulty. Successful growth can be monitored through new root and shoot development, and maintaining proper moisture is crucial for the process.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Rhamnus_cathartica.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Why is the common buckthorn a problem?",
+            "link": "/ask/Rhamnus_cathartica-0.html"
+        },
+        {
+            "q": "Where did common buckthorn come from?",
+            "link": "/ask/Rhamnus_cathartica-1.html"
+        },
+        {
+            "q": "Is common buckthorn an evergreen?",
+            "link": "/ask/Rhamnus_cathartica-2.html"
+        },
+        {
+            "q": "What do common buckthorn symbolize?",
+            "link": "/ask/Rhamnus_cathartica-3.html"
+        },
+        {
+            "q": "How tall can common buckthorn get?",
+            "link": "/ask/Rhamnus_cathartica-4.html"
+        },
+        {
+            "q": "Is common buckthorn tolerant to cold?",
+            "link": "/ask/Rhamnus_cathartica-5.html"
+        },
+        {
+            "q": "How fast does common buckthorn grow?",
+            "link": "/ask/Rhamnus_cathartica-6.html"
+        },
+        {
+            "q": "How do you trim a buckthorn bush?",
+            "link": "/ask/Rhamnus_cathartica-7.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Rhamnus-cathartica-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Rhamnus-cathartica-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Rhamnus-cathartica-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Rhamnus-cathartica-Spots.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Rhamnus-cathartica-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Rhamnus-cathartica-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Rhamnus-cathartica-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Rhamnus-cathartica-Gall.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Rhamnus-cathartica-Wounds.html"
+            },
+            {
+                "diseaseName": "Crown gall",
+                "link": "/disease/Rhamnus-cathartica-Crown-gall.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Rhamnus-cathartica-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Rhamnus-cathartica-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Rhamnus-cathartica-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Rhamnus-cathartica-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Rhamnus-cathartica-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Rhamnus-cathartica-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Rhamnus-cathartica-Flower-wilting.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Sansevieria trifasciata",
+                "link": "/wiki/Sansevieria_trifasciata.html",
+                "imageUrl": "/wiki-image/1080/153936867790684172.jpeg",
+                "displayName": "Snake plant"
+            },
+            {
+                "scientificName": "Colocasia esculenta",
+                "link": "/wiki/Colocasia_esculenta.html",
+                "imageUrl": "/wiki-image/1080/317744287613812736.jpeg",
+                "displayName": "Taro"
+            },
+            {
+                "scientificName": "Codiaeum variegatum",
+                "link": "/wiki/Codiaeum_variegatum.html",
+                "imageUrl": "/wiki-image/1080/201175005426450432.jpeg",
+                "displayName": "Garden croton"
+            },
+            {
+                "scientificName": "Anthurium andraeanum",
+                "link": "/wiki/Anthurium_andraeanum.html",
+                "imageUrl": "/wiki-image/1080/201164237943406592.jpeg",
+                "displayName": "Flamingo flower"
+            },
+            {
+                "scientificName": "Rumex obtusifolius",
+                "link": "/wiki/Rumex_obtusifolius.html",
+                "imageUrl": "/wiki-image/1080/202696948562788352.jpeg",
+                "displayName": "Bitter dock"
+            },
+            {
+                "scientificName": "Malus pumila",
+                "link": "/wiki/Malus_pumila.html",
+                "imageUrl": "/wiki-image/1080/201218453315649536.jpeg",
+                "displayName": "Apple"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Rhamnus_cathartica.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Rhamnus_cathartica.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Rhamnus_cathartica.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Rhamnus_cathartica.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Rhamnus_cathartica.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Rhamnus_cathartica.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Rhamnus_cathartica.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Rhamnus_cathartica.html",
+            "values": [
+                "Care Common buckthorn",
+                "Care Common buckthorn",
+                "Grow Common buckthorn",
+                "Maintain Common buckthorn",
+                "Common buckthorn Care",
+                "Common buckthorn Grow",
+                "Common buckthorn Maintain",
+                "Common buckthorn Cares",
+                "Growth Common buckthorn",
+                "Maintains Common buckthorn",
+                "Common buckthorn Growth",
+                "Common buckthorn Maintains",
+                "Common buckthorn Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Rhamnus-cathartica-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Rhamnus_cathartica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Rhamnus_cathartica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Rhamnus_cathartica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Rhamnus_cathartica.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Rhamnus_cathartica.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Rhamnus_cathartica.html"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Rhamnus_cathartica.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Rhamnus_cathartica.html"
+        }
+    ]
+}

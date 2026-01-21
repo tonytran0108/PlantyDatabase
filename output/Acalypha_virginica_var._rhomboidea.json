@@ -1,0 +1,549 @@
+{
+    "title": "Common three-seeded mercury (Acalypha virginica var. rhomboidea) - PictureThis",
+    "displayName": "Common three-seeded mercury",
+    "otherCommonName": "Ricinelle rhomboide, Diamond threeseed mercury",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/154031554639691801.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "Authorized",
+                "referral": "https://www.inaturalist.org/photos/10461774",
+                "authorLink": "https://www.inaturalist.org/people/eric_keith",
+                "author": "eric_keith",
+                "licenseLink": "",
+                "license": "CC-BY-NC-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153419667828899880.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/50920472",
+                "authorLink": "https://www.inaturalist.org/people/mmccul00",
+                "author": "mmccul00",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422709903895396367.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/48912252",
+                "authorLink": "https://www.inaturalist.org/people/treyri",
+                "author": "Trey Richards",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422709929665200129.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 768,
+                "height": 1024,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/30667672",
+                "authorLink": "https://www.inaturalist.org/people/owenclarkin",
+                "author": "Owen Clarkin",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC BY 4.0"
+            },
+            "imageUrl": "/wiki-image/1080/422709929665200131.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The common three-seeded mercury is considered a weed and has a wide distribution in the United States everywhere East of the Rocky Mountains. The name of this plant comes from Greek mythology and references the small bracts surrounding the flowers that resemble MercuryÃ¢ÂÂs winged sandals.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The common three-seeded mercury is considered a weed and has a wide distribution in the United States everywhere East of the Rocky Mountains. The name of this plant comes from Greek mythology and references the small bracts surrounding the flowers that resemble MercuryÃ¢ÂÂs winged sandals.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common three-seeded mercury (<i>Acalypha virginica var. rhomboidea</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Copperleafs",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Acalypha.html"
+            },
+            {
+                "type": "Family",
+                "name": "Spurge",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Euphorbiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Nances, spurges, willows and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malpighiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.8 m to 2.5 m\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Blue",
+                        "name": "blue"
+                    },
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Red",
+                        "name": "red"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "10 - 38 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/226862345834135580.png",
+        "habitat": "Forest, Thickets, Riverbanks, Lake shores, Fields, Fence rows, Vacant lots, Waste areas",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The common three-seeded mercury is native to Eastern Canada and the Central and Eastern United States. The species has been introduced to parts of Europe, as well as to Columbia. It occurs in grasslands, forests, and waste areas. Common three-seeded mercury is considered a weed even within its native region.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "3",
+                "8",
+                "8",
+                "3",
+                "3",
+                "5",
+                "9",
+                "4",
+                "7",
+                "7",
+                "5",
+                "2"
+            ],
+            "north": [
+                "133",
+                "825",
+                "5098",
+                "32389",
+                "66044",
+                "63834",
+                "50037",
+                "28131",
+                "11035",
+                "1216",
+                "196",
+                "108"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Knowing how to persist in one's effort, growth, swiftness",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "The flowers of common three-seeded mercury have no petals! The male flowers are yellowish-brown and the female flowers are more green. This plant is considered weedy but doesnÃ¢ÂÂt tend to be invasive. It often pops up unexpectedly in bare areas in your yard, abandoned lots, or along roadsides.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common three-seeded mercury",
+                "values": [
+                    "This plant is somewhat unusual. It produces a clear juice and unlike other species of the Euphorbiaceae family which produces milky white juice. Its flowers have a hairy tri-locular ovary, and three fringed styles with one seed per locule are produced. It is also a common species of this genus, so it is called common three-seeded mercury."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common three-seeded mercury, or common three-seeded mercury, is a weed native to North America. Its weed status is attributed to its remarkable adaptability and resilience, enabling it to thrive in various conditions and ultimately outcompete other plants. It's particularly detrimental to gardens due to its high reproductive capability. Each plant produces a large number of seeds that easily spread and germinate, quickly invading garden spaces. Furthermore, with a deep root system, it's harder to fully eliminate once established, thus adding to its troublesome nature in gardens. The plantÃ¢ÂÂs primary means of spreading is through seed dispersal. The seeds are dispersed by several vectors including wind, water, and wildlife. Human activities such as gardening and farming also inadvertently contribute to its spread. This ability to exploit numerous seed dispersion channels plays a significant role in its rapid propagation and invasive nature.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The ideal period for removing common three-seeded mercury is in the late spring or early summer season, just before the weed starts to produce seeds. Here are a few methods to control or get rid of common three-seeded mercury.\n  </div> \n  <ol> \n   <li>Hand Pulling: Wet the area before removing the weed to make soil loose. Then, grasp the weed near the bottom at its strongest point and gently but firmly pull until the roots give way.</li> \n   <li>Smothering: This method involves covering the weed with cardboard or a thick layer of straw to block light and oxygen. Leave it for several weeks until the weed has completely died off.</li> \n   <li>Organic Herbicide: Use a vinegar-based or citrus oil-based herbicide, which is designed to kill weeds without harming the environment. Spray it directly onto common three-seeded mercury as directed by the manufacturer.</li> \n   <li>Soil Solarization: In this method, clear the area of plants and debris, and water the soil. Then, cover the area with a clear plastic tarp to trap the sun's rays. This essentially 'cooks' the weed rendering the soil sterile.</li> \n   <li>Planting Competitive Plants: Plan to plant dense, fast-growing vegetation that can effectively compete with common three-seeded mercury for necessary resources.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "10 - 38 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common three-seeded mercury thrives in moist conditions and requires consistent hydration, preferring evenly moist soil and tolerating high humidity. Weekly watering is essential, especially in temperate zones, where rainwater during the growing season enhances natural growth and water uptake efficiency.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Acalypha_virginica_var._rhomboidea.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is common three-seeded mercury a weed?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-0.html"
+        },
+        {
+            "q": "How do I get rid of common three-seeded mercury?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-1.html"
+        },
+        {
+            "q": "Where does common three-seeded mercury grow?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-2.html"
+        },
+        {
+            "q": "Is common three-seeded mercury annual or perennial?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-3.html"
+        },
+        {
+            "q": "How tall is common three-seeded mercury?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-4.html"
+        },
+        {
+            "q": "Where is common three-seeded mercury native?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-5.html"
+        },
+        {
+            "q": "How long do common three-seeded mercury flowers last?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-6.html"
+        },
+        {
+            "q": "How does common three-seeded mercury spread?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-7.html"
+        },
+        {
+            "q": "How do you care for an acalypha plant?",
+            "link": "/ask/Acalypha_virginica_var._rhomboidea-8.html"
+        }
+    ],
+    "disease": {
+        "list": [],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bidens frondosa",
+                "link": "/wiki/Bidens_frondosa.html",
+                "imageUrl": "/wiki-image/1080/154063242908401683.jpeg",
+                "displayName": "Devil's beggarticks"
+            },
+            {
+                "scientificName": "Rivina humilis",
+                "link": "/wiki/Rivina_humilis.html",
+                "imageUrl": "/wiki-image/1080/154037898306387969.jpeg",
+                "displayName": "Pigeonberry"
+            },
+            {
+                "scientificName": "Malva sylvestris",
+                "link": "/wiki/Malva_sylvestris.html",
+                "imageUrl": "/wiki-image/1080/153405511616692253.jpeg",
+                "displayName": "Common mallow"
+            },
+            {
+                "scientificName": "Verbascum thapsus",
+                "link": "/wiki/Verbascum_thapsus.html",
+                "imageUrl": "/wiki-image/1080/347086413258719232.jpeg",
+                "displayName": "Common mullein"
+            },
+            {
+                "scientificName": "Acalypha australis",
+                "link": "/wiki/Acalypha_australis.html",
+                "imageUrl": "/wiki-image/1080/153711472201957408.jpeg",
+                "displayName": "Asian copperleaf"
+            },
+            {
+                "scientificName": "Hibiscus syriacus",
+                "link": "/wiki/Hibiscus_syriacus.html",
+                "imageUrl": "/wiki-image/1080/347091940881629184.jpeg",
+                "displayName": "Rose of sharon"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Acalypha_virginica_var._rhomboidea.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Acalypha_virginica_var._rhomboidea.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Acalypha_virginica_var._rhomboidea.html",
+            "values": [
+                "Care Common three-seeded mercury",
+                "Care Common three-seeded mercury",
+                "Grow Common three-seeded mercury",
+                "Maintain Common three-seeded mercury",
+                "Common three-seeded mercury Care",
+                "Common three-seeded mercury Grow",
+                "Common three-seeded mercury Maintain",
+                "Common three-seeded mercury Cares",
+                "Growth Common three-seeded mercury",
+                "Maintains Common three-seeded mercury",
+                "Common three-seeded mercury Growth",
+                "Common three-seeded mercury Maintains",
+                "Common three-seeded mercury Grows"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Acalypha_virginica_var._rhomboidea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Acalypha_virginica_var._rhomboidea.html"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Acalypha_virginica_var._rhomboidea.html"
+        }
+    ]
+}

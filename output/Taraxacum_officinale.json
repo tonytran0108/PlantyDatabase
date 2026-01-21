@@ -1,0 +1,909 @@
+{
+    "title": "Common dandelion (Taraxacum officinale) - PictureThis",
+    "displayName": "Common dandelion",
+    "otherCommonName": "Lion's-Tooth, Yellow-Gowan, Priest's Crown, Pee-A-Bed, Swine's Snout, Wild Endive, Irish daisy, Cankerwort",
+    "mainImage": {
+        "copyright": {
+            "width": 1141,
+            "height": 1141,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153417717913747457.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 499,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/12239609",
+                "authorLink": "https://www.inaturalist.org/people/glmory",
+                "author": "glmory",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/152524931651862532.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16692366",
+                "authorLink": "https://www.inaturalist.org/people/ilouque",
+                "author": "ilouque",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/152377734532694020.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16452518",
+                "authorLink": "https://www.inaturalist.org/people/alisonnorthup",
+                "author": "alisonnorthup",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153661002041262112.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16781007",
+                "authorLink": "https://www.inaturalist.org/people/markchandler",
+                "author": "markchandler",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153660271896821799.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   *Taraxacum officinale*, widely known as common dandelion, is a herbaceous perennial that can be found in temperate regions all over the world, in habitats with moist soils. The most popular feature of this plant is its fruits, furry spheres that are easily carried by the wind. Although it is generally considered a weed, common dandelion is actually edible and very nutritious.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "*Taraxacum officinale*, widely known as common dandelion, is a herbaceous perennial that can be found in temperate regions all over the world, in habitats with moist soils. The most popular feature of this plant is its fruits, furry spheres that are easily carried by the wind. Although it is generally considered a weed, common dandelion is actually edible and very nutritious.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common dandelion (<i>Taraxacum officinale</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Dandelions",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Taraxacum.html"
+            },
+            {
+                "type": "Family",
+                "name": "Daisy Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Asteraceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Asters bellflowers fanflowers and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Asterales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "title": "Toxicity",
+                "type": "toxic",
+                "value": "Toxic to Humans",
+                "icon": "toxic.png"
+            },
+            {
+                "title": "Weed or not",
+                "type": "weed",
+                "icon": "weed.png",
+                "value": "Weeds"
+            },
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Spring, Early summer, Mid summer",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Late spring, Early summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1 cm to 60 cm\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   20 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   2.5 cm to 4 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    },
+                    {
+                        "value": "White",
+                        "name": "white"
+                    },
+                    {
+                        "value": "Copper",
+                        "name": "copper"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Yellow",
+                        "name": "yellow"
+                    },
+                    {
+                        "value": "Gold",
+                        "name": "gold"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous, Semi-evergreen",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "0 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Spring",
+                "title": "Growth Season",
+                "icon": "GrowthSeason.png",
+                "name": "PlantFacts:GrowthSeason"
+            },
+            {
+                "value": "Rapid",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/301441785758973952.jpeg",
+        "habitat": "Grassland, cultivated ground",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Common dandelion is native to moist riverbanks and grasslands of Europe. It has been spread to much of the temperate zones of the rest of the world. It is considered a weed in parts of America, and invasive on some French subarctic islands.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Default\": {\"trends\": {\"1\": 499.0664678, \"2\": 438.5183621, \"3\": 503.3053286, \"4\": 605.8378258, \"5\": 580.0529268, \"6\": 515.0, \"7\": 614.7979055, \"8\": 618.6515022, \"9\": 773.7349552, \"10\": 653.6354394, \"11\": 598.2216071, \"12\": 510.3771829}, \"flower_month\": 9, \"fruit_month\": 9}, \"Cfa\": {\"trends\": {\"1\": 223.0, \"2\": 155.0, \"3\": 224.0, \"4\": 337.0, \"5\": 312.0, \"6\": 206.0, \"7\": 301.0, \"8\": 333.0, \"9\": 455.0, \"10\": 392.0, \"11\": 282.0, \"12\": 215.0}, \"flower_month\": 9, \"fruit_month\": 9}, \"Cfb\": {\"trends\": {\"1\": 245.0, \"2\": 194.0, \"3\": 254.0, \"4\": 195.0, \"5\": 161.0, \"6\": 99.0, \"7\": 119.0, \"8\": 156.0, \"9\": 269.0, \"10\": 272.0, \"11\": 219.0, \"12\": 263.0}, \"flower_month\": 10, \"fruit_month\": 10}, \"Csa\": {\"trends\": {\"1\": 64.0, \"2\": 51.0, \"3\": 57.0, \"4\": 64.0, \"5\": 66.0, \"6\": 55.0, \"7\": 93.0, \"8\": 90.0, \"9\": 129.0, \"10\": 124.0, \"11\": 89.0, \"12\": 41.0}, \"flower_month\": 9, \"fruit_month\": 9}}",
+            "north": "{\"BWh\": {\"trends\": {\"1\": 59.65039603, \"2\": 82.35122099, \"3\": 86.45443359, \"4\": 99.41398372, \"5\": 110.371955, \"6\": 74.76105131, \"7\": 80.22340044, \"8\": 70.18582349, \"9\": 60.45446734, \"10\": 45.95096664, \"11\": 57.40141915, \"12\": 73.0}, \"flower_month\": 5, \"fruit_month\": 5}, \"BSk\": {\"trends\": {\"1\": 91.22946267, \"2\": 115.0131059, \"3\": 241.5428732, \"4\": 369.547995, \"5\": 331.9965277, \"6\": 248.6180145, \"7\": 199.528089, \"8\": 202.1470488, \"9\": 191.3126434, \"10\": 149.8230138, \"11\": 79.79839326, \"12\": 96.0}, \"flower_month\": 4, \"fruit_month\": 4}, \"Csa\": {\"trends\": {\"1\": 223.2631494, \"2\": 248.1158026, \"3\": 314.3439308, \"4\": 251.989574, \"5\": 163.7335661, \"6\": 142.1166058, \"7\": 109.0389651, \"8\": 104.5771005, \"9\": 131.933652, \"10\": 130.5270279, \"11\": 156.9970155, \"12\": 206.0}, \"flower_month\": 3, \"fruit_month\": 3}, \"Csb\": {\"trends\": {\"1\": 90.57333474, \"2\": 116.63179, \"3\": 214.2063016, \"4\": 270.3130173, \"5\": 224.1786235, \"6\": 186.1316721, \"7\": 137.0384006, \"8\": 151.1294665, \"9\": 169.1525998, \"10\": 136.363557, \"11\": 95.87579998, \"12\": 55.0}, \"flower_month\": 4, \"fruit_month\": 4}, \"Cfa\": {\"trends\": {\"1\": 621.1871168, \"2\": 1339.990005, \"3\": 1417.799981, \"4\": 1300.548399, \"5\": 1007.893426, \"6\": 778.9902007, \"7\": 613.0996427, \"8\": 599.0149113, \"9\": 725.8750545, \"10\": 832.6538277, \"11\": 674.114524, \"12\": 544.0}, \"flower_month\": 3, \"fruit_month\": 3}, \"Cfb\": {\"trends\": {\"1\": 298.3362755, \"2\": 399.5107639, \"3\": 842.0296218, \"4\": 1065.93299, \"5\": 696.8596746, \"6\": 618.251849, \"7\": 676.0292502, \"8\": 795.7665754, \"9\": 641.9018168, \"10\": 437.0355123, \"11\": 544.5894935, \"12\": 342.0}, \"flower_month\": 4, \"fruit_month\": 4}, \"Dfa\": {\"trends\": {\"1\": 205.3184153, \"2\": 545.2977941, \"3\": 1235.080643, \"4\": 1618.705478, \"5\": 1089.828262, \"6\": 992.4667826, \"7\": 851.291414, \"8\": 852.7146668, \"9\": 840.9384728, \"10\": 645.9349014, \"11\": 396.7562715, \"12\": 186.0}, \"flower_month\": 4, \"fruit_month\": 4}, \"Dfb\": {\"trends\": {\"1\": 86.63766307, \"2\": 120.9344375, \"3\": 372.968216, \"4\": 1110.541289, \"5\": 916.7893026, \"6\": 654.8401473, \"7\": 584.7923446, \"8\": 579.635905, \"9\": 509.5724022, \"10\": 310.6351802, \"11\": 218.4275844, \"12\": 103.0}, \"flower_month\": 4, \"fruit_month\": 4}, \"Dfc\": {\"trends\": {\"1\": 0.77110734, \"2\": 1.392987162, \"3\": 1.0049765, \"4\": 11.11840158, \"5\": 35.82568419, \"6\": 30.04345358, \"7\": 17.66175249, \"8\": 12.93594306, \"9\": 15.01197654, \"10\": 4.193827517, \"11\": 6.25030705, \"12\": 1.0}, \"flower_month\": 5, \"fruit_month\": 5}, \"Default\": {\"trends\": {\"1\": 1864.888685, \"2\": 3516.100733, \"3\": 5623.743972, \"4\": 7616.609359, \"5\": 6017.108837, \"6\": 5007.304701, \"7\": 4283.841641, \"8\": 4316.759845, \"9\": 4050.474116, \"10\": 3169.624379, \"11\": 2497.311941, \"12\": 1776.0}, \"flower_month\": 4, \"fruit_month\": 4}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Faithfulness, Happiness, courage, health, perseverance",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "While the common dandelion is widely seen as garden enemy number one, it is a key spring food source for bees and other pollinators. Considering it one of the greatest enemies of neat lawns and gardens, many people target it with herbicides, yet agriculture depends on the pollinators who rely on Taraxacum officinale to live.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common dandelion",
+                "values": [
+                    "It is believed that everyone will feel like blowing away the dandelion's fluffy ball as if it blows away their sorrow. Weirdly, its name has nothing to do with its most distinctive ball feature. It actually comes from the French dent de lion, or \"lion's tooth\", in reference to the plant's jagged-edged leaves. It's also the most common species of the genus, so it's called common dandelion."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common dandelions</strong> cause allergic reactions, including respiratory issues and anaphylactic shock. They interact negatively with medications like insulin and diuretics. <strong>Common dandelions</strong> absorb heavy metals from polluted soil, leading to potential heavy metal poisoning. Symptoms include nausea, vomiting, and weakness. Monitor small children around common dandelions and watch for symptoms if ingested. Avoid ingestion of contaminated plants. Keep an eye on children.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Taraxacum_officinale.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Common dandelion is thought to originate from Greece or even the Himalayas. The efficient spread via seeds and transportation, plus human uses and cultivation, means that it has become globally distributed Ã¢ÂÂ from the subtropics to the tundra. Common dandelion has a flowerhead with numerous small florets and each floret produces a seed. The seeds can fly or get carried far and wide because of their parachute-like fluff called pappus. Also, common dandelion quickly regenerates from any part of its long root left in the ground. Because it prefers compact and disturbed soils, common dandelion is most commonly a weed of cultivated fields and lawns.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to remove or restrict common dandelion is in the early spring when the plants are young and haven't yet flowered, to prevent seed dispersal.\n  </div> \n  <ol> \n   <li>Manual removal: Uproot common dandelion using a dandelion puller or a garden fork, making sure to remove as much of the root as possible to prevent regrowth.</li> \n   <li>Mowing: Keep the lawn mowed to a height of about 3 inches to discourage common dandelion growth among grass by preventing sunlight from reaching the seeds.</li> \n   <li>Boiling water: Pour boiling water directly onto the common dandelion to kill the plant and its root without the use of chemicals.</li> \n   <li>Vinegar solution: Apply a concentrated vinegar solution directly to the common dandelion leaves and stem during a sunny day to increase the acid's weed-killing effectiveness.</li> \n   <li>Crowding out: Plant competitive and desired plants densely to shade out common dandelion and reduce its ability to establish itself.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {
+        "identifyList": [
+            "Bright yellow composite flowers mature into puffball-like seed heads.",
+            "Deeply lobed, tooth-like leaves in a basal rosette, 5 to 25 cm long.",
+            "Distinctive milky latex exuded when any part of the plant is broken.",
+            "Hollow, smooth stem with characteristic milky sap, up to 12 inches long.",
+            "Dry, one-seeded achene fruit enveloped in fluffy pappus, easily wind-dispersed."
+        ],
+        "title": "Quickly Identify Common dandelion",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Taraxacum-officinale.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "0 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common dandelion thrives in moderate moisture conditions, preferring consistent soil moisture without waterlogging. Weekly watering promotes optimal growth. This herbaceous perennial benefits from natural rainfall outdoors, while its deep taproot allows access to water in deeper soil layers during dry spells.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For common dandelion, use a balanced fertilizer (10-10-10) sparingly in early spring and repeat every 6-8 weeks, applying no more than 1/2 lb per 100 sq. ft. Avoid high-nitrogen formulas to encourage flowering and cease fertilization by late summer to prevent frost damage.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common dandelion features yellow flowers and puffball seed heads, needing minimal pruning. Remove spent flowers and seed heads in early spring to promote growth and limit spread. Use sharp, clean tools for pruning, ensuring plant vigor and enhancing garden aesthetics.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best time for propagating common dandelion is in Spring or Autumn, mainly through division techniques. Propagation is typically straightforward, with healthy new green leaves indicating successful growth. Careful division can enhance overall productivity.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The key care requirement for common dandelion is excellent drainage in pots to prevent waterlogging and promote healthy growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Taraxacum_officinale.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Are common dandelions toxic?",
+            "link": "/ask/Taraxacum_officinale-0.html"
+        },
+        {
+            "q": "What is common dandelion used for?",
+            "link": "/ask/Taraxacum_officinale-1.html"
+        },
+        {
+            "q": "What family is common dandelion in?",
+            "link": "/ask/Taraxacum_officinale-2.html"
+        },
+        {
+            "q": "What are common dandelions called when they turn white?",
+            "link": "/ask/Taraxacum_officinale-3.html"
+        },
+        {
+            "q": "Are common dandelion weeds?",
+            "link": "/ask/Taraxacum_officinale-4.html"
+        },
+        {
+            "q": "How big do common dandelions get?",
+            "link": "/ask/Taraxacum_officinale-5.html"
+        },
+        {
+            "q": "How do I get rid of common dandelions?",
+            "link": "/ask/Taraxacum_officinale-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Taraxacum-officinale-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Powdery mildew",
+                "link": "/disease/Taraxacum-officinale-Powdery-mildew.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Taraxacum-officinale-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Taraxacum-officinale-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leafminer stripe",
+                "link": "/disease/Taraxacum-officinale-Leafminer-stripe.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Taraxacum-officinale-Notch.html"
+            },
+            {
+                "diseaseName": "Underwatering dry",
+                "link": "/disease/Taraxacum-officinale-Underwatering.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Taraxacum-officinale-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Plant dried up",
+                "link": "/disease/Taraxacum-officinale-Plant-dried-up.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Taraxacum-officinale-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Taraxacum-officinale-Wilting.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Taraxacum-officinale-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Taraxacum-officinale-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Taraxacum-officinale-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Taraxacum-officinale-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Taraxacum-officinale-Leaf-white-mold.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Taraxacum-officinale-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Taraxacum-officinale-Spots.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Taraxacum-officinale-Brown-spot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Laburnum anagyroides",
+                "link": "/wiki/Laburnum_anagyroides.html",
+                "imageUrl": "/wiki-image/1080/153466079245500429.jpeg",
+                "displayName": "Golden chain tree"
+            },
+            {
+                "scientificName": "Allium ampeloprasum",
+                "link": "/wiki/Allium_ampeloprasum.html",
+                "imageUrl": "/wiki-image/1080/154176698764492803.jpeg",
+                "displayName": "Broadleaf wild leek"
+            },
+            {
+                "scientificName": "Nicotiana glauca",
+                "link": "/wiki/Nicotiana_glauca.html",
+                "imageUrl": "/wiki-image/1080/153841485156974623.jpeg",
+                "displayName": "Tree tobacco"
+            },
+            {
+                "scientificName": "Kalanchoe marmorata",
+                "link": "/wiki/Kalanchoe_marmorata.html",
+                "imageUrl": "/wiki-image/1080/153757376812417039.jpeg",
+                "displayName": "Penwiper plant"
+            },
+            {
+                "scientificName": "Croton capitatus",
+                "link": "/wiki/Croton_capitatus.html",
+                "imageUrl": "/wiki-image/1080/154171660767854601.jpeg",
+                "displayName": "Hogwort"
+            },
+            {
+                "scientificName": "Kalmia latifolia",
+                "link": "/wiki/Kalmia_latifolia.html",
+                "imageUrl": "/wiki-image/1080/201214175528222720.jpeg",
+                "displayName": "Mountain laurel"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Taraxacum_officinale.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Taraxacum_officinale.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Taraxacum_officinale.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Taraxacum_officinale.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Taraxacum_officinale.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Taraxacum_officinale.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Taraxacum_officinale.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Taraxacum_officinale.html",
+            "values": [
+                "Care Common dandelion",
+                "Care Common dandelion",
+                "Grow Common dandelion",
+                "Maintain Common dandelion",
+                "Common dandelion Care",
+                "Common dandelion Grow",
+                "Common dandelion Maintain",
+                "Common dandelion Cares",
+                "Growth Common dandelion",
+                "Maintains Common dandelion",
+                "Common dandelion Growth",
+                "Common dandelion Maintains",
+                "Common dandelion Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Leafminer-stripe.html",
+            "values": [
+                "Leafminer stripe"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Powdery-mildew.html",
+            "values": [
+                "Powdery mildew"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Taraxacum-officinale-Plant-dried-up.html",
+            "values": [
+                "Plant dried up"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Taraxacum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Taraxacum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Taraxacum_officinale.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Taraxacum_officinale.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Taraxacum_officinale.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Taraxacum_officinale.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Taraxacum_officinale.html"
+        }
+    ]
+}

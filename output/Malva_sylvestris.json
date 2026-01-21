@@ -1,0 +1,954 @@
+{
+    "title": "Common mallow (Malva sylvestris) - PictureThis",
+    "displayName": "Common mallow",
+    "otherCommonName": "Tall Mallow, Cheese Flower, Hock Herb, Maws, High mallow, Marsh mallow",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Authorized_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/153405511616692253.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/13148138",
+                "authorLink": "https://www.inaturalist.org/people/robangutan",
+                "author": "robangutan",
+                "licenseLink": "",
+                "license": "CC-BY-NC-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153928917806219267.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/16910462",
+                "authorLink": "https://www.inaturalist.org/people/rappman",
+                "author": "rappman",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153932156211560459.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/7934456",
+                "authorLink": "https://www.inaturalist.org/people/thunefeld",
+                "author": "thunefeld",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153914323507347470.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/39336113",
+                "authorLink": "https://www.inaturalist.org/people/esant",
+                "author": "esant",
+                "licenseLink": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "license": "CC-BY-SA-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153947407640428549.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "",
+    "cultivars": [
+        {
+            "displayName": "Blue mallow 'Primley Blue'",
+            "link": "/wiki/Malva_sylvestris_var._mauritiana__Primley_Blue_.html"
+        }
+    ],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   The common mallow is an ornamental plant with a large variety of cultivars. It has historically also been used to create a yellow dye. Common mallow seeds are shaped roughly like cheese wheels, leading the seeds (and sometimes the plant itself) being called \"cheeses.\"\n  </div> \n </body>\n</html>",
+        "descriptionValue": "The common mallow is an ornamental plant with a large variety of cultivars. It has historically also been used to create a yellow dye. Common mallow seeds are shaped roughly like cheese wheels, leading the seeds (and sometimes the plant itself) being called \"cheeses.\"",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Common mallow (<i>Malva sylvestris</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Mallow",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Malva.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mallow",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Malvaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mallows, rock-roses, and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Malvales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial, Biennial, Annual",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Late spring, Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Mid summer, Late summer, Early fall, Mid fall",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   50 cm to 1.2 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Semi-evergreen, Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 32 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278803013141200898.jpeg",
+        "habitat": "Waste ground, Field verges, Roadsides",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   The common mallow is native to Macaronesia, Europe to Central Asia, and Afghanistan. It naturally grows in meadows and waste areas, though it's commonly seen in man-made habitats and fields. It was introduced to many parts of North America, South America, Africa, and New Zealand, where it's widely cultivated.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": true,
+            "south": "{\"Cfb\": {\"trends\": {\"1\": 37.49018453, \"2\": 30.62765365, \"3\": 32.44527233, \"4\": 46.31667189, \"5\": 44.9192909, \"6\": 36.0, \"7\": 42.72333035, \"8\": 42.08769497, \"9\": 29.93879807, \"10\": 31.0470466, \"11\": 47.46194781, \"12\": 46.98149647}, \"flower_month\": 11}}",
+            "north": "{\"Csa\": {\"trends\": {\"1\": 76.74670759, \"2\": 95.37184004, \"3\": 116.4389168, \"4\": 133.0313768, \"5\": 126.6745285, \"6\": 99.06769222, \"7\": 45.61834254, \"8\": 39.41151923, \"9\": 41.11630936, \"10\": 55.86114331, \"11\": 56.3801437, \"12\": 79.0}, \"flower_month\": 4}, \"Csb\": {\"trends\": {\"1\": 16.06946262, \"2\": 6.626806252, \"3\": 17.15110081, \"4\": 28.05135085, \"5\": 38.27439914, \"6\": 63.13324872, \"7\": 63.61094814, \"8\": 46.92012597, \"9\": 52.43730593, \"10\": 35.95888319, \"11\": 27.6252305, \"12\": 9.0}, \"flower_month\": 7}, \"Cfa\": {\"trends\": {\"1\": 42.12838159, \"2\": 20.18057237, \"3\": 38.16454811, \"4\": 67.70519858, \"5\": 134.3335202, \"6\": 158.5208692, \"7\": 124.2158495, \"8\": 84.36829737, \"9\": 91.487916, \"10\": 72.74765021, \"11\": 65.6555482, \"12\": 44.0}, \"flower_month\": 6}, \"Cfb\": {\"trends\": {\"1\": 89.96222739, \"2\": 95.18327762, \"3\": 148.8366598, \"4\": 322.7187448, \"5\": 463.8381548, \"6\": 647.1266617, \"7\": 573.6416707, \"8\": 640.4580321, \"9\": 448.1201362, \"10\": 268.7109298, \"11\": 199.1056963, \"12\": 93.0}, \"flower_month\": 6}, \"Dfb\": {\"trends\": {\"1\": 24.75361802, \"2\": 28.96633234, \"3\": 64.44671379, \"4\": 124.5741552, \"5\": 170.7376276, \"6\": 292.0161145, \"7\": 278.5516566, \"8\": 354.1404179, \"9\": 293.3806626, \"10\": 197.1255327, \"11\": 103.5924941, \"12\": 46.0}, \"flower_month\": 8}, \"BSk\": {\"trends\": {\"1\": 55.0, \"2\": 43.0, \"3\": 137.0, \"4\": 380.0, \"5\": 484.0, \"6\": 402.0, \"7\": 219.0, \"8\": 165.0, \"9\": 124.0, \"10\": 102.0, \"11\": 36.0, \"12\": 42.0}, \"flower_month\": 5}, \"Default\": {\"trends\": {\"1\": 461.183021, \"2\": 384.4498739, \"3\": 533.4881501, \"4\": 887.3520311, \"5\": 1281.762293, \"6\": 1842.776072, \"7\": 1630.012167, \"8\": 1731.81253, \"9\": 1372.660673, \"10\": 950.0465644, \"11\": 625.76511, \"12\": 445.0}, \"flower_month\": 6}, \"Dfa\": {\"trends\": {\"1\": 22.0, \"2\": 21.0, \"3\": 66.0, \"4\": 339.0, \"5\": 1212.0, \"6\": 1805.0, \"7\": 1347.0, \"8\": 959.0, \"9\": 722.0, \"10\": 385.0, \"11\": 53.0, \"12\": 19.0}, \"flower_month\": 6}}"
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "Common mallow (Malva sylvestris) is a common wildflower that has enough appeal to merit growing in meadows and wildlife gardens but is a less common feature of ornamental gardens. However, the purple flowers have visual appeal and attract bees, and the plant needs very little maintenance. It is most commonly planted to add attractive color to beds and borders. Other wildflowers like sweet William and meadow cranesbill look great with this plant.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Love, protection and health",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Common mallow",
+                "values": [
+                    "The plant was pleasant when it first blossomed, but with the advent of summer, its leaves lost their green color, making its stems look uneven. Since it is the most common Malva plant in which Malva means mallow, so it is most often called common mallow."
+                ]
+            },
+            {
+                "key": "Cheese-flower",
+                "values": [
+                    "If you are lucky enough to see its seeds, do observe the shape of the seeds carefully. You will find that they look very similar to cheese wheel. This inspired the common name, cheese-flower."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "<html>\n <head></head>\n <body>\n  <div>\n   <strong>Common mallow ingestion</strong> causes gastrointestinal issues like vomiting, diarrhea, and indigestion. Harmful in nitrogen-rich soil, its leaves' high nitrate content can form carcinogenic nitrosamines. Those with gallstones should avoid it. <strong>High quantities</strong> can cause dehydration due to laxative properties.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": "/toxic/Malva_sylvestris.html"
+    },
+    "weed": {
+        "weedDes": "<html>\n <head></head>\n <body>\n  <div>\n   Originating from Eurasia and northern Africa, common mallow has been naturalized across the world, only having not been reported in Antarctica. Despite its nativity, it is regarded as invasive in Europe, as well as several other countries it's found in, including the US and Chile. The seeds common mallow produces are thick-coated and can survive long periods of time in soil. When they sprout, the taproots they extend are so woody and thick, they become cumbersome to remove with bare hands or tools. If allowed to grow and flower, removal is effectively impossible due to the high number of seeds it will distribute.\n  </div> \n </body>\n</html>",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to control or remove common mallow is in the early spring or late fall before it sets seeds. This is crucial to prevent the plant from spreading uncontrollably.\n  </div> \n  <ol> \n   <li>Hand-pulling: Safely grip the base of common mallow and pull it from the soil, making sure to remove the root to prevent regrowth.</li> \n   <li>Mulching: Spread a thick layer of organic mulch around the plants to suppress the growth of common mallow by blocking sunlight and minimizing seed germination.</li> \n   <li>Mowing: Regularly mow the area where common mallow is growing to prevent it from reaching the seeding stage, keeping it in check.</li> \n   <li>Boiling water: Pour boiling water directly onto the foliage and base of common mallow to effectively kill the plant without using chemicals.</li> \n   <li>Plant competition: Cultivate other robust plants alongside common mallow that will outcompete it for resources, naturally limiting its growth.</li> \n  </ol> \n </body>\n</html>"
+    },
+    "identify": {},
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 32 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common mallow thrives in temperate regions, preferring consistent moisture without waterlogging and well-drained soil. Water weekly to maintain hydration without over-saturation. While typically cultivated outdoors, common mallow shows robust growth when moisture levels are managed, particularly during its active growing season.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common mallow requires monthly application of balanced nutrition fertilizers during active growth to promote healthy foliage and blooms. Use a quarter-strength, water-soluble blend applied to damp soil. In winter, reduce fertilization, ensuring even distribution near the root zone for optimal results.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Common mallow boasts attractive purple flowers and rapid growth. Prune in early to late spring, removing one-third of its height and focusing on older branches to promote bushiness and flowering. Use sharp, clean tools to prevent infection and manage its spread effectively.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   The best time to propagate common mallow is in spring and summer using cuttings. This method is moderately easy, with successful growth indicated by new leaf development. Maintaining a consistently moist environment is crucial for optimal growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Spring is the best time to repot common mallow, every 2-3 years due to its growth. Use a pot one size larger, place common mallow in indirect sunlight, keep the soil moist, and refrain from fertilizing for a month to reduce root stress.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Malva_sylvestris.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "How tall does common mallow grow?",
+            "link": "/ask/Malva_sylvestris-0.html"
+        },
+        {
+            "q": "How do you grow a common mallow plant?",
+            "link": "/ask/Malva_sylvestris-1.html"
+        },
+        {
+            "q": "Is common mallow invasive?",
+            "link": "/ask/Malva_sylvestris-2.html"
+        },
+        {
+            "q": "How do I get rid of common mallow?",
+            "link": "/ask/Malva_sylvestris-3.html"
+        },
+        {
+            "q": "Where does common mallow get its name?",
+            "link": "/ask/Malva_sylvestris-4.html"
+        },
+        {
+            "q": "How often should common mallow be watered?",
+            "link": "/ask/Malva_sylvestris-5.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Malva-sylvestris-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Malva-sylvestris-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Malva-sylvestris-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Malva-sylvestris-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Malva-sylvestris-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Malva-sylvestris-Black-mold.html"
+            },
+            {
+                "diseaseName": "Rust disease",
+                "link": "/disease/Malva-sylvestris-Rust-disease.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Malva-sylvestris-Wilting.html"
+            },
+            {
+                "diseaseName": "Scars",
+                "link": "/disease/Malva-sylvestris-Scars.html"
+            },
+            {
+                "diseaseName": "Gall",
+                "link": "/disease/Malva-sylvestris-Gall.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Malva-sylvestris-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Mushrooms",
+                "link": "/disease/Malva-sylvestris-Mushrooms.html"
+            },
+            {
+                "diseaseName": "Leaf spot",
+                "link": "/disease/Malva-sylvestris-Leaf-spot.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Malva-sylvestris-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Malva-sylvestris-Notch.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Malva-sylvestris-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Malva-sylvestris-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Scale insect",
+                "link": "/disease/Malva-sylvestris-Scale-insect.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Malva-sylvestris-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Malva-sylvestris-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Malva-sylvestris-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Malva-sylvestris-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "White blotch",
+                "link": "/disease/Malva-sylvestris-White-blotch.html"
+            },
+            {
+                "diseaseName": "Leaf blotch",
+                "link": "/disease/Malva-sylvestris-Leaf-blotch.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Malva-sylvestris-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Soil fungus",
+                "link": "/disease/Malva-sylvestris-Soil-fungus.html"
+            },
+            {
+                "diseaseName": "Stem rot",
+                "link": "/disease/Malva-sylvestris-Stem-rot.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Terminalia catappa",
+                "link": "/wiki/Terminalia_catappa.html",
+                "imageUrl": "/wiki-image/1080/153462046271209513.jpeg",
+                "displayName": "Tropical almond"
+            },
+            {
+                "scientificName": "Malus prunifolia",
+                "link": "/wiki/Malus_prunifolia.html",
+                "imageUrl": "/wiki-image/1080/153975290568114187.jpeg",
+                "displayName": "Plumleaf crab apple"
+            },
+            {
+                "scientificName": "Alternanthera brasiliana",
+                "link": "/wiki/Alternanthera_brasiliana.html",
+                "imageUrl": "/wiki-image/1080/201162859258904576.jpeg",
+                "displayName": "Brazilian joyweed"
+            },
+            {
+                "scientificName": "Erigeron canadensis",
+                "link": "/wiki/Erigeron_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153461895947354149.jpeg",
+                "displayName": "Horseweed"
+            },
+            {
+                "scientificName": "Solidago canadensis",
+                "link": "/wiki/Solidago_canadensis.html",
+                "imageUrl": "/wiki-image/1080/153846660592566302.jpeg",
+                "displayName": "Canada goldenrod"
+            },
+            {
+                "scientificName": "Pyrus communis",
+                "link": "/wiki/Pyrus_communis.html",
+                "imageUrl": "/wiki-image/1080/153847584010534954.jpeg",
+                "displayName": "Common pear"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Malva_sylvestris.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Malva_sylvestris.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "toxicity",
+            "link": "/toxic/Malva_sylvestris.html",
+            "values": [
+                "Environmental toxins",
+                "Biological hazards",
+                "Toxic substances",
+                "Chemical hazards",
+                "Poisonous plants",
+                "Harmful effects",
+                "Toxic chemicals",
+                "Safety measures",
+                "Toxic exposure",
+                "Health risks",
+                "Toxic waste",
+                "Toxicology",
+                "Poisonous",
+                "Non-toxic",
+                "Toxicity"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Malva_sylvestris.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Malva_sylvestris.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Malva_sylvestris.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Malva_sylvestris.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Malva_sylvestris.html",
+            "values": [
+                "Care Common mallow",
+                "Care Common mallow",
+                "Grow Common mallow",
+                "Maintain Common mallow",
+                "Common mallow Care",
+                "Common mallow Grow",
+                "Common mallow Maintain",
+                "Common mallow Cares",
+                "Growth Common mallow",
+                "Maintains Common mallow",
+                "Common mallow Growth",
+                "Common mallow Maintains",
+                "Common mallow Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-White-blotch.html",
+            "values": [
+                "White blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Leaf-blotch.html",
+            "values": [
+                "Leaf blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Scars.html",
+            "values": [
+                "Scars"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Soil-fungus.html",
+            "values": [
+                "Soil fungus"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Stem-rot.html",
+            "values": [
+                "Stem rot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Leaf-spot.html",
+            "values": [
+                "Leaf spot"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Rust-disease.html",
+            "values": [
+                "Rust disease"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Malva-sylvestris-Gall.html",
+            "values": [
+                "Gall"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Malva_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Malva_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Malva_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Malva_sylvestris.html"
+        },
+        {
+            "title": "Toxicity",
+            "link": "/toxic/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/toxic.png"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Malva_sylvestris.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Malva_sylvestris.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Malva_sylvestris.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Malva_sylvestris.html"
+        }
+    ]
+}

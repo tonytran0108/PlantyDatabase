@@ -1,0 +1,958 @@
+{
+    "title": "Wild bergamot (Monarda fistulosa) - PictureThis",
+    "displayName": "Wild bergamot",
+    "otherCommonName": "Mintleaf beebalm, Horsemint",
+    "mainImage": {
+        "copyright": {
+            "width": 1080,
+            "height": 1080,
+            "copyrightType": "Stock_PS",
+            "referral": "",
+            "authorLink": "",
+            "author": "Cynthia Shirk",
+            "licenseLink": "",
+            "license": ""
+        },
+        "imageUrl": "/wiki-image/1080/348135841272856576.jpeg"
+    },
+    "images": [
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9770736",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153931164074115086.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 333,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/9257867",
+                "authorLink": "https://www.inaturalist.org/people/schoenitz",
+                "author": "schoenitz",
+                "licenseLink": "",
+                "license": "CC0-1.0"
+            },
+            "imageUrl": "/wiki-image/1080/153883189289418768.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 500,
+                "height": 375,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/21620957",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153924764572844040.jpeg",
+            "type": "Persion"
+        },
+        {
+            "copyright": {
+                "width": 375,
+                "height": 500,
+                "copyrightType": "CC",
+                "referral": "https://www.inaturalist.org/photos/8914733",
+                "authorLink": "https://www.inaturalist.org/people/mellis",
+                "author": "mellis",
+                "licenseLink": "https://creativecommons.org/licenses/by/4.0/",
+                "license": "CC-BY-4.0"
+            },
+            "imageUrl": "/wiki-image/1080/153912742959382567.jpeg",
+            "type": "Persion"
+        }
+    ],
+    "attributes": "Under moderate growth in spring, wild bergamot develops thick whorls of aromatic, lavender flowers. This growth speed promotes well-distributed vertical growth, enhancing the plant's bush-like appearance. Despite a faster autumn growth, spring expansion ensures superior overwintering resistance for wild bergamot.",
+    "cultivars": [],
+    "species": [],
+    "basicInfo": {
+        "description": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot (Monarda fistulosa) is a wildflower related to mint. It is also known as bee balm and indeed attracts a great many bees (hummingbirds like it as well). Wild bergamot is sometimes used to make strong-flavored tea. One variant is cultivated specifically for its lemony-scented essential oil.\n  </div> \n </body>\n</html>",
+        "descriptionValue": "Wild bergamot (Monarda fistulosa) is a wildflower related to mint. It is also known as bee balm and indeed attracts a great many bees (hummingbirds like it as well). Wild bergamot is sometimes used to make strong-flavored tea. One variant is cultivated specifically for its lemony-scented essential oil.",
+        "taxonomyList": [
+            {
+                "type": "Species",
+                "name": "Wild bergamot (<i>Monarda fistulosa</i>)",
+                "nameDisplayType": "Species",
+                "link": ""
+            },
+            {
+                "type": "Genus",
+                "name": "Bergamot",
+                "nameDisplayType": "Genus",
+                "link": "/wiki/Monarda.html"
+            },
+            {
+                "type": "Family",
+                "name": "Mint Family",
+                "nameDisplayType": "Family",
+                "link": "/wiki/Lamiaceae.html"
+            },
+            {
+                "type": "Order",
+                "name": "Mints plantains olives and allies",
+                "nameDisplayType": "Order",
+                "link": "/wiki/Lamiales.html"
+            },
+            {
+                "type": "Class",
+                "name": "Dicotyledons",
+                "nameDisplayType": "Class",
+                "link": "/wiki/Magnoliopsida.html"
+            },
+            {
+                "type": "Phylum",
+                "name": "Vascular plants",
+                "nameDisplayType": "Phylum",
+                "link": "/wiki/Tracheophyta.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "instantlyidentify",
+            "icon": "Instantly_identify.png",
+            "title": "Instantly identify plants with a snap",
+            "text": "Snap a photo for instant plant ID, gaining quick insights on <b>disease prevention, treatment, toxicity, care, uses, and symbolism</b>, etc.",
+            "btnText": "Download the App for Free"
+        },
+        "keyFactsConfigs": [
+            {
+                "value": "Perennial",
+                "title": "Lifespan",
+                "icon": "Lifespan.png",
+                "name": "PlantFacts:Lifespan"
+            },
+            {
+                "value": "Herb",
+                "title": "Plant Type",
+                "icon": "PlantType.png",
+                "name": "PlantFacts:PlantType"
+            },
+            {
+                "value": "Summer, Fall",
+                "title": "Bloom Time",
+                "icon": "BloomTime.png",
+                "name": "PlantFacts:BloomTime"
+            },
+            {
+                "value": "Summer",
+                "title": "Harvest Time",
+                "icon": "HarvestTime.png",
+                "name": "PlantFacts:HarvestTime"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   1.1 m\n  </div> \n </body>\n</html>",
+                "title": "Plant Height",
+                "icon": "PlantHeight.png",
+                "name": "Cultivation:PlantHeight"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   60 cm to 90 cm\n  </div> \n </body>\n</html>",
+                "title": "Spread",
+                "icon": "spread.png",
+                "name": "Cultivation:CrownDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    },
+                    {
+                        "value": "Gray",
+                        "name": "gray"
+                    }
+                ],
+                "title": "Leaf Color",
+                "icon": "LeafColor.png",
+                "name": "Facts:LeafColor"
+            },
+            {
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   3 cm to 5 cm\n  </div> \n </body>\n</html>",
+                "title": "Flower Size",
+                "icon": "flowerSize.png",
+                "name": "Cultivation:FlowerDiameter"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Brown",
+                        "name": "brown"
+                    }
+                ],
+                "title": "Fruit Color",
+                "icon": "FruitColor.png",
+                "name": "Facts:FruitColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Pink",
+                        "name": "pink"
+                    },
+                    {
+                        "value": "Purple",
+                        "name": "purple"
+                    },
+                    {
+                        "value": "Lavender",
+                        "name": "lavender"
+                    },
+                    {
+                        "value": "Violet",
+                        "name": "violet"
+                    }
+                ],
+                "title": "Flower Color",
+                "icon": "flowerColor.png",
+                "name": "Facts:FlowerColor"
+            },
+            {
+                "values": [
+                    {
+                        "value": "Green",
+                        "name": "green"
+                    }
+                ],
+                "title": "Stem Color",
+                "icon": "StemColor.png",
+                "name": "Facts:StemColor"
+            },
+            {
+                "value": "Winter dormancy",
+                "title": "Dormancy",
+                "icon": "DormancyType.png",
+                "name": "PlantFacts:DormancyType"
+            },
+            {
+                "value": "Deciduous",
+                "title": "Leaf type",
+                "icon": "FoliagePersistence.png",
+                "name": "PlantEvergreen"
+            },
+            {
+                "value": "5 - 35 Ã¢ÂÂ",
+                "title": "Ideal Temperature",
+                "icon": "temperature.png",
+                "name": "PlantCondition:PreferredTemperature"
+            },
+            {
+                "value": "Moderate",
+                "title": "Growth Rate",
+                "icon": "GrowthRate.png",
+                "name": "PlantFacts:GrowthRate"
+            }
+        ]
+    },
+    "distribution": {
+        "mapImageUrl": "/wiki-image/1080/278800728218599428.jpeg",
+        "habitat": "Dry thickets, clearings, woodland edges",
+        "distributionSummary": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot is native to pastures, meadows, and ditches of most of North America. This perennial subshrub is showy enough to reward ornamental growth, at least in its native temperate climate.\n  </div> \n </body>\n</html>",
+        "nativeRange": "",
+        "invasiveCountries": "",
+        "downloadConfig": {
+            "key": "distribution",
+            "icon": "distribution.png",
+            "title": "Discover plant distribution and habitat",
+            "text": "Gain insights into where plants thrive and how they adapt, helping you identify, cultivate, and protect them with essential information on <b>habitats, distribution maps, and climate trends</b>.",
+            "btnText": "Download the App for Free"
+        },
+        "distributionTrends": {
+            "showIntro": false,
+            "south": [
+                "55",
+                "31",
+                "29",
+                "34",
+                "34",
+                "23",
+                "21",
+                "37",
+                "54",
+                "46",
+                "41",
+                "67"
+            ],
+            "north": [
+                "1488",
+                "6159",
+                "29252",
+                "57206",
+                "46442",
+                "49419",
+                "27182",
+                "11807",
+                "7091",
+                "2289",
+                "455",
+                "688"
+            ]
+        }
+    },
+    "cultureInfo": {
+        "list": [
+            {
+                "title": "Garden Use",
+                "type": "String",
+                "value": "The showy purple flowers of wild bergamot (Monarda fistulosa) are great attractors of hummingbirds, bees, and butterflies. They add great garden color from midsummer into fall and are commonly used as cut flowers. This clumping perennial grows well in the flower beds and borders of cottage and informal gardens. Excellent texture and color contrasts are provided by planting wild bergamot beside black-eyed Susan, false sunflower, and echinacea purpurea.",
+                "icon": ""
+            },
+            {
+                "title": "Symbolism",
+                "type": "String",
+                "value": "Wealth, prosperity, health, good fortune",
+                "icon": ""
+            },
+            {
+                "title": "Interesting Facts",
+                "type": "String",
+                "value": "A favorite of birds, bees and butterflies, wild bergamot has a long history of beneficial uses. Seeds germinate easily without winter stratification, which made the plant readily available to Native Americans looking for medicinal and culinary uses for every plant species. It was often used to make poultices and also as a tea infusion to treat colds and headaches.",
+                "icon": ""
+            }
+        ],
+        "nameStory": [
+            {
+                "key": "Wild bergamot",
+                "values": [
+                    "This gorgeous perennial plant is often planted and people often use its fragrant leaves to make mint tea because the leaves are mint-flavored. Many people believed that the leaves taste like bergamot and it is considered a wild plant, so it's called wild bergamot."
+                ]
+            }
+        ],
+        "downloadConfig": {
+            "key": "quickplant",
+            "icon": "quickplant.png",
+            "title": "Get quick plant knowledge with a snap",
+            "text": "Snap a photo for instant plant identification and learn about <b>its name, symbolism, interesting facts, uses</b>, and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "toxic": {
+        "summary": "",
+        "downloadConfig": {
+            "key": "downloadapp_caretoxicplants_title",
+            "icon": "img_toxic@2x.png",
+            "title": "Identify toxic plants in your garden",
+            "text": "Find out whatÃ¢ÂÂs toxic and whatÃ¢ÂÂs safe for humans and pets.",
+            "btnText": "Download the App for Free"
+        },
+        "toxicLink": ""
+    },
+    "weed": {
+        "weedDes": "",
+        "downloadConfig": {
+            "key": "weedcontrol",
+            "icon": "weedcontrol.png",
+            "title": "Get rid of the weeds in your garden",
+            "text": "Differentiate them from your plants by a picture, and learn how to control them.",
+            "btnText": "Download the App for Free"
+        },
+        "howFixWeed": ""
+    },
+    "identify": {
+        "identifyList": [
+            "Square stem characteristic of mint family",
+            "Lavender to pinkish flowers in dense rounded clusters",
+            "Toothed, opposite, oblong leaves with grayish-green color",
+            "Dry nutlet fruit less than 1/6 inch with brown color",
+            "Aromatic foliage emits pleasant fragrance when crushed"
+        ],
+        "title": "Quickly Identify Wild bergamot",
+        "downloadConfig": {
+            "key": "identifyplant",
+            "icon": "identifyplant.png",
+            "title": "Identify plants with a snap",
+            "text": "Instantly identify plants with AI: Snap a photo, and get accurate results within seconds.",
+            "btnText": "Download the App for Free"
+        },
+        "link": "/identify/Monarda-fistulosa.html"
+    },
+    "careGuide": {
+        "labels": [
+            {
+                "title": "Water",
+                "type": "Enum",
+                "value": "Every week",
+                "icon": "water.png"
+            },
+            {
+                "title": "Sunlight",
+                "type": "Enum",
+                "value": "Full sun",
+                "icon": "sunlight.png"
+            },
+            {
+                "title": "Ideal Temperature",
+                "type": "Range",
+                "value": "5 - 35 Ã¢ÂÂ",
+                "icon": "temperature.png"
+            },
+            {
+                "title": "Soil Type",
+                "type": "Enum",
+                "value": "Garden Soil",
+                "icon": "soil.png"
+            }
+        ],
+        "summarys": [
+            {
+                "title": "Water",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot thrives in moderately moist, humid conditions, requiring weekly watering for optimal health. It adapts well to its original, rainy habitat and flourishes outdoors during the growing season, benefiting significantly from rainwater for essential moisture retention.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Fertilize",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   For wild bergamot, balanced nutrition is essential, with fertilizers applied every 6-8 weeks during the growing season. High phosphorus variants boost blooms, while proper quantities prevent over-fertilization. A soil test helps customize nutrition, supporting robust health and blossom production, while avoiding leaf contact to prevent burns.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Pruning",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot thrives with pruning during early to late spring, promoting healthy growth and plentiful blooms. Trim dead stems and spent flowers for better air circulation, reducing disease risks. Thinning older stems enhances vigor, maintaining size, shape, and stimulating robust new growth.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Propagation",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot thrives when propagated from cuttings taken from healthy parent plants. Use cuttings with multiple nodes and apply rooting hormone on the cut end. Plant in a moist, well-drained substrate and maintain consistent moisture and warmth for successful root development before relocating to a permanent spot.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            },
+            {
+                "title": "Repotting",
+                "type": "String",
+                "value": "<html>\n <head></head>\n <body>\n  <div>\n   Wild bergamot is a bushy perennial needing repotting every 2-3 years, preferably in spring. Use a pot 2 inches larger in diameter, maintain even moisture, and provide full sun to partial shade. Ensure adequate drainage to prevent root rot and support healthy lavender blooms.\n  </div> \n </body>\n</html>",
+                "icon": ""
+            }
+        ],
+        "careLink": "/care/Monarda_fistulosa.html",
+        "downloadConfig": {
+            "key": "carefaq",
+            "icon": "carefaq.png",
+            "title": "Get tips and tricks for your plants.",
+            "text": "Keep your plants happy and healthy with our guide to watering, lighting, feeding and more.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "faqs": [
+        {
+            "q": "Is wild bergamot perennial?",
+            "link": "/ask/Monarda_fistulosa-0.html"
+        },
+        {
+            "q": "How do you take care of a wild bergamot?",
+            "link": "/ask/Monarda_fistulosa-1.html"
+        },
+        {
+            "q": "Does wild bergamot bloom all summer?",
+            "link": "/ask/Monarda_fistulosa-2.html"
+        },
+        {
+            "q": "Is wild bergamot the same as bee balm?",
+            "link": "/ask/Monarda_fistulosa-3.html"
+        },
+        {
+            "q": "Is wild bergamot invasive?",
+            "link": "/ask/Monarda_fistulosa-4.html"
+        },
+        {
+            "q": "What does wild bergamot smell like?",
+            "link": "/ask/Monarda_fistulosa-5.html"
+        },
+        {
+            "q": "What eats wild bergamot?",
+            "link": "/ask/Monarda_fistulosa-6.html"
+        }
+    ],
+    "disease": {
+        "list": [
+            {
+                "diseaseName": "Leaf wilting",
+                "link": "/disease/Monarda-fistulosa-Leaf-wilting.html"
+            },
+            {
+                "diseaseName": "Wounds",
+                "link": "/disease/Monarda-fistulosa-Wounds.html"
+            },
+            {
+                "diseaseName": "Spots",
+                "link": "/disease/Monarda-fistulosa-Spots.html"
+            },
+            {
+                "diseaseName": "Leaf yellowing",
+                "link": "/disease/Monarda-fistulosa-Leaf-yellowing.html"
+            },
+            {
+                "diseaseName": "Flower wilting",
+                "link": "/disease/Monarda-fistulosa-Flower-wilting.html"
+            },
+            {
+                "diseaseName": "Yellow edges",
+                "link": "/disease/Monarda-fistulosa-Yellow-edges.html"
+            },
+            {
+                "diseaseName": "Branch withering",
+                "link": "/disease/Monarda-fistulosa-Branch-withering.html"
+            },
+            {
+                "diseaseName": "Black mold",
+                "link": "/disease/Monarda-fistulosa-Black-mold.html"
+            },
+            {
+                "diseaseName": "Leaf drooping",
+                "link": "/disease/Monarda-fistulosa-Leaf-drooping.html"
+            },
+            {
+                "diseaseName": "Underwatering yellow",
+                "link": "/disease/Monarda-fistulosa-Underwatering.html"
+            },
+            {
+                "diseaseName": "Leaf rot",
+                "link": "/disease/Monarda-fistulosa-Leaf-rot.html"
+            },
+            {
+                "diseaseName": "Leaf tip withering",
+                "link": "/disease/Monarda-fistulosa-Leaf-tip-withering.html"
+            },
+            {
+                "diseaseName": "Flower withering",
+                "link": "/disease/Monarda-fistulosa-Flower-withering.html"
+            },
+            {
+                "diseaseName": "Whole plant withering",
+                "link": "/disease/Monarda-fistulosa-Whole-plant-withering.html"
+            },
+            {
+                "diseaseName": "Mealybug",
+                "link": "/disease/Monarda-fistulosa-Mealybug.html"
+            },
+            {
+                "diseaseName": "Dark spots",
+                "link": "/disease/Monarda-fistulosa-Dark-spots.html"
+            },
+            {
+                "diseaseName": "Wilting",
+                "link": "/disease/Monarda-fistulosa-Wilting.html"
+            },
+            {
+                "diseaseName": "Non-base branch withering",
+                "link": "/disease/Monarda-fistulosa-Non-base-branch-withering.html"
+            },
+            {
+                "diseaseName": "Dark blotch",
+                "link": "/disease/Monarda-fistulosa-Dark-blotch.html"
+            },
+            {
+                "diseaseName": "Lack of fertilizer",
+                "link": "/disease/Monarda-fistulosa-Lack-of-fertilizer.html"
+            },
+            {
+                "diseaseName": "Whole leaf withering",
+                "link": "/disease/Monarda-fistulosa-Whole-leaf-withering.html"
+            },
+            {
+                "diseaseName": "Brown blotch",
+                "link": "/disease/Monarda-fistulosa-Brown-spot.html"
+            },
+            {
+                "diseaseName": "Notch",
+                "link": "/disease/Monarda-fistulosa-Notch.html"
+            },
+            {
+                "diseaseName": "Leaf white mold",
+                "link": "/disease/Monarda-fistulosa-Leaf-white-mold.html"
+            }
+        ],
+        "downloadConfig": {
+            "key": "diagnose",
+            "icon": "img_diseases@2x.png",
+            "title": "Plant disease auto-diagnose & prevention",
+            "text": "AI-powered plant doctor helps you diagnose plant problems in seconds.",
+            "btnText": "Download the App for Free"
+        }
+    },
+    "releatedPlants": {
+        "cmsNames": [
+            {
+                "scientificName": "Bauhinia blakeana",
+                "link": "/wiki/Bauhinia_blakeana.html",
+                "imageUrl": "/wiki-image/1080/154108245575729160.jpeg",
+                "displayName": "Hong Kong orchid tree"
+            },
+            {
+                "scientificName": "Ficus lyrata",
+                "link": "/wiki/Ficus_lyrata.html",
+                "imageUrl": "/wiki-image/1080/154144580999053326.jpeg",
+                "displayName": "Fiddle-leaf fig"
+            },
+            {
+                "scientificName": "Cassia grandis",
+                "link": "/wiki/Cassia_grandis.html",
+                "imageUrl": "/wiki-image/1080/153862414532608015.jpeg",
+                "displayName": "Pink shower tree"
+            },
+            {
+                "scientificName": "Symphoricarpos mollis",
+                "link": "/wiki/Symphoricarpos_mollis.html",
+                "imageUrl": "/wiki-image/1080/154501613040435202.jpeg",
+                "displayName": "Creeping Snowberry"
+            },
+            {
+                "scientificName": "Warszewiczia coccinea",
+                "link": "/wiki/Warszewiczia_coccinea.html",
+                "imageUrl": "/wiki-image/1080/216472596605140992.jpeg",
+                "displayName": "Chaconia"
+            },
+            {
+                "scientificName": "Pachira glabra",
+                "link": "/wiki/Pachira_glabra.html",
+                "imageUrl": "/wiki-image/1080/347119866758987776.jpeg",
+                "displayName": "Money tree"
+            }
+        ]
+    },
+    "popularGenus": [],
+    "innerLinks": [
+        {
+            "key": "water",
+            "link": "/care/water/Monarda_fistulosa.html",
+            "values": [
+                "Watering schedule",
+                "Garden watering",
+                "Watering system",
+                "Drip irrigation",
+                "Irrigation",
+                "Hydration",
+                "Watering"
+            ]
+        },
+        {
+            "key": "transplant",
+            "link": "/care/transplant/Monarda_fistulosa.html",
+            "values": [
+                "Transplanting seedlings",
+                "Transplant techniques",
+                "Root transplantation",
+                "Transplanting trees",
+                "Transplant survival",
+                "Soil transplanting",
+                "Garden transplant",
+                "Transplant timing",
+                "Plant transplant",
+                "Plant relocation",
+                "Transplant shock",
+                "Transplant care",
+                "Transplanting",
+                "Moving plants",
+                "Replanting"
+            ]
+        },
+        {
+            "key": "temperature",
+            "link": "/care/temperature/Monarda_fistulosa.html",
+            "values": [
+                "Temperature monitoring",
+                "Temperature regulation",
+                "Temperature management",
+                "Optimal temperatures",
+                "Temperature settings",
+                "Temperature control",
+                "Ambient temperature",
+                "Thermal environment",
+                "Climate conditions",
+                "Thermal conditions",
+                "Temperature levels",
+                "Temperature range",
+                "Temperature"
+            ]
+        },
+        {
+            "key": "sunlight",
+            "link": "/care/sunlight/Monarda_fistulosa.html",
+            "values": [
+                "Artificial lighting",
+                "Light requirements",
+                "Light conditions",
+                "Light intensity",
+                "Light exposure",
+                "Light duration",
+                "Light spectrum",
+                "Natural light",
+                "Sun exposure",
+                "Illumination",
+                "Photoperiod",
+                "Lighting",
+                "Sunlight",
+                "Daylight"
+            ]
+        },
+        {
+            "key": "pruning",
+            "link": "/care/pruning/Monarda_fistulosa.html",
+            "values": [
+                "Pruning techniques",
+                "Trimming branches",
+                "Pruning schedule",
+                "Clipping plants",
+                "Hedge trimming",
+                "Shaping plants",
+                "Pruning tools",
+                "Cutting back",
+                "Tree pruning",
+                "Deadheading",
+                "Trimming",
+                "Pruning"
+            ]
+        },
+        {
+            "key": "propagation",
+            "link": "/care/propagate/Monarda_fistulosa.html",
+            "values": [
+                "Vegetative propagation",
+                "Plant propagation",
+                "Spore propagation",
+                "Seed propagation",
+                "Rooting cuttings",
+                "Dividing plants",
+                "Cloning plants",
+                "Tissue culture",
+                "Reproduction",
+                "Propagation",
+                "Germination",
+                "Cuttings",
+                "Breeding",
+                "Layering",
+                "Grafting"
+            ]
+        },
+        {
+            "key": "care",
+            "link": "/care/Monarda_fistulosa.html",
+            "values": [
+                "Care Wild bergamot",
+                "Care Wild bergamot",
+                "Grow Wild bergamot",
+                "Maintain Wild bergamot",
+                "Wild bergamot Care",
+                "Wild bergamot Grow",
+                "Wild bergamot Maintain",
+                "Wild bergamot Cares",
+                "Growth Wild bergamot",
+                "Maintains Wild bergamot",
+                "Wild bergamot Growth",
+                "Wild bergamot Maintains",
+                "Wild bergamot Grows"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Whole-plant-withering.html",
+            "values": [
+                "Whole plant withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Yellow-edges.html",
+            "values": [
+                "Yellow edges"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Dark-blotch.html",
+            "values": [
+                "Dark blotch"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Leaf-tip-withering.html",
+            "values": [
+                "Leaf tip withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Leaf-yellowing.html",
+            "values": [
+                "Leaf yellowing"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Whole-leaf-withering.html",
+            "values": [
+                "Whole leaf withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Leaf-wilting.html",
+            "values": [
+                "Leaf wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Leaf-drooping.html",
+            "values": [
+                "Leaf drooping"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Dark-spots.html",
+            "values": [
+                "Dark spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Spots.html",
+            "values": [
+                "Spots"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Flower-withering.html",
+            "values": [
+                "Flower withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Flower-wilting.html",
+            "values": [
+                "Flower wilting"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Black-mold.html",
+            "values": [
+                "Black mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Leaf-white-mold.html",
+            "values": [
+                "Leaf white mold"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Wounds.html",
+            "values": [
+                "Wounds"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Branch-withering.html",
+            "values": [
+                "Branch withering"
+            ]
+        },
+        {
+            "key": "disease",
+            "link": "/disease/Monarda-fistulosa-Non-base-branch-withering.html",
+            "values": [
+                "Non-base branch withering"
+            ]
+        }
+    ],
+    "bottomDownloadCfg": {
+        "hasConfig": true,
+        "description": "Snap a photo for <b>planting, toxicity, culture, and disease</b> info, etc.",
+        "buttonName": "Use App"
+    },
+    "links": [
+        {
+            "title": "How to Water",
+            "link": "/care/water/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/water.png"
+        },
+        {
+            "title": "Sunlight Requirements",
+            "link": "/care/sunlight/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/sun.png"
+        },
+        {
+            "icon": "img/scenes_article/img/transplant.png",
+            "title": "How to Transplant",
+            "link": "/care/transplant/Monarda_fistulosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/temperature.png",
+            "title": "Ideal Temperature",
+            "link": "/care/temperature/Monarda_fistulosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/prune.png",
+            "title": "How to Prune",
+            "link": "/care/pruning/Monarda_fistulosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/propagate.png",
+            "title": "How to Propagate",
+            "link": "/care/propagate/Monarda_fistulosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/fengshui.png",
+            "title": "Fengshui",
+            "link": "/fengshui/Monarda_fistulosa.html"
+        },
+        {
+            "icon": "img/scenes_article/img/newplant.png",
+            "title": "How to Select",
+            "link": "/care/newplant/Monarda_fistulosa.html"
+        },
+        {
+            "title": "Flower Meaning",
+            "link": "/language-flower/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/flower.png"
+        },
+        {
+            "title": "Benefit",
+            "link": "/benefits/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/benefits.png"
+        },
+        {
+            "title": "Flower Problems",
+            "link": "/flower-problems/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/flowerproblems.png"
+        },
+        {
+            "title": "landscaping",
+            "link": "/landscaping/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/landscaping.png"
+        },
+        {
+            "title": "Fertilizing",
+            "link": "/care/fertilize/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/fertilize.png"
+        },
+        {
+            "title": "Soil",
+            "link": "/soil/Monarda_fistulosa.html",
+            "icon": "img/scenes_article/img/soil.png"
+        },
+        {
+            "icon": "img/scenes_article/img/care.png",
+            "title": "How to Grow and Care",
+            "link": "/care/Monarda_fistulosa.html"
+        }
+    ]
+}

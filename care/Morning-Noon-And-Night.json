@@ -1,0 +1,33 @@
+{
+    "name": "Morning-Noon-And-Night",
+    "climate": [
+        "This plant thrives in tropical climates with warm temperatures throughout the year.",
+        "It prefers environments that do not experience frost, ensuring constant growth.",
+        "Humidity levels should be moderately high to simulate its native habitat conditions.",
+        "Avoid cold climates or regions with frequent temperature fluctuations for best growth."
+    ],
+    "sunlight": [
+        "Morning-Noon-And-Night plant benefits from full sunlight exposure most of the day.",
+        "In very sunny and hot regions, some afternoon shade might be beneficial to prevent leaf scorch.",
+        "Consistent bright light helps the plant to thrive and maintain vibrant foliage.",
+        "Avoid dark areas or heavy shade, as insufficient light can stunt its growth."
+    ],
+    "watering": [
+        "Maintain a regular watering schedule, keeping the soil consistently moist but not waterlogged.",
+        "In hotter climates or during summer, increase watering frequency to compensate for evaporation.",
+        "During cooler months, reduce watering slightly but ensure the soil does not completely dry out.",
+        "Use tepid water and avoid leaving the plant in a saucer with excess water to prevent root rot."
+    ],
+    "soil": [
+        "A well-draining potting mix is essential to prevent the risk of waterlogging and root damage.",
+        "Incorporate organic matter into the soil to provide nutrients and retain necessary moisture.",
+        "The soil should be slightly acidic to neutral, ensuring optimal nutrient absorption and health.",
+        "Avoid heavy clay soils, as they can retain too much moisture and lead to root issues."
+    ],
+    "toxic": [
+        "This plant contains compounds that can be toxic to pets and humans if ingested."
+    ],
+    "extra_care_tip": [
+        "Prune regularly to maintain shape and encourage bushier growth, cutting back any spindly stems."
+    ]
+}

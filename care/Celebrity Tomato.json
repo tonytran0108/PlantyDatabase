@@ -1,0 +1,34 @@
+{
+    "name": "Celebrity Tomato",
+    "climate": [
+        "Prefers warm climates with temperatures between 70°F to 85°F.",
+        "Can tolerate slightly cooler climates but growth may slow down.",
+        "Very sensitive to frost and cannot withstand freezing temperatures.",
+        "Requires a long growing season for optimal fruit production."
+    ],
+    "sunlight": [
+        "Needs full sun with at least 6 to 8 hours of direct sunlight per day.",
+        "Insufficient sunlight can lead to leggy plants and fewer fruits.",
+        "In very hot climates, some afternoon shade may be beneficial.",
+        "Positioning near a south-facing wall can help maximize sun exposure."
+    ],
+    "watering": [
+        "Requires consistent watering to keep soil evenly moist but not waterlogged.",
+        "Deep watering is recommended to encourage strong root systems.",
+        "Allow the top inch of soil to dry out between waterings to prevent rot.",
+        "Avoid overhead watering to reduce the risk of fungal diseases."
+    ],
+    "soil": [
+        "Thrives in well-draining, fertile soil enriched with organic matter.",
+        "Slightly acidic to neutral soil pH between 6.0 and 7.0 is ideal.",
+        "Incorporate compost or well-rotted manure to enhance nutrient levels.",
+        "Soil should be loose to promote root growth and nutrient uptake."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Prune suckers and lower leaves to improve air circulation around plants.",
+        "Mulching around the base can help retain soil moisture and suppress weeds.",
+        "Stake or cage plants to support heavy fruit loads and avoid bending.",
+        "Regularly check for pests such as aphids and treat promptly."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Oakleaf Hydrangea",
+    "climate": [
+        "Thrives best in temperate zones with distinct seasonal changes.",
+        "Can tolerate both hot humid summers and cold winters effectively.",
+        "Requires a climate that provides some seasonal rainfall distribution.",
+        "Not suitable for extremely arid or continuously damp conditions."
+    ],
+    "sunlight": [
+        "Prefers partial shade but can tolerate full sunlight with adequate moisture.",
+        "Best grown in areas where it receives morning sun and afternoon shade.",
+        "Too much direct afternoon sunlight can scorch the leaves of this plant.",
+        "Some sun exposure is necessary for its abundant flowering and health."
+    ],
+    "watering": [
+        "Requires consistently moist soil, especially during dry periods.",
+        "Avoid letting the plant dry out completely between watering sessions.",
+        "Water deeply but ensure proper drainage to prevent root rot issues.",
+        "In summer, increase watering frequency to maintain adequate moisture."
+    ],
+    "soil": [
+        "Prefers rich, well-drained soil with high organic matter content.",
+        "Adapts well to slightly acidic soils which enhance its growth.",
+        "Improves in loamy soils that retain moisture without being waterlogged.",
+        "Avoid planting in heavy clay soils that may hinder root development."
+    ],
+    "toxic": [
+        "Contains cyanogenic glycosides which can be toxic if ingested by pets.",
+        "Symptoms of ingestion include vomiting, lethargy, and difficulty breathing."
+    ],
+    "extra_care_tip": [
+        "Prune after flowering to maintain shape and encourage new growth.",
+        "Mulch annually to conserve moisture and regulate soil temperature.",
+        "Protect from strong winds which can damage its large, delicate leaves.",
+        "Fertilize in early spring with a balanced slow-release fertilizer."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Japanese Camellia",
+    "climate": [
+        "Prefers a mild, temperate climate and does not tolerate extreme temperatures well.",
+        "Thrives in regions with high humidity and moderate rainfall throughout the year.",
+        "Cannot survive in frosty conditions or excessively hot and arid climates.",
+        "Ideal temperatures range from 15°C to 25°C for optimal growth."
+    ],
+    "sunlight": [
+        "Requires filtered sunlight or partial shade to prevent leaf scorch.",
+        "Does not tolerate direct afternoon sunlight, especially in hotter climates.",
+        "Ideal for growing under taller trees that provide some filtered light.",
+        "Morning sun with afternoon shade is best for healthy blooms."
+    ],
+    "watering": [
+        "Requires consistent moisture but should not sit in waterlogged soil.",
+        "Likes to be watered regularly, especially during dry spells and blooming season.",
+        "Ensure the top few inches of soil are kept slightly moist but not wet.",
+        "Avoid overhead watering to prevent fungal diseases on leaves."
+    ],
+    "soil": [
+        "Thrives in well-drained, acidic soil with a pH ranging from 5.5 to 6.5.",
+        "Prefers rich, organic matter with ample nutrients for optimal growth.",
+        "Avoid heavy clay soils that retain too much moisture and reduce drainage.",
+        "Mulching can help retain soil moisture and keep the root system cool."
+    ],
+    "toxic": [
+        "Leaves and flowers may cause gastrointestinal upset if ingested by pets."
+    ],
+    "extra_care_tip": [
+        "Prune after flowering to maintain desired shape and promote air circulation.",
+        "Apply a layer of mulch in winter to protect roots from harsh cold."
+    ]
+}

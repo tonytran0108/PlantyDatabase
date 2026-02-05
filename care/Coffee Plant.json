@@ -1,0 +1,9 @@
+{
+    "name": "Coffee Plant",
+    "climate": ["Coffee plants thrive in tropical climates with temperatures between 60-70°F.", "High humidity is beneficial, typically ranging from 70 to 80 percent.", "They prefer regions where there is abundant rainfall, about 40-60 inches a year.", "Coffee plants do not tolerate frost. Mild and stable climate is ideal."],
+    "sunlight": ["Coffee plants need bright, indirect sunlight for optimal growth.", "Direct sunlight can harm the leaves, causing them to scorch and dry out.", "A location with dappled sunlight or filtered light is recommended.", "In lower light conditions, growth might slow; however, avoid complete darkness."],
+    "watering": ["Water the coffee plant regularly, keeping the soil consistently moist.", "During the growing season, increase watering frequency to support growth.", "Avoid waterlogging, as excess water can lead to root rot and other issues.", "Reduce watering in winter, allowing the topsoil to dry between waterings."],
+    "soil": ["Coffee plants prefer well-draining, rich soil to prevent water retention issues.", "A loamy, slightly acidic soil with good organic content works best.", "Ensure the pot or ground soil has good aeration to support root health.", "Adding peat moss or compost can enhance the soil quality significantly."],
+    "toxic": ["Coffee plants contain saponins which can be toxic to pets if ingested."],
+    "extra_care_tip": ["Prune the coffee plant regularly to maintain its shape and encourage new growth."]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Teddy Bear Sunflower",
+    "climate": [
+        "Prefers temperate climates with moderate rainfall and cool nights.",
+        "Can adapt to warmer regions if given enough moisture and care.",
+        "Does not thrive in extreme hot or cold environments for long periods.",
+        "Best suited for regions with distinct seasons and mild summers."
+    ],
+    "sunlight": [
+        "Requires full sun to thrive, ideally 6 to 8 hours of direct sunlight daily.",
+        "Limited sunlight may result in stunted growth and fewer blooms.",
+        "Can tolerate partial shade but will have diminished flowering capacity.",
+        "Placing in an open area ensures maximum exposure to necessary sunlight."
+    ],
+    "watering": [
+        "Needs regular watering, especially during dry spells or hot weather.",
+        "Soil should remain consistently moist but not waterlogged to avoid rot.",
+        "Infrequent deep watering is preferable to light, frequent sprinklings.",
+        "Mulching can help retain moisture and reduce the need for frequent watering."
+    ],
+    "soil": [
+        "Grows best in well-draining, fertile soil with plenty of organic material.",
+        "Slightly acidic to neutral pH levels are optimal for nutrient absorption.",
+        "Heavy clay soils should be amended with sand and compost to improve drainage.",
+        "Regularly test soil for nutrient levels to ensure balanced fertility."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Deadheading spent blooms encourages more flowers and prolonged blooming.",
+        "Staking may be necessary in windy areas to prevent stems from breaking.",
+        "Regularly inspect for pests such as aphids and caterpillars and address promptly.",
+        "Rotating planting locations yearly helps prevent soilborne diseases common to sunflowers."
+    ]
+}

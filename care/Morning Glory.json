@@ -1,0 +1,33 @@
+{
+    "name": "Morning Glory",
+    "climate": [
+        "Thrives in warm, temperate climates with plenty of sunshine.",
+        "Can also adapt to subtropical regions when given proper care.",
+        "Not suitable for very cold climates or hard frosts, must be protected.",
+        "Requires a climate that allows for at least a few months of warm weather."
+    ],
+    "sunlight": [
+        "Requires full sun exposure for at least six hours a day to thrive.",
+        "Can tolerate partial shade but will not flower as prolifically.",
+        "Sunlight encourages vigorous growth and abundant blooming.",
+        "Too little sunlight may result in poor flowering and lanky growth."
+    ],
+    "watering": [
+        "Needs regular watering, especially during dry and hot periods.",
+        "Soil should be kept consistently moist but not waterlogged.",
+        "Will need less frequent watering once established and growing well.",
+        "Overwatering can lead to root rot, so ensure proper drainage."
+    ],
+    "soil": [
+        "Performs best in well-draining, moderately fertile soil types.",
+        "Prefers soil that retains some moisture but is not too heavy.",
+        "Can tolerate poor soil conditions if water and light are sufficient.",
+        "Slightly acidic to neutral soil pH is preferred for optimal growth."
+    ],
+    "toxic": [
+        "Seeds contain toxic compounds that are harmful if ingested by humans or pets."
+    ],
+    "extra_care_tip": [
+        "Consider providing a trellis or support as they are climbing plants."
+    ]
+}

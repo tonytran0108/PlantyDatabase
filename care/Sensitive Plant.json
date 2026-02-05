@@ -1,0 +1,35 @@
+{
+    "name": "Sensitive Plant",
+    "climate": [
+        "Prefers tropical and subtropical climates with high humidity.",
+        "Grows well in areas where temperatures are consistently warm.",
+        "Does not tolerate frost; needs shelter from cold winds.",
+        "Thrives in environments that mimic rainforest conditions."
+    ],
+    "sunlight": [
+        "Needs bright, indirect sunlight for optimal growth.",
+        "Can tolerate some direct sunlight but not excessive exposure.",
+        "Too much direct sun can cause leaf burn and stress the plant.",
+        "Ideal to place it near a window with filtered sunlight."
+    ],
+    "watering": [
+        "Requires regular watering to keep the soil consistently moist.",
+        "Avoid letting the soil dry out completely between waterings.",
+        "Overwatering can lead to root rot, ensure drainage is good.",
+        "Reduce watering frequency in cooler, dormant conditions."
+    ],
+    "soil": [
+        "Prefers well-draining, loamy soil that retains moisture.",
+        "Can be grown in a mix of peat, perlite, and sand for best results.",
+        "Soil should provide nutrients and allow air circulation around roots.",
+        "Compact soil should be avoided as it impedes growth and health."
+    ],
+    "toxic": [
+        "Sensitive Plant is not considered toxic to humans or animals.",
+        "Safe for households with pets and children around the plant."
+    ],
+    "extra_care_tip": [
+        "Sensitive Plant is known for its rapid leaf movements.",
+        "Prune regularly to maintain its shape and encourage bushiness."
+    ]
+}

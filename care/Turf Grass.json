@@ -1,0 +1,29 @@
+{
+    "name": "Turf Grass",
+    "climate": [
+        "Turf grass thrives in temperate climate zones with moderate seasonal temperatures.",
+        "It is well-suited for subtropical climates where winters are mild and short.",
+        "In tropical climates, turf grass may require special care to manage excess heat.",
+        "Climate that includes a cold winter with some snowfall is ideal for turf grass dormancy."
+    ],
+    "sunlight": [
+        "Turf grass requires full sun exposure for optimal growth and health maintenance.",
+        "Partial sunlight conditions can be tolerated but may affect color and density.",
+        "Exposure to too much shade can lead to weak growth and thinning of turf grass.",
+        "Morning sunlight is preferable to avoid heat stress during hotter midday hours."
+    ],
+    "watering": [
+        "Consistent and regular watering is essential, especially during dry periods.",
+        "Avoid overwatering as it could lead to root rot or fungal diseases in turf grass.",
+        "Deep watering is beneficial, encouraging deep root growth and drought resilience.",
+        "Water early in the morning to reduce evaporation and fungal disease risk."
+    ],
+    "soil": [
+        "Well-draining soil is crucial to prevent water accumulation and root issues.",
+        "Loamy soil, which is a mix of sand, silt, and clay, is ideal for growing turf grass.",
+        "Avoid compacted soil as it can limit root growth and lead to poor turf health.",
+        "Soil should be slightly acidic to neutral, with a pH range of 6.0 to 7.0 preferred."
+    ],
+    "toxic": [],
+    "extra_care_tip": []
+}

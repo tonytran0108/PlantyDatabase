@@ -1,0 +1,36 @@
+{
+    "name": "Alocasia Maharani",
+    "climate": [
+        "Prefers warm and humid environments typical of tropical regions.",
+        "Cannot tolerate cold temperatures for extended periods and may suffer.",
+        "Does best in consistently warm environments, avoiding large temperature swings.",
+        "High humidity levels are ideal for optimal growth and plant health."
+    ],
+    "sunlight": [
+        "Thrives in bright, indirect sunlight but can handle lower light levels.",
+        "Direct sunlight can scorch leaves, so a shaded spot is necessary.",
+        "Daytime shade mixed with indirect sunlight is perfect for this plant.",
+        "Avoid placing in harsh unrestricted sunlight to prevent leaf damage."
+    ],
+    "watering": [
+        "Keep the soil consistently moist but not waterlogged or too dry.",
+        "Allows the top inch of soil to dry out between waterings to prevent rot.",
+        "During winter months, reduce watering frequency to prevent overwatering.",
+        "Use room-temperature water to avoid shocking the plant's root system."
+    ],
+    "soil": [
+        "Requires well-draining soil with good aeration to prevent waterlogging.",
+        "A mix containing peat, perlite, and potting soil will work effectively.",
+        "Avoid heavy, compacted soils to ensure proper drainage and air circulation.",
+        "Enrich the soil mix with organic matter for better nutrient retention."
+    ],
+    "toxic": [
+        "Leaves contain calcium oxalate crystals, toxic if ingested by pets.",
+        "Can cause irritation in the mouth and digestive tract in both animals and humans."
+    ],
+    "extra_care_tip": [
+        "Occasionally wipe the leaves with a damp cloth to remove dust and improve appearance.",
+        "Avoid cold drafts and drastic temperature changes to prevent stress.",
+        "Ensure pot has drainage holes to prevent root rot from excess water accumulation."
+    ]
+}

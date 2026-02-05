@@ -1,0 +1,34 @@
+{
+    "name": "Red Tip Photinia",
+    "climate": [
+        "Prefers temperate climates where winters are not too harsh for survival.",
+        "Can tolerate a variety of climates but thrives in mild climates best.",
+        "Not suitable for extremely hot or cold climates; prefers moderate zones.",
+        "Can experience stress in climates with extreme temperature fluctuations."
+    ],
+    "sunlight": [
+        "Requires full sun exposure for best growth and vibrant foliage color.",
+        "Partial shade can be tolerated, but growth might be slower and poor.",
+        "Avoid planting in deeply shaded areas as it can hinder proper growth.",
+        "Excessive shade can make the plant susceptible to fungal diseases."
+    ],
+    "watering": [
+        "Needs regular watering especially during dry periods for optimal health.",
+        "Avoid letting the soil dry out completely as it prefers consistent moisture.",
+        "Overwatering can lead to root rot, so ensure good drainage is present.",
+        "Adjust watering schedule based on climate; more in hot weather, less in cool."
+    ],
+    "soil": [
+        "Prefers well-drained soil that retains moisture but does not stay waterlogged.",
+        "Can tolerate a range of soil types, but optimum growth is on fertile soil.",
+        "Soil rich in organic matter helps the plant establish a strong root system.",
+        "Avoid very sandy or heavy clay soils as they can affect nutrient uptake."
+    ],
+    "toxic": [
+        "Leaves contain small amounts of cyanogenic glycosides, potentially toxic if consumed in large quantities."
+    ],
+    "extra_care_tip": [
+        "Prune regularly to maintain desired shape and to encourage new growth.",
+        "Watch for signs of fungal disease, such as black spots, and treat promptly."
+    ]
+}

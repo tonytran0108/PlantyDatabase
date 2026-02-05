@@ -1,0 +1,38 @@
+{
+    "name": "Tapioca",
+    "climate": [
+        "Tapioca plants thrive in warm and humid tropical climates.", 
+        "The plant requires consistent temperatures between 64-75°F for growth.", 
+        "It cannot tolerate frost, so a climate that does not experience freezing is necessary.", 
+        "Regions with a clear wet and dry season pattern are ideal for tapioca growth."
+    ],
+    "sunlight": [
+        "Tapioca plants prefer full sunlight for most of the day to grow well.", 
+        "They require at least 6 to 8 hours of direct sunlight daily.", 
+        "Partial shade in excessively hot climates can help protect the leaves.", 
+        "Insufficient sunlight can result in poor vigor and low tuber yield."
+    ],
+    "watering": [
+        "Tapioca requires regular watering during its growth period, particularly in the dry season.", 
+        "The soil should be consistently moist but not waterlogged to avoid root rot.", 
+        "Watering should be reduced during the end stages of maturity.", 
+        "During rainfall, irrigation should be adjusted to prevent excess water."
+    ],
+    "soil": [
+        "Tapioca grows best in well-drained, loamy soil rich in organic matter.", 
+        "It can tolerate sandy soil but must be adequately fertilized for optimal growth.", 
+        "The soil pH should be slightly acidic to neutral, ranging from 5.5 to 7.0.", 
+        "Heavy clay soils should be avoided as they retain too much water, which can harm the plant."
+    ],
+    "toxic": [
+        "Tapioca contains naturally occurring cyanogenic glycosides.", 
+        "Improper preparation of the roots can lead to cyanide poisoning.", 
+        "It is crucial to peel, soak, and cook the roots thoroughly before consumption."
+    ],
+    "extra_care_tip": [
+        "Regularly check for pest infestations such as spider mites or aphids.", 
+        "Ensure plants have enough space to grow to prevent disease spread.", 
+        "Use mulch to conserve soil moisture and regulate temperature.", 
+        "Remove any weeds around the plant base to reduce competition for nutrients."
+    ]
+}

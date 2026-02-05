@@ -1,0 +1,29 @@
+{
+    "name": "Almond Tree",
+    "climate": [
+        "Almond trees thrive in Mediterranean climates with wet, mild winters.",
+        "They prefer regions with long, hot summers for optimal fruit production.",
+        "Areas with little to no late spring frosts are ideal for almond trees.",
+        "The almond tree requires a region with low humidity to prevent diseases."
+    ],
+    "sunlight": [
+        "Full sunlight exposure is essential for healthy almond tree growth.",
+        "Almond trees require at least 6 to 8 hours of direct sunlight daily.",
+        "Sufficient sunlight is crucial for almond trees to produce foliage and flowers.",
+        "Inadequate sunlight can hinder the almond tree's fruiting capabilities significantly."
+    ],
+    "watering": [
+        "Almond trees need deep watering, especially during dry seasons to prosper.",
+        "Consistent watering supports almond tree root development and growth.",
+        "Almond trees should not be over-watered; root rot is a risk in poorly drained soil.",
+        "Mature almond trees are somewhat drought tolerant but benefit from regular irrigation."
+    ],
+    "soil": [
+        "Almond trees prefer well-drained loamy soil for successful growth.",
+        "The soil should be moderately fertile with a pH range of 6.0 to 8.5.",
+        "Sandy loam soils are ideal, enabling appropriate water drainage and root expansion.",
+        "Avoid heavy, clay-rich soils as they retain too much water and hinder root growth."
+    ],
+    "toxic": ["The leaves, bark, and seeds contain cyanogenic compounds which can be harmful if ingested."],
+    "extra_care_tip": ["Pruning is crucial for almond tree health; it encourages sunlight penetration and air circulation."]
+}

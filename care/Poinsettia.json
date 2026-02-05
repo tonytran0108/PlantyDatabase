@@ -1,0 +1,39 @@
+{
+    "name": "Poinsettia",
+    "climate": [
+        "Prefers warm climates without exposure to freezing temperatures.",
+        "Thrives in tropical and subtropical regions around the world.",
+        "Cannot survive frost; best kept in temperatures above 50°F (10°C).",
+        "Temperatures below 55°F can cause leaf drop, affecting plant health."
+    ],
+    "sunlight": [
+        "Requires bright, indirect sunlight for most of the day to thrive.",
+        "Exposure to direct sunlight may cause leaves to scorch and drop.",
+        "Ideal sunlight conditions are 6–8 hours of filtered light daily.",
+        "Avoid placing near drafts or heaters as it can affect sunlight absorption."
+    ],
+    "watering": [
+        "Water when the top inch of soil feels dry to the touch, then water thoroughly.",
+        "Overwatering can lead to root rot; ensure proper drainage is provided.",
+        "Humidity levels should be maintained to prevent the plant from drying out.",
+        "Avoid letting the plant sit in water to prevent root disease."
+    ],
+    "soil": [
+        "Prefers well-draining, slightly acidic to neutral soil compositions.",
+        "Soil should be aerated and light to promote healthy root growth.",
+        "Use a peat-based potting mix to retain moisture and prevent compaction.",
+        "Adding perlite or pumice can improve soil drainage and prevent waterlogging."
+    ],
+    "toxic": [
+        "Poinsettias are mildly toxic to pets and humans, causing irritation.",
+        "If ingested, symptoms include mild stomach discomfort or vomiting.",
+        "Sap may cause allergic reactions or skin irritation in sensitive individuals.",
+        "Keep away from small children and pets to prevent accidental ingestion."
+    ],
+    "extra_care_tip": [
+        "Monitor for pests such as whiteflies or aphids and treat as needed.",
+        "Prune dead or yellowing leaves to promote healthy new growth.",
+        "Turn the plant regularly to maintain even growth and exposure to light.",
+        "During the holiday season, keep away from fruit as ethylene gas affects blooms."
+    ]
+}

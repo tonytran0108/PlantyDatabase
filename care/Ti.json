@@ -1,0 +1,35 @@
+{
+    "name": "Ti",
+    "climate": [
+        "Ti plants thrive in warm, tropical climates where temperatures are consistently high.",
+        "Humidity is crucial for Ti plants; they prefer environments with high humidity levels.",
+        "In colder climates, they must be kept indoors or in a greenhouse to survive.",
+        "They cannot withstand frost or freezing temperatures, requiring protective measures."
+    ],
+    "sunlight": [
+        "Ti plants prefer bright, indirect sunlight and should avoid direct, harsh rays.",
+        "Too much direct sunshine can cause the leaves to scorch, leading to damage.",
+        "Though adaptable to lower light, they may lose vibrant colors without proper lighting.",
+        "Adjust the plant's position seasonally to maximize exposure to adequate sunlight."
+    ],
+    "watering": [
+        "Ti plants require consistent moisture but must not sit in soggy soil.",
+        "Allow the top inch of soil to dry out between waterings to prevent root rot.",
+        "Overwatering can lead to waterlogged roots, resulting in potential harm to the plant.",
+        "Reduce the watering frequency during cooler months, as growth slows down."
+    ],
+    "soil": [
+        "A well-draining, peat-based potting mix is ideal for Ti plants.",
+        "Soil must retain moisture without becoming overly saturated or mucky.",
+        "Supplement with organic matter to enhance overall soil fertility and health.",
+        "Ensure the soil's pH level is slightly acidic to neutral for optimal growth."
+    ],
+    "toxic": [
+        "Ti plants are toxic to pets, such as cats and dogs, if ingested.",
+        "Ingestion can cause vomiting, drooling, and a lack of appetite in animals."
+    ],
+    "extra_care_tip": [
+        "To maintain humidity, consider occasional misting or using a pebble tray.",
+        "Prune away damaged or brown leaves to encourage healthy new growth."
+    ]
+}

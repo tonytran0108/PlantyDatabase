@@ -1,0 +1,35 @@
+{
+    "name": "Money Tree",
+    "climate": [
+        "Money Trees thrive best in climates that provide warm temperatures.",
+        "They are native to areas with a high level of humidity and warmth.",
+        "This plant prefers environments where temperature remains consistent.",
+        "Avoid drafts or sudden temperature drops to ensure the plant's health."
+    ],
+    "sunlight": [
+        "Prefers bright, indirect sunlight for optimal growth conditions.",
+        "Direct sunlight can cause leaf scorch; indirect light is vital.",
+        "Adaptable to low light but grows best with some natural light.",
+        "Rotate the plant occasionally to ensure even light exposure."
+    ],
+    "watering": [
+        "Water thoroughly and allow the top soil to dry out between waterings.",
+        "Avoid overwatering; ensure pot has drainage to prevent root rot.",
+        "In winter, reduce watering frequency as the plant's growth slows.",
+        "Check soil moisture with your finger before deciding to water again."
+    ],
+    "soil": [
+        "Requires well-draining soil that retains some moisture but dries out.",
+        "A peat moss-based potting mix with perlite is suitable for drainage.",
+        "Avoid heavy, compacted soils that retain too much water and risk rot.",
+        "Soil pH should be neutral to slightly acidic for optimal growth."
+    ],
+    "toxic": [
+        "Mildly toxic to pets if ingested, causing symptoms like vomiting.",
+        "The plant contains saponins which can be irritating to pets' systems."
+    ],
+    "extra_care_tip": [
+        "Ensure high humidity by misting regularly, especially in dry months.",
+        "Prune dead or yellowing leaves to encourage healthy plant growth."
+    ]
+}

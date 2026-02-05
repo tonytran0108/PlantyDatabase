@@ -1,0 +1,29 @@
+{
+    "name": "Venus Fly Trap",
+    "climate": [
+        "Venus Fly Trap thrives best in a temperate climate where temperatures are mild.",
+        "It does well in environments where there is high humidity consistently.",
+        "The plant requires a period of dormancy with cooler temperatures in winter.",
+        "A temperate to warm environment is best, avoiding extreme heat or cold."
+    ],
+    "sunlight": [
+        "The Venus Fly Trap requires a lot of sunlight, ideally full sun exposure.",
+        "Direct sunlight for at least four to six hours a day is beneficial for its growth.",
+        "If grown indoors, placing the plant near a south-facing window works well.",
+        "Supplemental lighting may be needed if natural light is insufficient."
+    ],
+    "watering": [
+        "Keep the soil consistently moist, but avoid waterlogging which harms the roots.",
+        "Distilled or rainwater is preferred as tap water can contain harmful minerals.",
+        "Watering should be done often enough to keep the soil from drying out completely.",
+        "A tray method can be used, ensuring the pot sits in shallow water constantly."
+    ],
+    "soil": [
+        "The ideal soil mixture is a combination of sphagnum moss and sand or perlite.",
+        "A nutrient-poor, acidic medium is essential to mimic its natural habitat.",
+        "Avoid using nutrient-rich soil mixes which can harm the plant's health.",
+        "The soil mixture should be well-draining to prevent root rot."
+    ],
+    "toxic": ["The Venus Fly Trap is generally non-toxic but can cause mild irritation if ingested by pets."],
+    "extra_care_tip": ["Ensure dormancy is mimicked by reducing water and light in winter to maintain health."]
+}

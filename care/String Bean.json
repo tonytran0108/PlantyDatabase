@@ -1,0 +1,34 @@
+{
+    "name": "String Bean",
+    "climate": [
+        "String beans thrive best in warm climates with consistent temperatures.",
+        "They require a growing environment with minimal temperature fluctuations.",
+        "The ideal climate ensures a long growing season, free from frost.",
+        "Climates with temperatures between 70°F to 85°F are most suitable."
+    ],
+    "sunlight": [
+        "String beans need full sunlight for optimal growth and production.",
+        "A location that receives at least 6 to 8 hours of direct sunlight is ideal.",
+        "Consistent sunlight exposure promotes healthy leaf and pod development.",
+        "Inadequate sunlight can result in leggy plants with reduced yields."
+    ],
+    "watering": [
+        "String beans require regular watering, keeping the soil consistently moist.",
+        "It is important to avoid waterlogging, which can harm the plant’s roots.",
+        "Deep watering once or twice a week is recommended, depending on rainfall.",
+        "Mulching can help retain moisture and reduce the frequency of watering."
+    ],
+    "soil": [
+        "String beans grow well in well-draining, loamy soil enriched with organic matter.",
+        "The soil should be slightly acidic to neutral, with a pH level of 6.0 to 7.0.",
+        "Amending soil with compost improves fertility, aiding in better plant growth.",
+        "Good soil drainage is essential to prevent root rot and other soilborne diseases."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Provide support such as trellises for climbing varieties to enhance growth.",
+        "Regularly check for pest infestations, which can affect plant health.",
+        "Rotate crops annually to prevent soil depletion and disease buildup.",
+        "Pinch back the growing tips to encourage bushier plant growth and productivity."
+    ]
+}

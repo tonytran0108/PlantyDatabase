@@ -1,0 +1,33 @@
+{
+    "name": "Silk Tree",
+    "climate": [
+        "The Silk Tree thrives in warm, temperate climates where it can enjoy hot summers.", 
+        "It is well-suited to subtropical climates and does not tolerate frost well.", 
+        "In tropical climates, Silk Trees can grow vigorously and may even become invasive." , 
+        "The tree prefers areas with a clear distinction between wet and dry seasons."
+    ],
+    "sunlight": [
+        "The Silk Tree requires full sun exposure to grow and flower optimally.", 
+        "While it can tolerate partial shade, too little sunlight may impede flowering.", 
+        "In regions with intense sunlight, care should be taken not to scorch the leaves.", 
+        "It enjoys a spot with direct sunlight lasting six to eight hours per day."
+    ],
+    "watering": [
+        "Young Silk Trees need regular watering during dry spells to establish roots.", 
+        "Once mature, the tree becomes drought-tolerant but prefers occasional watering.", 
+        "Over-watering can lead to root rot, so soil drainage is crucial for plant health.", 
+        "In wet climates, ensure water does not pool around the tree's base."
+    ],
+    "soil": [
+        "The Silk Tree grows best in well-drained soils rich in organic matter.", 
+        "It can adapt to a range of soil types, including slightly acidic and alkaline soils.", 
+        "Poor soil quality can be supplemented with compost or a balanced fertilizer.", 
+        "Compacted clay soils should be amended to improve drainage and aeration."
+    ],
+    "toxic": [
+        "The Silk Tree's pods and seeds are toxic if ingested and should be kept from pets."
+    ],
+    "extra_care_tip": [
+        "Pruning in late winter can help maintain shape and encourage new growth."
+    ]
+}

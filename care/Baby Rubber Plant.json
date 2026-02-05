@@ -1,0 +1,33 @@
+{
+    "name": "Baby Rubber Plant",
+    "climate": [
+        "Thrives in tropical areas with high humidity to mimic its native environment.",
+        "Prefers temperatures between 65°F to 75°F for optimal growth.",
+        "Can tolerate low humidity but prefers moderate to high levels.",
+        "Not frost-tolerant; should be kept indoors in colder climates."
+    ],
+    "sunlight": [
+        "Best suited for bright, indirect light indoors to thrive well.",
+        "Can tolerate lower light conditions but may grow more slowly.",
+        "Avoid direct sunlight as it can lead to leaf scorch and damage.",
+        "Rotate the plant regularly to ensure even growth from all angles."
+    ],
+    "watering": [
+        "Allow the top inch of soil to dry out between waterings for best results.",
+        "Overwatering can lead to root rot, so ensure the pot has good drainage.",
+        "In winter, reduce watering frequency as the plant's growth slows.",
+        "Water thoroughly when the soil is dry, ensuring it reaches the roots."
+    ],
+    "soil": [
+        "Prefers well-draining soil, such as a mix made for houseplants or succulents.",
+        "Soil should retain some moisture but not stay soggy or waterlogged.",
+        "A mix containing peat moss, perlite, and pine bark works well for aeration.",
+        "Repot every couple of years to refresh the soil and support healthy growth."
+    ],
+    "toxic": [
+        "Mildly toxic to pets if ingested, can cause mouth and stomach irritation."
+    ],
+    "extra_care_tip": [
+        "Wipe leaves regularly to remove dust and promote efficient photosynthesis."
+    ]
+}

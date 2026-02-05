@@ -1,0 +1,34 @@
+{
+    "name": "Pineapple",
+    "climate": [
+        "Pineapples thrive in tropical climates where temperatures remain warm all year.",
+        "They prefer environments where the temperature ranges from 60°F to 80°F.",
+        "High humidity is beneficial, typically needing between 60% and 70% humidity.",
+        "Cold and frost are detrimental; they need protection from temperatures below 50°F."
+    ],
+    "sunlight": [
+        "Pineapple plants require full sunlight for optimal growth and fruit production.",
+        "They need at least six hours of direct sunlight each day to thrive.",
+        "In areas with intense sun, provide filtered light to prevent leaf scorch.",
+        "They can tolerate partial shade, but too much shade hampers fruit development."
+    ],
+    "watering": [
+        "Pineapples like well-distributed watering, allowing soil to dry slightly between.",
+        "Over-watering can lead to root rot; water sparingly in cooler months.",
+        "Consistent moisture levels are important but avoid waterlogging the soil.",
+        "Use a balanced approach; too much or too little water affects growth negatively."
+    ],
+    "soil": [
+        "Pineapples prefer well-draining, sandy loam soil with good aeration.",
+        "Soil should be rich in organic matter to provide essential nutrients.",
+        "A slightly acidic to neutral pH, between 4.5 and 6.5, is ideal for growth.",
+        "Ensure the soil retains moisture but does not become compacted over time."
+    ],
+    "toxic": [
+        "Pineapple plants are non-toxic to humans and pets, generally safe to grow."
+    ],
+    "extra_care_tip": [
+        "Consider applying a balanced, slow-release fertilizer during the growing season.",
+        "Remove any developing suckers to allow the main fruit to mature properly."
+    ]
+}

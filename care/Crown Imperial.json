@@ -1,0 +1,29 @@
+{
+    "name": "Crown Imperial",
+    "climate": [
+        "Crown Imperial prefers temperate climates with mild winters and cool summers.",
+        "This plant thrives in well-drained environments, common in many temperate zones.",
+        "It can tolerate a range of temperatures but prefers cooler spring and fall seasons.",
+        "Avoid extremely hot climates as they can cause stress and reduce blooming."
+    ],
+    "sunlight": [
+        "Crown Imperial requires full sun to partial shade for optimal growth and blooming.",
+        "Exposure to bright, direct sunlight for several hours a day is ideal.",
+        "Morning sunlight combined with afternoon shade is the best combination to prevent overheating.",
+        "In overly shaded areas, blooming may decrease significantly, impacting plant health."
+    ],
+    "watering": [
+        "Water regularly but ensure the soil drains well to avoid waterlogging.",
+        "During active growth, constant moisture without over-saturation is essential.",
+        "Reduce watering in winter when the plant is dormant, preventing bulb rot.",
+        "Consider mulching to retain moisture and regulate soil temperature effectively."
+    ],
+    "soil": [
+        "Crown Imperial prefers rich, well-drained soil rich in organic material.",
+        "Sandy loam or soil with added compost to enhance drainage is recommended.",
+        "Avoid heavy clay soils that retain water, which could lead to root rot.",
+        "Regularly amend soil with organic matter to maintain fertility and texture."
+    ],
+    "toxic": ["All parts of the plant are toxic if ingested, causing stomach discomfort."],
+    "extra_care_tip": ["Bulbs should be planted deeply to provide protection against frost."]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "San Marzano Tomato",
+    "climate": [
+        "Prefers a warm climate with temperatures between 70-85°F for optimal growth.",
+        "Cannot withstand frost; thrives in USDA hardiness zones 10-11.",
+        "Needs a long growing season, ideally free from sudden temperature drops.",
+        "High humidity is beneficial, but good air circulation is also essential to prevent diseases."
+    ],
+    "sunlight": [
+        "Requires full sunlight, at least 6-8 hours of direct sun daily for best fruiting.",
+        "Insufficient sunlight might lead to leggy plants and reduced yields.",
+        "The plants do best in a location where they can receive unobstructed sunlight throughout the day.",
+        "Avoid shaded areas as inadequate sun can stunt growth and affect fruit quality."
+    ],
+    "watering": [
+        "Needs regular watering, with soil kept consistently moist but not waterlogged.",
+        "Deep watering once or twice a week is ideal, avoiding daily surface watering.",
+        "During hot and dry periods, increase watering frequency to maintain soil moisture.",
+        "Mulching can help retain soil moisture and stabilize temperature around the roots."
+    ],
+    "soil": [
+        "Prefers rich, well-draining soil with lots of organic matter for proper nutrient supply.",
+        "Soil pH should ideally range from 6.0 to 6.8 for optimal nutrient uptake and growth.",
+        "Good drainage is crucial to prevent root rot and other water-related diseases.",
+        "Regular soil amendment with compost or well-rotted manure is recommended for fertility."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Pruning the lower leaves can improve air circulation and reduce disease risk.",
+        "Staking or caging the plants is important to support the heavy fruit load and prevent breakage.",
+        "Regularly monitor for pests like aphids and caterpillars; use organic sprays if needed.",
+        "Rotate crops annually to prevent soil-borne diseases and improve soil health."
+    ]
+}

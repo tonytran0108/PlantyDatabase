@@ -1,0 +1,34 @@
+{
+    "name": "Mock Orange",
+    "climate": [
+        "Mock Orange thrives in temperate climates, experiencing mild to moderate temperatures.",
+        "It can also tolerate cooler climates, where winter temperatures drop significantly.",
+        "This plant is adaptable to various climates but prefers regions without extreme conditions.",
+        "In warmer regions, some shade may be needed to prevent excessive heat stress."
+    ],
+    "sunlight": [
+        "Thrives in full sunlight, which ensures the best flowering and growth results.",
+        "Partial shade is also acceptable but may reduce the abundance of blooms.",
+        "Damaging effects can occur when exposed to intense sun for prolonged periods.",
+        "Morning sunlight is ideal, with afternoon shade to protect it from peak sun."
+    ],
+    "watering": [
+        "Requires regular watering during the growing season to maintain soil moisture.",
+        "Drought-tolerant once established, but benefits from consistent watering.",
+        "Avoid waterlogging as it can lead to root rot and other fungal issues.",
+        "Less frequent watering needed during the dormant winter months to prevent overwatering."
+    ],
+    "soil": [
+        "Prefers well-drained soil rich in organic matter for optimal growth.",
+        "Can grow in a variety of soil types, including clay, loamy, and sandy soils.",
+        "Soil pH should be neutral to slightly acidic for best nutrient uptake.",
+        "Compacted or poorly draining soils should be amended to avoid root issues."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Pruning immediately after flowering can help maintain a tidy shape and promote more blooms.",
+        "Applying a slow-release balanced fertilizer in early spring encourages vigorous growth.",
+        "Mulching around the base retains moisture and suppresses competitive weeds.",
+        "Monitor for aphids or scale, which can be controlled with insecticidal soap if necessary."
+    ]
+}

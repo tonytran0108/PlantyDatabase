@@ -1,0 +1,33 @@
+{
+    "name": "Peanuts",
+    "climate": [
+        "Peanut plants thrive in warm climates with temperatures between 70°F and 85°F.",
+        "They require a long frost-free growing season of at least 120 to 150 days.",
+        "Peanuts prefer arid or semi-arid climates with minimal humidity.",
+        "High humidity can promote diseases in peanut plants, so dry climates are ideal."
+    ],
+    "sunlight": [
+        "Peanuts need full sun exposure, receiving at least 6 hours of sunlight daily.",
+        "The plants perform best in fields that are not shaded by buildings or tall trees.",
+        "Ample sunlight helps peanuts in developing their pods underground efficiently.",
+        "Without sufficient sunlight, peanut plants may grow weak and produce fewer pods."
+    ],
+    "watering": [
+        "Peanut plants require consistent moisture but cannot tolerate waterlogged soil.",
+        "Regular watering is essential, especially during pod development and flowering.",
+        "Irrigation systems help in maintaining appropriate moisture levels without overwatering.",
+        "A lack of water can severely impact yield, especially during crucial growing stages."
+    ],
+    "soil": [
+        "Peanuts grow best in well-drained sandy loam soil rich in organic matter.",
+        "The soil should be loose enough to allow the pegs to penetrate and develop pods.",
+        "Maintaining a soil pH between 5.8 and 6.2 is ideal for optimal peanut growth.",
+        "Heavy clay or compacted soils can restrict root growth and reduce the yield."
+    ],
+    "toxic": [
+        "Peanut plants are generally not toxic, but peanuts can cause severe allergies in some individuals."
+    ],
+    "extra_care_tip": [
+        "Rotate peanut crops to prevent soil-borne diseases and improve soil health."
+    ]
+}

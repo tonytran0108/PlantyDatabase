@@ -1,0 +1,39 @@
+{
+    "name": "Rubber Plant",
+    "climate": [
+        "Prefers tropical climates with high humidity and warm temperatures.",
+        "Thrives in temperate climates where winters are mild and summers are warm.",
+        "Struggles in cold climates that experience frost and dry air conditions.",
+        "Ideal for subtropical climates that provide consistent warmth and moist air."
+    ],
+    "sunlight": [
+        "Enjoys bright, indirect light but can tolerate some direct sun.",
+        "Best growth in environments with partial shade during peak sun hours.",
+        "Can adapt to low light but may hinder growth in dim conditions.",
+        "Avoids locations with full harsh sunlight as it can scorch the leaves."
+    ],
+    "watering": [
+        "Needs watering every 1-2 weeks, allowing soil to dry out between waterings.",
+        "In spring and summer, keep the soil consistently moist but not soggy.",
+        "Reduce watering frequency in fall and winter, allowing more drying time.",
+        "Signs of overwatering include yellow leaves and root rot symptoms."
+    ],
+    "soil": [
+        "Requires well-draining soil mix, preferably peat-based or cactus soil.",
+        "The soil should retain moisture without becoming waterlogged or compacted.",
+        "A mix with perlite or sand can improve drainage and aeration for roots.",
+        "Avoid using heavy clay soils that retain water and restrict root growth."
+    ],
+    "toxic": [
+        "The plant is considered toxic to pets like cats and dogs if ingested.",
+        "Symptoms of ingestion in pets include vomiting, drooling, and oral irritation.",
+        "Contain calcium oxalate crystals which can cause discomfort when chewed.",
+        "Advised to keep out of reach of pets and young children to prevent issues."
+    ],
+    "extra_care_tip": [
+        "Regularly wipe leaves with a damp cloth to keep them dust-free and shiny.",
+        "Rotate the plant periodically to ensure even growth and exposure to light.",
+        "Prune any damaged or yellowing leaves to maintain plant health and appearance.",
+        "Repot every couple of years to refresh soil and provide more space for growth."
+    ]
+}

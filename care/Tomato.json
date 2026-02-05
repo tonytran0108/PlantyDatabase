@@ -1,0 +1,34 @@
+{
+    "name": "Tomato",
+    "climate": [
+        "Prefers warm temperatures ideally between 70 and 85 degrees Fahrenheit.",
+        "Requires a frost-free period of at least 3-4 months for optimal growth.",
+        "Does best in a temperate climate, but can be grown in a variety of conditions.",
+        "Needs well-drained soil and performs poorly in humid or overly wet regions."
+    ],
+    "sunlight": [
+        "Full sun exposure is essential for tomato plants to flourish properly.",
+        "Requires at least 6 to 8 hours of sunlight daily for robust growth.",
+        "Insufficient sunlight may result in leggy plants with reduced fruit yield.",
+        "Morning sun is especially beneficial to dry dew and prevent fungal diseases."
+    ],
+    "watering": [
+        "Consistent watering schedule is crucial, especially during dry spells.",
+        "Requires deep watering to maintain soil moisture but avoid waterlogging.",
+        "Watering early in the day is recommended to reduce fungal diseases risks.",
+        "Mulching can help retain soil moisture and minimize watering frequency."
+    ],
+    "soil": [
+        "Prefers rich, fertile soil with a pH range between 6.0 and 6.8.",
+        "Well-draining soil is necessary to prevent root rot and other issues.",
+        "Soil should be amended with compost or organic matter before planting.",
+        "Avoid very sandy or clay-heavy soils that do not retain moisture well."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Tomato plants benefit from staking or caging to support growing vines.",
+        "Pruning lower leaves and suckers can improve air circulation and health.",
+        "Rotating planting locations yearly can help prevent soil-borne diseases.",
+        "Avoid wetting leaves during watering to reduce risk of fungal infections."
+    ]
+}

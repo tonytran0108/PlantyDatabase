@@ -1,0 +1,37 @@
+{
+    "name": "Cactus",
+    "climate": [
+        "Cacti are typically found in arid and desert climates with minimal rainfall.",
+        "They can also adapt to semi-arid regions where water is more sporadic.",
+        "Some cacti species thrive in tropical areas offering wet and dry seasons.",
+        "A well-draining climate with temperatures not falling below freezing is ideal."
+    ],
+    "sunlight": [
+        "Cacti require full sunlight to thrive and maintain their structural health.",
+        "In extremely hot and dry climates, slight shading may prevent sunburn.",
+        "Indoor cacti need bright sunlight, often near south or west-facing windows.",
+        "Too little sunlight can result in elongated growth and weaker stems."
+    ],
+    "watering": [
+        "Cacti have low water needs due to their adaptation to desert environments.",
+        "Watering should be infrequent, allowing the soil to dry completely between sessions.",
+        "Overwatering can lead to root rot, a common issue in potted cacti.",
+        "During winter when growth is minimal, reduce watering significantly."
+    ],
+    "soil": [
+        "Cacti require a fast-draining soil to mimic their natural habitats efficiently.",
+        "Soil should be gritty, often mixing sand or perlite for optimal drainage.",
+        "Commercial cactus mixes are often used, providing a balance of nutrients.",
+        "Avoid moisture-retentive soils as they hold water excessively, harming the plant."
+    ],
+    "toxic": [
+        "Many cacti have spines that can cause skin irritation and injury upon contact.",
+        "Certain species of cacti can be mildly toxic if ingested, particularly to pets."
+    ],
+    "extra_care_tip": [
+        "Rotate potted cacti periodically to ensure even growth and sun exposure.",
+        "Check for pests such as mealybugs and treat promptly to prevent damage.",
+        "Use a pot with drainage holes to avoid water stagnation at the roots.",
+        "Repot cacti in spring when they outgrow their current container."
+    ]
+}

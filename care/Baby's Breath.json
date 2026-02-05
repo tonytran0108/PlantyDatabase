@@ -1,0 +1,35 @@
+{
+    "name": "Baby's Breath",
+    "climate": [
+        "Thrives in temperate climates and can tolerate mild seasonal variations.",
+        "Prefers environments with moderate humidity and consistent temperatures.",
+        "Can suffer in extreme heat or cold, needing regular care in such climates.",
+        "Not suitable for tropical climates; requires cooler, drier conditions."
+    ],
+    "sunlight": [
+        "Requires full sun exposure for at least six hours a day to bloom well.",
+        "Can tolerate partial shade, but flowering may be significantly reduced.",
+        "Insufficient sunlight may lead to leggy growth and fewer blooms.",
+        "Avoid deep shade conditions, as it critically impacts plant health."
+    ],
+    "watering": [
+        "Prefers well-drained soil and does not require frequent watering.",
+        "Overwatering can lead to root rot; keep moisture consistent but not soggy.",
+        "Infrequent but deep watering is better than shallow, regular watering.",
+        "Ensure soil dries out between waterings to maintain plant health."
+    ],
+    "soil": [
+        "Prefers alkaline to neutral soil pH for optimal growth conditions.",
+        "Soil should be well-draining, ideally sandy or loamy textures.",
+        "Avoid heavy, clay-based soil as it can retain too much moisture.",
+        "Enrich soil with compost to improve nutrient content and drainage."
+    ],
+    "toxic": [
+        "Mildly toxic if ingested by pets like cats and dogs, causing irritation.",
+        "Contact with the plant may cause minor skin irritation in sensitive individuals."
+    ],
+    "extra_care_tip": [
+        "Deadheading spent flowers can promote more prolonged blooming periods.",
+        "Pruning encourages bushier growth and prevents legginess in stems."
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "String Of Bananas",
+    "climate": [
+        "Prefers a warm, temperate climate similar to native South Africa, ideal for growth.",
+        "Cannot tolerate frost; best grown indoors in cooler climates to avoid cold conditions.",
+        "Thrives in temperatures ranging from 21 to 26 degrees Celsius for optimal health.",
+        "Avoid exposure to extreme temperature variations to prevent damage or stress."
+    ],
+    "sunlight": [
+        "Requires bright, indirect sunlight for several hours a day to maintain its vibrant appearance.",
+        "Direct sunlight may scorch the leaves, so it's best to provide filtered light.",
+        "Can tolerate some morning sun if grown outdoors, provided it is not too intense.",
+        "Grows well under artificial grow lights if natural sunlight is insufficient indoors."
+    ],
+    "watering": [
+        "Allow the soil to dry out completely between waterings to prevent root rot.",
+        "In the growing season, water thoroughly but ensure proper drainage is maintained.",
+        "During dormant periods, significantly reduce watering frequency to every few weeks.",
+        "Overwatering is one of the main causes of plant problems, so maintain a regular check."
+    ],
+    "soil": [
+        "Prefers well-draining soil, similar to cactus or succulent potting mixes for best results.",
+        "A mixture of potting soil, sand, and perlite can enhance drainage and aeration.",
+        "Poor drainage can lead to root rot, impacting overall plant health negatively.",
+        "Soil should be loose and airy, promoting oxygen circulation around the roots."
+    ],
+    "toxic": [
+        "Mildly toxic to pets when ingested, causing gastrointestinal irritation or vomiting."
+    ],
+    "extra_care_tip": [
+        "Prune regularly to maintain desired length and encourage a fuller growth appearance."
+    ]
+}

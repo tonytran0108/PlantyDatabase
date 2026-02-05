@@ -1,0 +1,34 @@
+{
+    "name": "Mint",
+    "climate": [
+        "Mint grows best in a temperate climate, preferring moderate temperatures.",
+        "This plant can also adapt to subtropical climates with sufficient moisture.",
+        "Avoid planting mint in arid climates, as it requires consistent moisture.",
+        "Grows well in a Mediterranean climate, which offers warm, wet winters."
+    ],
+    "sunlight": [
+        "Mint prefers partial shade but can tolerate full sun if well-watered.",
+        "Grows optimally with dappled sunlight, avoiding harsh midday sun exposure.",
+        "Can thrive near sunny windowsills indoors, provided it's not too intense.",
+        "Outdoor mint plants benefit from morning sun and afternoon shade ideally."
+    ],
+    "watering": [
+        "Mint requires consistent moisture; soil should be kept slightly damp.",
+        "Watering daily or every other day is often necessary in hot periods.",
+        "Reduce watering in winter when the plant's growth slows significantly.",
+        "Overwatering can lead to root rot, ensure good drainage to prevent this."
+    ],
+    "soil": [
+        "Mint prefers nutrient-rich, well-draining soil that retains some moisture.",
+        "A loamy soil with a pH of 6.0 to 7.0 provides ideal growing conditions.",
+        "Adding organic matter like compost enhances soil fertility for mint growth.",
+        "Avoid compacted soil; loosen it to allow for proper root expansion."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Mint can be invasive; consider confining it to containers or a contained bed.",
+        "Regular pruning encourages bushier growth and prevents leggy stems.",
+        "Periodically dividing the plants helps maintain vigorous growth and size.",
+        "Monitor for pests like aphids and spider mites, and manage as necessary."
+    ]
+}

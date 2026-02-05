@@ -1,0 +1,34 @@
+{
+    "name": "Rose",
+    "climate": [
+        "Roses thrive in climates that have warm to hot summers and cool winters.",
+        "They prefer areas with a well-defined seasonal temperature pattern, not too extreme.",
+        "Roses can be grown in temperate zones, but some species tolerate subtropical regions.",
+        "Avoid severe frost or arid desert climates for optimal rose health and growth."
+    ],
+    "sunlight": [
+        "Roses need ample sunlight; six to eight hours a day is ideal for blooming.",
+        "Direct sunlight is crucial to promote the best flowering and prevent diseases.",
+        "Partial shade might be tolerated, but can result in less vibrant blooms.",
+        "Morning sun is beneficial for drying dew and reducing mildew risk on leaves."
+    ],
+    "watering": [
+        "Roses require consistent watering, keeping soil moist but not waterlogged.",
+        "Water deeply once a week, allowing soil to dry slightly between waterings.",
+        "During dry periods or hot weather, roses might need more frequent watering.",
+        "Avoid overhead watering to prevent leaf diseases; drip irrigation is ideal."
+    ],
+    "soil": [
+        "Roses flourish in well-drained, loamy soil rich in organic matter and nutrients.",
+        "Slightly acidic to neutral pH levels (6.0 to 7.0) are preferred for roses.",
+        "Improve heavy clay or sandy soil by adding compost or well-rotted manure.",
+        "Soil aeration and good drainage are key to preventing root rot in roses."
+    ],
+    "toxic": ["Roses are generally non-toxic, but thorns can cause injury handling."],
+    "extra_care_tip": [
+        "Prune roses in late winter to promote healthy growth and flowering.",
+        "Mulch around the base to retain moisture and regulate soil temperature.",
+        "Watch for signs of pests like aphids and treat infestations promptly.",
+        "Earth up soil over graft union in colder regions for winter protection."
+    ]
+}

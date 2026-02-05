@@ -1,0 +1,35 @@
+{
+    "name": "Dragon Tree",
+    "climate": [
+        "Dragon Trees thrive in warm and slightly humid environments.", 
+        "They prefer a consistent temperature range between 18°C to 24°C.", 
+        "These plants do not survive well in cold or freezing temperatures.", 
+        "A stable indoor climate with minimal drafts is ideal for their growth."
+    ],
+    "sunlight": [
+        "Dragon Trees do best in bright, indirect sunlight conditions.", 
+        "They can tolerate lower light levels, but growth may slow significantly.", 
+        "Direct sunlight can scorch their leaves, leading to damage.", 
+        "East or west-facing windows are often suitable for their placement."
+    ],
+    "watering": [
+        "Dragon Trees require watering only when the top inch of soil is dry.", 
+        "Overwatering can cause root rot, so drainage is important.", 
+        "Allow water to completely drain away from the roots after watering.", 
+        "In winter, reduce watering frequency as the plant's growth slows."
+    ],
+    "soil": [
+        "A well-draining potting mix is crucial for the health of a Dragon Tree.",
+        "Soil should contain components like perlite, vermiculite, or sand.",
+        "Ensure the pot has drainage holes to prevent waterlogging.",
+        "Avoid heavy clay soils, which retain too much moisture and can damage roots."
+    ],
+    "toxic": [
+        "Dragon Trees are toxic to pets such as cats and dogs if ingested.",
+        "Symptoms of toxicity include vomiting, drooling, or loss of appetite."
+    ],
+    "extra_care_tip": [
+        "Regularly wipe the leaves with a damp cloth to remove dust.",
+        "Rotate the plant occasionally to ensure even growth on all sides."
+    ]
+}

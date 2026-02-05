@@ -1,0 +1,29 @@
+{
+    "name": "Wheat",
+    "climate": [
+        "Wheat grows best in temperate climates with moderate rainfall pattern.",
+        "It thrives in regions with cooler temperatures during the growing season.",
+        "Avoid very hot climates as they can hinder proper growth and development.",
+        "Dry or arid regions with limited rainfall are unsuitable for wheat cultivation."
+    ],
+    "sunlight": [
+        "Wheat requires full sunlight for optimal photosynthesis and grain development.",
+        "Insufficient sunlight can lead to stunted growth and lower yields.",
+        "Direct and consistent sunlight exposure is necessary throughout the growing season.",
+        "Shade or partial sunlight conditions can adversely affect wheat growth performance."
+    ],
+    "watering": [
+        "Wheat needs regular watering, especially during crucial growth phases.",
+        "Excessive water can lead to waterlogging and root diseases in wheat fields.",
+        "Drip irrigation is beneficial for efficient water delivery without waste.",
+        "Avoid water stress during flowering and grain filling for best yields."
+    ],
+    "soil": [
+        "Well-drained loamy soils rich in organic matter are ideal for wheat cultivation.",
+        "Clayey soils should be avoided as they may retain excessive moisture, harming roots.",
+        "Sandy soils may require soil amendments to enhance nutrient and water retention.",
+        "Regular soil testing and amendments can help maintain optimal soil conditions."
+    ],
+    "toxic": [],
+    "extra_care_tip": []
+}

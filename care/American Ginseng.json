@@ -1,0 +1,32 @@
+{
+    "name": "American Ginseng",
+    "climate": [
+        "Prefers a temperate climate with cold winters and warm summers.",
+        "Thrives in regions with well-defined seasonal changes all year.",
+        "Needs a climate that supports deciduous forest growth patterns.",
+        "Can be found naturally in forested regions of North America."
+    ],
+    "sunlight": [
+        "Requires a shaded environment, typically under forest canopies.",
+        "Does best in dappled sunlight or partial shade conditions.",
+        "Full sun is detrimental; prefers around 75% shade for growth.",
+        "Artificially shaded areas can help replicate natural conditions."
+    ],
+    "watering": [
+        "Requires evenly moist soil, avoiding waterlogged conditions.",
+        "Needs regular watering, particularly during dry spells or droughts.",
+        "Prefers consistent moisture levels, mimicking natural forest floors.",
+        "Excess water can cause root rot; ensure good soil drainage."
+    ],
+    "soil": [
+        "Grows best in rich, organic soils high in humus content.",
+        "Prefers slightly acidic to neutral pH soil conditions.",
+        "Needs loose, well-drained soil to prevent root system suffocation.",
+        "Mulching can help maintain the necessary soil moisture and texture."
+    ],
+    "toxic": [],
+    "extra_care_tip": [
+        "Avoid planting near trees that compete heavily for water and nutrients.",
+        "Harvesting should be sustainable, leaving some plants to mature and reproduce."
+    ]
+}

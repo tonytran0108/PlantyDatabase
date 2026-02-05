@@ -1,0 +1,36 @@
+{
+    "name": "Dragon Plant",
+    "climate": [
+        "Prefers warm temperatures and high humidity environments.",
+        "Can tolerate average household temperatures very well.",
+        "Avoid sudden temperature drops and cold drafts.",
+        "Not frost-tolerant, should be kept indoors in cooler climates."
+    ],
+    "sunlight": [
+        "Thrives in bright, indirect sunlight but can tolerate low light.",
+        "Direct sunlight can scorch the leaves and should be avoided.",
+        "If light is too low, growth may slow significantly.",
+        "Rotating the plant periodically ensures even growth on all sides."
+    ],
+    "watering": [
+        "Water when the top inch of soil feels dry to the touch.",
+        "Avoid overwatering as this can lead to root rot.",
+        "Reduce watering frequency in the winter months.",
+        "Misting helps increase humidity, which the plant appreciates."
+    ],
+    "soil": [
+        "Prefers well-draining potting soil with organic matter.",
+        "A mix with peat, pine bark, and vermiculite works well.",
+        "Ensure the pot has drainage holes to prevent waterlogging.",
+        "Re-pot every couple of years to refresh nutrients in the soil."
+    ],
+    "toxic": [
+        "Yes, Dragon Plants are toxic to pets if ingested.",
+        "Can cause vomiting, drooling, and loss of appetite in pets."
+    ],
+    "extra_care_tip": [
+        "Wiping leaves with a damp cloth helps remove dust and pests.",
+        "Consider using filtered water or rainwater to avoid fluoride burn.",
+        "Regularly check for signs of overwatering, like yellowing leaves."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+"name": "Late blight",
+"summary": "Late blight is a devastating plant disease that primarily affects potatoes and tomatoes, caused by the oomycete pathogen Phytophthora infestans. It is notorious for leading to significant crop losses and is characterized by dark lesions on leaves, stems, and fruit.",
+"cause_of_disease": [
+    {"cause": "Phytophthora infestans", "describe": "This pathogen thrives in cool, wet weather and spreads rapidly through rain splash and wind. Spores can survive in soil and plant debris over winter."},
+    {"cause": "Infected Seed", "describe": "Using tubers or seeds from infected plants can introduce the disease to a new planting."},
+    {"cause": "Improper Watering", "describe": "Overhead watering can create conditions conducive to the spread of spores to susceptible plant tissues."}
+],
+"solution": [
+    {"solution": "Fungicide Application", "steps": ["Select a fungicide labeled for late blight control.", "Follow manufacturer's instructions for application timing and dosage."]},
+    {"solution": "Remove Infected Plants", "steps": ["Identify and remove all infected plant material promptly.", "Dispose of removed material through burning or proper sanitation methods."]},
+    {"solution": "Crop Rotation", "steps": ["Avoid planting tomatoes or potatoes in the same location for consecutive years.", "Rotate with non-susceptible crops to reduce pathogen presence in the soil."]}
+],
+"tips": [
+    "Ensure proper plant spacing to allow good air circulation and reduce humidity levels.",
+    "Monitor weather forecasts and apply preventative fungicides before wet conditions.",
+    "Utilize resistant varieties when available to mitigate risk of severe outbreaks."
+]
+}

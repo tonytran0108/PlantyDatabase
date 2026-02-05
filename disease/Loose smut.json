@@ -1,0 +1,46 @@
+{
+"name": "Loose smut",
+"summary": "Loose smut is a fungal disease affecting cereal crops, particularly wheat and barley. It is caused by the fungus Ustilago tritici, which infects the plant's seed and grows within the developing grain, eventually replacing it entirely with masses of black spores.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal pathogen Ustilago tritici",
+        "describe": "The disease is caused by the fungus Ustilago tritici, which infects seeds and develops systemically within the growing plant."
+    },
+    {
+        "cause": "Infected seed",
+        "describe": "Loose smut is primarily spread through infected seeds, which are asymptomatic until they grow into infected plants displaying symptoms."
+    },
+    {
+        "cause": "Contaminated soil and environmental conditions",
+        "describe": "The fungus can persist in the soil and is favored by cool and moist conditions during the flowering stage, facilitating infection."
+    }
+],
+"solution": [
+    {
+        "solution": "Use of certified smut-free seeds",
+        "steps": [
+            "Purchase and plant certified healthy seeds.",
+            "Regularly inspect seed sources for signs of contamination."
+        ]
+    },
+    {
+        "solution": "Seed treatment with fungicides",
+        "steps": [
+            "Apply recommended fungicide treatments to seeds before planting.",
+            "Ensure thorough coverage and follow manufacturer instructions."
+        ]
+    },
+    {
+        "solution": "Field sanitation and crop rotation",
+        "steps": [
+            "Remove and destroy infected plant debris post-harvest.",
+            "Rotate crops with non-host species to break the disease cycle."
+        ]
+    }
+],
+"tips": [
+    "Monitor fields regularly for early signs of smut.",
+    "Avoid saving seeds from infected crops for future planting.",
+    "Implement crop rotation to minimize disease pressure."
+]
+}

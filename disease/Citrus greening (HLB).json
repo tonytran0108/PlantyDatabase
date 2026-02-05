@@ -1,0 +1,19 @@
+{
+"name": "Citrus greening (HLB)",
+"summary": "Citrus greening, also known as Huanglongbing (HLB), is a devastating disease affecting citrus plants. It is caused by a bacterium transmitted by insect vectors, primarily the Asian citrus psyllid. The disease results in mottled leaves, stunted growth, and deformed fruits, ultimately leading to the death of the tree.",
+"cause_of_disease": [
+    {"cause": "Candidatus Liberibacter asiaticus", "describe": "This is the bacterium most commonly associated with citrus greening and is transmitted by the Asian citrus psyllid."},
+    {"cause": "Asian citrus psyllid", "describe": "An insect vector that spreads the bacteria from infected plants to healthy ones."},
+    {"cause": "Infected plant material", "describe": "Using or moving infected nursery stock or plant materials can spread the disease to new areas."}
+],
+"solution": [
+    {"solution": "Psyllid management", "steps": ["Implement regular monitoring for psyllid populations.", "Use insecticides or biological control agents to manage infestations."]},
+    {"solution": "Tree removal", "steps": ["Identify and confirm infected trees.", "Remove and destroy infected trees to prevent the spread of disease."]},
+    {"solution": "Plant tolerant varieties", "steps": ["Research and select citrus varieties known for resistance to HLB.", "Replace susceptible trees with these more tolerant varieties."]}
+],
+"tips": [
+    "Regularly inspect trees for signs of HLB, such as yellowing leaves or misshapen fruit.",
+    "Prevent the spread of the disease by controlling psyllid populations in and around citrus groves.",
+    "Work with local agricultural extension offices to stay informed about HLB management practices and updates."
+  ]
+}

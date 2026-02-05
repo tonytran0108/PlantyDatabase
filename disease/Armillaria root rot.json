@@ -1,0 +1,46 @@
+{
+"name": "Armillaria root rot",
+"summary": "Armillaria root rot, also known as Shoestring root rot, is a fungal disease affecting a wide range of deciduous and evergreen trees, shrubs, and woody plants, leading to decay of roots and the base of the trunks, ultimately leading to plant death.",
+"cause_of_disease": [
+    {
+        "cause": "Fungus Armillaria mellea",
+        "describe": "This disease is caused by several species of the fungus Armillaria, with Armillaria mellea being the most common culprit. The fungus infects the roots and lower stems, leading to root rot and decline of the plant."
+    },
+    {
+        "cause": "Infected soil",
+        "describe": "The presence of fungal spores or mycelium in the soil can lead to infections when favorable conditions such as moisture and temperature occur."
+    },
+    {
+        "cause": "Stressed plants",
+        "describe": "Plants that are stressed by factors like drought, poor nutrition, or mechanical injury are more susceptible to infection by the Armillaria fungus."
+    }
+],
+"solution": [
+    {
+        "solution": "Remove infected plants and roots",
+        "steps": [
+            "Identify and remove trees or plants that show signs of Armillaria root rot.",
+            "Excavate and remove infected roots to prevent further spread."
+        ]
+    },
+    {
+        "solution": "Improve soil drainage",
+        "steps": [
+            "Enhance soil drainage by aerating the soil and adding organic matter to encourage drainage.",
+            "Avoid planting susceptible plants in areas where water accumulates."
+        ]
+    },
+    {
+        "solution": "Apply fungicide treatments",
+        "steps": [
+            "Consult with a local extension service or professional for appropriate fungicide treatments suited to your region.",
+            "Apply the fungicide as per the manufacturer's guidelines to help control the infection."
+        ]
+    }
+],
+"tips": [
+    "Maintain plant vigor by ensuring adequate watering, proper fertilization, and minimizing stress to the plants.",
+    "Regularly inspect plants for early signs of disease to enable timely intervention.",
+    "Avoid planting susceptible species in areas known to have a history of Armillaria root rot."
+]
+}

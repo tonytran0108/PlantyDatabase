@@ -1,0 +1,46 @@
+{
+"name": "Peach leaf curl",
+"summary": "Peach leaf curl is a fungal disease affecting peach trees, characterized by distorted and discolored leaves.",
+"cause_of_disease": [
+    {
+        "cause": "Fungus",
+        "describe": "The disease is caused by the fungus Taphrina deformans, which infects the leaf tissue."
+    },
+    {
+        "cause": "Wet weather",
+        "describe": "Frequent rain and wet conditions during the leaf development phase contribute to the spread of the fungus."
+    },
+    {
+        "cause": "Poor air circulation",
+        "describe": "Areas with poor air flow around the trees can lead to higher humidity and increased risk of infection."
+    }
+],
+"solution": [
+    {
+        "solution": "Fungicide application",
+        "steps": [
+            "Apply a copper-based fungicide during the dormant season before bud swell.",
+            "Repeat application if necessary, according to product instructions, especially after a wet winter."
+        ]
+    },
+    {
+        "solution": "Remove infected leaves",
+        "steps": [
+            "Regularly inspect trees and remove infected leaves to reduce spread.",
+            "Dispose of the infected leaves away from the tree to prevent contamination."
+        ]
+    },
+    {
+        "solution": "Improve tree environment",
+        "steps": [
+            "Prune trees properly to allow good air circulation among the branches.",
+            "Ensure the area around the tree is free from debris that can harbor fungal spores."
+        ]
+    }
+],
+"tips": [
+    "Plant resistant peach varieties to reduce susceptibility to the disease.",
+    "Monitor weather conditions and adjust care accordingly to minimize disease risk.",
+    "Ensure proper watering and avoid wetting foliage to limit moisture levels."
+]
+}

@@ -1,0 +1,19 @@
+{
+"name": "Downy mildew",
+"summary": "Downy mildew is a plant disease caused by water mold pathogens, affecting a wide range of plants, characterized by yellowing leaves and a downy fungal growth on the undersides.",
+"cause_of_disease": [
+    {"cause": "Pathogen", "describe": "Caused by oomycetes in the family Peronosporaceae, which thrive in cool, moist environments."},
+    {"cause": "Environmental Conditions", "describe": "High humidity and cool temperatures favor the development of downy mildew spores."},
+    {"cause": "Poor Air Circulation", "describe": "Dense planting or lack of airflow around plants can increase vulnerability to downy mildew."}
+],
+"solution": [
+    {"solution": "Fungicidal Treatment", "steps": ["Apply fungicides containing copper or other compounds effective against oomycetes.", "Ensure thorough coverage of the plant, especially undersides of leaves."]},
+    {"solution": "Cultural Control", "steps": ["Remove and destroy infected plant material to reduce spore spread.", "Rotate crops to prevent the build-up of pathogens in the soil."]},
+    {"solution": "Environmental Management", "steps": ["Increase plant spacing to improve air circulation.", "Avoid overhead watering to reduce humidity around the leaves."]}
+],
+"tips": [
+    "Plant resistant varieties to reduce susceptibility to downy mildew.",
+    "Monitor environmental conditions and apply preventative treatments during wet and cool periods.",
+    "Implement proper sanitation practices, such as cleaning tools and disposing of plant debris."
+]
+}

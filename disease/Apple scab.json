@@ -1,0 +1,46 @@
+{
+"name": "Apple scab",
+"summary": "Apple scab is a common fungal disease affecting apple trees and their fruit, characterized by dark, scabby lesions on leaves, fruit, and sometimes young shoots. It is caused by the fungus Venturia inaequalis and can lead to reduced fruit quality and premature leaf drop.",
+"cause_of_disease": [
+	{
+		"cause": "Fungus Venturia inaequalis",
+		"describe": "The primary cause of apple scab is infection by the fungus Venturia inaequalis, which thrives in wet, cool conditions."
+	},
+	{
+		"cause": "Cool, wet environmental conditions",
+		"describe": "The fungus spreads during wet and cool spring weather, making these conditions ideal for its propagation."
+	},
+	{
+		"cause": "Infected plant material",
+		"describe": "The fungus overwinters in fallen leaves and infected plant debris, which can cause re-infection in the spring."
+	}
+],
+"solution": [
+	{
+		"solution": "Fungicide application",
+		"steps": [
+			"Apply a fungicide labeled for apple scab in early spring when new shoots are beginning to emerge.",
+			"Repeat applications as per the recommendation of the fungicide products, or following local extension advice."
+		]
+	},
+	{
+		"solution": "Prune and destroy infected material",
+		"steps": [
+			"Prune the tree to improve air circulation and remove any infected branches or leaves.",
+			"Dispose of all infected plant material away from the orchard to prevent the spread of the fungus."
+		]
+	},
+	{
+		"solution": "Plant disease-resistant varieties",
+		"steps": [
+			"Select and plant apple varieties that are resistant to apple scab to reduce the incidence of the disease.",
+			"Consult local extension services for recommendations on resistant varieties suitable for your area."
+		]
+	}
+],
+"tips": [
+	"Ensure proper spacing between trees to improve air circulation and reduce moisture buildup, minimizing the risk of fungal infections.",
+	"Regularly rake and remove fallen leaves and debris from around the trees to prevent the fungus from overwintering.",
+	"Monitor the weather conditions and apply preventive fungicide treatments particularly before a forecast of rain."
+]
+}

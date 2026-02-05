@@ -1,0 +1,37 @@
+{
+"name": "Bacterial wilt",
+"summary": "Bacterial wilt is a disease caused by soil-borne bacteria that infect multiple plant species, leading to wilting and often death of the plant. This disease disrupts the plant's ability to transport water due to bacterial colonization in the vascular tissue.",
+"cause_of_disease": [
+    {"cause": "Ralstonia solanacearum", "describe": "A soil-borne bacterium that infects plants through the roots and disrupts water transport, causing sudden and severe wilting."},
+    {"cause": "Infected plant residue", "describe": "Bacteria can survive in plant debris, and new infections occur when healthy plants come into contact with these residues."},
+    {"cause": "Contaminated water", "describe": "Irrigation with contaminated water can spread the bacterium to healthy plants."}
+],
+"solution": [
+    {
+        "solution": "Crop rotation",
+        "steps": [
+            "Practice rotating crops with non-host plants to reduce bacterial presence in the soil.",
+            "Avoid planting susceptible crops in infested areas for several seasons."
+        ]
+    },
+    {
+        "solution": "Use resistant plant varieties",
+        "steps": [
+            "Select plant varieties that have been bred for resistance to bacterial wilt.",
+            "Consult local agricultural extensions for recommended resistant varieties."
+        ]
+    },
+    {
+        "solution": "Soil solarization",
+        "steps": [
+            "Cover soil with clear plastic during hot seasons to kill bacteria with solar heat.",
+            "Maintain plastic cover for 4-6 weeks for effective results."
+        ]
+    }
+],
+"tips": [
+    "Maintain good field hygiene by removing and destroying infected plant debris immediately.",
+    "Avoid mechanical damage to plants and roots, which can create entry points for bacteria.",
+    "Implement proper irrigation techniques to prevent water logging and spread of bacteria."
+]
+}

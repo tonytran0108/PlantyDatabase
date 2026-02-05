@@ -1,0 +1,19 @@
+{
+"name": "Corn smut",
+"summary": "Corn smut is a fungal disease caused by the fungus Ustilago maydis, commonly affecting corn plants. It results in large, grayish-white galls that can be found on ears, leaves, and tassels, turning black and powdery as they mature.",
+"cause_of_disease": [
+  {"cause": "Fungal infection", "describe": "Caused by the fungus Ustilago maydis, which infects corn plants and creates galls."},
+  {"cause": "Moisture", "describe": "High humidity and wet conditions can promote the spread and severity of the disease."},
+  {"cause": "Weak plant tissue", "describe": "Damage or weakness in plant tissue can provide entry points for the fungus, increasing infection risk."}
+],
+"solution": [
+  {"solution": "Genetic resistance", "steps": ["Select and plant corn varieties that show resistance to corn smut.", "Consult with agricultural extension services for resistant varieties."]},
+  {"solution": "Crop rotation", "steps": ["Rotate corn with non-host crops to prevent the build-up of the fungus in the soil.", "Implement a multi-year rotation schedule to break the disease cycle."]},
+  {"solution": "Field sanitation", "steps": ["Remove and destroy infected plant material to prevent the spread of spores.", "Clean equipment to avoid transferring spores to healthy plants."]}
+],
+"tips": [
+  "Monitor fields regularly for signs of infection and remove infected plants promptly.",
+  "Maintain optimal plant health through proper fertilization and watering to strengthen plant defenses.",
+  "Avoid excessive nitrogen fertilization, which can promote lush growth susceptible to infection."
+]
+}

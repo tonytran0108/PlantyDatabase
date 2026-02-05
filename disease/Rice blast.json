@@ -1,0 +1,46 @@
+{
+"name": "Rice blast",
+"summary": "Rice blast is a common and destructive fungal disease affecting rice crops worldwide. It is caused by the fungus Magnaporthe oryzae, which attacks all parts of the rice plant causing lesions and reduced yield.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal pathogen",
+        "describe": "Rice blast is primarily caused by the fungus Magnaporthe oryzae, which infects the plant tissue and produces lesions."
+    },
+    {
+        "cause": "High humidity",
+        "describe": "The fungus thrives in warm and humid conditions, which are conducive to the rapid spread of the disease."
+    },
+    {
+        "cause": "Poor drainage and aeration",
+        "describe": "Fields with poor drainage promote disease spread by providing an ideal environment for the fungus to grow."
+    }
+],
+"solution": [
+    {
+        "solution": "Use resistant varieties",
+        "steps": [
+            "Select rice varieties that are known to be resistant to rice blast.",
+            "Consult with agricultural experts to choose the most effective resistant strains for the region."
+        ]
+    },
+    {
+        "solution": "Apply fungicides",
+        "steps": [
+            "Identify and use appropriate fungicides that are effective against Magnaporthe oryzae.",
+            "Ensure proper application as per guidelines to avoid resistance development."
+        ]
+    },
+    {
+        "solution": "Improve field management",
+        "steps": [
+            "Ensure adequate water management and drainage to reduce humidity in the crop canopy.",
+            "Practice crop rotation and field sanitation to reduce fungal spore buildup."
+        ]
+    }
+],
+"tips": [
+    "Maintain field sanitation by removing plant debris after harvest to reduce fungal inoculum.",
+    "Avoid excessive nitrogen fertilization, which can promote lush growth and susceptibility to infection.",
+    "Monitor fields regularly for early detection and manage accordingly to minimize spread and damage."
+]
+}

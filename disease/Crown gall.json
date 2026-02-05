@@ -1,0 +1,37 @@
+{
+  "name": "Crown gall",
+  "summary": "Crown gall is a widespread plant disease caused by the bacterium Agrobacterium tumefaciens, which induces tumor-like growths, or galls, on the stems, roots, or branches of a wide range of host plants.",
+  "cause_of_disease": [
+    {
+      "cause": "Bacterium Agrobacterium tumefaciens",
+      "describe": "This bacterium enters the plant through wounds and incorporates a piece of its DNA into the host plant’s genome, causing uncontrolled plant cell growth and gall formation."
+    },
+    {
+      "cause": "Wounds on the plant",
+      "describe": "Wounds provide a point of entry for the bacteria, which can occur from pruning, grafting, or damage from machinery, animals, or weather."
+    },
+    {
+      "cause": "Contaminated tools or soil",
+      "describe": "The bacterium can survive in the soil for long periods and can be spread on contaminated tools, nursery stock, or water."
+    }
+  ],
+  "solution": [
+    {
+      "solution": "Remove and destroy infected plants",
+      "steps": ["Carefully uproot plants showing symptoms of crown gall.", "Dispose of the infected plant material by burning or in another way that ensures destruction of the bacteria."]
+    },
+    {
+      "solution": "Use disease-free planting material",
+      "steps": ["Source and plant only certified disease-free seeds and nursery stock.", "Regularly inspect new plants for signs of disease."]
+    },
+    {
+      "solution": "Apply biological control agents",
+      "steps": ["Use biological control agents such as the bacterium Agrobacterium radiobacter strain K84 as a preventive treatment.", "Apply as a root dip to non-infected plants before planting."]
+    }
+  ],
+  "tips": [
+    "Avoid planting susceptible plants in areas known to be contaminated with the bacterium.",
+    "Regularly sanitize gardening tools to prevent the spread of the disease.",
+    "Improve soil drainage to reduce plant stress and susceptibility to infections."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+"name": "Black rot (Grape)",
+"summary": "Black rot is a fungal disease that affects grapevines, leading to significant crop loss if not controlled. The fungus Guignardia bidwellii causes the disease, manifesting as black lesions on leaves, stems, and fruits.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal infection by Guignardia bidwellii",
+        "describe": "The fungus infects grapevine through spores during warm and wet conditions, leading to black spots on leaves and fruits."
+    },
+    {
+        "cause": "Warm, humid weather",
+        "describe": "The fungus thrives in warm temperatures and high humidity, which provide ideal conditions for its growth and the spread of spores."
+    },
+    {
+        "cause": "Poor air circulation",
+        "describe": "Dense canopy and poor air circulation around vines promote moisture retention, increasing the incidence of the disease."
+    }
+],
+"solution": [
+    {
+        "solution": "Application of fungicides",
+        "steps": [
+            "Select a fungicide approved for black rot in grapes.",
+            "Apply in accordance with the manufacturer’s instructions, starting early in the growing season."
+        ]
+    },
+    {
+        "solution": "Cultural controls and vineyard hygiene",
+        "steps": [
+            "Prune and remove infected plant parts promptly to reduce disease spread.",
+            "Ensure vines are adequately spaced and trellised for better air circulation."
+        ]
+    },
+    {
+        "solution": "Remove mummified fruit",
+        "steps": [
+            "Inspect vines for shriveled, mummified berries during winter or early spring.",
+            "Collect and dispose of these mummified fruits to prevent re-infection."
+        ]
+    }
+],
+"tips": [
+    "Regularly inspect vineyards for early signs of black rot, especially after wet weather.",
+    "Implement a regular pruning schedule to maintain vine health and improve air flow.",
+    "Consider planting grape varieties that are resistant or less susceptible to black rot where possible."
+]
+}

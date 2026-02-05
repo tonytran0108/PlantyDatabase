@@ -1,0 +1,46 @@
+{
+"name": "Leaf curl virus",
+"summary": "Leaf curl virus is a plant disease that affects a variety of plants, causing leaves to curl, thicken, and become discolored. It can severely impact plant growth and yield if not managed appropriately.",
+"cause_of_disease": [
+    {
+        "cause": "Virus",
+        "describe": "Leaf curl virus is caused by a viral infection, primarily transmitted through insect vectors such as whiteflies."
+    },
+    {
+        "cause": "Weather Conditions",
+        "describe": "Cool and wet weather conditions can promote the disease by creating favorable environments for the virus and its vectors."
+    },
+    {
+        "cause": "Infected Plant Material",
+        "describe": "Using infected plant material for propagation can spread the virus to healthy plants."
+    }
+],
+"solution": [
+    {
+        "solution": "Remove Infected Plants",
+        "steps": [
+            "Identify and remove infected plants promptly to prevent the spread of the virus.",
+            "Dispose of them properly by burning or burying away from healthy plants."
+        ]
+    },
+    {
+        "solution": "Insect Control",
+        "steps": [
+            "Use insecticides or natural predators to control insect vectors such as whiteflies.",
+            "Regularly monitor plants for signs of insect activity and take action immediately."
+        ]
+    },
+    {
+        "solution": "Use Resistant Varieties",
+        "steps": [
+            "Choose plant varieties that are known to be resistant to the leaf curl virus.",
+            "Consult local agricultural extensions or nurseries for suitable resistant varieties."
+        ]
+    }
+],
+"tips": [
+    "Practice crop rotation to reduce the buildup of the virus in the soil.",
+    "Maintain good garden hygiene by cleaning tools and removing debris.",
+    "Monitor plants regularly for early signs of disease to manage it promptly."
+]
+}

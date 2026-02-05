@@ -1,0 +1,37 @@
+{
+"name": "Wheat stem rust",
+"summary": "Wheat stem rust is a fungal disease caused by Puccinia graminis f. sp. tritici, affecting wheat plants and leading to significant yield losses. It is characterized by reddish-brown pustules on stems and leaves.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal pathogen",
+        "describe": "The disease is caused by the fungus Puccinia graminis f. sp. tritici, which infects wheat and certain other grasses."
+    },
+    {
+        "cause": "Environmental conditions",
+        "describe": "Warm temperatures and high humidity favor the development and spread of the rust spores."
+    },
+    {
+        "cause": "Susceptible wheat varieties",
+        "describe": "Wheat varieties lacking resistant genes are more vulnerable to infection by the stem rust pathogen."
+    }
+],
+"solution": [
+    {
+        "solution": "Use resistant wheat varieties",
+        "steps": ["Select and plant wheat varieties known for their resistance to stem rust.", "Consult local agricultural extensions for the most effective varieties in your region."]
+    },
+    {
+        "solution": "Fungicidal treatment",
+        "steps": ["Apply fungicides that are effective against rust infections.", "Follow the manufacturer's instructions for application timing and dosage."]
+    },
+    {
+        "solution": "Crop rotation",
+        "steps": ["Implement crop rotation with non-host plants to break the life cycle of the rust fungus.", "Avoid planting wheat in successive seasons in the same field."]
+    }
+],
+"tips": [
+    "Regularly monitor fields for early signs of rust and apply control measures promptly.",
+    "Maintain optimal plant health through proper fertilization, which can enhance disease resistance.",
+    "Remove volunteer wheat and infected plant debris to reduce sources of infection."
+]
+}

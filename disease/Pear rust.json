@@ -1,0 +1,37 @@
+{
+"name": "Pear rust",
+"summary": "Pear rust is a fungal disease that primarily affects pear trees, causing bright orange spots on leaves and can also damage fruit. It involves a complex lifecycle often requiring juniper as an alternate host.",
+"cause_of_disease": [
+	{
+		"cause": "Fungal infection by Gymnosporangium sabinae",
+		"describe": "Pear rust is caused by a fungus that requires both pear and juniper trees to complete its lifecycle."
+	},
+	{
+		"cause": "Presence of nearby juniper trees",
+		"describe": "The fungus overwinters on juniper trees and releases spores that infect pear trees in the spring."
+	},
+	{
+		"cause": "Wet spring conditions",
+		"describe": "High humidity and wet conditions promote the spread and infection of the fungus."
+	}
+],
+"solution": [
+	{
+		"solution": "Remove and destroy infected leaves",
+		"steps": ["Carefully inspect the pear tree for infected leaves.", "Prune and dispose of infected leaves to prevent the spread of the fungus."]
+	},
+	{
+		"solution": "Fungicide application",
+		"steps": ["Select an appropriate fungicide recommended for pear rust.", "Apply fungicide according to the manufacturer's instructions during early spring when spores are active."]
+	},
+	{
+		"solution": "Remove juniper trees in the vicinity",
+		"steps": ["Identify any juniper trees within a few hundred meters of the pear tree.", "Consider removing those juniper trees to break the lifecycle of the fungus."]
+	}
+],
+"tips": [
+	"Regularly monitor both pear and juniper trees for early signs of rust infection.",
+	"Maintain good air circulation around the pear tree by proper pruning.",
+	"Ensure the pear tree has a proper nutrient balance to improve its resistance to diseases."
+]
+}

@@ -1,0 +1,19 @@
+{
+"name": "Citrus canker",
+"summary": "Citrus canker is a highly contagious bacterial disease affecting citrus plants, characterized by lesions on leaves, stems, and fruit, leading to reduced yield and quality.",
+"cause_of_disease": [
+  {"cause": "Bacterium Xanthomonas axonopodis pv. citri", "describe": "The disease is primarily caused by a bacterium, which infects through wounds or natural openings in the plant."},
+  {"cause": "Rain and wind", "describe": "The bacteria spread via wind-driven rain, where water serves as a medium to transfer the bacteria between plants."},
+  {"cause": "Infected equipment", "describe": "Use of contaminated tools or machinery can contribute to the spread of the disease among citrus orchards."}
+],
+"solution": [
+  {"solution": "Chemical Control", "steps": ["Apply copper-based bactericides", "Ensure regular applications during wetter periods to reduce infections."]},
+  {"solution": "Quarantine and exclusion", "steps": ["Remove and destroy affected trees to prevent further spread", "Establish buffer zones to separate infected and non-infected areas."]},
+  {"solution": "Resistant varieties", "steps": ["Plant citrus varieties known for resistance to canker", "Regularly monitor for any signs of the disease even in resistant plants."]}
+],
+"tips": [
+  "Regularly inspect citrus trees for early signs of disease and commence treatments promptly.",
+  "Ensure good sanitation practices, including disinfecting tools and machinery used in citrus orchards.",
+  "Implement windbreaks to minimize the spread of bacteria through rain and wind movement."
+]
+}

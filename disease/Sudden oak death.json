@@ -1,0 +1,37 @@
+{
+"name": "Sudden oak death",
+"summary": "Sudden oak death is a forest disease caused by the water mold Phytophthora ramorum, affecting a variety of trees and shrubs, most notably oaks. It leads to the rapid decline and death of trees, primarily impacting coastal oak woodlands.",
+"cause_of_disease": [
+    {
+        "cause": "Phytophthora ramorum",
+        "describe": "A pathogen that infects the leaves and bark of trees, disrupting the flow of nutrients and causing cankers."
+    },
+    {
+        "cause": "Wet and humid conditions",
+        "describe": "The disease thrives in wet, cool environments where the pathogen can spread more easily."
+    },
+    {
+        "cause": "Movement of infected plant materials",
+        "describe": "Transportation of infected plants, soil, and water can lead to the spread of the disease to new areas."
+    }
+],
+"solution": [
+    {
+        "solution": "Quarantine and sanitation measures",
+        "steps": ["Implement restrictions on the movement of infected plants and soil.", "Clean tools and equipment to prevent the spread of pathogens."]
+    },
+    {
+        "solution": "Chemical treatments",
+        "steps": ["Apply fungicides to prevent the spread, targeting susceptible areas.", "Ensure repeated applications as recommended for effectiveness."]
+    },
+    {
+        "solution": "Host plant removal",
+        "steps": ["Remove and destroy infected trees to limit further spread.", "Monitor surrounding area for new signs of infection."]
+    }
+],
+"tips": [
+    "Monitor trees regularly for early signs of infection such as foliage discoloration and bark lesions.",
+    "Increase airflow around trees by spacing plantings and pruning lower branches.",
+    "Educate community and stakeholders about disease identification and management practices."
+]
+}

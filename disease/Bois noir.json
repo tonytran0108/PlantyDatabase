@@ -1,0 +1,46 @@
+{
+"name": "Bois noir",
+"summary": "Bois noir is a grapevine disease caused by phytoplasma that affects the quality and quantity of grape production. It is characterized by symptoms such as leaf yellowing, uneven fruit ripening, and reduced vine vigor.",
+"cause_of_disease": [
+    {
+        "cause": "Phytoplasma infection",
+        "describe": "Bois noir is primarily caused by a type of phytoplasma that infects the grapevine, leading to various physiological problems."
+    },
+    {
+        "cause": "Insect vectors",
+        "describe": "Insects such as the planthopper act as vectors, transmitting the phytoplasma to the grapevines."
+    },
+    {
+        "cause": "Environmental stress",
+        "describe": "Factors like drought or excessive water can stress plants, making them more susceptible to infections."
+    }
+],
+"solution": [
+    {
+        "solution": "Insect control",
+        "steps": [
+            "Identify and monitor insect vectors in the vineyard.",
+            "Apply appropriate insecticides or natural predators to manage the population."
+        ]
+    },
+    {
+        "solution": "Crop management",
+        "steps": [
+            "Remove and destroy infected vines to prevent the spread.",
+            "Optimize watering and fertilization to support healthy vine growth."
+        ]
+    },
+    {
+        "solution": "Use of resistant cultivars",
+        "steps": [
+            "Research and plant grapevine varieties known for resistance to Bois noir.",
+            "Collaborate with nurseries to obtain certified disease-free stock."
+        ]
+    }
+],
+"tips": [
+    "Maintain vineyard hygiene by regularly removing weeds and mulching.",
+    "Practice crop rotation and avoid planting grapevines on recently infected land.",
+    "Regularly inspect the vineyard for symptoms and take immediate action when necessary."
+]
+}

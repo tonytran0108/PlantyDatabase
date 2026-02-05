@@ -1,0 +1,46 @@
+{
+"name": "Tobacco mosaic virus",
+"summary": "Tobacco mosaic virus (TMV) is a plant pathogenic virus that causes mosaic-like symptoms on a wide range of plant species, including tobacco, tomatoes, peppers, and many ornamental plants. It is one of the most studied plant viruses and was the first virus to be discovered.",
+"cause_of_disease": [
+    {
+        "cause": "Virus transmission",
+        "describe": "The virus is primarily spread through mechanical transmission. This can happen via contaminated tools, hands, clothing, or direct contact with infected plants."
+    },
+    {
+        "cause": "Infected seeds",
+        "describe": "In some plant species, TMV can be transmitted through infected seeds, leading to the development of symptoms in seedlings."
+    },
+    {
+        "cause": "Environmental persistence",
+        "describe": "TMV is highly stable and can remain infectious in plant debris, contaminated soil, or on surfaces for extended periods, posing a continual infection risk."
+    }
+],
+"solution": [
+    {
+        "solution": "Use of resistant plant varieties",
+        "steps": [
+            "Select and plant TMV-resistant crop varieties if available.",
+            "Consult with local agricultural extensions for specific resistant strains."
+        ]
+    },
+    {
+        "solution": "Implement good sanitation practices",
+        "steps": [
+            "Regularly disinfect tools, equipment, and hands when handling plants.",
+            "Avoid the transfer of plant sap between plants by careful handling."
+        ]
+    },
+    {
+        "solution": "Crop rotation and removal of infected plants",
+        "steps": [
+            "Rotate crops to prevent the buildup of the virus in the soil.",
+            "Promptly remove and destroy infected plants to reduce sources of infection."
+        ]
+    }
+],
+"tips": [
+    "Avoid smoking or using tobacco products near susceptible plants to prevent potential transmission.",
+    "Control weeds to reduce potential reservoirs of the virus in and around plantings.",
+    "Educate workers and visitors about the importance of not handling plants unnecessarily to minimize the risk of mechanical transmission."
+]
+}

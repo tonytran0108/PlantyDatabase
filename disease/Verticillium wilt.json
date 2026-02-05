@@ -1,0 +1,46 @@
+{
+"name": "Verticillium wilt",
+"summary": "Verticillium wilt is a serious fungal disease that affects a wide range of host plants by attacking their vascular system, leading to wilting and often plant death.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal Infection",
+        "describe": "The disease is caused by soil-borne fungi from the genus Verticillium, which enter the plant through the roots and spread through the vascular system."
+    },
+    {
+        "cause": "Soil Contamination",
+        "describe": "The pathogen can survive in the soil for many years, making it difficult to eradicate once present."
+    },
+    {
+        "cause": "Plant Stress",
+        "describe": "External stress factors like drought, poor nutrition, or weakened plant defenses can increase susceptibility to infection."
+    }
+],
+"solution": [
+    {
+        "solution": "Crop Rotation",
+        "steps": [
+            "Avoid planting susceptible crops in the same location for several years.",
+            "Use non-host plants to help break the life cycle of the fungus."
+        ]
+    },
+    {
+        "solution": "Fungicide Application",
+        "steps": [
+            "Apply fungicides that are specifically effective against soil-borne pathogens.",
+            "Follow the manufacturer's instructions for proper application."
+        ]
+    },
+    {
+        "solution": "Resistant Varieties",
+        "steps": [
+            "Select plant varieties that are known to be resistant or tolerant to Verticillium wilt.",
+            "Purchase seeds or plants from reputable sources."
+        ]
+    }
+],
+"tips": [
+    "Improve soil drainage to reduce favorable conditions for fungi.",
+    "Regularly sanitize gardening tools to prevent spread of the pathogen.",
+    "Provide consistent watering and proper nutrition to keep plants healthy and stress-free."
+]
+}

@@ -1,0 +1,46 @@
+{
+"name": "Fire blight",
+"summary": "Fire blight is a contagious disease affecting apples, pears, and other members of the family Rosaceae, caused by the bacterium Erwinia amylovora. It is characterized by the blackening of branches and leaves, which appear as if scorched by fire.",
+"cause_of_disease": [
+    {
+        "cause": "Bacterial infection",
+        "describe": "The disease is caused by the bacterium Erwinia amylovora, which infects the plant tissues and causes necrosis."
+    },
+    {
+        "cause": "Moisture and temperature",
+        "describe": "Warm and humid weather conditions favor the multiplication and spread of the bacteria."
+    },
+    {
+        "cause": "Insect activity",
+        "describe": "Insects such as bees can spread the bacteria from infected to healthy plants, aiding in the transmission of the disease."
+    }
+],
+"solution": [
+    {
+        "solution": "Pruning",
+        "steps": [
+            "Remove and destroy infected branches during the dormant season.",
+            "Prune at least 12 inches below the visible symptoms to ensure complete removal of the bacteria."
+        ]
+    },
+    {
+        "solution": "Chemical control",
+        "steps": [
+            "Apply copper-based bactericides during bloom to reduce bacterial population.",
+            "Use antibiotics such as streptomycin carefully, following local guidelines to prevent resistance."
+        ]
+    },
+    {
+        "solution": "Resistant varieties",
+        "steps": [
+            "Plant disease-resistant varieties of apples and pears, if available.",
+            "Consult with local extension services for recommended resistant cultivars."
+        ]
+    }
+],
+"tips": [
+    "Avoid excessive nitrogen fertilization which can promote new growth, making plants more susceptible to infection.",
+    "Implement proper sanitation measures by removing fallen leaves and fruit that may harbor bacteria.",
+    "Monitor closely during warm, wet weather as conditions can facilitate the rapid spread of the bacteria."
+]
+}

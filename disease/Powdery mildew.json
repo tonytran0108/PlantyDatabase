@@ -1,0 +1,46 @@
+{
+"name": "Powdery mildew",
+"summary": "Powdery mildew is a common fungal disease that affects a wide range of plants, characterized by white or gray powdery spots covering the leaves and stems. It can affect plant growth and reduce crop yields.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal pathogens",
+        "describe": "Powdery mildew is caused by several species of fungi, including Erysiphales. These fungi thrive in warm, dry climates and often spread through spores."
+    },
+    {
+        "cause": "High humidity",
+        "describe": "Increased humidity levels create an ideal environment for powdery mildew spores to germinate and grow on plant surfaces."
+    },
+    {
+        "cause": "Poor air circulation",
+        "describe": "Crowded plantings or dense foliage can limit air flow, encouraging the development and spread of powdery mildew."
+    }
+],
+"solution": [
+    {
+        "solution": "Use fungicides",
+        "steps": [
+            "Apply fungicides specifically designed to combat powdery mildew, following the manufacturer’s instructions.",
+            "Reapply as recommended, particularly after rain or when new growth appears."
+        ]
+    },
+    {
+        "solution": "Improve air circulation",
+        "steps": [
+            "Prune overcrowded plant areas to allow more air flow and sunlight penetration.",
+            "Space plants adequately during planting to ensure sufficient air movement around them."
+        ]
+    },
+    {
+        "solution": "Use resistant plant varieties",
+        "steps": [
+            "Select and plant varieties that are known to be resistant to powdery mildew.",
+            "Consult with local nurseries or agricultural extensions for recommendations on resistant varieties."
+        ]
+    }
+],
+"tips": [
+    "Water plants at the base rather than overhead to minimize humidity on leaves.",
+    "Regularly inspect plants for early signs of mildew to ensure timely treatment.",
+    "Remove and destroy infected plant parts to prevent the spread of the disease."
+]
+}

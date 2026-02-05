@@ -1,0 +1,37 @@
+{
+"name": "Dutch elm disease",
+"summary": "Dutch elm disease (DED) is a fungal disease that affects elm trees, caused mainly by the fungi Ophiostoma ulmi and Ophiostoma novo-ulmi. It leads to wilting, yellowing, and eventually the death of affected trees.",
+"cause_of_disease": [
+    {
+        "cause": "Fungal infection", 
+        "describe": "The disease is caused by the fungi Ophiostoma ulmi or Ophiostoma novo-ulmi, which invade the tree’s vascular system."
+    },
+    {
+        "cause": "Bark beetles", 
+        "describe": "Bark beetles, primarily the elm bark beetle, act as vectors for the fungi, spreading the spores from infected trees to healthy ones."
+    },
+    {
+        "cause": "Root grafts",
+        "describe": "The disease can spread from one tree to another through interconnected root systems—this is known as transmission through root grafts."
+    }
+],
+"solution": [
+    {
+        "solution": "Chemical fungicides",
+        "steps": ["Use fungicides such as propiconazole to treat infected trees.", "Inject fungicides directly into the tree’s vascular system to control the spread of the disease."]
+    },
+    {
+        "solution": "Removal of infected trees",
+        "steps": ["Identify and remove infected trees to prevent the spread of the disease.", "Dispose of the wood properly to eliminate sources of infection."]
+    },
+    {
+        "solution": "Plant resistant varieties",
+        "steps": ["Use elm varieties that have been bred for resistance to Dutch elm disease.", "Ensure proper planting locations and conditions to promote healthy growth."]
+    }
+],
+"tips": [
+    "Regularly monitor elm trees for signs of disease such as wilting or leaf discoloration to catch infections early.",
+    "Implement good sanitation practices by pruning and disposing of dead or infected wood promptly.",
+    "Promote the health of trees through proper watering, fertilization, and pest control to increase resistance to infection."
+]
+}

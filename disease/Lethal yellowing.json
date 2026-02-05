@@ -1,0 +1,37 @@
+{
+"name": "Lethal yellowing",
+"summary": "Lethal yellowing is a phytoplasma disease affecting palms, characterized by the yellowing of leaves, premature fruit drop, and eventual death of the tree if untreated.",
+"cause_of_disease": [
+    {
+        "cause": "Phytoplasma infection",
+        "describe": "Lethal yellowing is caused by a specific type of phytoplasma, a bacterial parasite that affects the vascular system of palms."
+    },
+    {
+        "cause": "Insect vectors",
+        "describe": "The phytoplasma is primarily spread by insect vectors, with the coconut palm-specific planthopper (Haplaxius crudus) being a notable carrier."
+    },
+    {
+        "cause": "Environmental stress",
+        "describe": "Environmental factors such as poor soil quality and lack of nutrients can increase the susceptibility of palms to the disease."
+    }
+],
+"solution": [
+    {
+        "solution": "Use of antibiotics",
+        "steps": ["Administer oxytetracycline injections", "Repeat treatments every 4 to 6 months as preventive care"]
+    },
+    {
+        "solution": "Removal of infected trees",
+        "steps": ["Identify and confirm infected palms", "Safely remove and destroy them to prevent further spread"]
+    },
+    {
+        "solution": "Vector control",
+        "steps": ["Implement insecticide treatments", "Manage and control insect populations in the area"]
+    }
+],
+"tips": [
+    "Regularly inspect palms for early signs of disease to ensure prompt treatment.",
+    "Plant resistant varieties of palms when possible to reduce the risk of infection.",
+    "Maintain good soil quality and provide adequate nutrition to strengthen palm trees against potential infections."
+  ]
+}

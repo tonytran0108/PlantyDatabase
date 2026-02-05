@@ -1,0 +1,46 @@
+{
+"name": "Botrytis cinerea (Gray Mold)",
+"summary": "Botrytis cinerea, commonly known as Gray Mold, is a fungal disease that affects a wide range of plants, particularly in humid and damp conditions. It is characterized by grayish-brown fuzzy growth on infected plant parts, leading to rot and decay.",
+"cause_of_disease": [
+  {
+    "cause": "High Humidity",
+    "describe": "Gray Mold thrives in high humidity conditions, which promote the growth and spread of the Botrytis cinerea fungus."
+  },
+  {
+    "cause": "Inadequate Air Circulation",
+    "describe": "Lack of air movement around plants can create an ideal environment for the fungus to develop."
+  },
+  {
+    "cause": "Plant Debris",
+    "describe": "The fungus can survive on plant debris left in the garden, acting as a reservoir for new infections."
+  }
+],
+"solution": [
+  {
+    "solution": "Improve Air Circulation",
+    "steps": [
+      "Space plants adequately to ensure proper airflow.",
+      "Prune plants to prevent overcrowding."
+    ]
+  },
+  {
+    "solution": "Manage Humidity Levels",
+    "steps": [
+      "Water plants in the morning to allow foliage to dry during the day.",
+      "Use fans or ventilation systems in greenhouses to reduce humidity."
+    ]
+  },
+  {
+    "solution": "Fungicidal Treatment",
+    "steps": [
+      "Apply appropriate fungicides as per local guidelines.",
+      "Repeat treatments as necessary during high-risk periods."
+    ]
+  }
+],
+"tips": [
+  "Regularly remove and destroy any affected plant material.",
+  "Avoid overhead watering to minimize leaf wetness.",
+  "Choose resistant plant varieties when available."
+]
+}

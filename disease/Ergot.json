@@ -1,0 +1,46 @@
+{
+"name": "Ergot",
+"summary": "Ergot is a fungal disease that affects cereal crops, particularly rye. It is caused by the fungus Claviceps purpurea and leads to the production of ergot bodies, which are toxic sclerotia replacing the grains.",
+"cause_of_disease": [
+	{
+		"cause": "Fungal infection by Claviceps purpurea",
+		"describe": "The disease is initiated by spores of the Claviceps purpurea fungus, which infect the flowers of cereal crops."
+	},
+	{
+		"cause": "Warm and humid weather conditions",
+		"describe": "Ergot thrives in warm and humid environments, which favor the development and spread of the fungus."
+	},
+	{
+		"cause": "Susceptibility of host plant",
+		"describe": "Certain cereal crops, like rye, are more susceptible to ergot infection."
+	}
+],
+"solution": [
+	{
+		"solution": "Crop rotation",
+		"steps": [
+			"Rotate cereal crops with non-host crops to break the life cycle of the fungus.",
+			"Ensure that crop rotation is done for at least one to two years."
+		]
+	},
+	{
+		"solution": "Use resistant plant varieties",
+		"steps": [
+			"Select and plant cereal crop varieties that are resistant to ergot.",
+			"Consult local agricultural extensions for available resistant varieties."
+		]
+	},
+	{
+		"solution": "Remove and destroy infected plants",
+		"steps": [
+			"Regularly inspect crops and remove any plants showing signs of ergot infection.",
+			"Burn or bury infected plant debris to prevent further spread of the fungus."
+		]
+	}
+],
+"tips": [
+	"Maintain field hygiene by removing weeds and crop debris, which can harbor the fungus.",
+	"Ensure proper drainage in fields to prevent overly moist conditions conducive to fungal growth.",
+	"Implement a comprehensive integrated pest management strategy to reduce the overall disease pressure."
+]
+}

@@ -1,0 +1,46 @@
+{
+"name": "Wilt of carnation",
+"summary": "Wilt of carnation is a common fungal disease affecting carnations (Dianthus species), often caused by soil-borne pathogens, leading to wilting and potentially plant death.",
+"cause_of_disease": [
+    {
+        "cause": "Fusarium oxysporum f. sp. dianthi",
+        "describe": "This soil-borne fungus invades the plant's vascular system, restricting water and nutrient flow, causing wilting."
+    },
+    {
+        "cause": "Verticillium dahliae",
+        "describe": "A fungal pathogen that infects the roots and spreads through the plant's vascular tissue, causing wilting and chlorosis."
+    },
+    {
+        "cause": "Root Rot",
+        "describe": "Excessive soil moisture can lead to root rot, weakening the plant and predisposing it to wilt diseases."
+    }
+],
+"solution": [
+    {
+        "solution": "Fungicide Application",
+        "steps": [
+            "Select an appropriate fungicide labeled for controlling Fusarium and Verticillium in carnations.",
+            "Apply the fungicide according to the manufacturer's instructions, ensuring thorough coverage."
+        ]
+    },
+    {
+        "solution": "Soil Solarization",
+        "steps": [
+            "Clear the area of plant debris and moisten the soil.",
+            "Cover the soil with clear plastic to trap solar heat for 4-6 weeks, reducing pathogen load."
+        ]
+    },
+    {
+        "solution": "Plant Resistant Varieties",
+        "steps": [
+            "Choose carnation varieties known for resistance to wilt diseases.",
+            "Plant in well-drained soil to reduce root stress and wilt incidence."
+        ]
+    }
+],
+"tips": [
+    "Ensure good soil drainage to prevent root rot and reduce pathogen presence.",
+    "Rotate crops and avoid planting carnations in infected soil for several years.",
+    "Regularly inspect plants for symptoms of wilt and remove and destroy infected plants promptly."
+]
+}

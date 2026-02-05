@@ -1,0 +1,46 @@
+{
+"name": "Fusarium wilt",
+"summary": "Fusarium wilt is a soil-borne fungal disease that affects a wide range of plant species, causing wilting and yellowing of leaves, often leading to plant death. It is caused by Fusarium oxysporum and can survive in soil for many years, making it challenging to manage.",
+"cause_of_disease": [
+    {
+        "cause": "Fungus Fusarium oxysporum",
+        "describe": "This fungus infects the plant through the roots and colonizes the vascular system, disrupting water and nutrient transport."
+    },
+    {
+        "cause": "Contaminated soil and water",
+        "describe": "The pathogen can persist in contaminated soil and water, spreading to healthy plants through these mediums."
+    },
+    {
+        "cause": "Infected plant debris",
+        "describe": "Infected debris left in the field can harbor the fungus and facilitate its spread to other plants in subsequent plantings."
+    }
+],
+"solution": [
+    {
+        "solution": "Use resistant plant varieties",
+        "steps": [
+            "Choose plant varieties that are specifically bred to resist Fusarium wilt.",
+            "Consult local agricultural extensions for recommendations on resistant varieties."
+        ]
+    },
+    {
+        "solution": "Practice crop rotation",
+        "steps": [
+            "Avoid planting susceptible plants in the same soil for several years.",
+            "Rotate with non-host crops to help reduce fungal presence in the soil."
+        ]
+    },
+    {
+        "solution": "Soil solarization",
+        "steps": [
+            "Cover the soil with clear plastic during hot sunny days to raise the soil temperature.",
+            "Maintain the plastic cover for 4-6 weeks to reduce pathogen levels."
+        ]
+    }
+],
+"tips": [
+    "Ensure good drainage in planting areas to reduce conducive conditions for Fusarium wilt.",
+    "Regularly clean and disinfect gardening tools to prevent unknowingly spreading the pathogen.",
+    "Remove and properly dispose of infected plants immediately to prevent spreading."
+]
+}

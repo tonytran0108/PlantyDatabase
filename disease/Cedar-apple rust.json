@@ -1,0 +1,46 @@
+{
+"name": "Cedar-apple rust",
+"summary": "Cedar-apple rust is a fungal disease caused by Gymnosporangium juniperi-virginianae that affects apple trees and eastern red cedar trees. It is characterized by the appearance of reddish-brown spots on leaves and fruit, leading to premature leaf drop and poor fruit quality.",
+"cause_of_disease": [
+	{
+		"cause": "Fungal infection",
+		"describe": "Cedar-apple rust is caused by the fungus Gymnosporangium juniperi-virginianae, which requires two hosts to complete its life cycle: cedar trees and apple trees."
+	},
+	{
+		"cause": "Presence of alternate hosts",
+		"describe": "The disease spreads via spores that are carried by wind from infected cedar trees to susceptible apple trees, and vice versa."
+	},
+	{
+		"cause": "Environmental conditions",
+		"describe": "Cool, wet spring weather favors the development and spread of the disease, providing optimal conditions for spore germination."
+	}
+],
+"solution": [
+	{
+		"solution": "Fungicide application",
+		"steps": [
+			"Apply fungicides such as myclobutanil, triadimefon, or propiconazole during the early stages of disease development.",
+			"Ensure repeated applications as per the manufacturer's recommendations throughout the growing season."
+		]
+	},
+	{
+		"solution": "Remove infected hosts",
+		"steps": [
+			"Remove nearby eastern red cedar trees if possible to break the lifecycle of the fungus.",
+			"Prune and dispose of infected plant parts on apple trees to reduce sources of fungal spores."
+		]
+	},
+	{
+		"solution": "Plant resistant varieties",
+		"steps": [
+			"Choose apple tree varieties that are resistant to cedar-apple rust.",
+			"Consider consulting local cooperative extension services for recommendations on resistant varieties."
+		]
+	}
+],
+"tips": [
+	"Regularly inspect apple and cedar trees for early signs of disease and act swiftly if symptoms are detected.",
+	"Maintain proper tree spacing and pruning practices to improve air circulation, reducing humidity levels.",
+	"Implement a regular monitoring schedule especially during the vulnerable periods of the season when conditions favor disease development."
+]
+}
